@@ -180,5 +180,10 @@
     "image": "assets/simonopetra.jpg",
     "medallion": "assets/simonopetra.jpg",
     "focus": "50% 22%"
+  },
+  "velimirovic": {
+    "image": "assets/zica.jpg",
+    "medallion": "assets/zica.jpg",
+    "focus": "50% 40%"
   }
 }

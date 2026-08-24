@@ -106,7 +106,8 @@
       "children": [
         "st-john-chrysostom",
         "elder-aimilianos-of-simonopetra",
-        "st-john-of-kronstadt"
+        "st-john-of-kronstadt",
+        "st-nikolai-velimirovic"
       ]
     },
     "spiritual/marriage/st-john-chrysostom": {
@@ -117,6 +118,9 @@
     },
     "spiritual/marriage/st-john-of-kronstadt": {
       "label": "St John of Kronstadt"
+    },
+    "spiritual/marriage/st-nikolai-velimirovic": {
+      "label": "St Nikolai Velimirovic"
     },
     "spiritual/prayer": {
       "label": "Prayer",

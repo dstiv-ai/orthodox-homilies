@@ -1,0 +1,68 @@
+{
+  "id": "velimirovic-brak-marriage",
+  "slug": "velimirovic-brak-marriage",
+  "title": "Homily on the Power of the Mystery of Marriage",
+  "father": "St Nikolai Velimirovic",
+  "collection": null,
+  "source_ref": null,
+  "category": "spiritual-topics",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "velimirovic",
+  "scripture": [],
+  "chapter": null,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 188,
+  "reading_minutes": 1,
+  "attribution_note": "St Nikolai Velimirovic (1881-1956). His Beseda o sili tajne braka, the homily for 10 June in the Ohrid Prologue, on Genesis 2:24. Translated here fresh from the Serbian with credit and a link to the source, not offered as public domain. Serbian text: https://pravoslavno.rs/index.php?q=prolog&mmdd=06-10 Cover: the Monastery of Zica, where he was bishop - photograph by Milena Stojic, CC BY-SA 3.0, via Wikimedia Commons.",
+  "path": [
+    "spiritual",
+    "marriage",
+    "st-nikolai-velimirovic"
+  ],
+  "sections": [
+    {
+      "heading": "The verse from Genesis",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "A man shall leave his father and his mother and shall cleave to his wife, and the two shall become one flesh. [Gen. 2:24]"
+        }
+      ]
+    },
+    {
+      "heading": "Leaving parents, becoming a parent",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "The bond of marriage never frees a man from honour and obedience toward his parents. God's original commandment to honour your parents must be fulfilled. But by the natural course of things, a man leaves his parents and, becoming a parent himself, becomes the founder of a new future — while his parents, having finished their role in the world, depart."
+        }
+      ]
+    },
+    {
+      "heading": "A great and wondrous mystery",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "Whoever despises marriage despises the Spirit of God. Whoever soils marriage with impurity blasphemes the Spirit of God. And whoever abstains from marriage for the kingdom of God must make himself a vessel of the Holy Spirit in another way, and bear fruit in the spiritual realm — lest he be hewn down like a barren fig tree."
+        }
+      ]
+    },
+    {
+      "heading": "Prayer for those in marriage",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "O God, Holy Spirit Almighty, help those who are in marriage, that in purity, fear, and mutual love they may be like the Church of God, in which You dwell joyfully and govern all things for good. To You be glory and thanksgiving forever. Amen."
+        }
+      ]
+    }
+  ]
+}

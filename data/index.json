@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T08:50:25.275567Z",
+  "generated": "2026-08-24T09:16:23.357506Z",
   "items": [
     {
       "id": "chrysostom-56",
@@ -4140,6 +4140,32 @@
         "spiritual",
         "marriage",
         "st-john-of-kronstadt"
+      ]
+    },
+    {
+      "id": "velimirovic-brak-marriage",
+      "slug": "velimirovic-brak-marriage",
+      "title": "Homily on the Power of the Mystery of Marriage",
+      "father": "St Nikolai Velimirovic",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "velimirovic",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": false,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 188,
+      "reading_minutes": 1,
+      "attribution_note": "St Nikolai Velimirovic (1881-1956). His Beseda o sili tajne braka, the homily for 10 June in the Ohrid Prologue, on Genesis 2:24. Translated here fresh from the Serbian with credit and a link to the source, not offered as public domain. Serbian text: https://pravoslavno.rs/index.php?q=prolog&mmdd=06-10 Cover: the Monastery of Zica, where he was bishop - photograph by Milena Stojic, CC BY-SA 3.0, via Wikimedia Commons.",
+      "path": [
+        "spiritual",
+        "marriage",
+        "st-nikolai-velimirovic"
       ]
     }
   ]
