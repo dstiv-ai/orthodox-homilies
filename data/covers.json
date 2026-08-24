@@ -169,5 +169,16 @@
     "medallion": "assets/icons/kosmas-aitolos.jpg",
     "focus": "50% 38%",
     "shape": "face"
+  },
+  "kronstadt": {
+    "image": "assets/icons/john-of-kronstadt.jpg",
+    "medallion": "assets/icons/john-of-kronstadt.jpg",
+    "focus": "50% 28%",
+    "shape": "face"
+  },
+  "aimilianos": {
+    "image": "assets/simonopetra.jpg",
+    "medallion": "assets/simonopetra.jpg",
+    "focus": "50% 22%"
   }
 }
