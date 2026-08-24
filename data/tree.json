@@ -102,12 +102,18 @@
     },
     "spiritual/marriage": {
       "label": "Marriage",
-      "description": "What the Fathers preached on marriage \u2014 the crowning of two lives, the raising of children, and the wounds of separation.",
+      "description": "What the Fathers preached on marriage — the crowning of two lives, the raising of children, and the wounds of separation.",
       "children": [
         "st-john-chrysostom",
         "elder-aimilianos-of-simonopetra",
         "st-john-of-kronstadt",
-        "st-nikolai-velimirovic"
+        "st-nikolai-velimirovic",
+        "fr-ilie-cleopa",
+        "st-luke-of-simferopol",
+        "st-symeon-of-thessalonica",
+        "st-ambrose-of-optina",
+        "st-theophan-the-recluse",
+        "fr-arsenie-papacioc"
       ]
     },
     "spiritual/marriage/st-john-chrysostom": {
@@ -186,6 +192,24 @@
     },
     "spiritual/archontariki/fr-varnavas-giagkou": {
       "label": "Fr Varnavas Giagkou"
+    },
+    "spiritual/marriage/fr-ilie-cleopa": {
+      "label": "Fr Ilie Cleopa"
+    },
+    "spiritual/marriage/st-luke-of-simferopol": {
+      "label": "St Luke of Simferopol"
+    },
+    "spiritual/marriage/st-symeon-of-thessalonica": {
+      "label": "St Symeon of Thessalonica"
+    },
+    "spiritual/marriage/st-ambrose-of-optina": {
+      "label": "St Ambrose of Optina"
+    },
+    "spiritual/marriage/st-theophan-the-recluse": {
+      "label": "St Theophan the Recluse"
+    },
+    "spiritual/marriage/fr-arsenie-papacioc": {
+      "label": "Fr Arsenie Papacioc"
     }
   }
 }

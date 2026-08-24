@@ -185,5 +185,35 @@
     "image": "assets/zica.jpg",
     "medallion": "assets/zica.jpg",
     "focus": "50% 40%"
+  },
+  "luka-simferopol": {
+    "image": "assets/simferopol-trinity.jpg",
+    "medallion": "assets/simferopol-trinity.jpg",
+    "focus": "50% 40%"
+  },
+  "cleopa": {
+    "image": "assets/sihastria.jpg",
+    "medallion": "assets/sihastria.jpg",
+    "focus": "50% 40%"
+  },
+  "simeon-thessalonica": {
+    "image": "assets/hagia-sophia-thessaloniki.jpg",
+    "medallion": "assets/hagia-sophia-thessaloniki.jpg",
+    "focus": "50% 40%"
+  },
+  "amvrosij-optina": {
+    "image": "assets/optina.jpg",
+    "medallion": "assets/optina.jpg",
+    "focus": "50% 45%"
+  },
+  "feofan-vysha": {
+    "image": "assets/vysha.jpg",
+    "medallion": "assets/vysha.jpg",
+    "focus": "50% 40%"
+  },
+  "papacioc-techirghiol": {
+    "image": "assets/techirghiol.jpg",
+    "medallion": "assets/techirghiol.jpg",
+    "focus": "50% 40%"
   }
 }
