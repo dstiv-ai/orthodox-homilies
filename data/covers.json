@@ -215,5 +215,20 @@
     "image": "assets/techirghiol.jpg",
     "medallion": "assets/techirghiol.jpg",
     "focus": "50% 40%"
+  },
+  "nektarios-aegina": {
+    "image": "assets/aegina-holy-trinity.jpg",
+    "medallion": "assets/aegina-holy-trinity.jpg",
+    "focus": "50% 40%"
+  },
+  "tikhon-zadonsk-monastery": {
+    "image": "assets/zadonsk.jpg",
+    "medallion": "assets/zadonsk.jpg",
+    "focus": "50% 40%"
+  },
+  "kapsanis-gregoriou": {
+    "image": "assets/gregoriou.jpg",
+    "medallion": "assets/gregoriou.jpg",
+    "focus": "50% 40%"
   }
 }

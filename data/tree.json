@@ -113,7 +113,10 @@
         "st-symeon-of-thessalonica",
         "st-ambrose-of-optina",
         "st-theophan-the-recluse",
-        "fr-arsenie-papacioc"
+        "fr-arsenie-papacioc",
+        "st-nektarios-of-aegina",
+        "st-tikhon-of-zadonsk",
+        "archimandrite-georgios-kapsanis"
       ]
     },
     "spiritual/marriage/st-john-chrysostom": {
@@ -210,6 +213,15 @@
     },
     "spiritual/marriage/fr-arsenie-papacioc": {
       "label": "Fr Arsenie Papacioc"
+    },
+    "spiritual/marriage/st-nektarios-of-aegina": {
+      "label": "St Nektarios of Aegina"
+    },
+    "spiritual/marriage/st-tikhon-of-zadonsk": {
+      "label": "St Tikhon of Zadonsk"
+    },
+    "spiritual/marriage/archimandrite-georgios-kapsanis": {
+      "label": "Archimandrite Georgios Kapsanis"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T10:31:21.278921Z",
+  "generated": "2026-08-24T11:33:39.302784Z",
   "items": [
     {
       "id": "chrysostom-56",
@@ -4322,6 +4322,84 @@
         "spiritual",
         "marriage",
         "fr-arsenie-papacioc"
+      ]
+    },
+    {
+      "id": "nektarios-gyni-fovitai-marriage",
+      "slug": "nektarios-gyni-fovitai-marriage",
+      "title": "\"That the Wife May Fear Her Husband\": A Theological Commentary on Ephesians 5:33",
+      "father": "St Nektarios of Aegina",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "nektarios-aegina",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": true,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 1614,
+      "reading_minutes": 8,
+      "attribution_note": "St Nektarios of Aegina (1846–1920). His own 1902 treatise on Ephesians 5:33, «Ἡ δέ γυνή ἵνα φοβῆται τόν ἄνδρα». Translated here fresh from the Greek for this edition. Greek source: https://apostoliki-diakonia.gr/i-de-gyni-ina-fovitai-ton-andra-theologikos-scholiasmos-sto-efes-5-33/",
+      "path": [
+        "spiritual",
+        "marriage",
+        "st-nektarios-of-aegina"
+      ]
+    },
+    {
+      "id": "tikhon-brak-marriage",
+      "slug": "tikhon-brak-marriage",
+      "title": "On the Mystery of Holy Matrimony; On the Duties of Husbands and Wives in Marriage",
+      "father": "St Tikhon of Zadonsk",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "tikhon-zadonsk-monastery",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": false,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 832,
+      "reading_minutes": 4,
+      "attribution_note": "St Tikhon of Zadonsk (1724–1783). Two chapters, on the mystery of marriage and on the duties of husbands and wives. Translated here fresh from the Russian for this edition. Sources: https://www.ccel.org/contrib/ru/Tikhon1/Tikh101.html and https://predanie.ru/book/218962-o-lichnyh-obyazannostyah-kazhdogo-hristianina/?chapter=chapter_75",
+      "path": [
+        "spiritual",
+        "marriage",
+        "st-tikhon-of-zadonsk"
+      ]
+    },
+    {
+      "id": "kapsanis-gamos-marriage",
+      "slug": "kapsanis-gamos-marriage",
+      "title": "Marriage as Mystery",
+      "father": "Archimandrite Georgios Kapsanis",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "kapsanis-gregoriou",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": true,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 1227,
+      "reading_minutes": 6,
+      "attribution_note": "Archimandrite Georgios Kapsanis (1935–2014). His «Ο Γάμος, ως Μυστήριον». Translated here fresh with credit and a link to the source, not offered as public domain. Source: https://www.pemptousia.gr/2012/04/o-gamos-os-mistirion/ Original: «Γάμος, μυστήριον αγάπης», ed. Metropolis of Chalcis, pp. 29–33.",
+      "path": [
+        "spiritual",
+        "marriage",
+        "archimandrite-georgios-kapsanis"
       ]
     }
   ]
