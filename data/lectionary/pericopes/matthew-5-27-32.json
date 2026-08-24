@@ -1,0 +1,78 @@
+{
+  "ref": "Matthew 5:27-32",
+  "book": "Matt",
+  "from": [
+    5,
+    27
+  ],
+  "to": [
+    5,
+    32
+  ],
+  "slug": "matthew-5-27-32",
+  "greek": [
+    {
+      "v": "5:27",
+      "text": "Ἠκούσατε ὅτι ἐρρέθη, Οὐ μοιχεύσεις·"
+    },
+    {
+      "v": "5:28",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ βλέπων γυναῖκα πρὸς τὸ ἐπιθυμῆσαι αὐτὴν ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὐτοῦ."
+    },
+    {
+      "v": "5:29",
+      "text": "Εἰ δὲ ὁ ὀφθαλμός σου ὁ δεξιὸς σκανδαλίζει σε, ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ· συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου, καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν."
+    },
+    {
+      "v": "5:30",
+      "text": "Καὶ εἰ ἡ δεξιά σου χεὶρ σκανδαλίζει σε, ἔκκοψον αὐτὴν καὶ βάλε ἀπὸ σοῦ· συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου, καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν."
+    },
+    {
+      "v": "5:31",
+      "text": "Ἐρρέθη δὲ ὅτι Ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ, δότω αὐτῇ ἀποστάσιον·"
+    },
+    {
+      "v": "5:32",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν ὅτι ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ, παρεκτὸς λόγου πορνείας, ποιεῖ αὐτὴν μοιχᾶσθαι· καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ μοιχᾶται."
+    }
+  ],
+  "english": [
+    {
+      "v": "5:27",
+      "text": "At that time the Lord said to his disciples: \"You have heard that it was said, 'You shall not commit adultery.'"
+    },
+    {
+      "v": "5:28",
+      "text": "But I tell you that anyone who looks at a woman in order to desire her has already committed adultery with her in his heart."
+    },
+    {
+      "v": "5:29",
+      "text": "If your right eye causes you to stumble, tear it out and throw it away from you. It is better for you that one of your members be lost than that your whole body be thrown into Gehenna."
+    },
+    {
+      "v": "5:30",
+      "text": "And if your right hand causes you to stumble, cut it off and throw it away from you. It is better for you that one of your members be lost than that your whole body be thrown into Gehenna."
+    },
+    {
+      "v": "5:31",
+      "text": "It was also said, 'Whoever divorces his wife must give her a certificate of divorce.'"
+    },
+    {
+      "v": "5:32",
+      "text": "But I tell you that anyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery; and whoever marries a divorced woman commits adultery.\""
+    }
+  ],
+  "greek_source": "work/byztxt/MAT.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "5:28",
+      "note": "πρὸς τὸ ἐπιθυμῆσαι αὐτὴν is purpose ('in order to desire her'), not merely result. 'Looks lustfully' would blur that. I have kept the purpose construction."
+    },
+    {
+      "v": "5:32",
+      "note": "παρεκτὸς λόγου πορνείας: πορνεία covers a range from fornication to wider sexual immorality; 'adultery' would be too narrow (the Greek for that is μοιχεία, used in the same verse for the consequence). ποιεῖ αὐτὴν μοιχᾶσθαι is 'makes her commit adultery' — the divorced wife is placed in an adulterous position. The Greek puts the charge on the husband who dismisses her, not on her as the principal."
+    }
+  ]
+}

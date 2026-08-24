@@ -1,0 +1,76 @@
+{
+  "ref": "2 Corinthians 2:14-3:3",
+  "book": "2Cor",
+  "from": [
+    2,
+    14
+  ],
+  "to": [
+    3,
+    3
+  ],
+  "slug": "2-corinthians-2-14-3-3",
+  "greek": [
+    {
+      "v": "2:14",
+      "text": "Τῷ δὲ θεῷ χάρις τῷ πάντοτε θριαμβεύοντι ἡμᾶς ἐν τῷ χριστῷ, καὶ τὴν ὀσμὴν τῆς γνώσεως αὐτοῦ φανεροῦντι δι' ἡμῶν ἐν παντὶ τόπῳ."
+    },
+    {
+      "v": "2:15",
+      "text": "Ὅτι χριστοῦ εὐωδία ἐσμὲν τῷ θεῷ ἐν τοῖς σῳζομένοις καὶ ἐν τοῖς ἀπολλυμένοις·"
+    },
+    {
+      "v": "2:16",
+      "text": "οἷς μὲν ὀσμὴ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ζωῆς εἰς ζωήν. Καὶ πρὸς ταῦτα τίς ἱκανός;"
+    },
+    {
+      "v": "2:17",
+      "text": "Οὐ γάρ ἐσμεν ὡς οἱ λοιποί, καπηλεύοντες τὸν λόγον τοῦ θεοῦ· ἀλλ' ὡς ἐξ εἰλικρινείας, ἀλλ' ὡς ἐκ θεοῦ, κατενώπιον τοῦ θεοῦ, ἐν χριστῷ λαλοῦμεν."
+    },
+    {
+      "v": "3:1",
+      "text": "Ἀρχόμεθα πάλιν ἑαυτοὺς συνιστάνειν; Εἰ μὴ χρῄζομεν, ὥς τινες, συστατικῶν ἐπιστολῶν πρὸς ὑμᾶς, ἢ ἐξ ὑμῶν συστατικῶν;"
+    },
+    {
+      "v": "3:2",
+      "text": "Ἡ ἐπιστολὴ ἡμῶν ὑμεῖς ἐστέ, ἐγγεγραμμένη ἐν ταῖς καρδίαις ἡμῶν, γινωσκομένη καὶ ἀναγινωσκομένη ὑπὸ πάντων ἀνθρώπων·"
+    },
+    {
+      "v": "3:3",
+      "text": "φανερούμενοι ὅτι ἐστὲ ἐπιστολὴ χριστοῦ διακονηθεῖσα ὑφ' ἡμῶν, ἐγγεγραμμένη οὐ μέλανι, ἀλλὰ πνεύματι θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις, ἀλλ' ἐν πλαξὶν καρδίαις σαρκίναις."
+    }
+  ],
+  "english": [
+    {
+      "v": "2:14",
+      "text": "Brothers and sisters: thanks be to God, who always leads us in his triumphal procession in Christ, and who spreads the fragrance of knowing him everywhere through us."
+    },
+    {
+      "v": "2:15",
+      "text": "Because to God we are the sweet fragrance of Christ — both among those who are being saved and among those who are perishing."
+    },
+    {
+      "v": "2:16",
+      "text": "To the one group, a smell of death leading to death; to the other, a smell of life leading to life. And who is equal to such a task?"
+    },
+    {
+      "v": "2:17",
+      "text": "We are certainly not like the rest, who peddle the word of God for profit. No — we speak out of pure sincerity, as men sent by God, in God's presence, in Christ."
+    },
+    {
+      "v": "3:1",
+      "text": "Are we starting to recommend ourselves again? Surely we do not need letters of recommendation to you or from you, like some people do?"
+    },
+    {
+      "v": "3:2",
+      "text": "You yourselves are our letter, written on our hearts, known and read by everyone."
+    },
+    {
+      "v": "3:3",
+      "text": "You show plainly that you are a letter from Christ, delivered by us — written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of flesh, on human hearts."
+    }
+  ],
+  "greek_source": "content/2026-08-11/readings.md",
+  "english_source": "content/2026-08-11/readings.md",
+  "status": "complete"
+}

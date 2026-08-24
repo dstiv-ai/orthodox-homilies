@@ -1,0 +1,312 @@
+{
+  "id": "homily-70-matthew",
+  "slug": "homily-70-matthew",
+  "title": "Homily 70 on Matthew",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 70 on Matthew",
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "christ-gospel",
+  "scripture": [
+    "Matthew 22:15-33"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 4231,
+  "reading_minutes": 21,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "matthew"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ Οʹ. Τότε πορευθέντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον, ὅπως αὐτὸν παγιδεύσωσιν ἐν λόγῳ. αʹ. Τότε, πότε;",
+          "en": "<span class=\"sn\" data-s=\"1\">**Matthew 22:15.**</span>"
+        },
+        {
+          "gr": "Ὅτε μάλιστα κατανυγῆναι ἔδει, ὅτε ἐκπλαγῆναι τὴν φιλανθρωπίαν, ὅτε φοβηθῆναι τὰ μέλλοντα, ὅτε ἀπὸ τῶν παρελθόντων καὶ περὶ τῶν μελλόντων πιστεῦσαι ἐχρῆν. Καὶ γὰρ ἐπὶ τῶν πραγμάτων τὰ εἰρημένα ἐβόα.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“Then the Pharisees went and took counsel together about how to entangle him in his own words.”* [Matthew 22:15]</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ τελῶναι καὶ πόρναι ἐπίστευσαν, καὶ προφῆται καὶ δίκαιοι ἀνῃρέθησαν, καὶ ἀπὸ τούτων ἐχρῆν καὶ περὶ τῆς ἀπωλείας ἑαυτῶν μὴ ἀντιλέγειν, ἀλλὰ καὶ πιστεύειν καὶ σωφρονίζεσθαι. Ἀλλ' ὅμως οὐδὲ οὕτω λήγει τὰ τῆς κακίας αὐτῶν, ἀλλ' ὠδίνει καὶ πρόεισι περαιτέρω.",
+          "en": "<span class=\"sn\" data-s=\"3\">“Then.”</span> <span class=\"sn\" data-s=\"4\">When, exactly?</span> <span class=\"sn\" data-s=\"5\">At the very moment when they should most have been cut to the heart — when they should have been staggered by his love for mankind, when they should have been afraid of what was coming, when the past should have made them believe about the future as well.</span> <span class=\"sn\" data-s=\"6\">For the things he had said were already crying out in actual fulfilment: tax collectors and prostitutes believed [Matthew 21:31–32], and prophets and righteous men were being killed [Matthew 21:35–36].</span> <span class=\"sn\" data-s=\"7\">From all that, they should not only have stopped arguing against their own coming destruction — they should have believed and come to their senses.</span>"
+        },
+        {
+          "gr": "Καὶ ἐπειδὴ κατασχεῖν αὐτὸν οὐκ εἶχον (ἐφοβοῦντο γὰρ τοὺς ὄχλους), ἑτέραν ἦλθον ὁδὸν, ὡς δὴ εἰς κίνδυνον ἐμβαλοῦντες, καὶ δημοσίων ποιήσοντες ἀδικημάτων ὑπεύθυνον.",
+          "en": "<span class=\"sn\" data-s=\"8\">And yet even so their wickedness does not stop; it is in labour and pushes on further.</span> <span class=\"sn\" data-s=\"9\">Since they could not lay hands on him — they were afraid of the crowd — they took another route, intending to put him in danger and make him out to be guilty of crimes against the state.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The tribute trap: disciples and Herodians",
+      "heading_sentence_index": 10,
+      "pairs": [
+        {
+          "gr": "Ἀποστέλλουσι γὰρ αὐτῷ τοὺς μαθητὰς αὐτῶν μετὰ τῶν Ἡρωδιανῶν, λέγοντες· ∆ιδάσκαλε, οἴδαμεν ὅτι ἀληθὴς εἶ, καὶ τὴν ὁδὸν τοῦ Θεοῦ ἐν ἀληθείᾳ διδάσκεις, καὶ οὐ μέλει σοι περὶ οὐδενός· οὐ γὰρ βλέπεις εἰς πρόσωπον ἀνθρώπων. Εἰπὲ οὖν ἡμῖν, τί σοι δοκεῖ; ἔξεστι δοῦναι κῆνσον Καίσαρι, ἢ οὔ; Καὶ γὰρ φόρου λοιπὸν ἦσαν ὑποτελεῖς, τῶν πραγμάτων αὐτοῖς εἰς τὴν Ῥωμαίων ἀρχὴν μεταπεσόντων.",
+          "en": "<span class=\"sn\" data-s=\"11\">So *“they sent their disciples to him, along with the Herodians, saying: 'Teacher, we know that you are truthful and teach the way of God truthfully, and you are swayed by no one, for you pay no attention to anyone's status.*</span> <span class=\"sn\" data-s=\"12\">*Tell us then, what do you think?*</span> <span class=\"sn\" data-s=\"13\">*Is it lawful to pay tribute to Caesar, or not?'”* [Matthew 22:16–17]</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ οὖν εἶδον, ὅτι οἱ πρὸ τούτου διὰ τοῦτο ἀπέθανον, οἱ περὶ Θευδᾶν καὶ Ἰούδαν, ὡς ἀποστασίαν μελετήσαντες, ἐβούλοντο καὶ αὐτὸν διὰ τῶν λόγων τούτων εἰς τοιαύτην ὑποψίαν ἐμβαλεῖν. ∆ιὰ τοῦτο καὶ τοὺς αὐτῶν μαθητὰς καὶ τοὺς Ἡρώδου στρατιώτας ἔπεμπον, διπλοῦν, ὡς ᾤοντο, τὸν κρημνὸν ἑκατέρωθεν ὀρύττοντες, καὶ πάντοθεν τιθέντες τὴν παγίδα, ἵν', ὅπερ ἂν εἴπῃ, ἐπιλάβωνται·",
+          "en": "<span class=\"sn\" data-s=\"14\">By now the Jews were tributaries; their state had passed under Roman rule.</span> <span class=\"sn\" data-s=\"15\">They had seen Theudas and Judas and their followers put to death over precisely this issue, for preparing a revolt [Acts 5:36–37], and their plan was to pull him by these words into the same kind of suspicion.</span> <span class=\"sn\" data-s=\"16\">So they sent both their own disciples and Herod's soldiers, digging, as they imagined, a pit on either side and setting the snare in every direction, so that whatever he said they could seize on it.</span> <span class=\"sn\" data-s=\"17\">If he answered in the Herodians' favour, they themselves could attack him; if in their own favour, the others would accuse him.</span> <span class=\"sn\" data-s=\"18\">And yet he had in fact paid the two-drachma tax [Matthew 17:24–27] — but they did not know that.</span>"
+        },
+        {
+          "gr": "κἂν μὲν ὑπὲρ τῶν Ἡρωδιανῶν ἀποκρίνηται, αὐτοὶ ἐγκαλέσωσιν· ἂν δὲ ὑπὲρ αὐτῶν, ἐκεῖνοι κατηγορήσωσι. Καίτοιγε ἦν δεδωκὼς τὰ δίδραχμα· ἀλλ' οὐκ ᾔδεσαν τοῦτο. Καὶ ἑκατέρωθεν μὲν αὐτὸν προσεδόκων αἱρήσειν, ἐπεθύμουν δὲ μᾶλλον κατὰ τῶν Ἡρωδιανῶν αὐτὸν εἰπεῖν τι.",
+          "en": "<span class=\"sn\" data-s=\"19\">Either way they expected to catch him, but what they really wanted was for him to say something against the Herodians.</span> <span class=\"sn\" data-s=\"20\">That is why they sent their own disciples along as well, to push him toward it by their presence, so that they could hand him over to the governor as a usurper.</span> <span class=\"sn\" data-s=\"21\">Luke indicates the same thing when he shows that they questioned him in the presence of the crowd — so that the testimony against him would carry more weight.</span>"
+        },
+        {
+          "gr": "∆ιὸ καὶ τοὺς μαθητὰς πέμπουσιν, εἰς τοῦτο ὠθοῦντας αὐτὸν τῇ παρουσίᾳ, ἵνα παραδῶσι τῷ ἡγεμόνι ὡς τύραννον. Τοῦτο γὰρ καὶ ὁ Λουκᾶς αἰνιττόμενος ἐδήλου λέγων, ὅτι καὶ ἐπὶ τῶν ὄχλων ἠρώτων, ὡς μείζονα γενέσθαι τὴν μαρτυρίαν. Ἐγένετο δὲ τοὐναντίον ἅπαν· ἐν πλείονι γὰρ θεάτρῳ τῆς αὐτῶν ἀνοίας παρεῖχον τὴν ἀπόδειξιν.",
+          "en": "<span class=\"sn\" data-s=\"22\">But the outcome was the exact opposite: in front of a larger audience, they put their own folly on display.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"We know you are truthful\" — flattery with a hook",
+      "heading_sentence_index": 23,
+      "pairs": [
+        {
+          "gr": "Καὶ ὅρα τὴν κολακείαν, καὶ τὸν ἐγκεκρυμμένον δόλον. Οἴδαμεν, φησὶν, ὅτι ἀληθὴς εἶ. Πῶς οὖν ἐλέγετε, ὅτι Πλάνος ἐστὶ, καὶ, Πλανᾷ τὸν ὄχλον, καὶ, ∆αιμόνιον ἔχει, καὶ, Οὐκ ἔστιν ἀπὸ Θεοῦ; πῶς πρὸ μικροῦ ἐβουλεύεσθε αὐτὸν ἀνελεῖν; Ἀλλὰ πάντα γίνονται, ἅπερ ἂν ἡ ἐπιβουλὴ ὑπαγορεύσῃ. Ἐπειδὴ γὰρ πρὸ μικροῦ εἰπόντες μετὰ αὐθαδείας, Ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς;",
+          "en": "<span class=\"sn\" data-s=\"24\">See the flattery, and the craft hidden underneath it.</span> <span class=\"sn\" data-s=\"25\">“We know,” they say, “that you are truthful.”</span> <span class=\"sn\" data-s=\"26\">Then how is it that you said, “He is a deceiver and leads the people astray,” and “He has a demon,” and “He is not from God”?</span> <span class=\"sn\" data-s=\"27\">How is it that a little while earlier you were plotting to kill him?</span>"
+        },
+        {
+          "gr": "πρὸς τὴν ἐρώτησιν οὐκ ἔτυχον ἀποκρίσεως, προσδοκῶσιν αὐτὸν τῇ κολακείᾳ χαυνοῦν, καὶ πείθειν εἰπεῖν τι κατὰ τῶν καθεστώτων νόμων, καὶ τῇ κρατούσῃ πολιτείᾳ τὸ ὑπεναντίον. Ὅθεν καὶ τὴν ἀλήθειαν μαρτυροῦσιν αὐτῷ, ὁμολογοῦντες τὸ ὄν· πλὴν οὐκ ὀρθῇ γνώμῃ, οὐδὲ ἑκόντες· καὶ προστιθέασι λέγοντες·",
+          "en": "<span class=\"sn\" data-s=\"28\">They will try anything their scheming suggests.</span> <span class=\"sn\" data-s=\"29\">Not long before, acting on their own self-will, they had asked, “By what authority are you doing these things?” [Matthew 21:23] — and had received no answer.</span> <span class=\"sn\" data-s=\"30\">So now they look to puff him up with flattery and coax him into saying something against the established laws and the ruling government.</span>"
+        },
+        {
+          "gr": "Οὐ μέλει σοι περὶ οὐδενός. Ὅρα πῶς εἰσι δῆλοι βουλόμενοι εἰς τούτους μᾶλλον ἐμβαλεῖν αὐτὸν τοὺς λόγους, τοὺς ποιοῦντας αὐτὸν καὶ Ἡρώδῃ προσκροῦσαι, καὶ τυράννου ὑποψίαν λαβεῖν, ὡς κατεξανιστάμενον τῶν νόμων, ἵν' ὡς στασιαστὴν καὶ τύραννον κολάσωσιν. Τὸ γὰρ, Οὐ μέλει σοι περὶ οὐ δενὸς, καὶ, Οὐ βλέπεις εἰς πρόσωπον ἀνθρώπου, περὶ Ἡρώδου καὶ Καίσαρος ᾐνίττοντο λέγοντες·",
+          "en": "<span class=\"sn\" data-s=\"31\">That is why they bear true witness to him — confessing what was actually the case, though not with an honest heart and not willingly — and add, “You are swayed by no one.”</span> <span class=\"sn\" data-s=\"32\">Notice how openly they are pushing him toward the answer that would both offend Herod and draw on him the suspicion of usurpation, of rising up against the laws, so that they could punish him as an agitator and a usurper.</span> <span class=\"sn\" data-s=\"33\">In saying “You are swayed by no one” and “You pay no attention to anyone's status,” they were hinting at Herod and Caesar.</span>"
+        },
+        {
+          "gr": "Εἰπὲ οὖν ἡμῖν, τί σοι δοκεῖ; Νῦν τιμᾶτε, καὶ διδάσκαλον νομίζετε, ἐν οἷς τὰ περὶ τῆς σωτηρίας ὑμῶν διελέγετο καταφρονήσαντες καὶ ὑβρίσαντες πολλάκις. Ὅθεν καὶ σύμψηφοι γεγόνασι. Καὶ ὅρα τὸ κακοῦργον. Οὐ λέγουσιν, Εἰπὲ ἡμῖν τί τὸ καλὸν, τί τὸ συμφέρον, τί τὸ νόμιμον;",
+          "en": "<span class=\"sn\" data-s=\"34\">“Tell us then, what do you think?”</span> <span class=\"sn\" data-s=\"35\">Now they honour him; now they treat him as a teacher — the same man they had so often despised and insulted while he was teaching them about their own salvation.</span> <span class=\"sn\" data-s=\"36\">No wonder they have now made common cause with the Herodians.</span>"
+        },
+        {
+          "gr": "ἀλλὰ, Τί σοι δοκεῖ; Οὕτω πρὸς ἓν τοῦτο ἔβλεπον, τὸ προδοῦναι αὐτὸν, καὶ ἐκπολεμῶσαι τῷ κρατοῦντι. Καὶ ὁ Μάρκος δὲ τοῦτο δηλῶν, καὶ τὸ αὔθαδες αὐτῶν σαφέστερον ἐκκαλύπτων, καὶ τὴν φονικὴν αὐτῶν γνώμην, φησὶν αὐτοὺς εἰρηκέναι· ∆ῶμεν Καίσαρι κῆνσον, ἢ μὴ δῶμεν; Οὕτω θυμοῦ μὲν ἔπνεον, καὶ ὤδινον ἐπιβουλὴν, ὑπεκρίνοντο δὲ θεραπείαν.",
+          "en": "<span class=\"sn\" data-s=\"37\">And look at their cunning.</span> <span class=\"sn\" data-s=\"38\">They do not ask, “Tell us what is good, what is fitting, what is lawful?” but “What do you **think**?”</span> <span class=\"sn\" data-s=\"39\">So fixed were they on this one aim: to betray him and set him at odds with the authorities.</span> <span class=\"sn\" data-s=\"40\">Mark makes this plainer still, exposing their self-will and their murderous intent, when he records them saying, “Should we pay tribute to Caesar, or should we not?” [Mark 12:15] They were breathing anger and in labour with a plot against him — yet they put on a show of respect.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Why do you test me, you hypocrites?\"",
+      "heading_sentence_index": 41,
+      "pairs": [
+        {
+          "gr": "Τί οὖν αὐτός; Τί με πειράζετε, ὑποκριταί; Εἶδες πῶς πληκτικώτερον αὐτοῖς διαλέγεται; Ἐπειδὴ γὰρ ἀπηρτισμένη καὶ πρόδηλος ἦν ἡ κακία, βαθυτέραν δίδωσι τὴν τομὴν, πρῶτον αὐτοὺς συγχέων, καὶ ἐπιστομίζων, τῷ τὰ ἀπόῤῥητα αὐτῶν εἰς μέσον ἀγαγεῖν, καὶ δῆλον ἅπασι ποιεῖν μεθ' οἵας αὐτῷ προσέρχονται διανοίας.",
+          "en": "<span class=\"sn\" data-s=\"42\">What does he say to them?</span> <span class=\"sn\" data-s=\"43\">*“Why are you testing me, you hypocrites?”* [Matthew 22:18] Do you see how he speaks to them more severely than usual?</span> <span class=\"sn\" data-s=\"44\">Now that their wickedness was complete and out in the open, he cuts deeper: first he throws them into confusion and silence by exposing their secret thoughts, showing everyone the intention with which they had come to him.</span>"
+        },
+        {
+          "gr": "Ταῦτα δὲ ἐποίει, ἀναστέλλων αὐτῶν τὴν κακίαν, ὥστε μὴ πάλιν τοῖς αὐτοῖς ἐπιχειροῦντας καταβλάπτεσθαι. Καίτοιγε τὰ ῥήματα πολλῆς ἔγεμε θεραπείας· καὶ γὰρ καὶ διδάσκαλον ἐκάλουν, καὶ ἀλήθειαν ἐμαρτύρουν, καὶ τὸ ἀπροσωπόληπτον· ἀλλὰ Θεὸς ὢν, οὐδενὶ τούτων παρελογίζετο Ὅθεν κἀκείνους ἐχρῆν στοχάζεσθαι, ὅτι οὐ στοχασμοῦ ἡ ἐπίπληξις ἦν, ἀλλὰ σημεῖον τοῦ τὰ ἀπόῤῥητα αὐτῶν εἰδέναι.",
+          "en": "<span class=\"sn\" data-s=\"45\">He did this to beat back their wickedness, so that they might not be harmed by trying the same thing again.</span> <span class=\"sn\" data-s=\"46\">And yet their words had been full of respect — they called him “Teacher,” they testified to his truthfulness, they said he was no respecter of persons.</span> <span class=\"sn\" data-s=\"47\">But being God, he was not taken in by any of it.</span> <span class=\"sn\" data-s=\"48\">Which is exactly why they should have reasoned that this rebuke was not guesswork on his part, but a sign that he knew their hidden thoughts.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Render to Caesar — and to God",
+      "heading_sentence_index": 49,
+      "pairs": [
+        {
+          "gr": "βʹ. Οὐ μὴν μέχρι τῆς ἐπιπλήξεως ἔστη· καίτοιγε ἤρκει μόνον ἐλέγξαντα τὴν γνώμην αὐτῶν, καταισχῦναι αὐτῶν τὴν πονηρίαν· ἀλλ' οὐχ ἵσταται μέχρι τούτου, ἀλλὰ καὶ ἑτέρως ἀποῤῥάπτει αὐτῶν τὰ στόματα. Ἐπιδείξατε γάρ μοι, φησὶ, τὸ νόμισμα τοῦ κήνσου.",
+          "en": "<span class=\"sn\" data-s=\"50\">He did not stop at the rebuke, though merely convicting them of their purpose and shaming them for their wickedness would have been enough.</span> <span class=\"sn\" data-s=\"51\">He closes their mouths another way as well.</span> <span class=\"sn\" data-s=\"52\">*“Show me,”* he says, *“the coin used for the tribute.”* [Matthew 22:19] And when they showed it to him, he did what he always does: he draws the verdict out of their own mouths and makes them the ones to declare that it is lawful — a clear and unambiguous victory.</span> <span class=\"sn\" data-s=\"53\">So when he asks, it is not because he does not know; it is his will to have them bound by their own answers.</span> <span class=\"sn\" data-s=\"54\">When he asked, *“Whose image is this?”* and they said, “Caesar's,” he said, *“Render therefore to Caesar the things that are Caesar's.”* [Matthew 22:20–21] Notice: he does not say “give” but “render” — pay back what is owed.</span> <span class=\"sn\" data-s=\"55\">And he proves the point both by the image and by the inscription.</span>"
+        },
+        {
+          "gr": "Καὶ ὡς ἐπέδειξαν, ὅπερ ἀεὶ ποιεῖ, διὰ τῆς ἐκείνων γλώττης ἐκφέρει τὴν ἀπόφασιν, καὶ αὐτοὺς ψηφίσασθαι παρασκευάζει, ὅτι ἔξεστιν· ὅπερ λαμπρὰ καὶ σαφὴς ἦν νίκη. Ὥστε ὅταν ἐρωτᾷ, οὐκ ἀγνοῶν ἐρωτᾷ, ἀλλὰ ταῖς οἰκείαις αὐτῶν ἀποκρίσεσιν ὑπευθύνους αὐτοὺς ποιῆσαι βουλόμενος. Ἐπειδὴ γὰρ ἐρωτηθέντες, Τίνος ἡ εἰκών; εἶπον, ὅτι Καίσαρος, φησίν· Ἀπόδοτε τὰ Καίσαρος Καίσαρι.",
+          "en": "<span class=\"sn\" data-s=\"56\">Then, so that no one could say, “You are handing us over into subjection to men,” he added, *“and to God the things that are God's.”* It is entirely possible to meet our obligations to men and at the same time give God what we owe to God.</span> <span class=\"sn\" data-s=\"57\">That is why Paul also says, *“Render to all what is due them: tribute to whom tribute is due, custom to whom custom, fear to whom fear.”* [Romans 13:7]</span>"
+        },
+        {
+          "gr": "Οὐ γάρ ἐστι τοῦτο δοῦναι, ἀλλ' ἀποδοῦναι· καὶ τοῦτο καὶ ἀπὸ τῆς εἰκόνος καὶ ἀπὸ τῆς ἐπιγραφῆς δείκνυται. Εἶτα ἵνα μὴ εἴπωσιν, ὅτι Ἀνθρώποις ἡμᾶς ὑποτάττεις; ἐπήγαγε, Καὶ τὰ τοῦ Θεοῦ τῷ Θεῷ. Ἔξεστι γὰρ καὶ ἀνθρώποις τὰ αὐτῶν πληροῦν, καὶ Θεῷ διδόναι τὰ τῷ Θεῷ παρ' ἡμῶν ὀφειλόμενα. ∆ιὸ καὶ Παῦλός φησιν·",
+          "en": "<span class=\"sn\" data-s=\"58\">But when you hear “Render to Caesar the things that are Caesar's,” understand that he is speaking only of things that do no damage to godliness.</span> <span class=\"sn\" data-s=\"59\">If a demand does damage godliness, then it is no longer Caesar's tribute — it is the devil's.</span>"
+        },
+        {
+          "gr": "Ἀπόδοτε πᾶσι τὰς ὀφειλάς· τῷ τὸν φόρον, τὸν φόρον· τῷ τὸ τέλος, τὸ τέλος· τῷ τὸν φόβον, τὸν φόβον. Σὺ δὲ ὅταν ἀκούσῃς, Ἀπόδος τὰ τοῦ Καίσαρος Καίσαρι, ἐκεῖνα γίνωσκε λέγειν αὐτὸν μόνον, τὰ μηδὲν τὴν εὐσέβειαν παραβλάπτοντα· ὡς ἄν τι τοιοῦτον ᾖ, οὐκέτι Καίσαρος, ἀλλὰ τοῦ διαβόλου φόρος ἐστὶ καὶ τέλος τὸ τοιοῦτον.",
+          "en": "<span class=\"sn\" data-s=\"60\">When they heard this, their mouths were stopped and they marvelled at his wisdom.</span> <span class=\"sn\" data-s=\"61\">Should they not then have believed?</span> <span class=\"sn\" data-s=\"62\">Should they not have been amazed?</span> <span class=\"sn\" data-s=\"63\">He had given them proof of his divinity by laying bare the secrets of their hearts, and he had silenced them with gentleness.</span>"
+        },
+        {
+          "gr": "Ταῦτα ἀκούσαντες ἐπεστομίσθησαν καὶ ἐθαύμασαν τὴν σοφίαν. Οὐκοῦν πιστεῦσαι ἐχρῆν, οὐκοῦν ἐκπλαγῆναι. Καὶ γὰρ θεότητος αὐτοῖς παρέσχεν ἀπόδειξιν, τὰ ἀπόῤῥητα ἐκκαλύψας, καὶ μετ' ἐπιεικείας αὐτοὺς ἐπεστόμισε. Τί οὖν; ἐπίστευσαν; Οὐδαμῶς· ἀλλ' Ἀφέντες αὐτὸν ἀπῆλθον, καὶ μετ' αὐτοὺς προσῆλθον οἱ Σαδδουκαῖοι.",
+          "en": "<span class=\"sn\" data-s=\"64\">And what happened?</span> <span class=\"sn\" data-s=\"65\">Did they believe?</span> <span class=\"sn\" data-s=\"66\">Not at all.</span> <span class=\"sn\" data-s=\"67\">They left him and went their way — and after them came the Sadducees.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Enter the Sadducees, and a story that never happened",
+      "heading_sentence_index": 68,
+      "pairs": [
+        {
+          "gr": "Ὢ τῆς ἀνοίας! Ἐκείνων ἐπιστομισθέν των οὗτοι προσβάλλουσι, δέον ὀκνηροτέρους γενέσθαι. Ἀλλὰ τοιοῦτον ἡ θρασύτης, ἀναίσχυντον καὶ ἰταμὸν καὶ ἀδυνάτοις ἐπιχειροῦν. ∆ιὰ τοῦτο καὶ ὁ εὐαγγελιστὴς ἐκπληττόμενος αὐτῶν τὴν ἄνοιαν, αὐτὸ τοῦτο ἐπισημαίνεται λέγων, ὅτι Ἐν ἐκείνῃ τῇ ἡμέρᾳ προσῆλθον. Ἐν ἐκείνῃ, ποίᾳ; Ἐν ᾗ τὴν ἐκείνων κακουργίαν ἤλεγξεν, καὶ κατῄσχυνεν αὐτούς. Τίνες δέ εἰσιν οὗτοι;",
+          "en": "<span class=\"sn\" data-s=\"69\">What folly!</span> <span class=\"sn\" data-s=\"70\">When the others had been silenced, these men launched their attack — just when they should have held back the most.</span> <span class=\"sn\" data-s=\"71\">But that is what rashness is like: shameless, importunate, attempting the impossible.</span> <span class=\"sn\" data-s=\"72\">That is why the evangelist, amazed at their folly, points to exactly this when he says, *“On that day there came to him”* [Matthew 22:23] — “on that day.”</span> <span class=\"sn\" data-s=\"73\">Which day?</span> <span class=\"sn\" data-s=\"74\">The very day on which he had exposed their cunning and put them to shame.</span> <span class=\"sn\" data-s=\"75\">And who are these people?</span> <span class=\"sn\" data-s=\"76\">A Jewish sect, different from the Pharisees and much worse, who say there is no resurrection, nor angel, nor spirit [Acts 23:8].</span> <span class=\"sn\" data-s=\"77\">They were men of a coarser kind, greedy for bodily things — for there were many sects even among the Jews; hence Paul too says, “I am a Pharisee, of the strictest sect among us” [Acts 26:5; 23:6].</span>"
+        },
+        {
+          "gr": "Αἵρεσις Ἰουδαίων ἑτέρα παρὰ τοὺς Φαρισαίους, κἀκείνων πολὺ καταδεεστέρα λέγουσα μὴ εἶναι ἀνάστασιν, μήτε ἄγγελον, μήτε πνεῦμα. Παχύτεροι γάρ τινες οὗτοι, καὶ περὶ τὰ σωματικὰ ἐπτοημένοι. Πολλαὶ γὰρ καὶ ἐπὶ Ἰουδαίων αἱρέσεις ἦσαν. ∆ιὸ καὶ Παῦλος λέγει· Φαρισαῖός εἰμι, τῆς ἀκριβεστάτης αἱρέσεως παρ' ἡμῖν. Καὶ ἐξ εὐθείας μὲν οὐδὲν οὗτοι περὶ ἀναστάσεως λέγουσι·",
+          "en": "<span class=\"sn\" data-s=\"78\">They say nothing directly about the resurrection.</span> <span class=\"sn\" data-s=\"79\">Instead they invent a story, a made-up case which, in my judgement, never even happened, hoping to drive him into a corner and to overthrow two things at once: both the fact of the resurrection and the kind of resurrection it will be.</span>"
+        },
+        {
+          "gr": "λόγον δέ τινα πλάττουσι, καὶ πρᾶγμα συντιθέασιν, ὡς ἔγωγε οἶμαι, οὐδὲ γεγενημένον, οἰόμενοι εἰς ἀπορίαν αὐτὸν ἐμβαλεῖν, καὶ θέλοντες ἀνατρέψαι ἀμφότερα, καὶ τὸ ἀνάστασιν εἶναι, καὶ τὸ τοιαύτην ἀνάστασιν. Πάλιν δὲ καὶ οὗτοι μετ' ἐπιεικείας δῆθεν προσβάλλουσι, λέγοντες· ∆ιδάσκαλε, Μωϋσῆς εἶπεν· Ἐὰν ἀποθάνῃ τις μὴ ἔχων τέκνα, ἐπιγαμβρεύσει ὁ ἀδελφὸς τὴν γυναῖκα, καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ. Ἦσαν δὲ παρ' ἡμῖν ἑπτὰ ἀδελφοί·",
+          "en": "<span class=\"sn\" data-s=\"80\">And they too attack with a show of moderation: *“Teacher, Moses said, if a man dies childless, his brother shall marry the widow and raise up offspring for his brother.*</span> <span class=\"sn\" data-s=\"81\">*Now there were seven brothers among us.*</span> <span class=\"sn\" data-s=\"82\">*The first married and died, and having no children left his wife to his brother.*</span> <span class=\"sn\" data-s=\"83\">*So did the second, and the third, down to the seventh.*</span> <span class=\"sn\" data-s=\"84\">*Last of all, the woman also died.*</span> <span class=\"sn\" data-s=\"85\">*In the resurrection, then, whose wife of the seven will she be?”* [Matthew 22:24–28]</span>"
+        },
+        {
+          "gr": "καὶ ὁ πρῶτος γαμήσας ἐτελεύτησε, καὶ μὴ ἔχων σπέρμα ἀφῆκε τὴν γυναῖκα τῷ ἀδελφῷ. Ὁμοίως καὶ ὁ δεύτερος, καὶ ὁ τρίτος, ἕως τῶν ἑπτά. Ὕστερον δὲ ἀπέθανε καὶ ἡ γυνή. Ἐν τῇ οὖν ἀναστάσει τίνος τῶν ἑπτὰ ἔσται γυνή; Ὅρα τούτοις διδασκαλικῶς ἀποκρινόμενον. Εἰ γὰρ καὶ ἀπὸ κακουργίας προσῆλθον, ἀλλ' ὅμως καὶ ἀγνοίας ἡ ἐρώτησις ἦν μᾶλλον. ∆ιὸ οὐδὲ λέγει αὐτοῖς. Ὑποκριταί. Εἶτα ἵνα μὴ ἐγκαλέσῃ, διατί ἑπτὰ μίαν ἔσχον, προστιθέασι τὸν Μωϋσέα·",
+          "en": "<span class=\"sn\" data-s=\"86\">Notice how he answers these men like a teacher.</span> <span class=\"sn\" data-s=\"87\">Though they came to him out of malice, their question was really one of ignorance — and so he does not say to them, “You hypocrites.”</span>"
+        },
+        {
+          "gr": "καίτοιγε, ὅπερ ἔφθην εἰπὼν, πλάσμα ἦν, ὡς ἔγωγε οἶμαι. Οὐ γὰρ ἂν ὁ τρίτος ἔλαβε, τοὺς δύο νυμφίους νεκροὺς γενομένους ἰδών· εἰ δὲ ὁ τρίτος, ἀλλ' οὐχ ὁ τέταρτος, οὐδὲ ὁ πέμπτος· εἰ δὲ καὶ οὗτοι, πολλῷ μᾶλλον ὁ ἕκτος ἢ ὁ ἕβδομος οὐκ ἂν προσῆλθον, ἀλλ' οἰωνίσαντο ἂν τὴν γυναῖκα. Τοιοῦτοι γὰρ οἱ Ἰουδαῖοι. Εἰ γὰρ νῦν πολλοὶ τοῦτο πάσχουσι, πολλῷ μᾶλλον τότε ἐκεῖνοι·",
+          "en": "<span class=\"sn\" data-s=\"88\">Moreover, so that he could not retort, “Why did seven men have one wife?”, they add the authority of Moses.</span> <span class=\"sn\" data-s=\"89\">And yet, as I said, the story is a fiction — in my judgement, at least.</span> <span class=\"sn\" data-s=\"90\">The third brother would not have married her once he saw the first two bridegrooms dead; or grant the third — certainly not the fourth or fifth; and even if they did, the sixth and seventh would never have gone near the woman but would have recoiled from her.</span> <span class=\"sn\" data-s=\"91\">That is simply how Jews felt about such things.</span> <span class=\"sn\" data-s=\"92\">If many people feel that way even now, they felt it far more then, when they often avoided this kind of marriage even without such a reason, even though the law was pressing them to it.</span> <span class=\"sn\" data-s=\"93\">That is exactly how Ruth the Moabite was passed along to the more distant kinsman [Ruth 3–4], and how Tamar had to obtain offspring from her husband's kinsman by stealth [Genesis 38].</span>"
+        },
+        {
+          "gr": "ὅπου γε καὶ χωρὶς τούτου πολλάκις τὸ οὕτω συνοικεῖν ἔφυγον, καὶ ταῦτα τοῦ νόμου καταναγκάζοντος. Οὕτω γοῦν ἡ Ῥοὺθ ἡ Μωαβῖτις ἐκείνη γυνὴ πρὸς τὸν μακροτέρω τῆς συγγενείας ἐξεκυλίσθη· καὶ ἡ Θάμαρ δὲ ἐντεῦθεν παρὰ τοῦ κηδεστοῦ κλέψαι σπέρμα κατηναγκάζετο. Καὶ τίνος ἕνεκεν οὐκ ἔπλασαν δύο ἢ τρεῖς, ἀλλ' ἑπτά; Ὥστε ἐκ περιουσίας κωμῳδῆσαι, ὡς ᾤοντο, τὴν ἀνάστασιν. ∆ιὸ καὶ λέγουσι, Πάντες ἔσχον αὐτὴν, ὡς εἰς ἄπορόν τι αὐτὸν ἐμβάλλοντες.",
+          "en": "<span class=\"sn\" data-s=\"94\">And why did they not invent two or three brothers, rather than seven?</span> <span class=\"sn\" data-s=\"95\">To heap, as they thought, more ridicule on the resurrection.</span> <span class=\"sn\" data-s=\"96\">That is also why they add, “they all had her” — as if to corner him.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"You know neither the Scriptures nor the power of God\"",
+      "heading_sentence_index": 97,
+      "pairs": [
+        {
+          "gr": "Τί οὖν ὁ Χριστός; Πρὸς ἀμφότερα ἀποκρίνεται, οὐ πρὸς τὰ ῥήματα, ἀλλὰ πρὸς τὴν γνώμην ἱστάμενος, καὶ πανταχοῦ τὰ ἀπόῤῥητα αὐτῶν ἐκκαλύπτων, καὶ ποτὲ μὲν αὐτὰ ἐκπομπεύων, ποτὲ δὲ τῷ συνειδότι τῶν ἐρωτώντων ἀφιεὶς τὸν ἔλεγχον. Ὅρα γοῦν ἐνταῦθα πῶς ἀμφότερα δείκνυσι, καὶ ὅτι ἀνάστασις ἔσται, καὶ ὅτι οὐ τοιαύτη ἀνάστασις, οἵαν ὑποπτεύουσι.",
+          "en": "<span class=\"sn\" data-s=\"98\">What does Christ say?</span> <span class=\"sn\" data-s=\"99\">He answers both points at once, taking his stand not against their words but against their intention — as he always does, revealing the secrets of their hearts, sometimes exposing them openly, sometimes leaving the refutation of his questioners to their own conscience.</span> <span class=\"sn\" data-s=\"100\">Watch how here he proves both things: that there **will** be a resurrection, and that it will **not** be the sort of resurrection they suppose.</span>"
+        },
+        {
+          "gr": "Τί γάρ φησι; Πλανᾶσθε, μὴ εἰδότες τὰς Γραφὰς, μηδὲ τὴν δύναμιν τοῦ Θεοῦ. Ἐπειδὴ γὰρ ὡς εἰδότες, Μωϋσέα προβάλλονται καὶ τὸν νόμον, δείκνυσιν ὅτι τοῦτο μάλιστα ἀγνοούντων ἐστὶ τὰς Γραφὰς τὸ ἐρώτημα. Ἐντεῦθεν γὰρ καὶ τὸ πειράζειν αὐτοῖς ἦν, ἐκ τοῦ τὰς Γραφὰς ἀγνοεῖν, καὶ τοῦ Θεοῦ τὴν δύναμιν μὴ εἰδέναι ὡς χρή.",
+          "en": "<span class=\"sn\" data-s=\"101\">He says, *“You are wrong, because you know neither the Scriptures nor the power of God.”* [Matthew 22:29] Since they put Moses and the law forward as though they knew them, he shows that this question could only come from people profoundly ignorant of the Scriptures.</span> <span class=\"sn\" data-s=\"102\">That is where their testing of him came from as well: from not knowing the Scriptures, and from not knowing the power of God as they should.</span>"
+        },
+        {
+          "gr": "Τί οὖν θαυμαστὸν, φησὶν, εἰ ἐμὲ πειράζετε τὸν ἔτι ἀγνοούμενον ὑμῖν, ὅπου γε οὐδὲ τοῦ Θεοῦ τὴν δύναμιν ἴστε, ἧς τοσαύτην πεῖραν εἰλήφατε, καὶ οὔτε ἐκ κοινῶν ἐννοιῶν, οὔτε ἀπὸ Γραφῶν αὐτὴν ἔγνωτε; εἰ ἄρα καὶ κοινοὶ λογισμοὶ τοῦτο παρέχουσιν εἰδέναι, ὅτι τῷ Θεῷ πάντα δυνατά. γʹ. Καὶ πρῶτον μὲν πρὸς τὸ ἐρωτηθὲν ἀποκρίνεται.",
+          "en": "<span class=\"sn\" data-s=\"103\">“What is so surprising,” he is saying, “if you test me, since you do not yet know me, when you do not even know the power of God — that power of which you have had so much experience, and which you have learned neither from common sense nor from the Scriptures?”</span> <span class=\"sn\" data-s=\"104\">Even common sense teaches us this much: that to God all things are possible.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ τοῦτο αἴτιον ἦν αὐτοῖς τοῦ μὴ νομίζειν ἀνάστασιν, τὸ νομίζειν τοιαύτην εἶναι τὴν τῶν πραγμάτων κατάστασιν, τὸ αἴτιον θεραπεύει, εἶτα καὶ τὸ σύμπτωμα (ἀπὸ γὰρ τούτου καὶ τὸ νόσημα γέγονε)· καὶ δείκνυσι τῆς ἀναστάσεως τὸν τρόπον. Ἐν γὰρ τῇ ἀναστάσει, φησὶν, οὔτε γαμοῦσιν, οὔτε γαμίσκονται, ἀλλ' εἰσὶν ὡς ἄγγελοι Θεοῦ ἐν οὐρανῷ.",
+          "en": "<span class=\"sn\" data-s=\"105\">He answers the actual question first.</span> <span class=\"sn\" data-s=\"106\">The reason they did not believe in a resurrection was that they assumed the life to come runs on the same terms as this one.</span> <span class=\"sn\" data-s=\"107\">So he heals the cause, and then the symptom — since the disease arose from there — and shows what the resurrection is like: *“For in the resurrection they neither marry nor are given in marriage, but are like the angels of God in heaven.”* [Matthew 22:30] Luke says, “as sons of God” [Luke 20:36].</span>"
+        },
+        {
+          "gr": "Ὁ δὲ Λουκᾶς φησιν, Ὡς υἱοὶ Θεοῦ. Εἰ τοίνυν οὐ γαμοῦσι, περιττὴ ἡ ἐρώτησις. Οὐ μὴν ἐπειδὴ οὐ γαμοῦσι, διὰ τοῦτο ἄγγελοι· ἀλλ' ἐπειδὴ ὡς ἄγγελοι, διὰ τοῦτο οὐ γαμοῦσιν. Ἀπὸ τούτου καὶ ἕτερα πολλὰ ἀνεῖλεν, ἅπερ ἅπαντα δι' ἑνὸς ῥήματος ὁ Παῦλος ᾐνίξατο εἰπών· Παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου.",
+          "en": "<span class=\"sn\" data-s=\"108\">If there is no marrying, their question collapses.</span> <span class=\"sn\" data-s=\"109\">But note the order: it is not because they do not marry that they are angels; it is because they are like angels that they do not marry.</span> <span class=\"sn\" data-s=\"110\">With these words he removed many other difficulties as well — everything Paul gathered up in one phrase: *“the form of this world is passing away.”* [1 Corinthians 7:31]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The God of Abraham is the God of the living",
+      "heading_sentence_index": 111,
+      "pairs": [
+        {
+          "gr": "Καὶ διὰ μὲν τούτων ἐδήλωσεν ἡλίκον ἡ ἀνάστασις· ὅτι δὲ καὶ ἀνάστασίς ἐστι, δείκνυσι Καίτοι συναποδέδεικται τῷ εἰρημένῳ καὶ τοῦτο, ἀλλ' ὅμως ἐκ περιουσίας τῷ λόγῳ πάλιν προστίθησι λέγων. Οὐδὲ γὰρ πρὸς τὸ ἐρώτημα ἔστη μόνον, ἀλλὰ καὶ πρὸς τὴν ἔννοιαν αὐτῶν. Οὕτως ὅταν μὴ σφόδρα κακουργῶσιν, ἀλλ' ἀγνοοῦντες ἐρωτῶσι, καὶ ἐκ περιουσίας διδάσκει·",
+          "en": "<span class=\"sn\" data-s=\"112\">These words also declare how great a thing the resurrection is.</span> <span class=\"sn\" data-s=\"113\">And he goes on to prove that there **is** a resurrection.</span> <span class=\"sn\" data-s=\"114\">What he had already said demonstrated this too, but he now adds still more.</span> <span class=\"sn\" data-s=\"115\">He does not stop at their spoken question; he answers even their unspoken thought.</span> <span class=\"sn\" data-s=\"116\">That is his way: when people question him without great cunning, simply out of ignorance, he teaches them more than they asked; when the questioning is nothing but wickedness, he does not answer even the question asked.</span>"
+        },
+        {
+          "gr": "ὅταν δὲ ἀπὸ κακίας μόνης, οὐδὲ πρὸς τὰ ἐρωτώμενα ἀποκρίνεται. Καὶ πάλιν ἀπὸ τοῦ Μωϋσέως ἐπιστομίζει αὐτοὺς, ἐπειδὴ κἀκεῖνοι Μωϋσέα προεβάλοντο, καί φησι· Περὶ δὲ τῆς ἀναστάσεως τῶν νεκρῶν οὐκ ἀνέγνωτε, ὅτι Ἐγώ εἰμι ὁ Θεὸς Ἀβραὰμ, καὶ ὁ Θεὸς Ἰσαὰκ, καὶ ὁ Θεὸς Ἰακώβ; Οὐκ ἔστι Θεὸς νεκρῶν, ἀλλὰ ζώντων. Οὐχὶ τῶν οὐκ ὄντων, φησὶ, καὶ καθάπαξ ἀφανισθέντων, καὶ οὐκέτι ἀναστησομένων.",
+          "en": "<span class=\"sn\" data-s=\"117\">Once again he stops their mouths through Moses — since they were the ones who had brought Moses forward.</span> <span class=\"sn\" data-s=\"118\">He says, *“But concerning the resurrection of the dead, have you not read: 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'?*</span> <span class=\"sn\" data-s=\"119\">*He is not the God of the dead, but of the living.”* [Matthew 22:31–32] That is, not the God of those who have ceased to exist, who are utterly blotted out and will rise no more.</span> <span class=\"sn\" data-s=\"120\">He did not say “I **was** their God,” but “I **am**” — the God of those who are, of those who live.</span> <span class=\"sn\" data-s=\"121\">Just as Adam, though he went on living on the day he ate from the tree, died by the sentence pronounced on him [Genesis 2:17], so these patriarchs, though they had died, were alive in the promise of the resurrection.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ εἶπεν, Ἤμην, ἀλλ', Εἰμί· τῶν ὄντων καὶ τῶν ζώντων. Ὥσπερ γὰρ ὁ Ἀδὰμ, εἰ καὶ ἔζη τῇ ἡμέρᾳ ᾗ ἔφαγεν ἀπὸ τοῦ ξύλου, ἀπέθανε τῇ ἀποφάσει· οὕτω καὶ οὗτοι, εἰ καὶ ἐτεθνήκεσαν, ἔζων τῇ ὑποσχέσει τῆς ἀναστάσεως. Πῶς οὖν φησιν ἀλλαχοῦ, Ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ; Ἀλλ' οὐκ ἔστιν ἐναντίον τοῦτο ἐκείνῳ. Νεκρῶν γὰρ ἐνταῦθά φησι, τῶν καὶ αὐτῶν ζήσεσθαι μελλόντων.",
+          "en": "<span class=\"sn\" data-s=\"122\">Then how can Paul say elsewhere that Christ died and rose “that he might be Lord both of the dead and of the living” [Romans 14:9]?</span> <span class=\"sn\" data-s=\"123\">There is no contradiction.</span> <span class=\"sn\" data-s=\"124\">Here Christ is speaking of the dead who are themselves going to live.</span> <span class=\"sn\" data-s=\"125\">And “I am the God of Abraham” is simply a different statement from “Lord of the dead and the living.”</span> <span class=\"sn\" data-s=\"126\">He also knew of another kind of death — the one he means when he says, *“Let the dead bury their own dead.”* [Matthew 8:22]</span>"
+        },
+        {
+          "gr": "Ἄλλως δὲ καὶ ἕτερον τὸ, Ἐγὼ ὁ Θεὸς Ἀβραὰμ, καὶ τὸ, Ἵνα καὶ νεκρῶνκαὶ ζώντων κυριεύσῃ. Οἶδε δὲ καὶ ἄλλην νεκρότητα. περὶ ἧς φησιν· Ἄφετε τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς. Καὶ ἀκούσαντες οἱ ὄχλοι ἐξεπλάγησαν ἐπὶ τῇ διδαχῇ αὐτοῦ. Οὐδὲ ἐνταῦθα οἱ Σαδδουκαῖοι· ἀλλ' οὗτοι μὲν ἡττηθέντες ἀναχωροῦσι· τὸ δὲ ἀδέκαστον πλῆθος καρποῦται τὴν ὠφέλειαν.",
+          "en": "<span class=\"sn\" data-s=\"127\">*And when the crowds heard it, they were astonished at his teaching.* [Matthew 22:33] Not the Sadducees, though — they go away beaten, while the fair-minded crowd reaps the benefit.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Back to the desert: the monks' battle line",
+      "heading_sentence_index": 128,
+      "pairs": [
+        {
+          "gr": "Ἐπεὶ οὖν τοιαύτη ἡ ἀνάστασις, φέρε πάντα ποιῶμεν, ἵνα τῶν πρωτείων ἐκεῖ τύχωμεν. Εἰ δὲ δοκεῖ, καὶ πρὸ τῆς ἀναστάσεως δείξωμεν ὑμῖν τινας ταῦτα ἐντεῦθεν ἐπιτηδεύοντας καὶ καρπουμένους, πάλιν ἐπὶ τὰς ἐρήμους ἀπελθόντες. Πάλιν γὰρ τῶν αὐτῶν ἅψομαι λόγων, ἐπειδὴ μετὰ πλείονος ἡδονῆς ἀκούοντας ὑμᾶς βλέπω. Ἴδωμεν τοίνυν καὶ τήμερον τὰ στρατόπεδα τὰ πνευματικά· ἴδωμεν τὴν φόβου καθαρὰν ἡδονήν.",
+          "en": "<span class=\"sn\" data-s=\"129\">Since the resurrection is like this, come, let us do everything we can to win the first places there.</span> <span class=\"sn\" data-s=\"130\">But if you like, let me show you people who, even before the resurrection, are already pursuing and reaping these blessings here — once again taking refuge in the deserts.</span> <span class=\"sn\" data-s=\"131\">I will take up that same subject again, since I see you listen to it with particular pleasure.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ μετὰ δοράτων εἰσὶν ἐσκηνωμένοι, καθάπερ οἱ στρατιῶται (ἐνταῦθα γὰρ πρώην κατέλυσα τὸν λόγον), οὐδὲ μετὰ ἀσπίδων καὶ θωράκων· ἀλλὰ γυμνοὺς ὄψει τούτων ἁπάντων, καὶ τοιαῦτα ἐργαζομένους, οἷα οὐδὲ μετὰ ὅπλων ἐκεῖνοι. Καὶ εἰ δύνασαι συνιδεῖν, ἐλθὲ, καὶ χεῖρά μοι ὄρεξον, καὶ ἴωμεν εἰς τὸν πόλεμον τοῦτον ἀμφότεροι, καὶ ἴδωμεν τὴν παράταξιν. Καὶ γὰρ καὶ οὗτοι καθ' ἑκάστην πολεμοῦσι τὴν ἡμέραν, καὶ σφάττουσι τοὺς ὑπεναντίους, καὶ νικῶσι τὰς ἐπιθυμίας ἁπάσας τὰς ἐπιβουλευούσας ἡμῖν.",
+          "en": "<span class=\"sn\" data-s=\"132\">So today too, let us look at the spiritual encampments; let us look at their joy, unmixed with fear.</span> <span class=\"sn\" data-s=\"133\">They are not camped with spears like soldiers — that is where I ended my recent discourse — nor with shields and breastplates.</span> <span class=\"sn\" data-s=\"134\">You will see them bare of all that, yet accomplishing things that even armed men do not.</span>"
+        },
+        {
+          "gr": "Καὶ ὄψει ταύτας ἐῤῥιμμένας χαμαὶ, καὶ μηδὲ σπαίρειν δυναμένας· ἀλλὰ τὸ ἀποστολικὸν ἐκεῖνο διὰ τῶν ἔργων δεικνύμενον, ὅτι Οἱ τοῦ Χριστοῦ, τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις. Εἶδες πλῆθος νεκρῶν κειμένων, ἐσφαγμένων τῇ μαχαίρα τοῦ πνεύματος; ∆ιὰ τοῦτο οὐκ ἔστιν ἐκεῖ μέθη, οὐδὲ ἀδηφαγία. Καὶ δείκνυσιν ἡ τράπεζα, καὶ τὸ τρόπαιον τὸ ἐπ' αὐτῇ ἑστηκός.",
+          "en": "<span class=\"sn\" data-s=\"135\">If you can keep up, come — stretch out your hand to me, and let us go together to this war, the two of us, and inspect their battle line.</span> <span class=\"sn\" data-s=\"136\">These men fight every day; they kill their enemies; they conquer every lust that plots against us.</span> <span class=\"sn\" data-s=\"137\">You will see those lusts flung to the ground, unable even to struggle — proving by the bare fact that saying of the apostle: *“Those who belong to Christ have crucified the flesh with its passions and desires.”* [Galatians 5:24]</span>"
+        },
+        {
+          "gr": "Ἡ γὰρ μέθη καὶ ἡ ἀδηφαγία κεῖται νεκρὰ διὰ τῆς ὑδροποσίας τροπωθεῖσα, τὸ πολυειδὲς τοῦτο καὶ πολυκέφαλον θηρίον. Καθάπερ γὰρ ἐπὶ τῆς μυθοποιουμένης Σκύλλης καὶ Ὕδρας, οὕτω καὶ ἐπὶ τῆς μέθης πολλὰς ἔστι κεφαλὰς ἰδεῖν· ἐντεῦθεν πορνείαν, ἐκεῖθεν ὀργὴν, ἄλλοθεν βλακείαν, ἑτέρωθεν ἔρωτας ἀτόπους φυομένους· ἀλλὰ πάντα ταῦτα ἀνῄρηται. Καίτοιγε ἐκεῖνα πάντα τὰ στρατόπεδα, κἂν μυρίων περιγένωνται πολέμων, ὑπὸ τούτων ἁλίσκονται· καὶ οὔτε ὅπλα, οὔτε δόρατα, οὐχ ὅπερ ἂν ἕτερον ᾖ, δύναται πρὸς ταύτας στῆναι τὰς φάλαγγας·",
+          "en": "<span class=\"sn\" data-s=\"138\">Do you see the host of dead lying there, slain by the sword of the Spirit?</span> <span class=\"sn\" data-s=\"139\">That is why there is no drunkenness or gluttony in that place — and their table proves it, and the trophy set upon it.</span> <span class=\"sn\" data-s=\"140\">Drunkenness and gluttony lie dead, routed by the drinking of water, even though this enemy takes many shapes and has many heads.</span> <span class=\"sn\" data-s=\"141\">As in the fabled Scylla and Hydra, so in drunkenness you can see many heads sprouting: fornication growing on one side, rage on another; sloth here, lawless desires there.</span> <span class=\"sn\" data-s=\"142\">And all of them are done away with.</span> <span class=\"sn\" data-s=\"143\">Yet all those other armies, though they win ten thousand wars, are taken captive by these enemies; neither weapons nor spears nor anything else can stand against these phalanxes.</span> <span class=\"sn\" data-s=\"144\">The very giants, the heroes, the doers of countless brave deeds — you will find them bound without chains by sleep and drunkenness, lying like the wounded with no wound or slaughter, or rather in a worse state: the wounded at least struggle, but these do not even struggle; they surrender at once.</span>"
+        },
+        {
+          "gr": "ἀλλ' αὐτοὺς τοὺς γίγαντας, τοὺς ἀριστέας, τοὺς τὰ μυρία ἀνδραγαθοῦντας, εὕροις ἂν χωρὶς δεσμῶν δεδεμένους ὕπνῳ καὶ μέθῃ, χωρὶς σφαγῆς καὶ τραυμάτων, καθάπερ τοὺς τετραυματισμένους, κειμένους, μᾶλλον δὲ καὶ χαλεπώτερον. Ἐκεῖνοι μὲν γὰρ κἂν σπαίρουσιν· οὗτοι δὲ οὐδὲ τοῦτο, ἀλλ' εὐθέως καταπίπτουσιν. Ὁρᾷς ὅτι μεῖζον τοῦτο τὸ στρατόπεδον καὶ θαυμαστότερον; τοὺς γὰρ ἐκείνων περιγινομένους πολεμίους ἀναιρεῖ τῷ θελῆσαι μόνον.",
+          "en": "<span class=\"sn\" data-s=\"145\">Do you see that this army is greater and more admirable?</span> <span class=\"sn\" data-s=\"146\">It destroys by its mere will the enemies that defeated the others.</span> <span class=\"sn\" data-s=\"147\">The monks so weaken the mother of all their evils that she cannot trouble them any longer; and once the leader is overthrown and the head removed, the rest of the body lies still.</span>"
+        },
+        {
+          "gr": "Οὕτω γὰρ αὐτὴν ἀσθενῆ τὴν μητέρα ἁπάντων τῶν κακῶν ποιοῦσιν, ὡς μηδὲ ἐνοχλεῖν λοιπόν· τοῦ δὲ στρατηγοῦ κειμένου, καὶ τῆς κεφαλῆς ἀνῃρημένης, καὶ τὸ λοιπὸν σῶμα ἡσυχάζει. Καὶ τὴν νίκην ταύτην ἕκαστον τῶν ἐκεῖ μενόντων ἐργαζόμενον ἴδοι τις ἄν. Οὐ γὰρ ὥσπερ ἐπὶ τούτων τῶν πολέμων ἐὰν ὑφ' ἑνός τις λάβῃ πληγὴν, ἑτέρῳ λοιπὸν οὐκ ἔστι βαρὺς καταπεσὼν ἅπαξ· ἀλλ' ἀνάγκη πάντας τὸ θηρίον τοῦτο παίειν·",
+          "en": "<span class=\"sn\" data-s=\"148\">And you can watch each one of those who live there winning this victory.</span> <span class=\"sn\" data-s=\"149\">It is not like our wars, where an enemy struck down by one man no longer threatens another, being fallen once for all.</span> <span class=\"sn\" data-s=\"150\">Here every single person must strike the monster; anyone who has not struck her down is sure to be troubled by her.</span>"
+        },
+        {
+          "gr": "καὶ ὁ μὴ πλήξας αὐτὴν, καὶ καταβαλὼν, ἐνοχλεῖται πάντως. δʹ. Εἶδες νίκην λαμπράν; Οἷον γὰρ τὰ στρατόπεδα τὰ πανταχοῦ τῆς οἰκουμένης ὁμοῦ συνελθόντα στῆσαι τρόπαιον οὐκ ἰσχύει, τοῦτο ἕκαστος ἐκείνων ἵστησι· καὶ πάντα ἀναμέμικται τετρωμένα, παράφορα παραπληξίας ῥήματα, νοήματα μανικὰ, ἀηδὴς τῦφος, πάντα ὅσα ἀπὸ μέθης ὁπλίζεται. Καὶ μιμοῦνται τὸν ἑαυτῶν ∆εσπότην, ὃν ἡ Γραφὴ θαυμάζουσα ἔλεγεν· Ἐκ χειμάῤῥου ἐν ὁδῷ πίεται· διὰ τοῦτο ὑψώσει κεφαλήν.",
+          "en": "<span class=\"sn\" data-s=\"151\">Do you see what a glorious victory it is?</span> <span class=\"sn\" data-s=\"152\">All the armies of the world combined could not set up such a trophy as each of those men sets up, with everything from the army of drunkenness lying in a heap, wounded: the frenzied ravings, the crazed thoughts, the odious arrogance.</span> <span class=\"sn\" data-s=\"153\">And they imitate their own Lord, of whom Scripture says in wonder, *“He shall drink of the brook in the way; therefore shall he lift up the head.”* [Psalm 110:7]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The other dead: what luxury breeds",
+      "heading_sentence_index": 154,
+      "pairs": [
+        {
+          "gr": "Βούλεσθε καὶ ἕτερον πλῆθος νεκρῶν ἰδεῖν; Ἴδωμεν τὰς ἐκ τῆς τρυφῆς ἐπιθυμίας, τὰς ἐκ τῶν ὀψοποιῶν, τῶν μαγείρων, τῶν τραπεζοποιῶν, τῶν πλακουντοποιῶν. Αἰσχύνομαι μὲν γὰρ πάντα διηγούμενος· πλὴν ἀλλ' ὅμως ἐρῶ τὰς ὄρνεις τὰς ἀπὸ Φάσιδος, τοὺς ζωμοὺς τοὺς χύδην μιγνυμένους, τὰ ὑγρὰ, τὰ ξηρὰ ἐδέσματα, τοὺς περὶ τούτων κειμένους νόμους. Καθάπερ γάρ τινα πόλιν οἰκοῦντες, καὶ στρατόπεδα διατάττοντες, οὕτω καὶ οὗτοι, τὸ καὶ τὸ πρῶτον, καὶ τὸ καὶ τὸ δεύτερον νομοθετοῦσι καὶ κατατάττουσι.",
+          "en": "<span class=\"sn\" data-s=\"155\">Would you like to see another host of dead?</span> <span class=\"sn\" data-s=\"156\">Then look at the lusts bred by luxurious living — the ones fed by the sauce-makers, the cooks, the caterers, the confectioners.</span> <span class=\"sn\" data-s=\"157\">I am honestly ashamed to speak of it all, but I will mention the pheasants from Phasis, the soups blended from who-knows-what, the moist dishes and the dry ones, and the legislation surrounding them.</span> <span class=\"sn\" data-s=\"158\">As if they were governing a city or marshalling armies, these people too make laws: this dish first, that dish second.</span> <span class=\"sn\" data-s=\"159\">Some lead off with birds roasted on embers and stuffed with fish; others compose the opening courses of these lawless feasts out of other materials.</span> <span class=\"sn\" data-s=\"160\">And there is endless rivalry over it all — over quality, over sequence, over quantity.</span> <span class=\"sn\" data-s=\"161\">They take pride in things they should want to sink into the earth for shame: one boasts that he spent half the day on it, another the whole day, another that he added the night as well.</span> <span class=\"sn\" data-s=\"162\">Look, poor wretch, at the measure of your belly — and be ashamed of your measureless zeal.</span>"
+        },
+        {
+          "gr": "Καὶ οἱ μὲν πρῶτον ὄρνεις ἐπ' ἀνθράκων ὠπτημένας, ἔνδοθεν μεμεστωμένας ἰχθύων εἰσάγουσιν· ἕτεροι δὲ ἄλλοθεν τὰ προοίμια ποιοῦνται τῶν παρανόμων τούτων δείπνων· καὶ ἅμιλλα πολλὴ περὶ τούτων, καὶ ὑπὲρ ποιότητος, καὶ ὑπὲρ τάξεως, καὶ ὑπὲρ πλήθους· καὶ φιλοτιμοῦνται ἐφ' οἷς κατορύττεσθαι ἔδει, οἱ μὲν ὅτι τὸ ἥμισυ τῆς ἡμέρας ἀνάλωσαν, οἱ δὲ πᾶσαν αὐτὴν, οἱ δὲ ὅτι καὶ τὴν νύκτα προσέθηκαν λέγοντες·",
+          "en": "<span class=\"sn\" data-s=\"163\">Nothing like this exists among those angels.</span> <span class=\"sn\" data-s=\"164\">All those desires lie dead there too.</span> <span class=\"sn\" data-s=\"165\">Their meals serve necessity, not fullness and luxury.</span> <span class=\"sn\" data-s=\"166\">There are no fowlers there, no fishermen — only bread and water.</span> <span class=\"sn\" data-s=\"167\">All that confusion and disturbance and turmoil is banished from the place, from the house and from the body alike: their haven is great, and the others' storm is great.</span>"
+        },
+        {
+          "gr": "Ἴδε τὸ μέτρον, ταλαίπωρε, τῆς γαστρὸς, καὶ αἰσχύνθητι τὴν ἄμετρον σπουδήν. Ἀλλ' οὐδὲν τοιοῦτον παρὰ τοῖς ἀγγέλοις ἐκείνοις· ἀλλὰ καὶ αὗται πᾶσαι αἱ ἐπιθυμίαι νεκραί. Οὐ γὰρ εἰς πλησμονὴν καὶ τρυφὴν, ἀλλ' εἰς χρείαν αὐτοῖς αἱ τροφαί. Οὐκ ὀρνίθων ἐκεῖ θηραταὶ, οὐδὲ ἰχθύων, ἀλλ' ἄρτος καὶ ὕδωρ. Ἡ δὲ σύγχυσις αὕτη, καὶ ὁ θόρυβος, καὶ αἱ ταραχαὶ, πάντα ἐκποδὼν ἐκεῖθεν, καὶ ἀπὸ τοῦ δωματίου, καὶ ἀπὸ τοῦ σώματος, καὶ πολὺς ὁ λιμήν·",
+          "en": "<span class=\"sn\" data-s=\"168\">Now tear open in your imagination the belly of people who feed like this, and you will see the vast refuse, the unclean channel, the whitewashed tomb [Matthew 23:27].</span>"
+        },
+        {
+          "gr": "παρὰ δὲ τούτοις πολλὴ ἡ ζάλη. Ἀνάῤῥηξον σὺν τῷ λόγῳ τὴν γαστέρα τῶν τὰ τοιαῦτα σιτουμένων, καὶ ὄψει τὸν πολὺν φορυτὸν, καὶ τὸν ἀκάθαρτον ὀχετὸν, καὶ τὸν κεκονιαμένον τάφον. Τὰ δὲ μετὰ ταῦτα καὶ αἰσχύνομαι εἰπεῖν, τὰς ἐρυγὰς τὰς ἀηδεῖς, τοὺς ἐμέτους, τὰς κάτωθεν, τὰς ἄνωθεν ἐκκρίσεις. Ἀλλὰ καὶ ταύτας ἴθι καὶ βλέπε νεκρὰς τὰς ἐπιθυμίας ἐκεῖ, καὶ τοὺς ἀπὸ τούτων σφοδροτέρους ἔρωτας· τοὺς τῶν ἀφροδισίων λέγω.",
+          "en": "<span class=\"sn\" data-s=\"169\">And what comes next I am ashamed even to name: the sour belching, the vomiting, the discharges above and below.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ καὶ τούτους ὄψει πάντας ἐῤῥιμμένους μετὰ τῶν ἵππων, μετὰ τῶν σκευοφόρων. Σκευοφόρος γὰρ καὶ ὅπλον καὶ ἵππος αἰσχρᾶς πράξεως ῥῆμά ἐστιν αἰσχρόν. Ἀλλ' ὄψει ἵππον ὁμοῦ καὶ ἀναβάτην τοιοῦτον, καὶ ὅπλα κείμενα· ἐκεῖ δὲ τοὐναντίον ἅπαν, καὶ ψυχὰς νεκρὰς ἐῤῥιμμένας. Οὐκ ἐπὶ τῆς τραπέζης δὲ μόνον ἡ νίκη λαμπρὰ τοῖς ἁγίοις ἐκείνοις, ἀλλὰ καὶ ἐπὶ τῶν ἄλλων· ἐπὶ τῶν χρημάτων, ἐπὶ τῆς δόξης, ἐπὶ τῆς βασκανίας, ἐπὶ τῶν νοσημάτων ἁπάντων.",
+          "en": "<span class=\"sn\" data-s=\"170\">Then go and see even these desires dead in the desert — and the still more violent lusts that spring from them, the lusts of impurity.</span> <span class=\"sn\" data-s=\"171\">You will see all of them overthrown, with their horses, with their pack animals.</span> <span class=\"sn\" data-s=\"172\">For the pack animal, the weapon, and the horse of a filthy deed is a filthy word.</span> <span class=\"sn\" data-s=\"173\">You will see horse and rider of that kind thrown down together, and their weapons on the ground; but here, the exact opposite — souls lying dead.</span> <span class=\"sn\" data-s=\"174\">And these holy men's victory is glorious not at the table only, but in everything else as well: over money, over glory, over envy, over every disease of the soul.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Two tables, two ends",
+      "heading_sentence_index": 175,
+      "pairs": [
+        {
+          "gr": "Ἆρά σοι οὐ δοκεῖ τοῦτο ἐκείνου τοῦ στρατοπέδου ἰσχυρότερον εἶναι, καὶ ἡ τράπεζα βελτίων; Καὶ τίς ἀντερεῖ; Οὐδεὶς, οὐδὲ αὐτῶν ἐκείνων, κἂν σφόδρα μαινόμενος ᾖ. Αὕτη μὲν γὰρ εἰς οὐρανὸν παραπέμπει, ἐκείνη δὲ εἰς γέενναν ἕλκει· ταύτην ὁ διάβολος διατάττεται, ἐκείνην δὲ ὁ Χριστός· ταύτην τρυφὴ νομοθετεῖ καὶ ἀκολασία, ἐκείνην δὲ φιλοσοφία καὶ σωφροσύνη· ἐνταῦθα ὁ Χριστὸς παραγίνεται, ἐκεῖ δὲ ὁ διάβολος. Ἔνθα γὰρ μέθη, διάβολος· ἔνθα αἰσχρὰ ῥήματα, ἔνθα πλησμονὴ, ἐκεῖ δαίμονες χορεύουσι.",
+          "en": "<span class=\"sn\" data-s=\"176\">Surely this army seems to you mightier than the other, and its meal better?</span> <span class=\"sn\" data-s=\"177\">Who could deny it?</span> <span class=\"sn\" data-s=\"178\">No one — not even one of the others, however mad he may be.</span> <span class=\"sn\" data-s=\"179\">For this table leads us on toward heaven; that one drags us down to hell.</span> <span class=\"sn\" data-s=\"180\">The devil spreads the one, Christ the other.</span> <span class=\"sn\" data-s=\"181\">Luxury and intemperance legislate at that one; self-denial and sobriety at this one.</span> <span class=\"sn\" data-s=\"182\">Christ is present here; the devil there.</span> <span class=\"sn\" data-s=\"183\">Where there is drunkenness, the devil is there; where there are filthy words, where there is overeating, there the devils hold their choir.</span> <span class=\"sn\" data-s=\"184\">The rich man in the parable had a table like that — which is why he could not command even a drop of water [Luke 16:24].</span>"
+        },
+        {
+          "gr": "Τοιαύτην εἶχε τράπεζαν ὁ πλούσιος ἐκεῖνος· διὰ τοῦτο οὐδὲ σταγόνος ὕδατος κύριος ἦν. Ἀλλ' οὐχ οὗτοι τοιαύτην, ἀλλὰ τὰ τῶν ἀγγέλων ἤδη μελετῶσιν. Οὐ γαμοῦσιν, οὐδὲ γαμίσκονται, οὐδὲ καθεύδουσιν ἄρδην, οὐδὲ τρυφῶσιν· ἀλλὰ πλὴν ὀλίγων τινῶν καὶ ἀσώματοι γεγόνασι. Τίς οὖν ἐστιν οὕτως εὐκόλως νικῶν τοὺς ἐχθροὺς, ὡς ἀριστοποιούμενος τρόπαιον ἱστᾷν; ∆ιὰ τοῦτο καὶ ὁ προφήτης φησίν· Ἡτοίμασας ἐνώπιόν μου τράπεζαν ἐξεναντίας τῶν θλιβόντων με.",
+          "en": "<span class=\"sn\" data-s=\"185\">These men have no such table; they are already practising the angels' way of life.</span> <span class=\"sn\" data-s=\"186\">They do not marry or give in marriage; they do not sleep to excess or live in luxury; except for a few necessities, they are practically bodiless.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ ἄν τις ἁμάρτοι καὶ περὶ ταύτης τοῦτο εἰπὼν τὸ λόγιον τῆς τραπέζης. Οὐδὲν γὰρ οὕτω θλίβει ψυχὴν, ὡς ἐπιθυμία ἄτοπος, καὶ τρυφὴ, καὶ μέθη, καὶ τὰ ἐκ τούτων κακά· καὶ τοῦτο ἴσασιν οἱ πεῖραν εἰληφότες καλῶς. Εἰ δὲ μάθοις καὶ πόθεν αὕτη συλλέγεται ἡ τράπεζα, καὶ πόθεν ἐκείνη, τότε ὄψει καλῶς ἑκατέρας τὸ διάφορον. Πό θεν οὖν αὕτη συλλέγεται; Ἀπὸ μυρίων δακρύων, ἀπὸ χηρῶν πλεονεκτουμένων, ἀπὸ ὀρφανῶν ἁρπαζομένων· ἡ δὲ ἀπὸ πόνων δικαίων.",
+          "en": "<span class=\"sn\" data-s=\"187\">And who overcomes his enemies as easily as a man who sets up a trophy over his dinner?</span> <span class=\"sn\" data-s=\"188\">That is why the prophet says, *“You have prepared a table before me in the presence of those who afflict me.”* [Psalm 23:5] One could apply that oracle to this table without being wrong.</span> <span class=\"sn\" data-s=\"189\">For nothing afflicts a soul like disordered desire, luxury, drunkenness, and the evils they spawn — as those who have experienced them know very well.</span>"
+        },
+        {
+          "gr": "Καὶ ἔοικεν αὕτη μὲν ἡ τράπεζα γυναικὶ καλῇ καὶ εὐειδεῖ, οὐδενὸς τῶν ἔξωθεν δεομένῃ, ἀλλὰ φυσικὸν ἐχούσῃ τὸ κάλλος· ἐκείνη δὲ, πόρνῃ τινὶ αἰσχρᾷ καὶ δυσειδεῖ, πολλὰ μὲν ἐπιτρίμματα ἐχούσῃ, οὐκ ἰσχυούσῃ δὲ συσκιάσαι τὴν ἀμορφίαν, ἀλλ' ὅσῳ ἂν ἐγγὺς γίνηται, μᾶλλον ἐλεγχομένη. Καὶ γὰρ καὶ αὕτη ὅταν ἐγγυτέρω γένηται τοῦ συγγινομένου, τότε δείκνυσι τὸ αἶσχος μᾶλλον. Μὴ γάρ μοι ἀνιόντας ἴδῃς τοὺς δαιτυμόνας, ἀλλὰ καὶ κατιόντας, καὶ τότε αὐτῆς ὄψει τὴν αἰσχρότητα. Ἐκείνη μὲν γὰρ τοὺς συγγινομένους, ἅτε ἐλευθέρα οὖσα, οὐδὲν ἀφίησιν αἰσχρὸν εἰπεῖν·",
+          "en": "<span class=\"sn\" data-s=\"190\">And if you were to learn where each table is supplied from, you would see the difference clearly.</span> <span class=\"sn\" data-s=\"191\">Where does the rich table come from?</span> <span class=\"sn\" data-s=\"192\">From countless tears, from defrauded widows, from despoiled orphans.</span> <span class=\"sn\" data-s=\"193\">The other comes from honest labour.</span> <span class=\"sn\" data-s=\"194\">And this table is like a beautiful, lovely woman who needs no adornment from outside but has her beauty from nature; that one is like some ugly, ill-favoured prostitute, plastered with make-up yet unable to hide her deformity — the closer you get, the more she is exposed.</span> <span class=\"sn\" data-s=\"195\">So it is with that table: the nearer you come to it, the more its ugliness shows.</span> <span class=\"sn\" data-s=\"196\">Do not look, I tell you, at the banqueters only as they arrive; watch them as they leave, and then you will see its ugliness.</span> <span class=\"sn\" data-s=\"197\">The monks' table, being free, lets no one who comes to it say anything shameful; the other, being a prostitute and dishonoured, lets nothing seemly be said.</span> <span class=\"sn\" data-s=\"198\">The one seeks the good of the man who sits at it; the other his harm.</span> <span class=\"sn\" data-s=\"199\">The one makes it impossible to offend God; the other makes it impossible not to.</span>"
+        },
+        {
+          "gr": "αὕτη δὲ οὐδὲν σεμνὸν, ἅτε πόρνη οὖσα καὶ ἠτιμωμένη. Αὕτη τὸ χρήσιμον ζητεῖ τοῦ συνόντος αὐτῇ· ἐκείνη δὲ τὸ ἐπιβλαβές. Καὶ ἡ μὲν οὐκ ἀφίησι προσκροῦσαι Θεῷ· ἡ δὲ οὐκ ἀφίησι μὴ προσκροῦσαι. Ἀπίωμεν τοίνυν πρὸς ἐκείνους. Ἐκεῖθεν εἰσόμεθα πόσοις δεσμοῖς ἐσμεν περιβεβλημένοι· ἐκεῖθεν εἰσόμεθα τράπεζαν παρατίθεσθαι μυρίων γέμουσαν ἀγαθῶν, ἡδίστην, ἀδάπανον, φροντίδος ἀπηλλαγμένην, φθόνου καὶ βασκανίας καὶ νόσου πάσης ἐλευθέραν, καὶ χρηστῆς γέμουσαν ἐλπίδος, καὶ πολλὰ τὰ τρόπαια ἔχουσαν.",
+          "en": "<span class=\"sn\" data-s=\"200\">So let us go over to those men.</span> <span class=\"sn\" data-s=\"201\">From them we will learn how many chains bind us.</span> <span class=\"sn\" data-s=\"202\">From them we will learn to set before ourselves a table full of countless blessings: utterly sweet, costing nothing, free of care, free of envy and jealousy and every sickness, full of good hope, with its many trophies.</span> <span class=\"sn\" data-s=\"203\">There is no turmoil of soul there, no grief, no anger; all is calm, all is peace.</span>"
+        },
+        {
+          "gr": "Οὐκ ἔστι θόρυβος ψυχῆς ἐκεῖ, οὐκ ἔστι λύπη, οὐκ ἔστιν ὀργή· πάντα γαλήνη, πάντα εἰρήνη. Μὴ γάρ μοι τὴν σιγὴν τῶν διακονούντων εἴπῃς ἐν ταῖς τῶν πλουσίων οἰκίαις, ἀλλὰ τὴν κραυγὴν τῶν ἀριστοποιουμένων· οὐ τὴν πρὸς ἀλλήλους λέγω (καὶ αὕτη μὲν γὰρ καταγέλαστος), ἀλλὰ τὴν ἔνδον, τὴν ἐν τῇ ψυχῇ, τὴν πολλὴν ἐπάγουσαν αἰχμαλωσίαν, τοὺς θορύβους τῶν λογισμῶν, τὴν ζάλην, τὸν ζόφον, τὸν χειμῶνα· δι' ὧν ἅπαντα μίγνυται καὶ συγχεῖται, καὶ νυκτομαχίᾳ τινὶ προσέοικεν.",
+          "en": "<span class=\"sn\" data-s=\"204\">Do not tell me about the hushed servants in rich men's houses; tell me about the uproar of those who dine.</span> <span class=\"sn\" data-s=\"205\">I do not mean the noise they make at one another — though that too deserves ridicule — but the noise within, in the soul, that drags them into a wretched captivity: the storms of thoughts, the sleet, the darkness, the tempest in which everything is thrown into confusion, like a battle fought at night.</span> <span class=\"sn\" data-s=\"206\">Nothing like that is found in the monks' tents.</span> <span class=\"sn\" data-s=\"207\">The calm is great there, the quiet is great.</span> <span class=\"sn\" data-s=\"208\">That other table is followed by a sleep like death; this one by sobriety and watchfulness.</span> <span class=\"sn\" data-s=\"209\">That one by punishment; this one by the kingdom of heaven and its immortal rewards.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐκ ἐν ταῖς σκηναῖς τῶν μοναχῶν τοιαῦτα ἀλλὰ πολλὴ ἡ γαλήνη, πολλὴ ἡ ἡσυχία. Κἀκείνην μὲν ὕπνος θανάτῳ προσεοικὼς διαδέχεται τὴν τράπεζαν, ταύτην δὲ νῆψις καὶ ἀγρυπνία· ἐκείνην κόλασις, ταύτην οὐρανῶν βασιλεία καὶ τὰ ἀθάνατα βραβεῖα. Ταύτην τοίνυν διώκωμεν, ἵνα καὶ τῶν καρπῶν αὐτῆς ἀπολαύσωμεν ὧν γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"210\">This, then, is the table let us pursue, so that we may also enjoy its fruits.</span> <span class=\"sn\" data-s=\"211\">May we all attain them, by the grace and love for mankind of our Lord Jesus Christ, to whom be glory and power, world without end.</span> <span class=\"sn\" data-s=\"212\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

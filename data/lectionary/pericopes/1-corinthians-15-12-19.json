@@ -1,0 +1,84 @@
+{
+  "ref": "1 Corinthians 15:12-19",
+  "book": "1Cor",
+  "from": [
+    15,
+    12
+  ],
+  "to": [
+    15,
+    19
+  ],
+  "slug": "1-corinthians-15-12-19",
+  "greek": [
+    {
+      "v": "15:12",
+      "text": "Εἰ δὲ χριστὸς κηρύσσεται ὅτι ἐκ νεκρῶν ἐγήγερται, πῶς λέγουσίν τινες ἐν ὑμῖν ὅτι ἀνάστασις νεκρῶν οὐκ ἔστιν;"
+    },
+    {
+      "v": "15:13",
+      "text": "Εἰ δὲ ἀνάστασις νεκρῶν οὐκ ἔστιν, οὐδὲ χριστὸς ἐγήγερται·"
+    },
+    {
+      "v": "15:14",
+      "text": "εἰ δὲ χριστὸς οὐκ ἐγήγερται, κενὸν ἄρα τὸ κήρυγμα ἡμῶν, κενὴ δὲ καὶ ἡ πίστις ὑμῶν."
+    },
+    {
+      "v": "15:15",
+      "text": "Εὑρισκόμεθα δὲ καὶ ψευδομάρτυρες τοῦ θεοῦ, ὅτι ἐμαρτυρήσαμεν κατὰ τοῦ θεοῦ ὅτι ἤγειρεν τὸν χριστόν, ὃν οὐκ ἤγειρεν, εἴπερ ἄρα νεκροὶ οὐκ ἐγείρονται."
+    },
+    {
+      "v": "15:16",
+      "text": "Εἰ γὰρ νεκροὶ οὐκ ἐγείρονται, οὐδὲ χριστὸς ἐγήγερται·"
+    },
+    {
+      "v": "15:17",
+      "text": "εἰ δὲ χριστὸς οὐκ ἐγήγερται, ματαία ἡ πίστις ὑμῶν· ἔτι ἐστὲ ἐν ταῖς ἁμαρτίαις ὑμῶν."
+    },
+    {
+      "v": "15:18",
+      "text": "Ἄρα καὶ οἱ κοιμηθέντες ἐν χριστῷ ἀπώλοντο."
+    },
+    {
+      "v": "15:19",
+      "text": "Εἰ ἐν τῇ ζωῇ ταύτῃ ἠλπικότες ἐσμὲν ἐν χριστῷ μόνον, ἐλεεινότεροι πάντων ἀνθρώπων ἐσμέν."
+    }
+  ],
+  "english": [
+    {
+      "v": "15:12",
+      "text": "Brothers and sisters: if Christ is preached as raised from the dead, how can some of you say there is no resurrection of the dead?"
+    },
+    {
+      "v": "15:13",
+      "text": "But if there is no resurrection of the dead, then Christ has not been raised either."
+    },
+    {
+      "v": "15:14",
+      "text": "And if Christ has not been raised, then our preaching is empty — and your faith is empty too."
+    },
+    {
+      "v": "15:15",
+      "text": "And we turn out to be false witnesses about God, because we testified against God that he raised the Christ — whom he did not raise, if it is really true that the dead are not raised."
+    },
+    {
+      "v": "15:16",
+      "text": "Because if the dead are not raised, then Christ has not been raised either."
+    },
+    {
+      "v": "15:17",
+      "text": "And if Christ has not been raised, your faith is futile — you are still in your sins."
+    },
+    {
+      "v": "15:18",
+      "text": "In that case, those who have fallen asleep in Christ are lost as well."
+    },
+    {
+      "v": "15:19",
+      "text": "If in this life we have hope in Christ and nothing more, we are the most pitiable of all people."
+    }
+  ],
+  "greek_source": "content/2026-08-03/readings.md",
+  "english_source": "content/2026-08-03/readings.md",
+  "status": "complete"
+}

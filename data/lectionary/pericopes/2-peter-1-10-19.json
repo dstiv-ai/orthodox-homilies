@@ -1,0 +1,100 @@
+{
+  "ref": "2 Peter 1:10-19",
+  "book": "2Pet",
+  "from": [
+    1,
+    10
+  ],
+  "to": [
+    1,
+    19
+  ],
+  "slug": "2-peter-1-10-19",
+  "greek": [
+    {
+      "v": "1:10",
+      "text": "Διὸ μᾶλλον, ἀδελφοί, σπουδάσατε βεβαίαν ὑμῶν τὴν κλῆσιν καὶ ἐκλογὴν ποιεῖσθαι· ταῦτα γὰρ ποιοῦντες οὐ μὴ πταίσητέ ποτε·"
+    },
+    {
+      "v": "1:11",
+      "text": "οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ χριστοῦ."
+    },
+    {
+      "v": "1:12",
+      "text": "Διὸ οὐκ ἀμελήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας, καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ."
+    },
+    {
+      "v": "1:13",
+      "text": "Δίκαιον δὲ ἡγοῦμαι, ἐφ' ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει·"
+    },
+    {
+      "v": "1:14",
+      "text": "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς χριστὸς ἐδήλωσέν μοι."
+    },
+    {
+      "v": "1:15",
+      "text": "Σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι."
+    },
+    {
+      "v": "1:16",
+      "text": "Οὐ γὰρ σεσοφισμένοις μύθοις ἐξακολουθήσαντες ἐγνωρίσαμεν ὑμῖν τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ δύναμιν καὶ παρουσίαν, ἀλλ' ἐπόπται γενηθέντες τῆς ἐκείνου μεγαλειότητος."
+    },
+    {
+      "v": "1:17",
+      "text": "Λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν, φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης, Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, εἰς ὃν ἐγὼ εὐδόκησα·"
+    },
+    {
+      "v": "1:18",
+      "text": "καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν, σὺν αὐτῷ ὄντες ἐν τῷ ὄρει τῷ ἁγίῳ."
+    },
+    {
+      "v": "1:19",
+      "text": "Καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, ᾧ καλῶς ποιεῖτε προσέχοντες, ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ, ἕως οὗ ἡμέρα διαυγάσῃ, καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν·"
+    }
+  ],
+  "english": [
+    {
+      "v": "1:10",
+      "text": "Beloved: so all the more, make every effort to confirm your calling and election. If you do these things, you will never stumble."
+    },
+    {
+      "v": "1:11",
+      "text": "For in this way entry into the eternal kingdom of our Lord and Saviour Jesus Christ will be richly provided for you."
+    },
+    {
+      "v": "1:12",
+      "text": "Therefore I will never neglect to remind you of these things, even though you know them and are established in the truth you have."
+    },
+    {
+      "v": "1:13",
+      "text": "I think it right, as long as I am in this tent, to stir you up by way of reminder,"
+    },
+    {
+      "v": "1:14",
+      "text": "since I know that the putting off of my tent is soon, as our Lord Jesus Christ made clear to me."
+    },
+    {
+      "v": "1:15",
+      "text": "And I will make every effort so that after my departure you may always be able to recall these things."
+    },
+    {
+      "v": "1:16",
+      "text": "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ — we were eyewitnesses of his majesty."
+    },
+    {
+      "v": "1:17",
+      "text": "For he received honour and glory from God the Father when a voice was brought to him like this by the Majestic Glory: \"This is my beloved Son, in whom I am well pleased.\""
+    },
+    {
+      "v": "1:18",
+      "text": "And we heard this voice brought from heaven, when we were with him on the holy mountain."
+    },
+    {
+      "v": "1:19",
+      "text": "And we have the prophetic word made more sure, which you do well to heed, as a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts."
+    }
+  ],
+  "greek_source": "content/2026-08-06/readings.md",
+  "english_source": "content/2026-08-06/readings.md",
+  "status": "complete"
+}

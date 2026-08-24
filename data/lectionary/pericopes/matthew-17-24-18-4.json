@@ -1,0 +1,84 @@
+{
+  "ref": "Matthew 17:24-18:4",
+  "book": "Matt",
+  "from": [
+    17,
+    24
+  ],
+  "to": [
+    18,
+    4
+  ],
+  "slug": "matthew-17-24-18-4",
+  "greek": [
+    {
+      "v": "17:24",
+      "text": "Ἐλθόντων δὲ αὐτῶν εἰς Καπερναούμ, προσῆλθον οἱ τὰ δίδραχμα λαμβάνοντες τῷ Πέτρῳ καὶ εἶπον, Ὁ διδάσκαλος ὑμῶν οὐ τελεῖ τὰ δίδραχμα;"
+    },
+    {
+      "v": "17:25",
+      "text": "Λέγει, Ναί. Καὶ ὅτε εἰσῆλθεν εἰς τὴν οἰκίαν, προέφθασεν αὐτὸν ὁ Ἰησοῦς, λέγων, Τί σοι δοκεῖ, Σίμων; Οἱ βασιλεῖς τῆς γῆς ἀπὸ τίνων λαμβάνουσιν τέλη ἢ κῆνσον; Ἀπὸ τῶν υἱῶν αὐτῶν, ἢ ἀπὸ τῶν ἀλλοτρίων;"
+    },
+    {
+      "v": "17:26",
+      "text": "Λέγει αὐτῷ ὁ Πέτρος, Ἀπὸ τῶν ἀλλοτρίων. Ἔφη αὐτῷ ὁ Ἰησοῦς, Ἄρα γε ἐλεύθεροί εἰσιν οἱ υἱοί."
+    },
+    {
+      "v": "17:27",
+      "text": "Ἵνα δὲ μὴ σκανδαλίσωμεν αὐτούς, πορευθεὶς εἰς τὴν θάλασσαν βάλε ἄγκιστρον, καὶ τὸν ἀναβαίνοντα πρῶτον ἰχθὺν ἆρον· καὶ ἀνοίξας τὸ στόμα αὐτοῦ, εὑρήσεις στατῆρα· ἐκεῖνον λαβὼν δὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ."
+    },
+    {
+      "v": "18:1",
+      "text": "Ἐν ἐκείνῃ τῇ ὥρᾳ προσῆλθον οἱ μαθηταὶ τῷ Ἰησοῦ, λέγοντες, Τίς ἄρα μείζων ἐστὶν ἐν τῇ βασιλείᾳ τῶν οὐρανῶν;"
+    },
+    {
+      "v": "18:2",
+      "text": "Καὶ προσκαλεσάμενος ὁ Ἰησοῦς παιδίον ἔστησεν αὐτὸ ἐν μέσῳ αὐτῶν,"
+    },
+    {
+      "v": "18:3",
+      "text": "καὶ εἶπεν, Ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν."
+    },
+    {
+      "v": "18:4",
+      "text": "Ὅστις οὖν ταπεινώσει ἑαυτὸν ὡς τὸ παιδίον τοῦτο, οὗτός ἐστιν ὁ μείζων ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+    }
+  ],
+  "english": [
+    {
+      "v": "17:24",
+      "text": "At that time, when they came to Capernaum, the men who collect the two-drachma tax came up to Peter and said: \"Doesn't your teacher pay the two drachmas?\""
+    },
+    {
+      "v": "17:25",
+      "text": "\"Yes,\" he said. And when he went into the house, Jesus spoke first, before Peter could say anything: \"What do you think, Simon? Who do the kings of the earth collect duty and tax from — from their own children, or from outsiders?\""
+    },
+    {
+      "v": "17:26",
+      "text": "Peter said to him, \"From outsiders.\" Jesus said to him: \"Then the children are free.\""
+    },
+    {
+      "v": "17:27",
+      "text": "\"But so that we do not trip them up, go down to the sea, throw in a hook, and take the first fish that comes up. Open its mouth and you will find a stater — take that and give it to them for me and for you.\""
+    },
+    {
+      "v": "18:1",
+      "text": "At that very moment the disciples came to Jesus and asked: \"So who is the greatest in the kingdom of heaven?\""
+    },
+    {
+      "v": "18:2",
+      "text": "Jesus called a little child over and stood the child in the middle of them,"
+    },
+    {
+      "v": "18:3",
+      "text": "and said: \"I tell you the truth: unless you turn around and become like little children, you will never enter the kingdom of heaven."
+    },
+    {
+      "v": "18:4",
+      "text": "So whoever makes himself low like this little child — that one is the greatest in the kingdom of heaven.\""
+    }
+  ],
+  "greek_source": "content/2026-08-08/readings.md",
+  "english_source": "content/2026-08-08/readings.md",
+  "status": "complete"
+}

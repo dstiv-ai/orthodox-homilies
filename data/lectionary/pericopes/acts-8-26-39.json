@@ -1,0 +1,19 @@
+{
+  "ref": "Acts 8:26-39",
+  "book": "Acts",
+  "from": [
+    8,
+    26
+  ],
+  "to": [
+    8,
+    39
+  ],
+  "slug": "acts-8-26-39",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "range 8:26-8:39 walked past end at ACT 9:1"
+}

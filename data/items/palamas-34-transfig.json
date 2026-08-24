@@ -1,0 +1,354 @@
+{
+  "id": "palamas-34-transfig",
+  "slug": "palamas-34-transfig",
+  "title": "On the Transfiguration",
+  "father": "St Gregory Palamas",
+  "collection": null,
+  "source_ref": "Homily 34 (PG 151:424-436)",
+  "category": "church-year",
+  "feast": "transfiguration",
+  "saint_key": null,
+  "cover_key": "transfiguration",
+  "scripture": [
+    "Matthew 17:1-9"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 4045,
+  "reading_minutes": 20,
+  "attribution_note": null,
+  "path": [
+    "church-year",
+    "feasts",
+    "transfiguration"
+  ],
+  "sections": [
+    {
+      "heading": "Mothers chew the food, so the Fathers explain the Word",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "Eπαινούμεν και ημείς και θαυμάζομεν αναθεωρούντες την μεγαλουργίαν ταύτην του Θεού, την ορωμένην άπασαν λέγω κτίσιν. Επαινούσι ταύτην και θαυμάζουσιν εξερευνώντες και οι τών Ελλήνων σοφοί. Αλλ' ημείς μεν εις δόξαν τού Κτίσαντος, εκείνοι δε κατά δόξης τού Κτίσαντος· ελάτρευσαν γαρ αθλίως τη κτίσει παρά τον Κτίσαντα.",
+          "en": "<span class=\"sn\" data-s=\"1\">We too praise and marvel as we contemplate this great work of God — I mean the whole of visible creation.</span> <span class=\"sn\" data-s=\"2\">The wise men of the Greeks praise it too, and study it with wonder.</span> <span class=\"sn\" data-s=\"3\">But there is a difference.</span> <span class=\"sn\" data-s=\"4\">We praise it for the glory of the One who made it; they turn their praise against the glory of the Maker, for they *“wretchedly worshipped the creation rather than the Creator”* [Romans 1:25].</span>"
+        },
+        {
+          "gr": "Ούτω και τας προφητικάς και Αποστολικάς και πατρικάς φωνάς διασαφούμεν και ημείς, αλλ' εις ωφέλειαν των εντυγχανόντων και ύμνον τού δια τών Προφητών και Αποστόλων και πατέρων λαλήσαντος Πνεύματος. Επιχειρούσι ταύτας διερμηνεύειν και οι κατά καιρούς πονηράς αιρέσεως προϊστάμενοι, αλλ' εις βλάβην τών αυτοίς πειθομένων και τής κατ' ευσέβειαν αληθείας αθέτησιν, ταις του Πνεύματος φωναίς κατά τού Πνεύματος χρώμενοι.",
+          "en": "<span class=\"sn\" data-s=\"5\">In just the same way, we too set out to explain the words spoken by the prophets, the apostles and the Fathers — but we do it for the benefit of those who read them, and as a hymn to the Spirit who spoke through the prophets, the apostles and the Fathers alike.</span> <span class=\"sn\" data-s=\"6\">The leaders of one wicked heresy or another, age after age, also attempt to interpret these same words — but only to harm those who trust them and to overturn the truth of true religion, using the words of the Spirit against the Spirit himself.</span>"
+        },
+        {
+          "gr": "Και αυτόν δε τον του ευαγγελίου της χάριτος λόγον, υψηλόν όντα και πρεσβυτικαίς ακροαίς και διανοίαις κατάλληλον, οι θεοφόροι πατέρες ημών δια των οικείων στομάτων οίον καταλεαίνοντες, κατάλληλον αυτόν και τοις ατελέσιν ημίν απεργάζονται, καθάπερ αι φιλόπαιδες μητέρες, διαμασώμεναι την στερεωτέραν τροφήν, εύχρηστόν τε και ευπαράδεκτον και τοις υπομαζίοις έτι κατασκευάζουσιν",
+          "en": "<span class=\"sn\" data-s=\"7\">Now, the Gospel of grace itself is a lofty thing, suited to mature ears and mature minds.</span> <span class=\"sn\" data-s=\"8\">Our God-bearing Fathers take it, as it were, into their own mouths and chew it soft, making it fit even for people as unfinished as we are — just as mothers who love their children chew the harder food themselves, to make it useful and easy to take even for babies still at the breast.</span>"
+        },
+        {
+          "gr": "επεί και το εν τοις στόμασι τών κατά σώμα μητέρων υγρόν τροφή γίνεται τοις παισί και τα εν ταις καρδίαις τών θεοφόρων πατέρων νοήματα πρόσφορος τροφή γίνεται ταις τών ακουόντων και πειθομένων ψυχαίς,",
+          "en": "<span class=\"sn\" data-s=\"9\">Think how the moisture in a mother's own mouth becomes food for her child: in exactly that way, the thoughts stored in the hearts of our God-bearing Fathers become fitting food for the souls of those who listen and believe.</span>"
+        },
+        {
+          "gr": "των δε πονηρών και κακοδόξων τα στόματα ιού γέμει θανατηφόρου, ου μιγνυμένου τοις ρήμασι τής ζωής, θανατηφόρα και ταύτα τοις απερισκέπτως ακούουσι γίνεται.",
+          "en": "<span class=\"sn\" data-s=\"10\">But the mouths of wicked, false-believing men are full of deadly poison, with nothing of the words of life mixed into it — so that for anyone who listens to them carelessly, even those words become deadly.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Flee false teachers as you would flee a snake",
+      "heading_sentence_index": 11,
+      "pairs": [
+        {
+          "gr": "Φύγωμεν ουν τους τας πατρικάς εξηγήσεις μη παραδεχομένους, αλλά παρ' εαυτών πειρωμένους εισάγειν τα εναντία, και τας μεν εν τω γράμματι λέξεις πιριέπειν υποκρινομένους, την δε ευσεβή διάνοιαν απωθουμένους· και φύγωμεν μάλλον ή φεύγει τις από όφεως. Ο μεν γαρ ενδακών το σώμα θανατοί πρόσκαιρα, τής αθανάτου ψυχής χωρίσας· οι δε τής ψυχής αυτής λαβόμενοι τοις οδούσι χωρίζουσιν αυτήν του Θεού, όπερ εστί θάνατος αιώνιος τής αθανάτου ψυχής.",
+          "en": "<span class=\"sn\" data-s=\"12\">Let us flee, then, from those who refuse to accept the Fathers' explanations, and try instead to smuggle in the opposite teaching of their own — men who make a show of clinging to the letter of the text while pushing away its true, reverent sense.</span> <span class=\"sn\" data-s=\"13\">Let us flee from them more urgently than anyone ever fled a snake.</span> <span class=\"sn\" data-s=\"14\">A snake that sinks its teeth into the body kills only for a time, and only parts the immortal soul from the body; but these men sink their teeth into the soul itself, and part it from God — and that is the eternal death of an immortal soul.</span>"
+        },
+        {
+          "gr": "Φεύγωμεν ουν τους τοιούτους πάση δυνάμει, και προσφεύγωμεν τοις υποτιθεμένοις τα ευσεβή και σωτήρια, ως συνάδοντα ταις πατρικαίς παραδόσεσι.",
+          "en": "<span class=\"sn\" data-s=\"15\">So let us flee such men with all our strength, and run instead to those who set before us what is reverent and saving, because it is in harmony with the traditions of the Fathers.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Today's feast, and the words of the Gospel itself",
+      "heading_sentence_index": 16,
+      "pairs": [
+        {
+          "gr": "Τοιαύτα δε νυν είπον και ταύτα προοιμιασάμην προς την υμετέραν αγάπην, επεί την επ' όρους σεπτήν τού Χριστού Μεταμόρφωσιν εορτάζομεν σήμερον και περί τού κατ' αυτήν φωτός ο λόγος ημίν, καθ' ου πολύς έτι νυν αγών τοις τού φωτός πολεμίοις. Φέρε δη μικρόν άνωθεν προθώμεν τας σήμερον αναγινωσκομένας ευαγγελικάς φωνάς εις ανάπτυξιν τού μυστηρίου και τής αληθείας παράστασιν.",
+          "en": "<span class=\"sn\" data-s=\"17\">That is what I wanted to say by way of preface to your love, because today we celebrate Christ's holy Transfiguration on the mountain, and our subject is the light that shone in it — a light the enemies of light are, even now, still fighting hard against.</span> <span class=\"sn\" data-s=\"18\">So let us set out, from a little further back, the Gospel readings appointed for today, to unfold the mystery and lay out the truth clearly.</span>"
+        },
+        {
+          "gr": "«Μεθ' ημέρας έξ παραλαμβάνει ο Ιησούς τον Πέτρον και Ιάκωβον και Ιωάννην και αναφέρει αυτούς εις όρος υψηλόν κατ' ιδίαν, και μετεμορφώθη έμπροσθεν αυτών, και έλαμψε το πρόσωπον αυτού ως ο ήλιος». Τούτο δη του ευαγγελίου πρώτον κατιδείν αναγκαίον, μετά ποίαν ημέραν ο Απόστολος του Χριστού και ευαγγελιστής Ματθαίος τας έξ ημέρας αριθμεί, μεθ' ας η τής τού Κυρίου μεταμορφώσεως ημέρα επέστη; Μετά ποίαν ουν; Μετ' εκείνην, καθ' ην διδάσκων τους εαυτού μαθητάς ο Κύριος, έλεγεν, ότι μέλλει ο Υιός του ανθρώπου έρχεσθαι εν τη δόξη τού Πατρός αυτού, και προσετίθει λέγων «ότι εισί τίνες τών ώδε εστηκότων, οίτινες ου μη γεύσωνται θανάτου, έως αν ίδωσι τον υιόν του ανθρώπου ερχόμενον εν τη βασιλεία αυτού», δόξαν του Πατρός και βασιλείαν εαυτού καλών το φως τής οικείας μεταμορφώσεως.",
+          "en": "<span class=\"sn\" data-s=\"19\">*“Six days later, Jesus took Peter, James and John, and led them up a high mountain by themselves; and he was transfigured before them, and his face shone like the sun.”* [Matthew 17:1-2] This is the first thing we need to notice in the Gospel: after which day does Matthew, Christ's apostle and evangelist, count the six days that led up to the day of the Lord's Transfiguration?</span> <span class=\"sn\" data-s=\"20\">After which day, then?</span> <span class=\"sn\" data-s=\"21\">After the day on which the Lord, teaching his own disciples, told them that the Son of Man was going to come in the glory of his Father, and added: *“There are some standing here who will not taste death until they see the Son of Man coming in his kingdom”* [Matthew 16:28] — calling the light of his own Transfiguration both “the glory of the Father” and “his own kingdom.”</span>"
+        },
+        {
+          "gr": "Τούτο και ο ευαγγελιστής Λουκάς υποδεικνύς και σαφέστερον εκτιθέμενος, «έγιναν», φησίν, «μετά τους λόγους τούτους ωσεί ημεραι οκτώ, και παραλαβών τον Πέτρον και Ιάκωβον και Ιωάννην, ανέβη εις το όρος προσεύξασθαι και εγένετο εν τω προσεύχεσθαι αυτόν το είδος τού προσώπου αυτού έτερον και ο ιματισμός αυτού λευκός εξαστράπτων».",
+          "en": "<span class=\"sn\" data-s=\"22\">The evangelist Luke points to the very same day, and sets it out even more clearly: *“About eight days after these sayings,”* he tells us, *“he took Peter, James and John and went up onto the mountain to pray.*</span> <span class=\"sn\" data-s=\"23\">*And as he prayed, the appearance of his face was altered, and his clothing became dazzling white.”* [Luke 9:28-29]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Six days or eight — the evangelists agree after all",
+      "heading_sentence_index": 24,
+      "pairs": [
+        {
+          "gr": "Αλλά πώς συμφωνούσιν αλλήλοις, ο μεν οκτώ φανερώς ειπών τας μεταξύ τής επαγγελίας και τής επιφανείας ημέρας, ο δε, μεθ' ημέρας έξ; Ακούετε και συνίετε. Οκτώ επί του όρους ήσαν, και έξ εφαίνοντο. Τρεις ούτοι, Πέτρος και Ιάκωβος και Ιωάννης, οι τω Ιησού συναναβάντες· είδον δε εκεί συνόντας αυτώ και συλλαλούντας, και τον Μωυσήν και τον Ηλίαν, ως είναι τούτους έξ.",
+          "en": "<span class=\"sn\" data-s=\"25\">But how do these two accounts agree with each other — Luke plainly saying there were eight days between the promise and its fulfilment, and Matthew saying six?</span> <span class=\"sn\" data-s=\"26\">Listen, and understand.</span> <span class=\"sn\" data-s=\"27\">There were eight people on the mountain, though only six of them could be seen.</span> <span class=\"sn\" data-s=\"28\">The three disciples — Peter, James and John — went up with Jesus; and there they saw, present with him and talking with him, Moses and Elijah as well, which makes six.</span>"
+        },
+        {
+          "gr": "Αλλά τω Κυρίω πάντως αοράτως και ο Πατήρ και το Πνεύμα το Άγιον συνήν, ο Μεν μαρτύρων δια φωνής οικείας αγαπητόν υιόν είναι τούτον εαυτού, Το Δε, δια τής φωτεινής νεφέλης συνεκλάμπον και το τού Υιού προς τε αυτό και τον Πατέρα συμφυές και ενιαίον τού φωτός δεικνύον· τούτων γαρ πλούτος η συμφυΐα και το έν έξαλμα τής λαμπρότητος. Ούτως ούν οκτώ εισιν οι έξ.",
+          "en": "<span class=\"sn\" data-s=\"29\">But the Father and the Holy Spirit were also present with the Lord, unseen — the Father bearing witness with his own voice that this was his beloved Son, and the Spirit shining together with him through the bright cloud, showing that the light of the Son was one nature with, and one with, both itself and the Father: for what makes them rich is exactly this — that they share one nature, and leap forth as a single flash of brightness.</span> <span class=\"sn\" data-s=\"30\">So the six on the mountain were, in truth, eight.</span>"
+        },
+        {
+          "gr": "Ως ουν εν τούτοις ουδεμίαν διαφωνίαν έχει ο έξ προς τον οκτώ, ούτως ουδέ οι ευαγγελισταί διαφωνούσιν, ο μεν ειπών μεθ' ημέρας έξ, ο δε Λουκάς, εγένοντο μετά τους λόγους τούτους ως ημέραι οκτώ· αλλ' οιόν τινα τύπον ημίν δι' αμφοτέρων τούτων έδωκαν τών λόγων τών εν τω όρει μυστικώς άμα και εμφανώς συνειλεγμένων.",
+          "en": "<span class=\"sn\" data-s=\"31\">So just as there is no real disagreement here between the six and the eight, so too there is no real disagreement between the evangelists — one saying “six days later,” the other, “about eight days after these sayings.”</span> <span class=\"sn\" data-s=\"32\">Between the two of them, they have handed down to us a kind of pattern, drawn from the words spoken on the mountain, gathered together both hidden and revealed at once.</span>"
+        },
+        {
+          "gr": "Ίδοι γαρ αν τις ούτω και κατά το γράμμα καλώς σκοπών ομολόγους αλλήλους τους θεοκήρυκας. Οκτώ γαρ είπεν ο Λουκάς ημέρας, ου διαφωνών προς εκείνον, ειπόντα μεθ' ημέρας έξ, αλλά συμπεριλαβών και την ημέραν καθ' ην οι λόγοι εκείνοι ελέχθησαν και την ημέραν καθ' ην μετεμορφώθη ο Κύριος· άς και ο Ματθαίος νοείν δίδωσι τοις συνετώς σκοπούσι, δια και την “μετά” πρόθεσιν, την υστεραίαν δηλούσαν, ούτος μεν είπεν, εκείνος δε αφήκεν ου γαρ μεθ' ημέρας οκτώ φησιν, ως εκείνος μεθ' ημέρας έξ, αλλ' εγένοντο ως ημέραι οκτώ. Ούτως ουδέν παρηλλαγμένον εν τη τών Ευαγγελιστών ιστορική διάνοια.",
+          "en": "<span class=\"sn\" data-s=\"33\">Anyone who looks carefully, even simply at the letter of the text, will see that these preachers of God agree with one another perfectly.</span> <span class=\"sn\" data-s=\"34\">Luke says eight days, not because he disagrees with the other evangelist's “six days,” but because he includes both the day on which those words were first spoken and the day on which the Lord was transfigured.</span> <span class=\"sn\" data-s=\"35\">Matthew allows attentive readers to see the same thing through his very choice of the word “after,” which points to the following day: he says “after six days,” while Luke does not use that construction — he does not say “after eight days,” the way Matthew says “after six,” but rather, “it happened about eight days” later.</span> <span class=\"sn\" data-s=\"36\">So there is nothing at all inconsistent in the two evangelists' record of these events.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The eighth day, beyond the six of this world",
+      "heading_sentence_index": 37,
+      "pairs": [
+        {
+          "gr": "Αλλά και έτερόν τι μέγα τε και μυστικόν δι' αλλήλων ημίν εν τω δοκείν διαφωνείν υποφαίνουσι· και δη προσέχετε τον νουν τοις ρηθησομένοις, όσοι διαβατικώτεροι την διάνοιαν. Δια τι γαρ ο μεν μετά έξ ημέρας είπεν, ο δε υπερέβη και την εβδόμην, τής ογδόης μνησθείς;",
+          "en": "<span class=\"sn\" data-s=\"38\">But there is something else here too, something great and mysterious, which the two evangelists reveal to us precisely through their apparent disagreement — so pay close attention to what I am about to say, all of you whose minds can follow a harder argument.</span> <span class=\"sn\" data-s=\"39\">Why does the one say “after six days,” while the other passes over even the seventh day, and mentions the eighth instead?</span>"
+        },
+        {
+          "gr": "Διότι το μέγα θέαμα τού φωτός τής τού Κυρίου μεταμορφώσεως, τής ογδόης ήτοι του μέλλοντος αιώνός εστί το μυστήριον, μετά την κατάπαυσιν του εν έξ ημέραις γεγονότος κόσμου και την υπέρβασιν της καθ' ημάς αισθήσεως εξαδικώς ενεργούσης αναφαινόμενον· πέντε γαρ αισθήσεις έχομεν, προστιθέμενος δε ταύταις ο κατ' αίσθησιν προφορικός λόγος, εξαδικήν την ενέργειαν τής αισθήσεως ημών απεργάζεται.",
+          "en": "<span class=\"sn\" data-s=\"40\">Because the great spectacle of the light of the Lord's Transfiguration is the mystery of the eighth day — that is, of the age to come.</span> <span class=\"sn\" data-s=\"41\">It appears only after the rest that follows the world made in six days, and only by rising above the sixfold working of our ordinary senses.</span> <span class=\"sn\" data-s=\"42\">We have five senses; and when you add to them our inner, spoken reasoning about what the senses perceive, that makes our sense-perception work in a sixfold way.</span>"
+        },
+        {
+          "gr": "Ου μόνον δε υπέρ αίσθησιν, αλλά και υπέρ λόγον εστίν η επηγγελμένη τοις αξίοις τού Θεού βασιλεία· δια τούτο μετά την καλήν ανενεργησίαν τών εξαδικώς τούτων εκτελουμένων, ής ανενεργησίας το αξίωμα η εβδόμη πλουτεί, κατά την ογδόην δυνάμει κρείττονος ενεργείας η βασιλεία του Θεού αναφαίνεται.",
+          "en": "<span class=\"sn\" data-s=\"43\">But the kingdom promised to those found worthy of God stands not only above sense-perception, but above reason itself.</span> <span class=\"sn\" data-s=\"44\">That is why, after the good stillness that follows the sixfold working of these senses — a stillness whose true worth belongs to the seventh day — the kingdom of God appears, on the eighth day, by the power of a still greater working.</span>"
+        },
+        {
+          "gr": "Και ταύτην την του θείου Πνεύματος δύναμιν, δι' ής οράται τοις αξίοις ή τού Θεού βασιλεία, κατά τον θείον Λουκάν ο Κύριος ενδεικνύμενος τοις μαθηταίς, προείπεν «εισί τινες τών ώδε εστηκότων, οίτινες ου μη γεύσωνται θανάτου, έως αν ίδωσι την βασιλείαν τού Θεού εληλυθυΐαν εν δυνάμει»,",
+          "en": "<span class=\"sn\" data-s=\"45\">And this is exactly the power of the divine Spirit by which the kingdom of God becomes visible to those worthy of it.</span> <span class=\"sn\" data-s=\"46\">As St Luke tells us, the Lord, pointing his disciples toward this same power, foretold: *“There are some standing here who will not taste death until they see the kingdom of God come in power”* [Mark 9:1].</span>"
+        },
+        {
+          "gr": "τουτέστι, τω δύναμιν τοις ορώσι παρασχείν ιδείν τα αθέατα, τής θανασίμου και ψυχωλέθρου προκαθάρασα λύμης, ήτις εστίν η αμαρτία·",
+          "en": "<span class=\"sn\" data-s=\"47\">That is: the power to grant those who see it the sight of things unseen — a power that first cleanses them from the deadly, soul-destroying corruption which is sin.</span>"
+        },
+        {
+          "gr": "ταύτης δε γεύσίς εστίν η εν τω λογισμώ της κακίας αρχή, ης οι προκαθαρθέντες ου γεύονται τού κατά ψυχήν θανάτου, τη δυνάμει τής μελλούσης επιφανείας αμόλυντοι τηρηθέντες, ως εγώ νομίζω, και την διάνοιαν.",
+          "en": "<span class=\"sn\" data-s=\"48\">To *taste* that corruption is simply for the mind to entertain the first thought of wickedness; and those already cleansed beforehand do not taste that death of the soul.</span> <span class=\"sn\" data-s=\"49\">They are kept unstained, in mind as much as anything else, by the power of that future manifestation — or so, at least, I believe.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The kingdom of God comes in power, not from a distance",
+      "heading_sentence_index": 50,
+      "pairs": [
+        {
+          "gr": "«Εισί τινες τών ώδε εστηκότων, οίτινες ου μη γεύσονται θανάτου, έως αν ίδωσι την βασιλείαν τού Θεού εληλυθυΐαν εν δυνάμει».",
+          "en": "<span class=\"sn\" data-s=\"51\">*“There are some standing here who will not taste death until they see the kingdom of God come in power.”* [Mark 9:1]</span>"
+        },
+        {
+          "gr": "Πανταχού εστίν ο τού παντός βασιλεύς και πανταχού εστίν η βασιλεία αυτού, ώστε το έρχεσθαι την αυτού βασιλείαν, ου το άλλοθεν αλλαχόσε παραγίνεσθαι δηλοί, αλλά το φανερούσθαι ταύτην τη δυνάμει του θείου Πνεύματος· δια τούτο έλεγεν εληλυθυΐαν εν δυνάμει.",
+          "en": "<span class=\"sn\" data-s=\"52\">The King of all is everywhere, and his kingdom is everywhere too.</span> <span class=\"sn\" data-s=\"53\">So when it says his kingdom “comes,” that does not mean it travels from one place to arrive at another — it means that it is made manifest by the power of the divine Spirit.</span> <span class=\"sn\" data-s=\"54\">That is exactly why the text says “come in power.”</span>"
+        },
+        {
+          "gr": "Ήτις δύναμις ουχ απλώς τοις τυχούσιν εγγίνεται, αλλά τοις εστηκόσι μετά του Κυρίου, τουτέστι τοις εστηριγμένοις εν τη πίστει αυτού και τοις κατά Πέτρον και Ιάκωβον και Ιωάννην, και τούτοις αναφερομένοις υπό τού λόγου πρότερον εις όρος υψηλόν, δηλονότι τής φυσικής ημών ταπεινότητος υπεραναβιβαζομένοις·",
+          "en": "<span class=\"sn\" data-s=\"55\">And that power is not simply given to just anyone.</span> <span class=\"sn\" data-s=\"56\">It comes to those who stand firm with the Lord — that is, those established in faith in him — men like Peter, James and John, who were first lifted up by the Word onto a high mountain, meaning: raised up high above the lowliness natural to us.</span>"
+        },
+        {
+          "gr": "επεί και δια τούτον Θεός εν όρει, κατά τον ειπόντα, φαντάζεται, το μέντοι καταβαίνων αυτός τής οικείας περιωπής, το δε ημάς ανάγων εκ της κάτωθεν ταπεινώσεως, ίνα χωρηθή μετρίως γουν γεννητή φύσει και όσον ασφαλές ο Αχώρητος. Η δε τοιαύτη φαντασία, ου του νου χείρων, αλλά πολλώ κρείπων και υψηλότερα, ως εγγινομένη τη δυνάμει του θείου Πνεύματος.",
+          "en": "<span class=\"sn\" data-s=\"57\">For it is because of this that, as one has said, God appears on a mountain — not that he himself comes down from his own height, but that he lifts us up out of our lowliness below, so that our created nature can receive him, the Uncontainable, in whatever modest and safe measure it can.</span> <span class=\"sn\" data-s=\"58\">And this kind of appearing is no lesser thing than the mind — it is far mightier and far higher, since it comes to be by the power of the divine Spirit.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Uncreated light, seen by transfigured eyes",
+      "heading_sentence_index": 59,
+      "pairs": [
+        {
+          "gr": "Ου γίνεται τοιγαρούν και απογίνεται, ουδέ περιγράφεται, ουδ' αισθητική δυνάμει υποπίπτει το φως τής τού Κυρίου μεταμορφώσεως, ει και δι' οφθαλμών σωματικών εώραται και προς ολίγον χρόνον και εν βραχεία τού όρους κορυφή, αλλ' από τής σαρκός επί το πνεύμα τηνικαύτα, κατά τον ειπόντα, μετέβησαν οι του Κυρίου μύσται τη εναλλαγή τών αισθήσεων, ην αυτοίς το Πνεύμα ενήργησε, και ούτως είδον, ου τε και εφ' όσον εχαρίσατο τούτοις η του θείου Πνεύματος δύναμις, το απόρρητον εκείνο φως·",
+          "en": "<span class=\"sn\" data-s=\"60\">The light of the Lord's Transfiguration, then, does not come into being and pass away; it cannot be bounded or measured, and it does not fall under any power of sense-perception — even though it was, for a short time, on the small summit of that mountain, seen with bodily eyes.</span> <span class=\"sn\" data-s=\"61\">Rather, as one has said, the Lord's initiates passed at that moment from flesh to spirit, by a change worked in their senses by the Spirit himself; and it was only in that way, and only to the degree that the power of the divine Spirit granted it to them, that they saw that ineffable light.</span>"
+        },
+        {
+          "gr": "ό μη συνιδόντες οι νυν εις τούτο βλασφημούντες, αισθητική τε και κτιστή δυνάμει τους εκκρίτους τών Αποστόλων ιδείν ωήθησαν το φως τής τού Κυρίου μεταμορφώσεως, και δια τούτο κατασπάν επιχειρούσιν εις κτίσμα, μη μόνον το φως εκείνο, την τού Θεού δόξαν και βασιλείαν, αλλά και την δύναμιν τού θείου Πνεύματος, δι' ής τα θεία τοις αξίοις αποκαλύπτεται.",
+          "en": "<span class=\"sn\" data-s=\"62\">Those who now blaspheme against this truth have failed to grasp exactly that point.</span> <span class=\"sn\" data-s=\"63\">They imagine that the chosen apostles saw the light of the Lord's Transfiguration by some created, sense-perceptible power, and on that basis they attempt to drag down to the level of a mere creature not only that light — which is the glory and kingdom of God — but even the power of the divine Spirit himself, the power by which divine things are revealed to those found worthy of them.</span>"
+        },
+        {
+          "gr": "Ου γαρ ήκουσαν ή ουκ επίστευσαν Παύλω λέγοντι, «ά οφθαλμός ουκ είδε, και ους ουκ ήκουσε, και επί καρδίαν ανθρώπου ουκ ανέβη, ά ητοίμασεν ο Θεός τοις αγαπώσιν αυτόν, ημίν δε απεκάλυψεν ο Θεός δια τού Πνεύματος αυτού· το γαρ Πνεύμα ερευνά και τα βάθη τού Θεού»",
+          "en": "<span class=\"sn\" data-s=\"64\">For they have either not heard, or not believed, the words of Paul: *“What eye has not seen, and ear has not heard, and what has not entered into the heart of man — the things God has prepared for those who love him — these God has revealed to us through his Spirit; for the Spirit searches even the depths of God.”* [1 Corinthians 2:9-10]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Up the mountain to pray",
+      "heading_sentence_index": 65,
+      "pairs": [
+        {
+          "gr": "Αλλά τής ογδόης επιστάσης, καθάπερ είρηται, παραλαβών ο Κύριος τον Πέτρον και Ιάκωβον και Ιωάννην, ανέβη εις το όρος προσεύξασθαι·",
+          "en": "<span class=\"sn\" data-s=\"66\">So when the eighth day came, as we have said, the Lord took Peter, James and John and went up onto the mountain to pray.</span>"
+        },
+        {
+          "gr": "αεί γαρ, ή πάντων, και αυτών τών Αποστόλων, αποχωρών μόνος προσηύχετο, καθάπερ ηνίκα τους πεντακισχιλίους συν γυναιξί και παιδίοις πέντε άρτοις και δυσίν ιχθύσιν εξέθρεψε, πάραυτα γαρ πάντας απολύσας και τους μαθητάς πάντας αναγκάσας εμβήναι εις το πλοίον, αυτός ανέβη εις το όρος προσεύξασθαι·",
+          "en": "<span class=\"sn\" data-s=\"67\">For it was always his habit to withdraw and pray alone — away from everyone, even from the apostles themselves.</span> <span class=\"sn\" data-s=\"68\">It was the same when he fed the five thousand, with the women and children besides, on five loaves and two fish: as soon as he had sent the crowd away and made all the disciples get into the boat, he himself went up onto the mountain to pray [Matthew 14:22-23].</span>"
+        },
+        {
+          "gr": "ή συμπαραλαμβάνων ολίγους και τους τών άλλων υπερέχοντας μεθ' εαυτού· και τού σωτηρίου γαρ πάθους προσάγοντος, τοις μεν άλλοις μαθηταίς φησι, καθίσατε ώδε, έως προσεύξομαι· παραλαμβάνει δε τον Πέτρον και Ιάκωβον και Ιωάννην μεθ' εαυτού.",
+          "en": "<span class=\"sn\" data-s=\"69\">Or else he would take just a few of them with him — the ones who stood highest among the others.</span> <span class=\"sn\" data-s=\"70\">So too, when his saving Passion was drawing near, he said to the rest of the disciples, “Sit here while I pray,” and took only Peter, James and John with him [Matthew 26:36-37].</span>"
+        },
+        {
+          "gr": "Τούτους ουν κανταύθα μόνους παραλαβών «αναφέρει εις όρος υψηλόν κατ' ιδίαν, και μετεμορφώθη έμπροσθεν αυτών», τουτέστιν αυτών ορώντων.",
+          "en": "<span class=\"sn\" data-s=\"71\">Here too, then, taking these same three with him alone, *“he led them up a high mountain by themselves, and he was transfigured before them”* — that is, before their own eyes.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Christ's own light, unveiled in prayer",
+      "heading_sentence_index": 72,
+      "pairs": [
+        {
+          "gr": "Τις εστί μετεμορφώθη;",
+          "en": "<span class=\"sn\" data-s=\"73\">Who, then, was transfigured?</span>"
+        },
+        {
+          "gr": "Φησίν ο Χρυσόστομος θεολόγος· παρήνοιξεν, ως ευδόκησεν, ολίγον τής θεότητος, και τοις μύσταις έδειξε τον ενοικούντα Θεόν. «εγένετο γαρ εν τω προσεύχεσθαι αυτόν», ως ο Λουκάς φησι, «το είδος αυτού έτερον, λάμψαν ώσπερ ο ήλιος», ως ο Ματθαίος γράφει.",
+          "en": "<span class=\"sn\" data-s=\"74\">Chrysostom, that great theologian, answers: he opened a little of his divinity — just as much as he chose — and showed his initiates the God who dwelt within him.</span> <span class=\"sn\" data-s=\"75\">*“For as he prayed,”* as Luke tells us, *“the appearance of his face was altered”* — *“and shone like the sun,”* as Matthew writes. [Luke 9:29;</span> <span class=\"sn\" data-s=\"76\">Matthew 17:2]</span>"
+        },
+        {
+          "gr": "Ως ήλιος δε είπεν, ουχ ίνα αισθητόν εννοήση τις το φως εκείνο, - άπαγε τής κατά νουν αβλεψίας τών μηδέν τών κατ' αίσθησιν φαινομένων υψηλότερον εννοείν δυναμένων,-",
+          "en": "<span class=\"sn\" data-s=\"77\">He says “like the sun” — not so that we should think of that light as something perceived by the senses.</span> <span class=\"sn\" data-s=\"78\">Far be it from us to fall into that blindness of mind, the blindness of people who can conceive of nothing higher than what appears to the senses.</span>"
+        },
+        {
+          "gr": "αλλ' ίνα γνώμεν, ότι ο τοις κατ' αίσθησιν ζώσι και δι' αισθήσεως ορώσίν εστίν ο ήλιος, τούτο τοις κατά πνεύμα ζώσι και εν Πνεύματι ορώσίν εστιν ο Χριστός ως Θεός,",
+          "en": "<span class=\"sn\" data-s=\"79\">He says it, rather, so that we may understand this: what the sun is to those who live by sense and see by sense, that is what Christ, as God, is to those who live by the Spirit and see in the Spirit.</span>"
+        },
+        {
+          "gr": "και ου χρεία τοις θεοειδέσιν εν τη θεοπτία φωτός ετερου· τοις γαρ αϊδίοις αυτός εστι φως και ουκ άλλο· τι γαρ δει φωτός δευτέρου τοις το μέγιστον έχουσιν;",
+          "en": "<span class=\"sn\" data-s=\"80\">Those who bear the form of God need no other light in the vision of God, for to beings who share his eternity, he himself is light, and no other.</span> <span class=\"sn\" data-s=\"81\">What need would there be for a second light, for those who already possess the greatest light of all?</span>"
+        },
+        {
+          "gr": "Εν τω προσεύχεσθαι δε ούτως, έλαμψε και ανεκάλυψεν απορρήτως τοις τών μαθητών εκκρίτοις το απόρρητον εκείνο φως, τών άκρων Προφητών συνόντων, ίνα δείξη πρόξενον ούσαν την προσευχήν τής μακαρίας εκείνης θέας, και μάθωμεν, ότι δια τής προς Θεόν κατ' αρετήν εγγύτητος και τής προς Αυτόν κατά νουν ενώσεως, η λαμπρότης εγγίνεται και αναφαίνεται εκείνη, πάσι διδομένη τε και ορωμένη τοις δι' αγαθοεργίας ακριβούς και δια προσευχής ειλικρινούς ανατεινομένοις αδιαλείπτως προς Θεόν·",
+          "en": "<span class=\"sn\" data-s=\"82\">So it was as he prayed that he shone, and unveiled, past all telling, to those chosen among his disciples, that ineffable light — while the greatest of the prophets stood there with him — to show that prayer is what brings about that blessed vision, and to teach us that it is through nearness to God in virtue, and union with him in the mind, that this brightness comes to be and appears; a brightness that is given to all, and seen by all, who reach up towards God without ceasing, through exact good works and sincere prayer.</span>"
+        },
+        {
+          "gr": "κάλλος γαρ, φησίν, αληθινόν και ερασμιώτατον, μόνω τω τον νουν κεκαθαρμένω θεωρητόν, το περί την θείαν και μακαρίαν φύσιν εστίν, ού ο ενατενίσας ταις μαρμαρυγαίς και ταις χάρισι, μεταλαμβάνει τι απ' αυτού, ώσπερ αίγλην τινά ανθηράν εις την οικείαν όψιν αναχρωννύμενος· όθεν και Μωυσής εν τω ομιλείν Θεώ εδοξάσθη το πρόσωπον.",
+          "en": "<span class=\"sn\" data-s=\"83\">For, as it has been said, true and most desirable beauty — the beauty of the divine and blessed nature, visible only to the mind that has been purified — is such that whoever gazes intently on its radiance and its graces receives some share of it, as though colouring his own face with a kind of flowering brightness.</span> <span class=\"sn\" data-s=\"84\">That is exactly why Moses' face was glorified, when he spoke with God [Exodus 34:29-30].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Moses only reflected; Christ shone from within",
+      "heading_sentence_index": 85,
+      "pairs": [
+        {
+          "gr": "Οράτε ότι και Μωυσής μετεμορφώθη αναβάς εις το όρος, και ούτως είδε την δόξαν Κυρίου; Αλλ' έπαθε την μεταμόρφωσιν, ουκ ενήργησε· κατά τον λέγοντα, \"εις τούτο με φέρει το μέτριον ενταύθα φέγγος τής αληθείας, λαμπρότητα Θεού και ιδείν και παθείν\".",
+          "en": "<span class=\"sn\" data-s=\"86\">Do you see that Moses too was transfigured, when he went up the mountain, and in that way saw the glory of the Lord?</span> <span class=\"sn\" data-s=\"87\">But Moses only underwent his transfiguration; he did not bring it about.</span> <span class=\"sn\" data-s=\"88\">As one has said: *“this is as far as the modest light of truth here below can carry me — to see, and to undergo, the brightness of God.”*</span>"
+        },
+        {
+          "gr": "Ο δε Κύριος ημών Ιησούς Χριστός, οίκοθεν είχε την λαμπρότητα εκείνην· διό ουδέ προσευχής Αυτός εδείτο, θείω φωτί λαμπρυνούσης το σώμα, αλλ' όθεν τοις Αγίοις η λαμπρότης τού Θεού προσγενήσεται και όπως αυτοίς οφθήσεται υπεδείκνυ·",
+          "en": "<span class=\"sn\" data-s=\"89\">Our Lord Jesus Christ, though, had that brightness of his own, from within himself.</span> <span class=\"sn\" data-s=\"90\">That is exactly why he had no need of prayer for the divine light to make his body shine; his prayer, instead, was showing where the brightness of God will come to the saints from, and how it will appear to them.</span>"
+        },
+        {
+          "gr": "λάμψουσι γαρ και οι δίκαιοι ως ήλιος εν τη βασιλεία τού Πατρός αυτών, και ούτω φως όλοι γεγονότες θείον, ως θείου φωτός γεννήματα, τον θείως απορρήτως υπερλάμποντα όψονται Χριστόν, ού εκ τής θεότητος η δόξα φυσικώς προϊούσα κοινή και τού σώματος εν Θαβώρ εδείκνυτο, δια το ενιαίον τής υποστάσεως.",
+          "en": "<span class=\"sn\" data-s=\"91\">For *“the righteous, too, will shine like the sun in the kingdom of their Father”* [Matthew 13:43] — and having thus become wholly divine light, as offspring of the divine light, they will see Christ shining above them with that ineffable divine brightness — Christ, whose glory, proceeding naturally out of his divinity, was shown on Tabor as belonging jointly to his body too, on account of the oneness of his person.</span>"
+        },
+        {
+          "gr": "Ούτω και δια τοιούτου φωτός το πρόσωπον Αυτού ως ο ήλιος έλαμψεν.",
+          "en": "<span class=\"sn\" data-s=\"92\">In just this way, then, through that same light, his face shone like the sun.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Not created light, and nothing new to Christ",
+      "heading_sentence_index": 93,
+      "pairs": [
+        {
+          "gr": "Οι δε τον Έλληνα λόγον και την τού κόσμου τούτου σοφίαν εφ' ημών αυχούντες, και τοις πνευματικοίς ανδράσιν επί τών τού Πνεύματος λόγων μη πειθαρχείν όλως, αλλά και ανταίρειν προηρημένοι, φως ακούοντες τής επ' όρους του Κυρίου μετεμορφώσεως, το τοις Αποστολικοίς οφθαλμοίς εωραμένον, εις το αισθητόν ευθύς και κτιστόν κατάγονται φως, και κατασπώσιν εις τούτο το άυλον και ανέσπερον και αΐδιον και μη μόνον υπέρ αίσθησιν, αλλά και υπέρ νουν εκείνο φως, αυτοί κάτω κείμενοι και μηδέν υπέρ τα πρόσγεια νοείν δυνάμενοι.",
+          "en": "<span class=\"sn\" data-s=\"94\">But those who boast, among us, in Greek learning and the wisdom of this world — men who refuse to submit at all to spiritual men on matters of the Spirit's own words, and who actually choose to rise up against them — when they hear of the light of the Lord's Transfiguration on the mountain, the light seen by apostolic eyes, they drag it straight down to the level of the perceptible and the created.</span> <span class=\"sn\" data-s=\"95\">They pull down to that level a light that is in fact immaterial, unsetting, eternal — a light beyond not only sense but even beyond mind — because they themselves lie prostrate below, unable to conceive of anything higher than the things of this earth.</span>"
+        },
+        {
+          "gr": "Καίτοι Αυτός ο κατά τούτο λάμψας Άκτιστον ον προαπέδειξεν αυτό, βασιλείαν τούτο καλέσας του Θεού· ου γαρ εστίν η βασιλεία του Θεού δούλη και κτιστή, μόνη γαρ πάντων αβασίλευτος και αήττητος, και χρόνου παντός και αιώνος επέκεινα, και ου θέμις, φησίν, ήρχθα, ή φθάνεσθαι υπό αιώνων ή χρόνων την τού Θεού βασιλείαν. Ταύτην δε πιστεύομεν είναι την τών σωζόμενων κληρονομίαν.",
+          "en": "<span class=\"sn\" data-s=\"96\">And yet Christ himself, who shone with this very light, had already shown it to be uncreated, by calling it the kingdom of God.</span> <span class=\"sn\" data-s=\"97\">For the kingdom of God is not a slave, and it is not a created thing; it alone, of all things, knows no king above it and cannot be conquered, and it stands beyond the reach of every age and every span of time — it is not right, as it has been said, that God's kingdom should have a beginning, or be overtaken by ages or by time.</span> <span class=\"sn\" data-s=\"98\">This, we believe, is the inheritance of those who are saved.</span>"
+        },
+        {
+          "gr": "Επεί δε και μεταμορφωθείς ο Κύριος έλαμψε και την δόξαν και την λαμπρότητα και το φως έδειξεν εκείνο, και ήξει πάλιν οίος ώφθη τοις μαθηταίς εν τω όρει, άρα προσελάβετό τι φως και εις τους αιώνας έξει, ό πρότερον ουκ είχεν; Άπαγε τής βλασφημίας· ο γαρ τούτο λέγων, τρεις φύσεις επί τού Χριστού δοξάσει, την τε θείαν και την ανθρωπίνην, και την τού φωτός εκείνου·",
+          "en": "<span class=\"sn\" data-s=\"99\">But now, since the Lord shone at his Transfiguration and displayed that glory, that brightness, that light — and since he will come again, at the end, looking just as he appeared to his disciples on the mountain — does that mean he acquired some light there that he will possess forever, some light he did not have before?</span> <span class=\"sn\" data-s=\"100\">Far be it from such blasphemy!</span> <span class=\"sn\" data-s=\"101\">Whoever says this attributes three natures to Christ: the divine, the human, and that of the light itself.</span>"
+        },
+        {
+          "gr": "τοιγαρούν ουχ ετέραν, αλλ' ην είχεν αφανώς λαμπρότητα ταύτην εφανέρωσεν. Είχε δε υπό την σάρκα κεκρυμμένην την λαμπρότητα τής φύσεως της θείας. Ουκούν τής θεότητός εστί το φως εκείνο, και Άκτιστον εστίν· επεί και μετεμορφώθη Χριστός κατά τους θεολόγους, ουχ ό ουκ ην προσλαβόμενος, ουδέ εις όπερ ουκ ην μεταβαλλόμενος, αλλ' όπερ ην τοις οικείοις μάθηταίς εκφαινόμενος, διανοίγων τούτων τα όμματα και εκ τυφλών εργαζόμενος βλέποντας.",
+          "en": "<span class=\"sn\" data-s=\"102\">No: he did not manifest some other brightness, but the very brightness he already possessed invisibly.</span> <span class=\"sn\" data-s=\"103\">He had the brightness of the divine nature hidden beneath his flesh.</span> <span class=\"sn\" data-s=\"104\">That light, then, belongs to the Godhead, and is uncreated.</span> <span class=\"sn\" data-s=\"105\">This is exactly what the theologians mean when they say that Christ “was transfigured”: not that he took on something he did not have before, nor that he changed into something he was not, but that he revealed to his own disciples exactly what he already was — opening their eyes, and turning the blind into people who could see.</span>"
+        },
+        {
+          "gr": "Οράς ότι προς το φως εκείνο τυφλοί εισιν οι κατά φύσιν ορώντες οφθαλμοί; Ουκούν ουδέ το φως εκείνο αισθητόν, ουδέ οι ορώντες αισθητικοίς απλώς εώρων οφθαλμοίς, αλλά μετασκευασθείσι τη δυνάμει τού θείου Πνεύματος.",
+          "en": "<span class=\"sn\" data-s=\"106\">Do you see, then, that natural eyes — the eyes that see by nature — are blind to that light?</span> <span class=\"sn\" data-s=\"107\">So that light is not perceptible by sense at all; and those who saw it were not seeing simply with the eyes of sense, but with eyes that had been remade by the power of the divine Spirit.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "One nature deified, seen through purified eyes",
+      "heading_sentence_index": 108,
+      "pairs": [
+        {
+          "gr": "Ενηλλάγησαν ουν, και ούτω την εναλλαγήν είδον, ουχ ην αρτίως, αλλ' ην εξ αυτής τής προσλήψεως έλαβε το ημέτερον φύραμα, θεωθέν τη ενώσει τού Λόγου τού Θεού.",
+          "en": "<span class=\"sn\" data-s=\"109\">So they themselves were changed, and it was in that changed state that they saw the change — not a change that had just then, for the first time, come to be, but the very change our human dough received at the moment of the Incarnation itself, when it was deified by its union with the Word of God.</span>"
+        },
+        {
+          "gr": "Εντεύθεν και η εν παρθενία συλλαβούσά τε και τεκούσα ξένως τον εξ αυτής τεχθέντα σαρκοφόρον Θεόν επέγνω, και Συμεών ως βρέφος τούτον μετά χείρας λαβών και η πρεσβύτις Άννα προσυπαντήσασα· διεφαίνετο γαρ οίον δι' υελίνων υμένων η θεία δύναμις διαυγάζουσα τοις έχουσι τους οφθαλμούς τής καρδίας κεκαθαρμένους.",
+          "en": "<span class=\"sn\" data-s=\"110\">This is exactly why the Virgin who conceived and bore, in a way beyond nature, the flesh-bearing God born of her, recognised him for who he was; why Symeon, taking him as an infant into his arms, recognised him too; and why the aged Anna, meeting him, recognised him as well [Luke 2:25-38].</span> <span class=\"sn\" data-s=\"111\">The divine power shone through, as though through panes of glass, to all those whose hearts' eyes had been purified.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Why that light can only be God's own",
+      "heading_sentence_index": 112,
+      "pairs": [
+        {
+          "gr": "Τι δε και τών άλλων απολαμβάνει τους κορυφαίους και ανάγει τούτους, και κατ' ιδίαν μόνους;",
+          "en": "<span class=\"sn\" data-s=\"113\">But why did he single out only the leaders among the rest, and take them up alone, apart from the others?</span>"
+        },
+        {
+          "gr": "ίνα τι πάντως υποδείξη μέγα τε και μυστικόν. Πώς ουν μέγα και μυστικόν η τού αισθητού φωτός θέα, ην αυτοί τε οι εκλεγέντες και πριν αναχθήναι, και συν αυτοίς οι κάτω λειφθέντες είχον; Τις δε αυτοίς χρεία και Πνεύματος δυνάμεως και τής δι' αυτής προσθήκης ή εναλλαγής ομμάτων προς την τού φωτός εκείνου θέαν, είπερ αισθητόν τε και κτιστόν; Πώς δε δόξα και βασιλεία τού Πατρός και τού Πνεύματος το φως το αισθητόν;",
+          "en": "<span class=\"sn\" data-s=\"114\">Certainly, in order to reveal something great and mysterious.</span> <span class=\"sn\" data-s=\"115\">But how could the sight of merely perceptible light be something great and mysterious — a light which the chosen three already had, even before they were led up the mountain, and which those left below had too?</span> <span class=\"sn\" data-s=\"116\">What need would there be, for that matter, of the Spirit's power, and of the transformation and exchange of their very eyes, in order to see that light — if it were something perceptible and created?</span> <span class=\"sn\" data-s=\"117\">And how could merely perceptible light be the glory and the kingdom of the Father and the Spirit?</span>"
+        },
+        {
+          "gr": "Πώς δ' εν τη τοιαύτη δόξη και βασιλεία κατά τον μέλλοντα αιώνα ήξει ο Χριστός, ότε ουκ αέρος, ου φωτός, ου τόπου χρεία και τών τοιούτων, αλλ' αντί πάντων κατά τον Απόστολον ημίν έσται ο Θεός; Ει δε αντί πάντων, και αντί φωτός πάντως. Όθεν δείκνυται πάλιν και το φως εκείνο τής θεότητος ον, επεί και ο θεολογικώτατος τών Ευαγγελιστών Ιωάννης δια τής αποκαλύψεως εκφαίνει, ως η μέλλουσα και μένουσα εκείνη πόλις «ου χρείαν έχει του ηλίου ουδέ τής σελήνης, ίνα φαίνωσιν εν αυτή· η γαρ δόξα του Θεού εφώτισεν αυτήν και ο λύχνος αυτής, το αρνίον».",
+          "en": "<span class=\"sn\" data-s=\"118\">And how will Christ come, in that same glory and kingdom, in the age to come — when there will be no need of air, or light, or place, or anything of that kind, but God himself, as the Apostle says, will be all things to us instead of everything else [cf. 1 Corinthians 15:28]?</span> <span class=\"sn\" data-s=\"119\">And if he will be instead of everything, then certainly instead of light too.</span> <span class=\"sn\" data-s=\"120\">And this, again, is exactly what shows that light to belong to the Godhead — for John, most theological of the evangelists, reveals through his Revelation that the city which is to come, the city that will remain forever, *“has no need of the sun or of the moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.”* [Revelation 21:23]</span>"
+        },
+        {
+          "gr": "Άρ' ου φανερώς υπέδειξεν ημίν κακεί τον εν Θαβωρίω νυν θείως μεταμορφωθέντα Ιησούν, ος έχει μεν ως λύχνον το σώμα, αντί δε φωτός την εκφανείσαν επ' όρους τοις συναναβάσι δόξαν της θεότητος;",
+          "en": "<span class=\"sn\" data-s=\"121\">Has he not, then, made it plain to us there too — that this same Jesus, who has now been divinely transfigured on Tabor, has his body as his lamp, and, in place of light, the glory of the Godhead that was shown forth on the mountain to those who climbed it with him?</span>"
+        },
+        {
+          "gr": "Αλλά και περί των ενοικούντων τη πόλει εκείνη ο αυτός φησιν ως «ουχ έξουσι χρείαν φωτός λύχνου και φωτός ηλίου, ότι Κύριος ο Θεός φωτίσει επ' αυτούς, και νυξ ουκ έσται έτι». Τι ουν το φως τούτο, παρ' ω ουκ εστί παραλλαγή ή τροπής αποσκίασμα; Τι το άτρεπτον και ανέσπερον τούτο φως; Άρ' ου της θεότητος;",
+          "en": "<span class=\"sn\" data-s=\"122\">And of those who dwell in that same city, John says elsewhere that *“they will have no need of the light of a lamp, or the light of the sun, because the Lord God will give them light, and night will be no more.”* [Revelation 22:5] What, then, is this light, *“with whom there is no variation, nor shadow cast by turning”* [James 1:17]?</span> <span class=\"sn\" data-s=\"123\">What is this unchanging, unsetting light?</span> <span class=\"sn\" data-s=\"124\">Is it not the light of the Godhead itself?</span>"
+        },
+        {
+          "gr": "Αλλά και ο Μωυσής και ο Ηλίας, και μάλιστα ο Μωυσής, ψυχή υπάρχων ουκ ενσώματος, πώς ώφθησαν και εδοξάσθησαν δι' αισθητού φωτός; Και ούτοι γαρ οφθέντες εν δόξη τηνικαύτα έλεγον την έξοδον ην έμελλε πληρούν εν Ιερουσαλήμ. Πώς δε και επέγνωσαν ους ούπω πρότερον είδον οι Απόστολοι, ει μη τη αποκαλυπτική δυνάμει του φωτός εκείνου;",
+          "en": "<span class=\"sn\" data-s=\"125\">And what of Moses and Elijah — Moses above all, since he existed then only as a soul without a body?</span> <span class=\"sn\" data-s=\"126\">How were they seen, and how were they glorified, by a merely perceptible light?</span> <span class=\"sn\" data-s=\"127\">For these two, appearing there in glory, were speaking of the departure Christ was to fulfil in Jerusalem [Luke 9:31].</span> <span class=\"sn\" data-s=\"128\">And how did the apostles recognise men they had never once set eyes on before, if not by the revealing power of that very light?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Press on toward that light",
+      "heading_sentence_index": 129,
+      "pairs": [
+        {
+          "gr": "Αλλ' ίνα μη κατατείνωμεν υμών επί πολύ την διάνοιαν, τα μεν υπόλοιπα τών ευαγγελικών ρημάτων επί τού καιρού ταμιευσόμεθα τής πανιέρου και θείας ιερουργίας.",
+          "en": "<span class=\"sn\" data-s=\"130\">But so as not to stretch your attention too far, we will keep the rest of the Gospel's words in reserve, for the time of the all-holy and divine liturgy.</span>"
+        },
+        {
+          "gr": "Πιστεύοντες δε, ως εδιδάχθημεν παρά τών υπό τού Χριστού φωτισθέντων, άτε μόνων ακριβώς ειδότων (τα γαρ μυστήριά μου εμοί και τοις εμοίς, φησί, δια του προφήτου ο Θεός)·",
+          "en": "<span class=\"sn\" data-s=\"131\">Believing, then, exactly as we have been taught by those who were illumined by Christ — since they alone truly know these things with precision (for, as God says through the prophet, *“my mysteries are for me and mine”*) —</span>"
+        },
+        {
+          "gr": "καλώς ουν πιστεύοντες, ως εδιδάχθημεν, και τού μυστηρίου συνιέντες τής τού Κυρίου μεταμορφώσεως, οδεύσωμεν προς την λάμψιν τού φωτός εκείνου και τού κάλλους ερασθέντες τής αναλλοιώτου δόξης, το όμμα τής διανοίας των γηΐνων μολυσμών εκκαθάρωμεν, παν περιφρονούντες τερπνόν και περικαλλές, ό μη μόνιμον·",
+          "en": "<span class=\"sn\" data-s=\"132\">believing rightly, then, as we have been taught, and understanding the mystery of the Lord's Transfiguration, let us make our way toward the radiance of that light.</span> <span class=\"sn\" data-s=\"133\">Let us fall in love with the beauty of that unchanging glory, and let us cleanse the eye of our understanding from every earthly stain, holding in contempt everything pleasant and beautiful that does not last.</span>"
+        },
+        {
+          "gr": "ό, καν ηδύ δοκή, αλλ' οδύνην προξενεί την αιώνιον, καν ώραν φέρη τω σώματι, αλλά τη ψυχή περιβάλλει τον δυσειδή χιτώνα τής αμαρτίας εκείνον, δι' ον δεθείς χείρας και πόδας ο μη το ένδυμα τής αφθάρτου συναφείας έχων, εις το πυρ εκείνο και το σκότος εξάγεται το εξώτερον.",
+          "en": "<span class=\"sn\" data-s=\"134\">For however sweet such a thing may seem, it brings eternal suffering in the end; however much loveliness it may bring the body for a season, it wraps the soul instead in that ugly garment of sin — and whoever is bound hand and foot by it, having no garment of incorruptible communion to wear instead, is led out into that fire, into the darkness outside [Matthew 22:11-13].</span>"
+        },
+        {
+          "gr": "Ού ρυσθείημεν άπαντες ελλάμψει και επιγνώσει του αΰλου και αϊδίου φωτός τής τού Κυρίου μεταμορφώσεως, εις δόξαν Αυτού και τού ανάρχου Αυτού Πατρός και τού ζωοποιού Πνεύματος, ων μία και η αυτή λαμπρότης τε και Θεότης και δόξα και βασιλεία και δύναμις, νυν και αεί και εις τους αιώνας των αιώνων. Αμήν.",
+          "en": "<span class=\"sn\" data-s=\"135\">May we all be delivered by the illumination and the knowledge of that immaterial and eternal light of the Lord's Transfiguration, to the glory of him, and of his Father who is without beginning, and of the life-giving Spirit — one and the same brightness, Godhead, glory, kingdom and power, now and ever, and unto the ages of ages.</span> <span class=\"sn\" data-s=\"136\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

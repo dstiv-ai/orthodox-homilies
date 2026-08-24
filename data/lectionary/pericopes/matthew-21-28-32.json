@@ -1,0 +1,60 @@
+{
+  "ref": "Matthew 21:28-32",
+  "book": "Matt",
+  "from": [
+    21,
+    28
+  ],
+  "to": [
+    21,
+    32
+  ],
+  "slug": "matthew-21-28-32",
+  "greek": [
+    {
+      "v": "21:28",
+      "text": "Τί δὲ ὑμῖν δοκεῖ; Ἄνθρωπος εἶχεν τέκνα δύο, καὶ προσελθὼν τῷ πρώτῳ εἶπεν, Τέκνον, ὕπαγε, σήμερον ἐργάζου ἐν τῷ ἀμπελῶνί μου."
+    },
+    {
+      "v": "21:29",
+      "text": "Ὁ δὲ ἀποκριθεὶς εἶπεν, Οὐ θέλω· ὕστερον δὲ μεταμεληθείς, ἀπῆλθεν."
+    },
+    {
+      "v": "21:30",
+      "text": "Καὶ προσελθὼν τῷ δευτέρῳ εἶπεν ὡσαύτως. Ὁ δὲ ἀποκριθεὶς εἶπεν, Ἐγώ, κύριε· καὶ οὐκ ἀπῆλθεν."
+    },
+    {
+      "v": "21:31",
+      "text": "Τίς ἐκ τῶν δύο ἐποίησεν τὸ θέλημα τοῦ πατρός; Λέγουσιν αὐτῷ, Ὁ πρῶτος. Λέγει αὐτοῖς ὁ Ἰησοῦς, Ἀμὴν λέγω ὑμῖν ὅτι οἱ τελῶναι καὶ αἱ πόρναι προάγουσιν ὑμᾶς εἰς τὴν βασιλείαν τοῦ θεοῦ."
+    },
+    {
+      "v": "21:32",
+      "text": "Ἦλθεν γὰρ πρὸς ὑμᾶς Ἰωάννης ἐν ὁδῷ δικαιοσύνης, καὶ οὐκ ἐπιστεύσατε αὐτῷ· οἱ δὲ τελῶναι καὶ αἱ πόρναι ἐπίστευσαν αὐτῷ· ὑμεῖς δὲ ἰδόντες οὐ μετεμελήθητε ὕστερον τοῦ πιστεῦσαι αὐτῷ."
+    }
+  ],
+  "english": [
+    {
+      "v": "21:28",
+      "text": "At that time Jesus said: \"What do you think? A man had two sons. He went to the first and said, 'Son, go and work in my vineyard today.'"
+    },
+    {
+      "v": "21:29",
+      "text": "He answered, 'I will not' — but afterwards he changed his mind and went."
+    },
+    {
+      "v": "21:30",
+      "text": "And he went to the second and said the same. He answered, 'I will, sir' — and did not go."
+    },
+    {
+      "v": "21:31",
+      "text": "Which of the two did the father's will?\" They said to him, \"The first.\" Jesus said to them: \"I tell you the truth: the tax collectors and the prostitutes are going into the kingdom of God ahead of you."
+    },
+    {
+      "v": "21:32",
+      "text": "For John came to you in the way of righteousness, and you did not believe him; but the tax collectors and the prostitutes believed him. And you, even when you saw it, did not change your minds afterwards and believe him.\""
+    }
+  ],
+  "greek_source": "content/2026-08-05/readings.md",
+  "english_source": "content/2026-08-05/readings.md",
+  "status": "complete"
+}

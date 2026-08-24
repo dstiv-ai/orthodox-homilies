@@ -1,0 +1,19 @@
+{
+  "ref": "Hebrews 11:24-26, 32-12:2",
+  "book": "Heb",
+  "from": [
+    11,
+    24
+  ],
+  "to": [
+    12,
+    2
+  ],
+  "slug": "hebrews-11-24-26-32-12-2",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse range chunk '32-12:2' in 'Hebrews 11:24-26, 32-12:2'"
+}

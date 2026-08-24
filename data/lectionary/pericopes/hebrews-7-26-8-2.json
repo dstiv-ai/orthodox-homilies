@@ -1,0 +1,60 @@
+{
+  "ref": "Hebrews 7:26-8:2",
+  "book": "Heb",
+  "from": [
+    7,
+    26
+  ],
+  "to": [
+    8,
+    2
+  ],
+  "slug": "hebrews-7-26-8-2",
+  "greek": [
+    {
+      "v": "7:26",
+      "text": "Τοιοῦτος γὰρ ἡμῖν ἔπρεπεν ἀρχιερεύς, ὅσιος, ἄκακος, ἀμίαντος, κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν, καὶ ὑψηλότερος τῶν οὐρανῶν γενόμενος·"
+    },
+    {
+      "v": "7:27",
+      "text": "ὃς οὐκ ἔχει καθ’ ἡμέραν ἀνάγκην, ὥσπερ οἱ ἀρχιερεῖς, πρότερον ὑπὲρ τῶν ἰδίων ἁμαρτιῶν θυσίας ἀναφέρειν, ἔπειτα τῶν τοῦ λαοῦ· τοῦτο γὰρ ἐποίησεν ἐφάπαξ, ἑαυτὸν ἀνενέγκας."
+    },
+    {
+      "v": "7:28",
+      "text": "Ὁ νόμος γὰρ ἀνθρώπους καθίστησιν ἀρχιερεῖς, ἔχοντας ἀσθένειαν· ὁ λόγος δὲ τῆς ὁρκωμοσίας τῆς μετὰ τὸν νόμον, υἱὸν εἰς τὸν αἰῶνα τετελειωμένον."
+    },
+    {
+      "v": "8:1",
+      "text": "Κεφάλαιον δὲ ἐπὶ τοῖς λεγομένοις· τοιοῦτον ἔχομεν ἀρχιερέα, ὃς ἐκάθισεν ἐν δεξιᾷ τοῦ θρόνου τῆς μεγαλωσύνης ἐν τοῖς οὐρανοῖς,"
+    },
+    {
+      "v": "8:2",
+      "text": "τῶν ἁγίων λειτουργός, καὶ τῆς σκηνῆς τῆς ἀληθινῆς, ἣν ἔπηξεν ὁ κύριος, καὶ οὐκ ἄνθρωπος·"
+    }
+  ],
+  "english": [
+    {
+      "v": "7:26",
+      "text": "Brothers and sisters: this is exactly the kind of high priest we needed — devout, without guile, unstained, set apart from sinners, and raised higher than the heavens."
+    },
+    {
+      "v": "7:27",
+      "text": "He has no need, as the high priests do, to offer sacrifices day after day — first for his own sins, and then for the people's. He did this once for all, when he offered up himself."
+    },
+    {
+      "v": "7:28",
+      "text": "For the law appoints as high priests men who have weakness; but the word of the oath, which came after the law, appoints a Son, made perfect for ever."
+    },
+    {
+      "v": "8:1",
+      "text": "Now the crowning point of all we are saying: we have such a high priest, who sat down at the right hand of the throne of the Majesty in the heavens,"
+    },
+    {
+      "v": "8:2",
+      "text": "a minister of the holy things and of the true tabernacle, which the Lord pitched — not man."
+    }
+  ],
+  "greek_source": "content/2026-08-13/readings.md",
+  "english_source": "content/2026-08-13/readings.md",
+  "status": "complete"
+}

@@ -1,0 +1,187 @@
+{
+  "_README": "Labels, order and descriptions for every node of the category tree (SPEC-TREE.md). Key = the node's path joined with '/'. Pages never title-case slugs — a node reachable from any item path MUST have an entry here (scripts/build_data.py validate_tree_coverage warns when one is missing). Month/day levels under saints/synaxarion are calendar-backed (data/lectionary/days/<year>.json) and need no entries. 'children' fixes the display order of child nodes where the data alone can't.",
+  "nodes": {
+    "church-year": {
+      "label": "The Church Year",
+      "order": 1,
+      "description": "Homilies kept in the Church's own rhythm — the Sundays, the great feasts, and the fasts that prepare for them.",
+      "children": [
+        "sundays",
+        "feasts",
+        "seasons"
+      ]
+    },
+    "church-year/sundays": {
+      "label": "The Sundays",
+      "description": "The Sunday Gospels and Epistles, cycle by cycle. The Sunday homilies held so far are Chrysostom's commentary series — they file under Scripture Commentaries until the cycle mapping exists.",
+      "children": []
+    },
+    "church-year/feasts": {
+      "label": "The Great Feasts",
+      "description": "What the Fathers preached on the feasts of the Lord and the Mother of God.",
+      "children": [
+        "transfiguration",
+        "dormition"
+      ]
+    },
+    "church-year/feasts/transfiguration": {
+      "label": "The Transfiguration",
+      "description": "The Fathers on the light of Tabor — kept on 6 August."
+    },
+    "church-year/feasts/dormition": {
+      "label": "The Dormition",
+      "description": "The Fathers on the falling-asleep of the Mother of God — kept on 15 August."
+    },
+    "church-year/seasons": {
+      "label": "Fasts & Seasons",
+      "description": "The fasts and seasons of the year — Great Lent, the Dormition Fast, and the rest — as texts for them are gathered.",
+      "children": []
+    },
+    "saints": {
+      "label": "Lives of the Saints",
+      "order": 2,
+      "description": "The saints of each day, and long Lives read a chapter at a time.",
+      "children": [
+        "synaxarion",
+        "lives"
+      ]
+    },
+    "saints/synaxarion": {
+      "label": "The Synaxarion",
+      "description": "The saints commemorated each day, from St Nikodemos the Hagiorite's Synaxaristes — pick a month, then a day."
+    },
+    "saints/lives": {
+      "label": "Lives in Chapters",
+      "description": "Long Lives, serialised a chapter at a time.",
+      "children": [
+        "andrew-the-fool",
+        "kosmas-aitolos"
+      ]
+    },
+    "saints/lives/andrew-the-fool": {
+      "label": "The Life of St Andrew the Fool",
+      "description": "A tenth-century Life of the holy fool of Constantinople, by Nikephoros, priest of Hagia Sophia — read a chapter at a time."
+    },
+    "saints/lives/kosmas-aitolos": {
+      "label": "The Life of St Kosmas of Aitolia",
+      "description": "St Nikodemos the Hagiorite's Life of the wandering preacher who crossed Greece and Albania building schools, and was hanged in 1779."
+    },
+    "scripture": {
+      "label": "Scripture Commentaries",
+      "order": 3,
+      "description": "The Fathers' homily series on the books of Scripture, in chapter and verse order.",
+      "children": [
+        "new-testament"
+      ]
+    },
+    "scripture/new-testament": {
+      "label": "The New Testament",
+      "children": [
+        "matthew",
+        "1-corinthians"
+      ]
+    },
+    "scripture/new-testament/matthew": {
+      "label": "Matthew",
+      "description": "St John Chrysostom's homilies on the Gospel according to Matthew."
+    },
+    "scripture/new-testament/1-corinthians": {
+      "label": "First Corinthians",
+      "description": "St John Chrysostom's homilies on St Paul's First Epistle to the Corinthians."
+    },
+    "spiritual": {
+      "label": "The Spiritual Life",
+      "order": 4,
+      "description": "Beyond the calendar — on prayer, on trial, on the wisdom of God, theme by theme.",
+      "children": [
+        "prayer",
+        "marriage",
+        "gnomis",
+        "archontariki"
+      ]
+    },
+    "spiritual/marriage": {
+      "label": "Marriage",
+      "description": "What the Fathers preached on marriage \u2014 the crowning of two lives, the raising of children, and the wounds of separation.",
+      "children": [
+        "st-john-chrysostom",
+        "st-gregory-the-theologian",
+        "st-asterius-of-amasea"
+      ]
+    },
+    "spiritual/marriage/st-john-chrysostom": {
+      "label": "St John Chrysostom"
+    },
+    "spiritual/marriage/st-gregory-the-theologian": {
+      "label": "St Gregory the Theologian"
+    },
+    "spiritual/marriage/st-asterius-of-amasea": {
+      "label": "St Asterius of Amasea"
+    },
+    "spiritual/prayer": {
+      "label": "Prayer",
+      "children": [
+        "st-ephraim-the-syrian"
+      ]
+    },
+    "spiritual/prayer/st-ephraim-the-syrian": {
+      "label": "St Ephraim the Syrian"
+    },
+    "scripture/new-testament/2-corinthians": {
+      "label": "Second Corinthians",
+      "description": "St John Chrysostom's homilies on St Paul's Second Epistle to the Corinthians."
+    },
+    "scripture/new-testament/john": {
+      "label": "John",
+      "description": "St John Chrysostom's homilies on the Gospel according to John."
+    },
+    "scripture/new-testament/romans": {
+      "label": "Romans",
+      "description": "St John Chrysostom's homilies on St Paul's Epistle to the Romans."
+    },
+    "by-author": {
+      "label": "Books",
+      "order": 5,
+      "description": "The Fathers' works gathered into books — choose a saint, open a book, and read it chapter by chapter.",
+      "children": [
+        "st-tikhon-of-zadonsk"
+      ]
+    },
+    "by-author/st-tikhon-of-zadonsk": {
+      "label": "St Tikhon of Zadonsk",
+      "children": [
+        "the-letters-sent",
+        "short-moral-instructive-words"
+      ],
+      "description": "St Tikhon of Zadonsk (1724–1783), bishop of Voronezh, recluse of Zadonsk."
+    },
+    "by-author/st-tikhon-of-zadonsk/the-letters-sent": {
+      "label": "The Letters Sent",
+      "description": "46 letters of spiritual counsel St Tikhon of Zadonsk wrote from his retirement at Zadonsk, 1769–1780."
+    },
+    "by-author/st-tikhon-of-zadonsk/short-moral-instructive-words": {
+      "label": "Short Moral-Instructive Words",
+      "description": "28 short moral-instructive sermons St Tikhon of Zadonsk preached and published as a cycle at St Petersburg, 1784."
+    },
+    "spiritual/gnomis": {
+      "label": "Opinion",
+      "description": "On the hold our own opinion takes over us, and what it costs the soul.",
+      "children": [
+        "fr-varnavas-giagkou"
+      ]
+    },
+    "spiritual/gnomis/fr-varnavas-giagkou": {
+      "label": "Fr Varnavas Giagkou"
+    },
+    "spiritual/archontariki": {
+      "label": "Questions from the Parish",
+      "description": "An evening of questions and answers on living the faith.",
+      "children": [
+        "fr-varnavas-giagkou"
+      ]
+    },
+    "spiritual/archontariki/fr-varnavas-giagkou": {
+      "label": "Fr Varnavas Giagkou"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ref": "Acts 15:5-34",
+  "book": "Acts",
+  "from": [
+    15,
+    5
+  ],
+  "to": [
+    15,
+    34
+  ],
+  "slug": "acts-15-5-34",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "range 15:5-15:34 walked past end at ACT 16:1"
+}

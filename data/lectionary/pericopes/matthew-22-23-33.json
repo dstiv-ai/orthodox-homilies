@@ -1,0 +1,108 @@
+{
+  "ref": "Matthew 22:23-33",
+  "book": "Matt",
+  "from": [
+    22,
+    23
+  ],
+  "to": [
+    22,
+    33
+  ],
+  "slug": "matthew-22-23-33",
+  "greek": [
+    {
+      "v": "22:23",
+      "text": "Ἐν ἐκείνῃ τῇ ἡμέρᾳ προσῆλθον αὐτῷ Σαδδουκαῖοι, οἱ λέγοντες μὴ εἶναι ἀνάστασιν, καὶ ἐπηρώτησαν αὐτόν,"
+    },
+    {
+      "v": "22:24",
+      "text": "λέγοντες, Διδάσκαλε, Μωσῆς εἶπεν, Ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα, ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ, καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+    },
+    {
+      "v": "22:25",
+      "text": "Ἦσαν δὲ παρ' ἡμῖν ἑπτὰ ἀδελφοί· καὶ ὁ πρῶτος γαμήσας ἐτελεύτησεν· καὶ μὴ ἔχων σπέρμα, ἀφῆκεν τὴν γυναῖκα αὐτοῦ τῷ ἀδελφῷ αὐτοῦ."
+    },
+    {
+      "v": "22:26",
+      "text": "Ὁμοίως καὶ ὁ δεύτερος, καὶ ὁ τρίτος, ἕως τῶν ἑπτά."
+    },
+    {
+      "v": "22:27",
+      "text": "Ὕστερον δὲ πάντων ἀπέθανεν καὶ ἡ γυνή."
+    },
+    {
+      "v": "22:28",
+      "text": "Ἐν τῇ οὖν ἀναστάσει, τίνος τῶν ἑπτὰ ἔσται γυνή; Πάντες γὰρ ἔσχον αὐτήν."
+    },
+    {
+      "v": "22:29",
+      "text": "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς, Πλανᾶσθε, μὴ εἰδότες τὰς γραφάς, μηδὲ τὴν δύναμιν τοῦ θεοῦ."
+    },
+    {
+      "v": "22:30",
+      "text": "Ἐν γὰρ τῇ ἀναστάσει οὔτε γαμοῦσιν, οὔτε ἐκγαμίζονται, ἀλλ' ὡς ἄγγελοι τοῦ θεοῦ ἐν οὐρανῷ εἰσιν."
+    },
+    {
+      "v": "22:31",
+      "text": "Περὶ δὲ τῆς ἀναστάσεως τῶν νεκρῶν, οὐκ ἀνέγνωτε τὸ ῥηθὲν ὑμῖν ὑπὸ τοῦ θεοῦ, λέγοντος,"
+    },
+    {
+      "v": "22:32",
+      "text": "Ἐγώ εἰμι ὁ θεὸς Ἀβραάμ, καὶ ὁ θεὸς Ἰσαάκ, καὶ ὁ θεὸς Ἰακώβ; Οὐκ ἔστιν ὁ θεὸς θεὸς νεκρῶν, ἀλλὰ ζώντων."
+    },
+    {
+      "v": "22:33",
+      "text": "Καὶ ἀκούσαντες οἱ ὄχλοι ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ."
+    }
+  ],
+  "english": [
+    {
+      "v": "22:23",
+      "text": "That same day Sadducees came to him — the ones who say there is no resurrection — and questioned him,"
+    },
+    {
+      "v": "22:24",
+      "text": "saying: \"Teacher, Moses said: 'If a man dies without children, his brother shall marry his wife and raise up offspring for his brother.'"
+    },
+    {
+      "v": "22:25",
+      "text": "Now there were seven brothers among us. The first married and died, and having no offspring, left his wife to his brother."
+    },
+    {
+      "v": "22:26",
+      "text": "Likewise the second also, and the third, up to the seventh."
+    },
+    {
+      "v": "22:27",
+      "text": "Last of all, the woman died too."
+    },
+    {
+      "v": "22:28",
+      "text": "So in the resurrection, whose wife of the seven will she be? For they all had her.\""
+    },
+    {
+      "v": "22:29",
+      "text": "Jesus answered them: \"You are mistaken, because you know neither the Scriptures nor the power of God."
+    },
+    {
+      "v": "22:30",
+      "text": "For in the resurrection they neither marry nor are given in marriage, but are like angels of God in heaven."
+    },
+    {
+      "v": "22:31",
+      "text": "And about the resurrection of the dead — have you not read what was spoken to you by God, saying,"
+    },
+    {
+      "v": "22:32",
+      "text": "'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? God is not the God of the dead, but of the living.\""
+    },
+    {
+      "v": "22:33",
+      "text": "And hearing it, the crowds were astonished at his teaching."
+    }
+  ],
+  "greek_source": "content/2026-08-07/readings.md",
+  "english_source": "content/2026-08-07/readings.md",
+  "status": "complete"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tikhon-sent-letter-03",
+  "slug": "tikhon-sent-letter-03",
+  "title": "Letter 3 — On Faith and Works",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 3,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 174,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 3 of 46 in the collection Letters Sent — see Letter 1 for provenance. Part of the four-letter treatise On Faith (Letters 2–5); see Letter 2's note.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "3"
+  ],
+  "sections": [
+    {
+      "heading": "Faith proved by works",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">It is certainly necessary for whoever wants to be saved to hold Orthodoxy, or the right faith.</span> <span class=\"sn\" data-s=\"2\">But this alone is not sufficient for salvation.</span> <span class=\"sn\" data-s=\"3\">*“For the devils also believe, and tremble,”* in the apostle's words. [James 2:19] They believe that God is one, that Christ has come into the world, and they fear His holy name.</span> <span class=\"sn\" data-s=\"4\">Therefore the apostle demands that we show our faith by our works: *“Show me thy faith by thy works.”* [James 2:18] For as a good tree is known by good fruit, so a true and heartfelt faith is known by good works.</span> <span class=\"sn\" data-s=\"5\">Many are called faithful Christians, but their works show otherwise; they show faith with their lips, but by their works appear as pagans, or even worse than pagans: *“they profess that they know God; but in works they deny”* Him. [Titus 1:16] Therefore Orthodoxy must be joined to a living faith as well, which is always followed by works to match it.</span> <span class=\"sn\" data-s=\"6\">Strive to have such a faith, and you will be saved.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"7\">Be saved.</span>"
+        }
+      ]
+    }
+  ]
+}

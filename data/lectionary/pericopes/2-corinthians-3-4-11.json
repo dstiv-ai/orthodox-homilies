@@ -1,0 +1,84 @@
+{
+  "ref": "2 Corinthians 3:4-11",
+  "book": "2Cor",
+  "from": [
+    3,
+    4
+  ],
+  "to": [
+    3,
+    11
+  ],
+  "slug": "2-corinthians-3-4-11",
+  "greek": [
+    {
+      "v": "3:4",
+      "text": "Πεποίθησιν δὲ τοιαύτην ἔχομεν διὰ τοῦ χριστοῦ πρὸς τὸν θεόν·"
+    },
+    {
+      "v": "3:5",
+      "text": "οὐχ ὅτι ἱκανοί ἐσμεν ἀφ' ἑαυτῶν λογίσασθαί τι ὡς ἐξ ἑαυτῶν, ἀλλ' ἡ ἱκανότης ἡμῶν ἐκ τοῦ θεοῦ·"
+    },
+    {
+      "v": "3:6",
+      "text": "ὃς καὶ ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης, οὐ γράμματος, ἀλλὰ πνεύματος· τὸ γὰρ γράμμα ἀποκτένει, τὸ δὲ πνεῦμα ζῳοποιεῖ."
+    },
+    {
+      "v": "3:7",
+      "text": "Εἰ δὲ ἡ διακονία τοῦ θανάτου ἐν γράμμασιν, ἐντετυπωμένη ἐν λίθοις, ἐγενήθη ἐν δόξῃ, ὥστε μὴ δύνασθαι ἀτενίσαι τοὺς υἱοὺς Ἰσραὴλ εἰς τὸ πρόσωπον Μωϋσέως διὰ τὴν δόξαν τοῦ προσώπου αὐτοῦ, τὴν καταργουμένην,"
+    },
+    {
+      "v": "3:8",
+      "text": "πῶς οὐχὶ μᾶλλον ἡ διακονία τοῦ πνεύματος ἔσται ἐν δόξῃ;"
+    },
+    {
+      "v": "3:9",
+      "text": "Εἰ γὰρ ἡ διακονία τῆς κατακρίσεως δόξα, πολλῷ μᾶλλον περισσεύει ἡ διακονία τῆς δικαιοσύνης ἐν δόξῃ."
+    },
+    {
+      "v": "3:10",
+      "text": "Καὶ γὰρ οὐ δεδόξασται τὸ δεδοξασμένον ἐν τούτῳ τῷ μέρει, ἕνεκεν τῆς ὑπερβαλλούσης δόξης."
+    },
+    {
+      "v": "3:11",
+      "text": "Εἰ γὰρ τὸ καταργούμενον, διὰ δόξης, πολλῷ μᾶλλον τὸ μένον, ἐν δόξῃ."
+    }
+  ],
+  "english": [
+    {
+      "v": "3:4",
+      "text": "Brothers and sisters: this is the kind of confidence we have before God, through Christ."
+    },
+    {
+      "v": "3:5",
+      "text": "It is not that we are qualified to reckon anything as coming from ourselves — our qualification comes from God."
+    },
+    {
+      "v": "3:6",
+      "text": "He is the one who qualified us as ministers of a new covenant: not of the letter, but of the Spirit. The letter kills; the Spirit gives life."
+    },
+    {
+      "v": "3:7",
+      "text": "Now if the ministry of death — carved in letters on stones — came with such glory that the children of Israel could not look steadily at Moses' face, because of the glory of his face, a glory that was already fading,"
+    },
+    {
+      "v": "3:8",
+      "text": "how much more will the ministry of the Spirit be in glory?"
+    },
+    {
+      "v": "3:9",
+      "text": "For if the ministry of condemnation has glory, the ministry of righteousness overflows with far more glory."
+    },
+    {
+      "v": "3:10",
+      "text": "In fact, what was once made glorious has lost its glory in this respect, because of the glory that surpasses it."
+    },
+    {
+      "v": "3:11",
+      "text": "For if what was fading away came through glory, what remains is in far greater glory."
+    }
+  ],
+  "greek_source": "content/2026-08-12/readings.md",
+  "english_source": "content/2026-08-12/readings.md",
+  "status": "complete"
+}

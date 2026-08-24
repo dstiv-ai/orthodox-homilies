@@ -1,0 +1,824 @@
+{
+  "id": "chrysostom-56",
+  "slug": "chrysostom-56",
+  "title": "On the Transfiguration",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 56 on Matthew",
+  "category": "church-year",
+  "feast": "transfiguration",
+  "saint_key": null,
+  "cover_key": "transfiguration",
+  "scripture": [
+    "Matthew 17:1-9"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 6478,
+  "reading_minutes": 32,
+  "attribution_note": null,
+  "path": [
+    "church-year",
+    "feasts",
+    "transfiguration"
+  ],
+  "sections": [
+    {
+      "heading": "Some will not taste death",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ ΝϚʹ. Ἀμὴν, ἀμὴν λέγω ὑμῖν· εἰσί τινες τῶν ὧδε ἑστώτων. οἵτινες οὐ μὴ γεύσωνται θανάτου, ἕως ἂν ἴδωσι τὸν Υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν τῇ βασιλείᾳ αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"1\">*“Truly, truly I tell you: some of the people standing here will not taste death until they see the Son of Man coming in his kingdom.”* [Matthew 16:28]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The Transfiguration: Moses and Elijah appear",
+      "heading_sentence_index": 2,
+      "pairs": [
+        {
+          "gr": "αʹ. Ἐπειδὴ γὰρ πολλὰ περὶ κινδύνων διελέχθη καὶ θανάτου, καὶ τοῦ πάθους τοῦ ἑαυτοῦ, καὶ τῆς τῶν μαθητῶν σφαγῆς, καὶ τὰ αὐστηρὰ ἐπέταξεν ἐκεῖνα· καὶ τὰ μὲν ἦν ἐν τῷ παρόντι βίῳ καὶ ἐν χερσὶ, τὰ δὲ ἀγαθὰ ἐν ἐλπίσι καὶ προσδοκίαις· οἷον, τὸ σώζειν τὴν ψυχὴν τοὺς ἀπολλύντας αὐτὴν, τὸ ἔρχεσθαι αὐτὸν ἐν τῇ δόξῃ τοῦ Πατρὸς αὐτοῦ, τὸ ἀποδιδόναι τὰ ἔπαθλα· βουλόμενος καὶ τὴν ὄψιν αὐτῶν πληροφορῆσαι, καὶ δεῖξαι τίς ποτέ ἐστιν ἡ δόξα ἐκείνη, μεθ' ἧς μέλλει παραγίνεσθαι, ὡς ἐγχωροῦν ἦν αὐτοῖς μαθεῖν· καὶ κατὰ τὸν παρόντα βίον δείκνυσιν αὐτοῖς καὶ ἀποκαλύπτει ταύτην· ἵνα μήτε ἐπὶ τῷ οἰκείῳ θανάτῳ, μήτε ἐπὶ τῷ τοῦ Δεσπότου λοιπὸν ἀλγῶσι, καὶ μάλιστα Πέτρος ὀδυνώμενος.",
+          "en": "<span class=\"sn\" data-s=\"3\">Jesus had just been talking, at length, about danger and death — his own coming suffering, and the violent deaths some of his disciples would face — and he had given them hard, demanding commands.</span> <span class=\"sn\" data-s=\"4\">All of that was immediate, close at hand, already in their grasp.</span> <span class=\"sn\" data-s=\"5\">But the good things he had promised them were still only a hope for the future: that those who lose their life for his sake will save it; that he is coming in his Father's glory; that he will pay out everyone's reward.</span> <span class=\"sn\" data-s=\"6\">So Jesus wanted to give their very eyes full assurance, and to show them, as far as they could take it in, exactly what that future glory would look like — the very glory in which he had just said the Son of Man would come “in his kingdom.”</span> <span class=\"sn\" data-s=\"7\">Even now, in this present life, he shows them a glimpse of it and pulls back the curtain, so that they will stop grieving — whether over their own coming deaths or over his — and this especially for Peter, who was in real pain about it.</span>"
+        },
+        {
+          "gr": "Καὶ ὅρα τί ποιεῖ.",
+          "en": "<span class=\"sn\" data-s=\"8\">And look at what he actually does.</span>"
+        },
+        {
+          "gr": "Περὶ γεέννης καὶ βασιλείας διαλεχθείς· (τῷ τε γὰρ εἰπεῖν· Ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ, ἀπολέσει αὐτήν· καὶ ὃς ἂν ἀπολέσῃ αὐτὴν ἕνεκεν ἐμοῦ, εὑρήσει αὐτήν· καὶ τῷ εἰπεῖν, Ἀποδώσει ἑκάστῳ κατὰ τὴν πρᾶξιν αὐτοῦ, ἀμφότερα ταῦτα ἐδήλωσε·) περὶ ἀμφοτέρων τοίνυν εἰπὼν, τὴν μὲν βασιλείαν τῇ ὄψει δείκνυσι, τὴν δὲ γέενναν οὐκέτι.",
+          "en": "<span class=\"sn\" data-s=\"9\">He had just spoken about both hell and the kingdom — about losing your life in order to save it [Matthew 16:25], and about repaying everyone according to what they have done [Matthew 16:27] — both ideas at once.</span> <span class=\"sn\" data-s=\"10\">Having spoken of both, he now shows them the kingdom, in this vision — but not yet hell.</span>"
+        },
+        {
+          "gr": "Τί δήποτε;",
+          "en": "<span class=\"sn\" data-s=\"11\">Why the kingdom and not hell?</span>"
+        },
+        {
+          "gr": "Ὅτι εἰ μὲν ἄλλοι τινὲς ἦσαν παχύτεροι, ἀναγκαῖον καὶ τοῦτο ἦν· ἐπειδὴ δὲ εὐδόκιμοι καὶ εὐγνώμονες, ἀπὸ τῶν χρηστοτέρων αὐτοὺς ἐνάγει.",
+          "en": "<span class=\"sn\" data-s=\"12\">If the disciples had been a coarser, less receptive kind of people, showing them hell might have been necessary too.</span> <span class=\"sn\" data-s=\"13\">But because they were already faithful and thoughtful men, he leads them along the gentler road instead.</span>"
+        },
+        {
+          "gr": "Οὐ διὰ τοῦτο δὲ μόνον δείκνυσι τοῦτο· ἀλλ' ὅτι καὶ αὐτῷ τοῦτο μᾶλλον πρεπωδέστερον ἦν.",
+          "en": "<span class=\"sn\" data-s=\"14\">And that isn't the only reason: it was also simply more fitting for who he himself is.</span>"
+        },
+        {
+          "gr": "Οὐ μὴν οὐδὲ ἐκεῖνο παρατρέχει τὸ μέρος· ἀλλ' ἔστιν ὅπου σχεδὸν καὶ ὑπ' ὄψιν αὐτὰ φέρει τὰ πράγματα τῆς γεέννης· ὡς ὅταν τοῦ Λαζάρου τὴν εἰκόνα εἰσάγῃ, καὶ τοῦ τὰ ἑκατὸν δηνάρια ἀπαιτήσαντος μνημονεύῃ, καὶ τοῦ τὰ ῥυπαρὰ ἐνδεδυμένου ἱμάτια, καὶ ἑτέρων πλειόνων.",
+          "en": "<span class=\"sn\" data-s=\"15\">That doesn't mean he skips the subject of hell altogether, though — in other places he brings its realities almost visibly before our eyes: the rich man and Lazarus, the servant who demanded repayment of a hundred silver coins, the man dressed in filthy rags, and several others.</span>"
+        },
+        {
+          "gr": "Καὶ μεθ' ἡμέρας ἓξ παραλαμβάνει Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην. Ἕτερος δὲ μετὰ ὀκτώ φησιν, οὐκ ἐναντιούμενος τούτῳ, ἀλλὰ καὶ σφόδρα συνᾴδων. Ὁ μὲν γὰρ καὶ αὐτὴν τὴν ἡμέραν καθ' ἣν ἐφθέγξατο, κἀκείνην καθ' ἣν ἀνήγαγεν, εἶπεν· ὁ δὲ τὰς μεταξὺ τούτων μόνον.",
+          "en": "<span class=\"sn\" data-s=\"16\">Six days later, Jesus took Peter, James, and John with him. [Matthew 17:1] One of the other Gospel writers says this happened after eight days [Luke 9:28] — not because he disagrees with Matthew, but because the two accounts actually agree completely: Matthew counts both the day Jesus first spoke these words *and* the day he led them up the mountain, while Luke counts only the days in between.</span>"
+        },
+        {
+          "gr": "Σὺ δέ μοι σκόπει πῶς ὁ Ματθαῖος φιλοσοφεῖ, οὐκ ἀποκρυπτόμενος τοὺς ἑαυτοῦ προτιμηθέντας.",
+          "en": "<span class=\"sn\" data-s=\"17\">Notice, please, the honest goodness of Matthew here: he doesn't hide the fact that three other disciples were chosen ahead of him.</span>"
+        },
+        {
+          "gr": "Τοῦτο δὲ καὶ Ἰωάννης πολλαχοῦ ποιεῖ, τὰ ἐξαίρετα τοῦ Πέτρου ἐγκώμια μετὰ πολλῆς ἀναγράφων τῆς ἀληθείας.",
+          "en": "<span class=\"sn\" data-s=\"18\">John does the same thing again and again, recording Peter's special honors with complete honesty.</span>"
+        },
+        {
+          "gr": "Βασκανίας γὰρ καὶ δόξης κενῆς πανταχοῦ καθαρὸς ἦν ὁ τῶν ἁγίων τούτων χορός.",
+          "en": "<span class=\"sn\" data-s=\"19\">This whole company of holy men was, in everything, free of jealousy and empty pride.</span>"
+        },
+        {
+          "gr": "Λαβὼν τοίνυν τοὺς κορυφαίους, Ἀναφέρει εἰς ὄρος ὑψηλὸν κατ' ἰδίαν, καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ ἔλαμψε τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ γέγονε λευκὰ ὡς τὸ φῶς. Καὶ ὤφθησαν αὐτοῖς Μωϋσῆς καὶ Ἠλίας συλλαλοῦντες μετ' αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"20\">So Jesus took these three leaders and led them up a high mountain, alone with him.</span> <span class=\"sn\" data-s=\"21\">There he was transfigured in front of them: *“his face shone like the sun, and his clothes became white as light.*</span> <span class=\"sn\" data-s=\"22\">*And Moses and Elijah appeared to them, talking with him.”* [Matthew 17:2-3]</span>"
+        },
+        {
+          "gr": "Διατί τούτους παραλαμβάνει μόνους; Ὅτι οὗτοι τῶν ἄλλων ἦσαν ὑπερέχοντες.",
+          "en": "<span class=\"sn\" data-s=\"23\">Why does he take only these three?</span> <span class=\"sn\" data-s=\"24\">Because they stood out above the rest.</span>"
+        },
+        {
+          "gr": "Καὶ ὁ μὲν Πέτρος ἐκ τοῦ σφόδρα φιλεῖν αὐτὸν ἐδήλου τὴν ὑπεροχήν· ὁ δὲ Ἰωάννης ἐκ τοῦ σφόδρα φιλεῖσθαι· καὶ Ἰάκωβος δὲ ἀπὸ τῆς ἀποκρίσεως ἧς ἀπεκρίνατο μετὰ τοῦ ἀδελφοῦ λέγων· Δυνάμεθα πιεῖν τὸ ποτήριον· οὐκ ἀπὸ τῆς ἀποκρίσεως δὲ μόνον, ἀλλὰ καὶ ἀπὸ τῶν ἔργων, τῶν τε ἄλλων, καὶ ἀφ' ὧν ἐπλήρωσεν ἅπερ εἶπεν. Οὕτω γὰρ ἦν σφοδρὸς καὶ βαρὺς Ἰουδαίοις, ὡς καὶ τὸν Ἡρώδην ταύτην δωρεὰν μεγίστην νομίσαι χαρίσασθαι τοῖς Ἰουδαίοις, εἰ ἐκεῖνον ἀνέλοι.",
+          "en": "<span class=\"sn\" data-s=\"25\">Peter's distinction was how intensely he loved Christ.</span> <span class=\"sn\" data-s=\"26\">John's was how intensely Christ loved him.</span> <span class=\"sn\" data-s=\"27\">And James stood out for the answer he gave, together with his brother, when Jesus asked if they could drink his cup — *“We are able”* [Matthew 20:22] — and not only for that answer, but for actually living up to it: he was so bold, and such a threat to the Jewish authorities, that Herod thought killing him would be doing the Jews the greatest possible favor.</span>"
+        },
+        {
+          "gr": "Διατί δὲ μὴ εὐθέως αὐτοὺς ἀνάγει; Ὥστε μηδὲν παθεῖν ἀνθρώπινον τοὺς λοιποὺς μαθητάς. Διὰ τοῦτο οὐδὲ τὰ ὀνόματα αὐτῶν λέγει τῶν ἀνιέναι μελλόντων.",
+          "en": "<span class=\"sn\" data-s=\"28\">But why didn't he take all of them up the mountain right away?</span> <span class=\"sn\" data-s=\"29\">To spare the other disciples any ordinary human feelings of jealousy — which is also why, up to this point, he doesn't announce in advance who is going up.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ σφόδρα ἂν ἐπεθύμησαν οἱ λοιποὶ ἀκολουθῆσαι, ὑπόδειγμα μέλλοντες τῆς δόξης ἐκείνης ὁρᾷν, καὶ ἤλγησαν ἂν ὡς παροφθέντες.",
+          "en": "<span class=\"sn\" data-s=\"30\">If he had, the rest would have longed intensely to come and see a preview of that glory, and would have felt hurt at being passed over.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ σωματικώτερον τοῦτο ἐδείκνυ, ἀλλ' ὅμως πολλὴν ἐπιθυμίαν τὸ πρᾶγμα εἶχε.",
+          "en": "<span class=\"sn\" data-s=\"31\">Even though what they were about to see was, in a sense, still something physical and visible, the thing itself was deeply desirable.</span>"
+        },
+        {
+          "gr": "Τί δήποτε οὖν καὶ προλέγει; Ἵνα εὐμαθέστεροι περὶ τὴν θεωρίαν γένωνται, ἀφ' ὧν προεῖπε, καὶ σφοδροτέρας ἐν τῷ τῶν ἡμερῶν ἀριθμῷ τῆς ἐπιθυμίας ἐμπλησθέντες, οὕτω νηφούσῃ καὶ μεμεριμνημένῃ τῇ διανοίᾳ παραγένωνται.",
+          "en": "<span class=\"sn\" data-s=\"32\">So why does he tell even these three beforehand?</span> <span class=\"sn\" data-s=\"33\">So that, having been told in advance, they would grasp the deeper meaning of what they were about to see; and so that, with their longing building over those days, they would arrive on the mountain fully alert, their minds wide awake.</span>"
+        },
+        {
+          "gr": "Τίνος δὲ ἕνεκεν καὶ Μωϋσῆν καὶ Ἠλίαν εἰς μέσον ἄγει;",
+          "en": "<span class=\"sn\" data-s=\"34\">But why does he specifically bring in Moses and Elijah?</span> <span class=\"sn\" data-s=\"35\">There are several reasons one could give.</span>"
+        },
+        {
+          "gr": "Πολλὰς ἂν ἔχοι τις εἰπεῖν αἰτίας· καὶ πρώτην μὲν ταύτην, ὅτι ἐπειδὴ οἱ ὄχλοι ἔλεγον, οἱ μὲν Ἠλίαν, οἱ δὲ Ἱερεμίαν, οἱ δὲ ἕνα τῶν ἀρχαίων προφητῶν, τοὺς κορυφαίους ἄγει, ἵνα τὸ μέσον καὶ ἐντεῦθεν ἴδωσι τῶν δούλων καὶ τοῦ Δεσπότου, καὶ ὅτι καλῶς ἐπῃνέθη Πέτρος ὁμολογήσας αὐτὸν Υἱὸν Θεοῦ.",
+          "en": "<span class=\"sn\" data-s=\"36\">Here is the first: crowds had been saying that Jesus himself was Elijah, or Jeremiah, or one of the old prophets come back [Matthew 16:14].</span> <span class=\"sn\" data-s=\"37\">So he brings the two greatest figures of that whole company of the Old Covenant — standing in, in effect, for the Law (Moses, who gave it) and the Prophets (Elijah, the greatest of them) — so that the disciples could see with their own eyes the difference between servants and their Master, and so that Peter's earlier confession, that Jesus is the Son of God [Matthew 16:16], would be shown to have been rightly praised.</span>"
+        },
+        {
+          "gr": "Μετ' ἐκείνην δὲ καὶ ἑτέραν ἔστιν εἰπεῖν.",
+          "en": "<span class=\"sn\" data-s=\"38\">There is a second reason too.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ συνεχῶς ἐνεκάλουν αὐτῷ τὸ παραβαίνειν τὸν νόμον, καὶ βλάσφημον αὐτὸν εἶναι ἐνόμιζον, ὡς σφετεριζόμενον δόξαν οὐ προσήκουσαν αὐτῷ τὴν τοῦ Πατρὸς, καὶ ἔλεγον· Οὗτος οὐκ ἔστιν ἐκ τοῦ Θεοῦ, ὅτι τὸ σάββατον οὐ τηρεῖ· καὶ πάλιν, Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε, ἀλλὰ περὶ βλασφημίας, καὶ ὅτι ἄνθρωπος ὢν ποιεῖς σεαυτὸν Θεόν· ἵνα δειχθῇ ὅτι βασκανίας ἀμφότερα τὰ ἐγκλήματα, καὶ ἑκατέρων τούτων ἐστὶν ἀνεύθυνος, καὶ οὔτε νόμου παράβασις τὸ γινόμενον, οὔτε δόξης σφετερισμὸς τῆς μὴ προσηκούσης τὸ λέγειν ἑαυτὸν ἴσον τῷ Πατρὶ, τοὺς ἐν ἑκατέρῳ λάμψαντας τούτων εἰς μέσον ἄγει.",
+          "en": "<span class=\"sn\" data-s=\"39\">People kept accusing Jesus of two things: of breaking the Law of Moses, and of blasphemy — of grabbing for himself a glory that belonged only to the Father.</span> <span class=\"sn\" data-s=\"40\">They said, *“This man is not from God, because he does not keep the Sabbath”* [John 9:16], and again, *“We are not stoning you for a good work, but for blasphemy — because you, a mere man, are making yourself God”* [John 10:33].</span> <span class=\"sn\" data-s=\"41\">So Jesus brings forward exactly the two men who had shone brightest in each of these two areas, to show that both accusations came out of jealousy and that neither one actually applied to him.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ Μωϋσῆς τὸν νόμον ἔδωκε, καὶ ἠδύναντο λογίσασθαι Ἰουδαῖοι, ὅτι οὐκ ἂν περιεῖδε πατούμενον αὐτὸν, ὡς ἐνόμιζον, οὐδ' ἂν τὸν παραβαίνοντα αὐτὸν καὶ τῷ τεθεικότι πολέμιον ὄντα ἐθεράπευσεν ἄν.",
+          "en": "<span class=\"sn\" data-s=\"42\">He brings Moses, because Moses gave the Law in the first place — the Jewish crowds could reason for themselves that Moses would never have stood there in silence while his own Law was being trampled on, nor appeared alongside someone who was breaking it and defying the God who gave it.</span>"
+        },
+        {
+          "gr": "Καὶ Ἠλίας δὲ ὑπὲρ τῆς δόξης τοῦ Θεοῦ ἐζήλωσε, καὶ οὐκ ἂν, εἰ ἀντίθεος ἦν, καὶ Θεὸν ἑαυτὸν ἔλεγεν, ἴσον ἑαυτὸν ποιῶν τῷ Πατρὶ, μὴ ὢν ὅπερ ἔλεγε, μηδὲ προσηκόντως τοῦτο ποιῶν, παρέστη καὶ αὐτὸς καὶ ὑπήκουσεν.",
+          "en": "<span class=\"sn\" data-s=\"43\">And he brings Elijah, because Elijah had been fiercely jealous for God's honor his whole life [1 Kings 19:10] — if Jesus really were opposed to God, falsely calling himself God and equal to the Father with no right to do so, Elijah simply would not have stood there beside him and listened to him.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The dead and the living stand together",
+      "heading_sentence_index": 44,
+      "pairs": [
+        {
+          "gr": "βʹ. Ἔστι δὲ καὶ ἑτέραν αἰτίαν εἰπεῖν μετὰ τῶν εἰρημένων.",
+          "en": "<span class=\"sn\" data-s=\"45\">There is a third reason, alongside the first.</span>"
+        },
+        {
+          "gr": "Ποίαν δὴ ταύτην;",
+          "en": "<span class=\"sn\" data-s=\"46\">What is it?</span>"
+        },
+        {
+          "gr": "Ἵνα μάθωσιν, ὅτι καὶ θανάτου καὶ ζωῆς ἐξουσίαν ἔχει, καὶ τῶν ἄνω καὶ τῶν κάτω κρατεῖ.",
+          "en": "<span class=\"sn\" data-s=\"47\">To teach the disciples that Christ has power over both death and life — that he rules both what is above and what is below.</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο καὶ τὸν τετελευτηκότα, καὶ τὸν οὐδέπω τοῦτο παθόντα εἰς μέσον ἄγει.",
+          "en": "<span class=\"sn\" data-s=\"48\">That is exactly why he brings forward one man who had died (Moses) and one man who never experienced death at all (Elijah, who was taken up alive) — the dead and the living, standing together on either side of him.</span>"
+        },
+        {
+          "gr": "Τὴν δὲ πέμπτην αἰτίαν (πέμπτη γὰρ αὕτη ἐστὶ πρὸς ταῖς εἰρημέναις) καὶ αὐτὸς ὁ εὐαγγελιστὴς ἀπεκάλυψε.",
+          "en": "<span class=\"sn\" data-s=\"49\">There is a fifth reason too — this one is given by the Gospel writer himself.</span>"
+        },
+        {
+          "gr": "Τίς δὲ ἦν αὕτη;",
+          "en": "<span class=\"sn\" data-s=\"50\">What was it?</span>"
+        },
+        {
+          "gr": "Δεῖξαι τοῦ σταυροῦ τὴν δόξαν, καὶ παραμυθήσασθαι τὸν Πέτρον καὶ ἐκείνους δεδοικότας τὸ πάθος, καὶ ἀναστῆσαι αὐτῶν τὰ φρονήματα.",
+          "en": "<span class=\"sn\" data-s=\"51\">To show the glory hidden inside the cross, to comfort Peter and the others, who dreaded the coming suffering, and to lift their spirits.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ παραγενόμενοι οὐκ ἐσίγων, ἀλλ' Ἐλάλουν, φησὶ, τὴν δόξαν, ἣν ἔμελλε πληροῦν ἐν Ἱερουσαλήμ· τουτέστι, τὸ πάθος καὶ τὸν σταυρόν· οὕτω γὰρ αὐτὸ καλοῦσιν ἀεί.",
+          "en": "<span class=\"sn\" data-s=\"52\">Because when Moses and Elijah appeared, they didn't stay silent — Scripture says they *“spoke of the departure Jesus was about to accomplish in Jerusalem”* [Luke 9:31], meaning his suffering and his cross, since that is what the Gospels always mean by that kind of language.</span>"
+        },
+        {
+          "gr": "Οὐ ταύτῃ δὲ μόνον αὐτοὺς ἤλειφεν, ἀλλὰ καὶ αὐτῇ τῇ ἀρετῇ τῶν ἀνδρῶν, ἣν μάλιστα παρ' αὐτῶν ἐζήτει.",
+          "en": "<span class=\"sn\" data-s=\"53\">And that is not the only way Christ cheers his disciples here — he also does it through the sheer excellence of these two men, which was exactly the kind of excellence he was asking of his own disciples.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ εἶπεν, Εἴ τις θέλει ὀπίσω μου ἐλθεῖν, ἀράτω τὸν σταυρὸν αὐτοῦ, καὶ ἀκολουθείτω μοι, τοὺς μυριάκις ἀποθανόντας ὑπὲρ τῶν τῷ Θεῷ δοκούντων καὶ δήμου τοῦ πιστευθέντος αὐτοῖς, τούτους εἰς μέσον ἄγει. Καὶ γὰρ τούτων ἕκαστος τὴν ψυχὴν ἀπολέσας, εὗρεν αὐτήν.",
+          "en": "<span class=\"sn\" data-s=\"54\">He had just told them: *“If anyone wants to come after me, let him take up his cross and follow me”* [Matthew 16:24].</span> <span class=\"sn\" data-s=\"55\">So now he sets before them two men who had, in effect, already died ten thousand times over for God's commandments and for the people entrusted to their care — because Moses and Elijah, by losing their lives for God's sake, found true life.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ πρὸς τυράννους ἕκαστος ἐπαῤῥησιάσατο· ὁ μὲν πρὸς τὸν Αἰγύπτιον, ὁ δὲ πρὸς τὸν Ἀχαάβ· καὶ ὑπὲρ ἀγνωμόνων ἀνθρώπων καὶ ἀπειθῶν· καὶ ὑπ' αὐτῶν τῶν παρ' αὐτῶν σωζομένων εἰς τὸν περὶ τῶν ἐσχάτων ἤχθησαν κίνδυνον· καὶ ἕκαστος αὐτῶν εἰδωλολατρείας ἀπαλλάξαι βουλόμενος, καὶ ἕκαστος αὐτῶν ἰδιώτης ὤν· ὁ μὲν γὰρ βραδύγλωσσος καὶ ἰσχνόφωνος, ὁ δὲ καὶ αὐτὸς ἀγροικότερον διακείμενος· καὶ ἀκτημοσύνης δὲ πολλὴ παρ' ἑκατέρων ἡ ἀκρίβεια· οὔτε γὰρ Μωϋσῆς τι ἐκέκτητο, οὔτε Ἠλίας τι εἶχε πλέον τῆς μηλωτῆς· καὶ ταῦτα ἐν τῇ Παλαιᾷ, καὶ οὐδὲ χάριν τοσαύτην λαβόντες σημείων.",
+          "en": "<span class=\"sn\" data-s=\"56\">Each of them spoke fearlessly to a tyrant's face — Moses to Pharaoh, Elijah to Ahab.</span> <span class=\"sn\" data-s=\"57\">Each suffered for the sake of ungrateful, disobedient people.</span> <span class=\"sn\" data-s=\"58\">Each was put in mortal danger by the very people he had saved.</span> <span class=\"sn\" data-s=\"59\">Each of them wanted to turn people away from idol-worship.</span> <span class=\"sn\" data-s=\"60\">Each of them was an unpolished, uneducated man — Moses was *“slow of speech and slow of tongue”* [Exodus 4:10], and Elijah too had a rough, unrefined manner.</span> <span class=\"sn\" data-s=\"61\">Both were strict examples of voluntary poverty: Moses acquired nothing for himself, and Elijah owned nothing but his sheepskin cloak — and this was under the old covenant, before either had received the kind of overflowing gift of miracles the apostles would later receive.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ θάλατταν ἔσχισε Μωϋσῆς, ἀλλὰ Πέτρος ἐπὶ τῆς ὑγρᾶς ἐβάδισε, καὶ ὄρη μεταθεῖναι ἱκανὸς ἦν, καὶ νοσήματα σωμάτων διώρθου παντοδαπὰ, καὶ δαίμονας ἤλαυνεν ἀγρίους, καὶ σκιᾷ σώματος τὰ μεγάλα ἐκεῖνα ἐθαυματούργει τεράστια, καὶ τὴν οἰκουμένην μετέστησεν ἅπασαν.",
+          "en": "<span class=\"sn\" data-s=\"62\">Yes, Moses split open a sea [Exodus 14:21] — but Peter walked on top of the water [Matthew 14:29]; the apostles could move mountains, cure every kind of physical illness, drive out savage demons, and even work astonishing miracles just by their shadow falling on someone [Acts 5:15] — and they changed the whole world.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ καὶ Ἠλίας νεκρὸν ἀνέστησεν, ἀλλ' οὗτοι μυρίους, καὶ ταῦτα μηδέπω Πνεύματος καταξιωθέντες.",
+          "en": "<span class=\"sn\" data-s=\"63\">Yes, Elijah raised one dead person [1 Kings 17:22] — but the apostles raised countless people, and this before they had even received the Holy Spirit.</span>"
+        },
+        {
+          "gr": "Ἄγει τοίνυν καὶ διὰ τοῦτο εἰς μέσον. Ἠβούλετο γὰρ αὐτοὺς τὸ δημαγωγικὸν τὸ ἐκείνων ζηλῶσαι, καὶ τὸ εὔτονον, καὶ τὸ ἀκαμπές· καὶ γενέσθαι ἐπιεικεῖς κατὰ Μωϋσέα, καὶ ζηλωτὰς κατὰ τὸν Ἠλίαν, καὶ κηδεμονικοὺς ὁμοίως.",
+          "en": "<span class=\"sn\" data-s=\"64\">So this is another reason Christ brings Moses and Elijah forward: he wants his disciples to imitate their skill in winning people over, their strength of mind, their unbending resolve — to be gentle like Moses, zealous for God like Elijah, and just as full of tender care for their people.</span>"
+        },
+        {
+          "gr": "Ὁ μὲν γὰρ λιμὸν τριῶν ἐτῶν ἤνεγκε διὰ τὸν δῆμον τὸν Ἰουδαϊκόν· ὁ δὲ ἔλεγεν· Εἰ μὲν ἀφῇς αὐτοῖς τὴν ἁμαρτίαν, ἄφες· ἐπεὶ κἀμὲ ἐξάλειψον ἐκ τῆς βίβλου ἧς ἔγραψας.",
+          "en": "<span class=\"sn\" data-s=\"65\">Moses endured a three-year famine for the sake of the Jewish people, and even said to God, *“If you will forgive their sin, forgive it — but if not, blot me too out of the book you have written”* [Exodus 32:32].</span>"
+        },
+        {
+          "gr": "Τούτων δὲ ἁπάντων ἀνεμίμνησκε διὰ τῆς ὄψεως. Καὶ γὰρ ἐν δόξῃ αὐτοὺς ἤγαγεν, οὐχ ἵνα μέχρι τούτων στῶσιν, ἀλλ' ἵνα καὶ ὑπερβῶσι τὰ σκάμματα.",
+          "en": "<span class=\"sn\" data-s=\"66\">Christ was reminding the disciples of all of this simply by giving them this vision — and he brought them to that glory not so that they would stay at the level Moses and Elijah had reached, but so that they would actually surpass it.</span>"
+        },
+        {
+          "gr": "Ὅτε γοῦν εἶπον, Εἴπωμεν πῦρ καταβῆναι ἐκ τοῦ οὐρανοῦ, καὶ ἐμνημόνευσαν Ἠλία ὡς τοῦτο πεποιηκότος, φησίν· Οὐκ οἴδατε ποίου πνεύματός ἐστε· εἰς ἀνεξικακίαν αὐτοὺς ἀλείφων διὰ τῆς κατὰ τὸ χάρισμα διαφορᾶς.",
+          "en": "<span class=\"sn\" data-s=\"67\">Later, for instance, when James and John said, *“Should we call down fire from heaven,”* citing Elijah as their example for doing exactly that [Luke 9:54; 2 Kings 1:10], Jesus told them, *“You do not know what spirit you belong to”* [Luke 9:55] — training them toward patience precisely by pointing out how much greater a gift they had been given than Elijah had.</span>"
+        },
+        {
+          "gr": "Καὶ μή τις ἡμᾶς νομιζέτω καταγινώσκειν Ἠλίου, ὡς ἀτελοῦς· οὐ τοῦτό φαμεν· καὶ γὰρ σφόδρα τέλειος ἦν· ἀλλ' ἐν τοῖς καιροῖς τοῖς ἑαυτοῦ, ὅτε παιδικωτέρα ἡ τῶν ἀνθρώπων διάνοια ἦν, καὶ ταύτης ἐδέοντο τῆς παιδαγωγίας.",
+          "en": "<span class=\"sn\" data-s=\"68\">Don't take any of this to mean we are calling Elijah imperfect — we are not saying that at all.</span> <span class=\"sn\" data-s=\"69\">He was thoroughly perfect for his own time, when people's understanding was still, in a sense, more childlike and needed exactly that kind of strict schooling.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ καὶ Μωϋσῆς κατὰ τοῦτο τέλειος ἦν· ἀλλ' ὅμως κἀκείνου πλέον ἀπαιτοῦνται οὗτοι. Ἐὰν γὰρ μὴ περισσεύσῃ ἡ δικαιοσύνη ὑμῶν πλέον τῶν Γραμματέων καὶ Φαρισαίων, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.",
+          "en": "<span class=\"sn\" data-s=\"70\">Moses too was perfect in the same way, for his own time.</span> <span class=\"sn\" data-s=\"71\">And yet more is required of Christ's disciples than was required even of Moses: *“unless your righteousness surpasses that of the scribes and Pharisees, you will not enter the kingdom of heaven”* [Matthew 5:20].</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ εἰς Αἴγυπτον εἰσῄεσαν, ἀλλ' εἰς τὴν οἰκουμένην ἅπασαν, χαλεπώτερον Αἰγυπτίων διακειμένην· οὐδὲ τῷ Φαραὼ διαλεξόμενοι, ἀλλὰ τῷ διαβόλῳ πυκτεύσοντες, αὐτῷ τῷ τῆς κακίας τυράννῳ.",
+          "en": "<span class=\"sn\" data-s=\"72\">The apostles were not sent into Egypt alone, but into the whole world — a world in a worse state than Egypt had ever been.</span> <span class=\"sn\" data-s=\"73\">They didn't have to negotiate with a Pharaoh; they had to grapple hand to hand with the devil himself, the ultimate ruler of evil.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ἀγὼν ἦν αὐτοῖς, κἀκεῖνον δῆσαι, καὶ τὰ σκεύη αὐτοῦ διαρπάσαι πάντα· καὶ ταῦτα ἐποίουν οὐ θάλατταν ῥηγνύντες, ἀλλὰ βυθὸν ἀσεβείας διὰ τῆς ῥάβδου τῆς Ἰεσσαὶ, πολλῷ χαλεπώτερα κύματα ἔχοντα.",
+          "en": "<span class=\"sn\" data-s=\"74\">Their task was to bind him and plunder everything he owned [Matthew 12:29] — and they did this not by splitting open a sea, but by splitting open a whole abyss of godlessness with the rod of Jesse, meaning Christ's own power [Isaiah 11:1] — an abyss with far more terrifying waves than any sea.</span>"
+        },
+        {
+          "gr": "Ὅρα γοῦν πόσα ἐφόβει τοὺς ἀνθρώπους· θάνατος, πενία, ἀδοξία, τὰ μυρία πάθη· καὶ μᾶλλον ταῦτα ἔτρεμον, ἢ τὸ πέλαγος τότε ἐκεῖνο οἱ Ἰουδαῖοι.",
+          "en": "<span class=\"sn\" data-s=\"75\">Just think how many things there were to frighten these men: death, poverty, disgrace, and countless other sufferings — things they trembled at even more than the Jews of old trembled at that literal sea.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ὅμως ἁπάντων τούτων ἔπεισεν αὐτοὺς κατατολμῆσαι, καὶ ὥσπερ διὰ ξηρᾶς διαβῆναι μετὰ ἀσφαλείας ἁπάσης.",
+          "en": "<span class=\"sn\" data-s=\"76\">And yet Christ persuaded the apostles to face all of it boldly, and to walk through it as safely as if it were dry ground.</span>"
+        },
+        {
+          "gr": "Πρὸς ταῦτα τοίνυν ἅπαντα αὐτοὺς ἀλείφων, παρῆγε τοὺς ἐν τῇ Παλαιᾷ λάμψαντας.",
+          "en": "<span class=\"sn\" data-s=\"77\">To prepare them for all of this, then, he brought forward the two men who had shone brightest under the old Law.</span>"
+        },
+        {
+          "gr": "Τί οὖν ὁ Πέτρος ὁ θερμός; Καλόν ἐστιν ἡμᾶς ὧδε εἶναι.",
+          "en": "<span class=\"sn\" data-s=\"78\">So what does the eager, hot-headed Peter say?</span> <span class=\"sn\" data-s=\"79\">*“It is good for us to be here.”* [Matthew 17:4] Peter had earlier heard Jesus say he must go to Jerusalem and suffer, and he was still afraid and trembling for him even after Jesus had rebuked him for it [Matthew 16:22-23].</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ ἤκουσεν, ὅτι δεῖ αὐτὸν εἰς τὰ Ἱεροσόλυμα ἀπελθεῖν καὶ παθεῖν, δεδοικὼς ἔτι καὶ τρέμων ὑπὲρ αὐτοῦ καὶ μετὰ τὴν ἐπιτίμησιν, προσελθεῖν μὲν καὶ εἰπεῖν τὸ αὐτὸ τοῦτο πάλιν οὐ τολμᾷ, ὅτι Ἵλεώς σοι, ἀπὸ δὲ τοῦ φόβου ἐκείνου τὰ αὐτὰ πάλιν αἰνίττεται δι' ἑτέρων ῥημάτων.",
+          "en": "<span class=\"sn\" data-s=\"80\">He didn't dare come out and say the same thing outright a second time — *“God forbid, Lord!*</span> <span class=\"sn\" data-s=\"81\">*This will never happen to you!”* — but out of that same fear he hints at the same idea again in different words.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ εἶδεν ὄρος καὶ πολλὴν τὴν ἀναχώρησιν καὶ τὴν ἐρημίαν, ἐνενόησεν ὅτι ἔχει πολλὴν ἀσφάλειαν τὴν ἀπὸ τοῦ τόπου· οὐ μόνον δὲ τὴν ἀπὸ τοῦ τόπου, ἀλλὰ καὶ τοῦ μηκέτι ἀπελθεῖν αὐτὸν εἰς τὰ Ἱεροσόλυμα· βούλεται γὰρ αὐτὸν ἐκεῖ εἶναι διηνεκῶς· διὸ καὶ σκηνῶν μέμνηται.",
+          "en": "<span class=\"sn\" data-s=\"82\">Seeing the mountain, the deep quiet, the total isolation, his unspoken thought was: this place is safe, just because of where it is — and not only that, but if Jesus never has to leave this mountain, he will never have to go back to Jerusalem at all.</span> <span class=\"sn\" data-s=\"83\">Peter wants him to stay there permanently, which is exactly why he brings up building shelters.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ τοῦτο γένοιτο, φησὶν, οὐκ ἀναβησόμεθα εἰς τὰ Ἱεροσόλυμα· εἰ δὲ μὴ ἀναβαίημεν, οὐκ ἀποθανεῖται· ἐκεῖ γὰρ ἔφη τοὺς γραμματεῖς ἐπιθήσεσθαι αὐτῷ.",
+          "en": "<span class=\"sn\" data-s=\"84\">His reasoning runs, silently: if we build these, we won't go up to Jerusalem; and if we don't go up, Jesus won't die — because that is where he said the religious authorities would seize him [Matthew 16:21].</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὕτω μὲν οὐκ ἐτόλμησεν εἰπεῖν· ταῦτα δὲ βουλόμενος κατασκευάσαι, ἔλεγεν ἐν ἀσφαλείᾳ· Καλόν ἐστιν ἐνταῦθα εἶναι, ἔνθα καὶ Μωϋσῆς πάρεστι καὶ Ἠλίας. Ἠλίας ὁ ἐπὶ τοῦ ὄρους πῦρ κατενεγκὼν, καὶ Μωϋσῆς ὁ εἰς τὸν γνόφον, εἰσελθὼν, καὶ τῷ Θεῷ διαλεχθείς· καὶ οὐδεὶς οὐδὲ εἴσεται ἔνθα ἐσμέν.",
+          "en": "<span class=\"sn\" data-s=\"85\">He didn't dare say all of that outright.</span> <span class=\"sn\" data-s=\"86\">But wanting to arrange things that way anyway, he simply said, with total confidence: *“It is good for us to be here, where Moses and Elijah are also present — Elijah, who once called fire down on a mountain, and Moses, who once walked into the thick darkness and spoke directly with God — and here, no one will even know where we are.”*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Peter's tents, and the bright cloud",
+      "heading_sentence_index": 87,
+      "pairs": [
+        {
+          "gr": "γʹ. Εἶδες τὸν θερμὸν ἐραστὴν τοῦ Χριστοῦ;",
+          "en": "<span class=\"sn\" data-s=\"88\">Do you see how passionately Peter loved Christ?</span>"
+        },
+        {
+          "gr": "Μὴ γὰρ δὴ τοῦτο ζήτει, ὅτι οὐκ ἦν ἐξητασμένος ὁ τρόπος τῆς παρακλήσεως, ἀλλὰ πῶς θερμὸς ἦν, πῶς περιεκαίετο τοῦ Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"89\">Don't focus on whether what he suggested was well thought through — look instead at how ardent he was, how his love for Christ burned inside him.</span>"
+        },
+        {
+          "gr": "Ὅτι γὰρ οὐχ ὑπὲρ ἑαυτοῦ τοσοῦτον τρέμων ταῦτα ἔλεγεν, ἡνίκα αὐτοῦ τὸν ἐσόμενον προεμήνυε θάνατον καὶ τὴν ἔφοδον, ἄκουσον τί φησι· Τὴν ψυχήν μου ὑπὲρ σοῦ θήσω· Κἂν δέῃ με σὺν σοὶ ἀποθανεῖν, οὐ μή σε ἀπαρνήσομαι.",
+          "en": "<span class=\"sn\" data-s=\"90\">That his fear here wasn't mainly fear for himself is proven by what he said on another occasion, when Christ was foretelling his own coming death and arrest: *“I will lay down my life for you”* [John 13:37];</span> <span class=\"sn\" data-s=\"91\">*“Even if I have to die with you, I will never deny you”* [Matthew 26:35].</span>"
+        },
+        {
+          "gr": "Ὅρα δὲ πῶς καὶ ἐν μέσοις αὐτοῖς τοῖς κινδύνοις παρεβουλεύετο. Τοσούτου γοῦν περιεστῶτος δήμου, οὐ μόνον οὐκ ἔφυγεν, ἀλλὰ καὶ τὴν μάχαιραν σπασάμενος, τὸ ὠτίον ἀπέκοψε τοῦ δούλου τοῦ ἀρχιερέως.",
+          "en": "<span class=\"sn\" data-s=\"92\">And notice how, even in the middle of real danger, Peter always thought badly of his own safety: when the arresting crowd surrounded them, far from running away, he actually drew a sword and cut off the ear of the high priest's servant [John 18:10].</span>"
+        },
+        {
+          "gr": "Οὕτως οὐ τὸ καθ' ἑαυτὸν ἐσκόπει, ἀλλ' ὑπὲρ τοῦ Διδασκάλου ἔτρεμεν.",
+          "en": "<span class=\"sn\" data-s=\"93\">That is how little he thought of his own interest, and how much he feared for his Master.</span>"
+        },
+        {
+          "gr": "Εἶτα ἐπειδὴ ἀποφαντικῶς ἐφθέγξατο, ἐπιλαμβάνεται ἑαυτοῦ, καὶ ἐννοήσας μὴ πάλιν ἐπιτιμηθῇ, φησίν· Εἰ θέλεις, ποιήσωμεν ὧδε τρεῖς σκηνὰς, σοὶ μίαν, καὶ Μωϋσῇ μίαν, καὶ Ἡλίᾳ μίαν. Τί λέγεις, ὦ Πέτρε;",
+          "en": "<span class=\"sn\" data-s=\"94\">So here on the mountain, having spoken as if stating a settled fact — “It is good for us to be here” — he catches himself, worrying he might get corrected again as he had before, and adds: *“If you wish, let us make three shelters here — one for you, one for Moses, and one for Elijah.”* [Matthew 17:4] What are you saying, Peter?</span>"
+        },
+        {
+          "gr": "Οὐ πρὸ μικροῦ τῶν δούλων αὐτὸν ἀπήλλαξας; Πάλιν μετὰ τῶν δούλων αὐτὸν ἀριθμεῖς;",
+          "en": "<span class=\"sn\" data-s=\"95\">Only a moment ago you set Christ apart from mere servants [Matthew 16:16] — now you are putting him back on the same level as Moses and Elijah, his own servants?</span>"
+        },
+        {
+          "gr": "Εἶδες πῶς σφόδρα ἀτελεῖς ἦσαν πρὸ τοῦ σταυροῦ;",
+          "en": "<span class=\"sn\" data-s=\"96\">Do you see how deeply imperfect these disciples still were before the cross?</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ ἀπεκάλυψεν αὐτῷ ὁ Πατὴρ, ἀλλ' οὐ διηνεκῶς κατεῖχε τὴν ἀποκάλυψιν, ἀλλ' ὑπὸ τῆς ἀγωνίας ἐταράχθη, οὐχὶ ταύτης ἧς εἶπον μόνης, ἀλλὰ καὶ ἑτέρας, τῆς ἀπὸ τῆς ὄψεως ἐκείνης.",
+          "en": "<span class=\"sn\" data-s=\"97\">Even though the Father had revealed the truth about Christ to Peter, he didn't hold that revelation steadily — he was shaken by fear, and not only the fear I've already mentioned, but a second fear too, coming straight from the overwhelming sight in front of him.</span>"
+        },
+        {
+          "gr": "Οἱ γοῦν ἕτεροι εὐαγγελισταὶ τοῦτο δηλοῦντες, καὶ τὸ συγκεχυμένον αὐτοῦ τῆς γνώμης, μεθ' ἧς ταῦτα ἐφθέγγετο, ἀπὸ τῆς ἀγωνίας ἐκείνης δεικνύντες γεγενῆσθαι, ἔλεγον· ὁ μὲν Μάρκος, ὅτι Οὐ γὰρ ᾔδει τί λαλήσει· ἔκφοβοι γὰρ ἐγένοντο· ὁ δὲ Λουκᾶς μετὰ τὸ εἰπεῖν, Τρεῖς σκηνὰς ποιήσωμεν, ἐπήγαγεν, ὅτι Μὴ εἰδὼς ὃ λέγει.",
+          "en": "<span class=\"sn\" data-s=\"98\">The other Gospel writers make exactly this point, showing that Peter's confused state of mind came from that same shock.</span> <span class=\"sn\" data-s=\"99\">Mark says, *“he did not know what to say, for they were terrified”* [Mark 9:6].</span> <span class=\"sn\" data-s=\"100\">Luke, after recording *“let us make three shelters,”* adds, *“not knowing what he was saying”* [Luke 9:33].</span>"
+        },
+        {
+          "gr": "Εἶτα δηλῶν ὅτι πολλῷ κατείχετο φόβῳ, καὶ αὐτὸς καὶ οἱ λοιποὶ, φησί· Βεβαρημένοι ἦσαν ὕπνῳ· καὶ διαγρηγορήσαντες εἶδον τὴν δόξαν αὐτοῦ· ὕπνον ἐνταῦθα καλῶν τὸν πολὺν κάρον τὸν ἀπὸ τῆς ὄψεως ἐκείνης αὐτοῖς ἐγγινόμενον.",
+          "en": "<span class=\"sn\" data-s=\"101\">And to show that both Peter and the other two were gripped by strong fear, Luke also says, *“they were heavy with sleep, and when they awoke they saw his glory”* [Luke 9:32] — meaning by that “sleep” the dazed stupor the vision put them into.</span>"
+        },
+        {
+          "gr": "Καθάπερ γὰρ ὀφθαλμοὶ ἐξ ὑπερβαλλούσης λαμπηδόνος σκοτοῦνται, οὕτω καὶ τότε ἔπαθον. Οὐ γὰρ δὴ νὺξ ἦν, ἀλλ' ἡμέρα· καὶ τὸ τῆς αὐγῆς ὑπέρογκον ἐβάρει τῶν ὀφθαλμῶν τὴν ἀσθένειαν.",
+          "en": "<span class=\"sn\" data-s=\"102\">Just as eyes go dark when hit with too much brightness, that is what happened to them here — because it wasn't night, remember, it was daytime, and the sheer intensity of the light overwhelmed their weak human eyes.</span>"
+        },
+        {
+          "gr": "Τί οὖν; Αὐτὸς μὲν οὐδὲν φθέγγεται, οὐδὲ Μωϋσῆς, οὐδὲ Ἠλίας· ὁ δὲ πάντων μείζων καὶ ἀξιοπιστότερος, ὁ Πατὴρ, φωνὴν ἀφίησιν ἐκ τῆς νεφέλης.",
+          "en": "<span class=\"sn\" data-s=\"103\">So what happens next?</span> <span class=\"sn\" data-s=\"104\">Jesus himself says nothing.</span> <span class=\"sn\" data-s=\"105\">Moses says nothing.</span> <span class=\"sn\" data-s=\"106\">Elijah says nothing.</span> <span class=\"sn\" data-s=\"107\">Instead, the one who is greater than all of them and more worthy of belief than any of them — the Father — speaks a voice out of the cloud.</span>"
+        },
+        {
+          "gr": "Διὰ τί ἐκ τῆς νεφέλης; Οὕτως ἀεὶ φαίνεται ὁ Θεός.",
+          "en": "<span class=\"sn\" data-s=\"108\">Why out of a cloud?</span> <span class=\"sn\" data-s=\"109\">Because that is always how God appears.</span>"
+        },
+        {
+          "gr": "Νεφέλη γὰρ καὶ γνόφος κύκλῳ αὐτοῦ· καὶ, Κάθηται ἐπὶ νεφέλης κούφης· καὶ πάλιν, Ὁ τιθεὶς νέφη τὴν ἐπίβασιν αὐτοῦ· καὶ, Νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν· καὶ, Ὡς Υἱὸς ἀνθρώπου ἐρχόμενος ἐπὶ τῶν νεφελῶν.",
+          "en": "<span class=\"sn\" data-s=\"110\">Scripture says, *“cloud and darkness surround him”* [Psalm 97:2];</span> <span class=\"sn\" data-s=\"111\">*“he rides upon a swift cloud”* [Isaiah 19:1];</span> <span class=\"sn\" data-s=\"112\">*“who makes the clouds his chariot”* [Psalm 104:3];</span> <span class=\"sn\" data-s=\"113\">*“a cloud took him out of their sight”* [Acts 1:9]; and *“like the Son of Man coming on the clouds”* [Daniel 7:13].</span>"
+        },
+        {
+          "gr": "Ἵν' οὖν πιστεύσωσιν, ὅτι παρὰ τοῦ Θεοῦ ἡ φωνὴ φέρεται, ἐκεῖθεν ἔρχεται.",
+          "en": "<span class=\"sn\" data-s=\"114\">So that the disciples would believe the voice truly came from God, it comes from that same cloud.</span>"
+        },
+        {
+          "gr": "Καὶ ἡ νεφέλη φωτεινή.",
+          "en": "<span class=\"sn\" data-s=\"115\">And notice: this cloud was bright.</span>"
+        },
+        {
+          "gr": "Ἔτι γὰρ αὐτοῦ λαλοῦντος, ἰδοὺ νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς. Καὶ ἰδοὺ φωνὴ ἐκ τῆς νεφέλης λέγουσα· Οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητὸς, ἐν ᾧ εὐδόκησα· αὐτοῦ ἀκούετε. Ὅταν μὲν γὰρ ἀπειλῇ, σκοτεινὴν δείκνυσιν, ὥσπερ ἐν τῷ Σινᾶ· Εἰσῆλθε γὰρ, φησὶν, εἰς τὴν νεφέλην καὶ εἰς τὸν γνόφον ὁ Μωϋσῆς, καὶ ὡς ἀτμὶς, οὕτως ἐφέρετο ὁ καπνός· καὶ ὁ Προφήτης φησὶ περὶ τῆς ἀπειλῆς αὐτοῦ διαλεγόμενος· Σκοτεινὸν ὕδωρ ἐν νεφέλαις ἀέρων· ἐνταῦθα δὲ, ἐπειδὴ οὐ φοβῆσαι ἐβούλετο, ἀλλὰ διδάξαι, νεφέλη φωτεινή.",
+          "en": "<span class=\"sn\" data-s=\"116\">*“While he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud said: 'This is my beloved Son, with whom I am well pleased.*</span> <span class=\"sn\" data-s=\"117\">*Listen to him.'”* [Matthew 17:5] Whenever God is issuing a warning, he shows himself in a *dark* cloud — as on Mount Sinai, where Moses *“entered into the cloud and the thick darkness”* [Exodus 20:21] and the smoke went up like a furnace [Exodus 19:18], and where the psalmist, speaking of God's warning, says, *“dark waters and thick clouds”* [Psalm 18:11].</span> <span class=\"sn\" data-s=\"118\">But here, because Christ's purpose wasn't to frighten but to teach, the cloud is bright instead.</span>"
+        },
+        {
+          "gr": "Καὶ ὁ μὲν Πέτρος ἔλεγε, Ποιήσωμεν τρεῖς σκηνάς· αὐτὸς δὲ ἀχειροποίητον ἔδειξε σκηνήν. Διὰ τοῦτο ἐκεῖ μὲν καπνὸς καὶ ἀτμὶς καμίνου· ἐνταῦθα δὲ φῶς ἄφατον καὶ φωνή.",
+          "en": "<span class=\"sn\" data-s=\"119\">And where Peter had said, *“Let us make three shelters,”* God showed him a shelter no human hands had made — that is why, at Sinai, there was only smoke and the vapor of a furnace, but here there is indescribable light and a voice.</span>"
+        },
+        {
+          "gr": "Εἶτα ἵνα δειχθῇ, ὅτι οὐ περὶ ἑνὸς ἁπλῶς τῶν τριῶν ἐλέχθη ἀλλὰ περὶ τοῦ Χριστοῦ μόνον, ὅτε ἡ φωνὴ ἠνέχθη, ἐκποδὼν ἐγένοντο ἐκεῖνοι.",
+          "en": "<span class=\"sn\" data-s=\"120\">Then, to make it clear that the voice was speaking about Christ alone and not simply about one of the three figures indiscriminately, Moses and Elijah are taken away the moment the voice is heard.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ ἂν εἰ περί τινος αὐτῶν ἐλέγετο ἁπλῶς, οὗτος ἔμεινεν ἂν μόνος, ἀποσχισθέντων τῶν δύο.",
+          "en": "<span class=\"sn\" data-s=\"121\">If it had really been about just one of them, there is no reason Jesus alone would have remained, with the other two suddenly gone.</span>"
+        },
+        {
+          "gr": "Τί οὖν οὐχὶ καὶ ἡ νεφέλη τὸν Χριστὸν μόνον ἀπέλαβεν, ἀλλὰ ἅπαντας;",
+          "en": "<span class=\"sn\" data-s=\"122\">Then why did the cloud cover all three together, rather than enveloping Christ alone?</span>"
+        },
+        {
+          "gr": "Εἰ τὸν Χριστὸν μόνον ἀπέλαβεν, ἐνομίσθη ἂν αὐτὸς ἀφεῖναι τὴν φωνήν.",
+          "en": "<span class=\"sn\" data-s=\"123\">Because if it had covered Christ alone, people might have thought Christ himself had spoken the voice.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ὁ εὐαγγελιστὴς τοῦτο αὐτὸ ἀσφαλιζόμενος, φησὶν, ὅτι ἐκ τῆς νεφέλης ἦν ἡ φωνὴ, τουτέστιν, ἐκ τοῦ Θεοῦ.",
+          "en": "<span class=\"sn\" data-s=\"124\">That is exactly why the Gospel writer makes a point of saying the voice came *from the cloud* — that is, from God, not from Christ himself.</span>"
+        },
+        {
+          "gr": "Καὶ τί φησιν ἡ φωνή;",
+          "en": "<span class=\"sn\" data-s=\"125\">And what does the voice say?</span>"
+        },
+        {
+          "gr": "Οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός. Εἰ δὲ ἀγαπητὸς, μὴ φοβοῦ, Πέτρε.",
+          "en": "<span class=\"sn\" data-s=\"126\">*“This is my beloved Son.”* If he is beloved, then Peter, don't be afraid.</span>"
+        },
+        {
+          "gr": "Ἔδει μὲν γάρ σε καὶ τὴν δύναμιν αὐτοῦ ἤδη εἰδέναι, καὶ πεπληροφορῆσθαι περὶ τῆς ἀναστάσεως· ἐπειδὴ δὲ ἀγνοεῖς, κἂν ἀπὸ τῆς φωνῆς τοῦ Πατρὸς θάῤῥησον.",
+          "en": "<span class=\"sn\" data-s=\"127\">By now you really ought to know his power already, and to be fully assured about his coming resurrection — but since you don't yet understand that, at least take courage from the Father's own voice.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ δυνατὸς ὁ Θεὸς, ὥσπερ οὖν καὶ δυνατὸς, εὔδηλον ὅτι καὶ ὁ Υἱὸς ὁμοίως.",
+          "en": "<span class=\"sn\" data-s=\"128\">If God is mighty — and he certainly is — then plainly the Son is equally mighty.</span>"
+        },
+        {
+          "gr": "Μὴ τοίνυν δέδιθι τὰ δεινά.",
+          "en": "<span class=\"sn\" data-s=\"129\">So don't be afraid of the frightening things ahead.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ οὐδέπω τοῦτο καταδέχῃ, κἂν ἐκεῖνο λογίζου, ὅτι καὶ Υἱὸς, καὶ φιλεῖται.",
+          "en": "<span class=\"sn\" data-s=\"130\">But if you still can't quite take that in, consider this instead: that he is a Son, and that he is loved.</span>"
+        },
+        {
+          "gr": "Οὗτος γάρ ἐστι, φησὶν, ὁ Υἱός μου ὁ ἀγαπητός. Εἰ δὲ φιλεῖται, μὴ φοβοῦ. Οὐδεὶς γὰρ, ὃν ἀγαπᾷ, προΐεται.",
+          "en": "<span class=\"sn\" data-s=\"131\">If he is loved, don't be afraid — because no one abandons someone he loves.</span>"
+        },
+        {
+          "gr": "Μὴ τοίνυν θορυβοῦ· κἂν μυριάκις αὐτὸν φιλῇς, οὐ φιλεῖς αὐτὸν τοῦ γεγεννηκότος ἴσον.",
+          "en": "<span class=\"sn\" data-s=\"132\">So don't be shaken, Peter: however immensely you love Christ, you do not love him as much as the Father who begot him.</span>"
+        },
+        {
+          "gr": "Ἐν ᾧ εὐδόκησα. Οὐ γὰρ ἐπειδὴ ἐγέννησε μόνον, φιλεῖ, ἀλλ' ἐπειδὴ καὶ ἴσος αὐτῷ κατὰ πάντα καὶ ὁμογνώμων ἐστίν.",
+          "en": "<span class=\"sn\" data-s=\"133\">*“In whom I am well pleased.”* The Father does not love the Son only because he begot him, but also because the Son is equal to him in every respect and shares one mind with him.</span>"
+        },
+        {
+          "gr": "Ὥστε διπλοῦν τὸ φίλτρον, μᾶλλον δὲ καὶ τριπλοῦν· ἐπειδὴ Υἱὸς, ἐπειδὴ ἀγαπητὸς, ἐπειδὴ ἐν αὐτῷ εὐδόκησε.",
+          "en": "<span class=\"sn\" data-s=\"134\">So the bond of love here is doubled — really, tripled: because he is the Son, because he is beloved, and because the Father delights in him.</span>"
+        },
+        {
+          "gr": "Τί δέ ἐστιν, Ἐν ᾧ εὐδόκησα; Ὡσανεὶ ἔλεγεν, Ἐν ᾧ ἀναπαύομαι, ᾧ ἀρέσκομαι· διὰ τὸ κατὰ πάντα ἐξισῶσθαι πρὸς αὐτὸν μετὰ ἀκριβείας, καὶ βούλημα ἓν ἐν αὐτῷ εἶναι καὶ τῷ Πατρὶ, καὶ μένοντα Υἱὸν κατὰ πάντα ἓν εἶναι πρὸς τὸν γεγεννηκότα.",
+          "en": "<span class=\"sn\" data-s=\"135\">What does *“in whom I am well pleased”* actually mean?</span> <span class=\"sn\" data-s=\"136\">It is as if the Father were saying: in whom I find my rest, in whom I take my delight — because the Son is perfectly equal to me in every way, because there is only one will shared between us, and because, even while remaining truly a Son, he is one with the Father in every respect.</span>"
+        },
+        {
+          "gr": "Αὐτοῦ ἀκούετε. Ὥστε κἂν σταυρωθῆναι βουληθῇ, μὴ ἀντιπέσῃς.",
+          "en": "<span class=\"sn\" data-s=\"137\">*“Listen to him.”* So even if he chooses to go to the cross, you are not to resist him.</span>"
+        },
+        {
+          "gr": "Καὶ ἀκούσαντες ἔπεσον ἐπὶ πρόσωπον, καὶ ἐφοβήθησαν σφόδρα. Καὶ προσελθὼν ὁ Ἰησοῦς ἥψατο αὐτῶν, καὶ εἶπεν· Ἐγέρθητε, καὶ μὴ φοβεῖσθε. Ἐπάραντες δὲ τοὺς ὀφθαλμοὺς αὐτῶν, οὐδένα εἶδον, εἰ μὴ τὸν Ἰησοῦν μόνον.",
+          "en": "<span class=\"sn\" data-s=\"138\">*“When the disciples heard this, they fell face-down on the ground and were terrified.*</span> <span class=\"sn\" data-s=\"139\">*But Jesus came and touched them and said, 'Get up, do not be afraid.'*</span> <span class=\"sn\" data-s=\"140\">*And when they looked up, they saw no one except Jesus alone.”* [Matthew 17:6-8]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The Son of Man coming in glory",
+      "heading_sentence_index": 141,
+      "pairs": [
+        {
+          "gr": "δʹ. Πῶς ταῦτα ἀκούσαντες κατεπλάγησαν;",
+          "en": "<span class=\"sn\" data-s=\"142\">But why were the disciples so terrified simply at hearing these words?</span>"
+        },
+        {
+          "gr": "Καίτοι καὶ πρὸ τούτου ἠνέχθη φωνὴ ἐπὶ τοῦ Ἰορδάνου τοιαύτη, καὶ ὄχλος παρῆν, καὶ οὐδεὶς οὐδὲν τοιοῦτον ἔπαθε· καὶ μετὰ ταῦτα πάλιν, ὅτε καὶ βροντὴν ἔλεγον γεγονέναι· ἀλλ' οὐδὲ τότε τοιοῦτον οὐδὲν ὑπέμειναν.",
+          "en": "<span class=\"sn\" data-s=\"143\">After all, a similar voice had already been heard once before, at the Jordan River, with a whole crowd of people present, and no one there reacted this way [Matthew 3:17].</span> <span class=\"sn\" data-s=\"144\">And later, on another occasion, when people said it had only thundered [John 12:28-29], no one felt anything like this fear either.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν ἐν τῷ ὄρει ἔπεσον;",
+          "en": "<span class=\"sn\" data-s=\"145\">So why did they fall down here, on the mountain?</span>"
+        },
+        {
+          "gr": "Ὅτι καὶ ἐρημία καὶ ὕψος καὶ ἡσυχία ἦν πολλὴ, καὶ μεταμόρφωσις φρίκης γέμουσα, καὶ φῶς ἄκρατον, καὶ νεφέλη ἐκτεταμένη· ἅπερ ἅπαντα εἰς πολλὴν ἀγωνίαν αὐτοὺς ἐνέβαλε.",
+          "en": "<span class=\"sn\" data-s=\"146\">Because here there was total isolation, great height, deep silence, an awe-inspiring transfiguration, a pure blinding light, and a cloud stretched out over them — and all of this together threw them into overwhelming dread.</span>"
+        },
+        {
+          "gr": "Καὶ πανταχόθεν ἡ ἔκπληξις συνήγετο, καὶ ἔπεσον φοβηθέντες τε ὁμοῦ καὶ προσκυνοῦντες.",
+          "en": "<span class=\"sn\" data-s=\"147\">The shock pressed in on them from every direction at once, and they fell down, afraid and worshiping at the same time.</span>"
+        },
+        {
+          "gr": "Ὥστε δὲ μὴ ἐπιπολὺ τὸ δέος μεῖναν ἐκβαλεῖν αὐτῶν τὴν μνήμην, εὐθέως ἔλυσεν αὐτῶν τὴν ἀγωνίαν, καὶ ὁρᾶται αὐτὸς μόνος, καὶ ἐντέλλεται αὐτοῖς μηδενὶ τοῦτο εἰπεῖν, ἕως ἂν ἐκ νεκρῶν ἀναστῇ.",
+          "en": "<span class=\"sn\" data-s=\"148\">But so that their fear wouldn't linger so long it wiped the whole experience from their memory, Jesus quickly put an end to their alarm.</span> <span class=\"sn\" data-s=\"149\">He appeared to them alone again, and commanded them to tell no one what they had seen until he had risen from the dead.</span>"
+        },
+        {
+          "gr": "Καταβαινόντων γὰρ αὐτῶν ἐκ τοῦ ὄρους, ἐνετείλατο αὐτοῖς μηδενὶ εἰπεῖν τὸ ὅραμα, ἕως ἂν ἐκ νεκρῶν ἀναστῇ.",
+          "en": "<span class=\"sn\" data-s=\"150\">*“As they came down the mountain, he commanded them, 'Tell no one about the vision until the Son of Man has risen from the dead.'”* [Matthew 17:9]</span>"
+        },
+        {
+          "gr": "Ὅσῳ γὰρ μείζονα ἐλέγετο περὶ αὐτοῦ, τοσούτῳ δυσπαραδεκτότερα ἦν τοῖς πολλοῖς τότε· καὶ τὸ σκάνδαλον δὲ τὸ ἀπὸ τοῦ σταυροῦ ἐπετείνετο μᾶλλον ἐντεῦθεν.",
+          "en": "<span class=\"sn\" data-s=\"151\">The greater the things being said about him, the harder they were for most people to accept at that time — and for that very reason, the scandal of the cross was only made worse by it.</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο κελεύει σιγᾷν, καὶ οὐχ ἁπλῶς, ἀλλὰ πάλιν τοῦ πάθους ἀναμιμνήσκων, καὶ μόνον οὐχὶ καὶ τὴν αἰτίαν λέγων, δι' ἣν καὶ σιγᾷν ἐκέλευσεν.",
+          "en": "<span class=\"sn\" data-s=\"152\">That is why he commands silence — and not simply silence, but silence tied again to a reminder of his coming suffering, so that he all but states outright the reason for the command.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ δὴ διαπαντὸς ἐκέλευσε μηδενὶ εἰπεῖν, ἀλλ' ἕως ἂν ἀναστῇ ἐκ νεκρῶν.",
+          "en": "<span class=\"sn\" data-s=\"153\">He did not tell them to say nothing to anyone forever, only until he had risen from the dead.</span>"
+        },
+        {
+          "gr": "Καὶ τὸ δυσχερὲς σιγήσας, τὸ χρηστὸν ἐμφαίνει μόνον.",
+          "en": "<span class=\"sn\" data-s=\"154\">By keeping quiet about the hard part for now, he lets only the good part show.</span>"
+        },
+        {
+          "gr": "Τί οὖν; μετὰ ταῦτα οὐκ ἔμελλον σκανδαλίζεσθαι; Οὐδαμῶς. Τὸ γὰρ ζητούμενον ὁ πρὸ τοῦ σταυροῦ καιρὸς ἦν.",
+          "en": "<span class=\"sn\" data-s=\"155\">So then — after the resurrection, were they in no danger of stumbling over it?</span> <span class=\"sn\" data-s=\"156\">Not at all — because the real danger point was the time *before* the cross.</span>"
+        },
+        {
+          "gr": "Μετὰ γὰρ ταῦτα καὶ Πνεύματος κατηξιώθησαν, καὶ τὴν ἀπὸ τῶν σημείων εἶχον φωνὴν συνηγοροῦσαν αὐτοῖς, καὶ πάντα ὅσα ἔλεγον λοιπὸν εὐπαράδεκτα ἦν, σάλπιγγος λαμπρότερον τῶν πραγμάτων ἀνακηρυττόντων αὐτοῦ τὴν ἰσχὺν, καὶ οὐδενὸς σκανδάλου τοιούτου μεσολαβοῦντος τὰ γινόμενα.",
+          "en": "<span class=\"sn\" data-s=\"157\">After the resurrection they were also made worthy of the Holy Spirit, and the voice of the miracles they worked spoke on their behalf; after that, everything they said was readily accepted, since the plain facts proclaimed Christ's power louder than any trumpet, with no such stumbling-block standing in the way of what they preached.</span>"
+        },
+        {
+          "gr": "Οὐδὲν ἄρα τῶν ἀποστόλων μακαριώτερον, καὶ μάλιστα τῶν τριῶν, οἳ καὶ ἐν τῇ νεφέλῃ ὁμωρόφιοι γενέσθαι κατηξιώθησαν τῷ Δεσπότῃ.",
+          "en": "<span class=\"sn\" data-s=\"158\">Nothing, then, is more blessed than being an apostle — and especially being one of these three, who were even counted worthy to share, so to speak, the same roof as the Lord inside that cloud.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἂν θέλωμεν, ὀψόμεθα καὶ ἡμεῖς τὸν Χριστόν· οὐχ οὕτως ὡς ἐκεῖνοι τότε ἐν τῷ ὄρει, ἀλλὰ πολλῷ λαμπρότερον.",
+          "en": "<span class=\"sn\" data-s=\"159\">But if we choose to, we too will see Christ — not the way the disciples saw him then on the mountain, but in a far greater brightness.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ οὕτως ὕστερον ἥξει.",
+          "en": "<span class=\"sn\" data-s=\"160\">Because when he comes again, he will not come the way he came then.</span>"
+        },
+        {
+          "gr": "Τότε μὲν γὰρ τῶν μαθητῶν φειδόμενος, τοσοῦτον παρήνοιξε μόνον τῆς λαμπρότητος, ὅσον ἠδύναντο ἐνεγκεῖν· ὕστερον δὲ ἐν αὐτῇ τοῦ Πατρὸς τῇ δόξῃ ἥξει, οὐ μετὰ Μωϋσέως καὶ Ἠλία μόνον, ἀλλὰ μετὰ τῆς ἀπείρου τῶν ἀγγέλων στρατιᾶς, μετὰ τῶν ἀρχαγγέλων, μετὰ τῶν Χερουβὶμ, μετὰ τῶν δήμων τῶν ἀπείρων ἐκείνων· οὐ νεφέλης γινομένης ὑπεράνω τῆς κεφαλῆς αὐτοῦ, ἀλλὰ καὶ αὐτοῦ συστελλομένου τοῦ οὐρανοῦ.",
+          "en": "<span class=\"sn\" data-s=\"161\">On the mountain, to spare his disciples, he let through only as much of his brightness as they could bear; but when he comes again, he will come in the Father's own full glory — not with only Moses and Elijah at his side, but with the countless armies of angels, with the archangels, with the cherubim, with those uncountable heavenly hosts.</span> <span class=\"sn\" data-s=\"162\">There will be no single cloud over his head this time — the sky itself will be folded back.</span>"
+        },
+        {
+          "gr": "Καθάπερ γὰρ τοὺς δικαστὰς, ὅταν δημοσίᾳ κρίνωσι, τὰ παραπετάσματα συνελκύσαντες οἱ παρεστῶτες πᾶσιν αὐτοὺς δεικνύουσιν· οὕτω δὴ καὶ τότε καθήμενον αὐτὸν ἅπαντες ὄψονται, καὶ πᾶσα ἡ ἀνθρωπίνη παραστήσεται φύσις, καὶ αὐτὸς αὐτοῖς δι' ἑαυτοῦ ἀποκρίνεται· καὶ τοῖς μὲν ἐρεῖ· Δεῦτε, οἱ εὐλογημένοι τοῦ Πατρός μου· ἐπείνασα γὰρ, καὶ ἐδώκατέ μοι φαγεῖν· τοῖς δὲ ἐρεῖ· Εὖ, δοῦλε ἀγαθὲ καὶ πιστέ· ἐπὶ ὀλίγα ἦς πιστὸς, ἐπὶ πολλῶν σε καταστήσω.",
+          "en": "<span class=\"sn\" data-s=\"163\">Think of how a judge sits in a public court: attendants pull back the curtains and put him on display for everyone to see.</span> <span class=\"sn\" data-s=\"164\">In the same way, everyone will see Christ seated to judge, and the whole human race will stand before him, and he himself will answer each person directly.</span> <span class=\"sn\" data-s=\"165\">To some he will say, *“Come, you who are blessed by my Father, for I was hungry and you fed me”* [Matthew 25:34-35]; to others, *“Well done, good and faithful servant.*</span> <span class=\"sn\" data-s=\"166\">*You were faithful over a little;*</span> <span class=\"sn\" data-s=\"167\">*I will put you in charge of much”* [Matthew 25:23].</span>"
+        },
+        {
+          "gr": "Καὶ ἐναντία δὲ ψηφιζόμενος, τοῖς μὲν ἀποκρίνεται, ὅτι Πορεύεσθε εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ· τοῖς δὲ, Πονηρὲ δοῦλε καὶ ὀκνηρέ.",
+          "en": "<span class=\"sn\" data-s=\"168\">And passing the opposite sentence on others, to some he will say, *“Depart from me into the eternal fire prepared for the devil and his angels”* [Matthew 25:41], and to others, *“You wicked, lazy servant”* [Matthew 25:26].</span>"
+        },
+        {
+          "gr": "Καὶ τοὺς μὲν διχοτομήσει, καὶ παραδώσει τοῖς βασανισταῖς· τοὺς δὲ κελεύσει δεθέντας χεῖρας καὶ πόδας εἰς τὸ σκότος ἐκβληθῆναι τὸ ἐξώτερον.",
+          "en": "<span class=\"sn\" data-s=\"169\">Some he will cut in two and hand over to be tormented; others he will order bound hand and foot and thrown into the outer darkness [Matthew 22:13].</span>"
+        },
+        {
+          "gr": "Καὶ μετὰ τὴν ἀξίνην ἡ κάμινος διαδέξεται, καὶ τὰ ἀπὸ τῆς σαγήνης ῥιπτούμενα ἐκεῖ ἐμπεσεῖται.",
+          "en": "<span class=\"sn\" data-s=\"170\">First the axe falls, then the furnace follows [Matthew 3:10]; and everything worthless thrown out of the fishing net will fall into that fire too [Matthew 13:47-50].</span>"
+        },
+        {
+          "gr": "Τότε οἱ δίκαιοι ἐκλάμψουσιν ὡς ὁ ἥλιος· μᾶλλον δὲ πλέον ἢ ὁ ἥλιος.",
+          "en": "<span class=\"sn\" data-s=\"171\">Then *“the righteous will shine out like the sun”* [Matthew 13:43] — or really, brighter than the sun.</span>"
+        },
+        {
+          "gr": "Τοσοῦτον δὲ εἴρηται, οὐκ ἐπειδὴ τοσοῦτον αὐτῶν μόνον ἔσται τὸ φῶς· ἀλλ' ἐπειδὴ τοῦ ἄστρου τούτου φαιδρότερον οὐκ ἴσμεν ἕτερον, ἀπὸ τοῦ γνωρίμου παραστῆσαι ἠβουλήθη τὴν μέλλουσαν λαμπηδόνα τῶν ἁγίων.",
+          "en": "<span class=\"sn\" data-s=\"172\">That comparison isn't meant to set a limit on how bright their light will be; it's simply that since we know nothing brighter than the sun, Christ used the brightest thing we know to give us some idea of the brightness the saints will have.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ καὶ ἐν τῷ ὄρει εἰπὼν, ὅτι Ἔλαμψεν ὡς ὁ ἥλιος, διὰ τὴν αὐτὴν αἰτίαν οὕτως εἴρηκεν.",
+          "en": "<span class=\"sn\" data-s=\"173\">That's exactly why, back on the mountain too, Matthew says that Christ's *“face shone like the sun”* — for the same reason.</span>"
+        },
+        {
+          "gr": "Ὅτι γὰρ τοῦ ὑποδείγματος μεῖζον ἦν τὸ φῶς, ἔδειξαν οἱ μαθηταὶ πεσόντες. Εἰ δὲ μὴ ἄκρατον ἦν τὸ φῶς, ἀλλὰ τῷ ἡλίῳ σύμμετρον, οὐκ ἂν ἔπεσον, ἀλλ' εὐκόλως ἤνεγκαν ἄν.",
+          "en": "<span class=\"sn\" data-s=\"174\">That the comparison didn't actually capture the full brightness of his light is proven by the fact that the apostles fell to the ground: if his brightness had really been on the same level as the sun's, and no more, they would not have fallen — they would have borne it easily.</span>"
+        },
+        {
+          "gr": "Οἱ μὲν οὖν δίκαιοι ἐκλάμψουσιν ὡς ὁ ἥλιος, καὶ ὑπὲρ τὸν ἥλιον τότε· οἱ δὲ ἁμαρτωλοὶ τὰ ἔσχατα πείσονται.",
+          "en": "<span class=\"sn\" data-s=\"175\">So the righteous will shine like the sun, and brighter than the sun, on that day; but sinners will suffer the worst there is to suffer.</span>"
+        },
+        {
+          "gr": "Τότε οὐχ ὑπομνημάτων δεήσει, οὐκ ἐλέγχων, οὐ μαρτύρων· πάντα γὰρ αὐτός ἐστιν ὁ δικάζων, καὶ μάρτυς, καὶ ἔλεγχος, καὶ κριτής.",
+          "en": "<span class=\"sn\" data-s=\"176\">There will be no need for records, evidence, or witnesses then, because the one judging is himself the witness, the evidence, and the judge, all at once.</span>"
+        },
+        {
+          "gr": "Πάντα γὰρ οἶδε σαφῶς· Πάντα γὰρ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"177\">He already knows everything exactly, because *“all things are naked and laid bare before his eyes”* [Hebrews 4:13].</span>"
+        },
+        {
+          "gr": "Οὐ πλούσιος, οὐ πένης, οὐ δυνάστης, οὐκ ἀσθενὴς, οὐ σοφὸς, οὐκ ἄσοφος, οὐ δοῦλος, οὐκ ἐλεύθερος οὐδεὶς ἐκεῖ φανεῖται, ἀλλὰ τῶν προσωπείων τούτων συντριβέντων ἡ τῶν ἔργων ἐξέτασις ἔσται μόνη.",
+          "en": "<span class=\"sn\" data-s=\"178\">No one will appear there as rich or poor, powerful or weak, educated or uneducated, slave or free — every one of those social masks will be smashed to pieces, and only people's actual deeds will be examined.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ ἐν τοῖς δικαστηρίοις ὅταν τυραννίδος τις κρίνηται ἢ φόνου, ὅπερ ἂν ᾗ, κἂν ὕπαρχος, κἂν ὕπατος, κἂν ὁτιοῦν, πάντα ἀφίπταται τὰ ἀξιώματα, καὶ ὁ ἁλοὺς τὴν ἐσχάτην δίδωσι δίκην· πολλῷ μᾶλλον ἐκεῖ τοῦτο ἔσται.",
+          "en": "<span class=\"sn\" data-s=\"179\">Even in our own courts, when someone stands trial for a coup or for murder, whoever he is — governor, consul, whatever his rank — all his titles fall away, and once he is convicted he pays the ultimate penalty regardless.</span> <span class=\"sn\" data-s=\"180\">How much more will that be true there.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Put on the armor of light",
+      "heading_sentence_index": 181,
+      "pairs": [
+        {
+          "gr": "εʹ. Ἵν' οὖν μὴ γένηται τοῦτο, ἀποθώμεθα τὰ ῥυπαρὰ ἱμάτια, ἐνδυσώμεθα τὰ ὅπλα τοῦ φωτὸς, καὶ ἡ δόξα τοῦ Θεοῦ περιστελεῖ ἡμᾶς.",
+          "en": "<span class=\"sn\" data-s=\"182\">So that this doesn't happen to us, let us take off our filthy clothes and put on the armor of light [Romans 13:12], and the glory of God will wrap itself around us instead.</span>"
+        },
+        {
+          "gr": "Τί γὰρ καὶ φορτικὸν τῶν ἐπιταγμάτων; τί δὲ οὐ ῥᾴδιον;",
+          "en": "<span class=\"sn\" data-s=\"183\">Is there really anything in God's commands that is so hard to bear?</span> <span class=\"sn\" data-s=\"184\">Anything that isn't actually easy?</span>"
+        },
+        {
+          "gr": "Ἄκουσον γοῦν τοῦ προφήτου λέγοντος, καὶ τότε εἴσῃ τὴν εὐκολίαν. Οὐδὲ ἐὰν κάμψῃς ὡς κλοιὸν τὸν τράχηλόν σου, καὶ σάκκον καὶ σποδὸν ὑποστρώσῃ, οὐδὲ οὕτω καλέσεις νηστείαν δεκτήν· ἀλλὰ λύε πάντα σύνδεσμον ἀδικίας, διάλυε στραγγαλιὰς βιαίων συναλλαγμάτων. Ὅρα σοφίαν προφήτου. Θεὶς γὰρ φορτικὰ πρότερον καὶ ἀνελὼν, ἀπὸ τῶν εὐκόλων ἀξιοῖ σώζεσθαι, δεικνὺς ὅτι ὁ Θεὸς οὐ πόνων δεῖται, ἀλλ' ὑπακοῆς.",
+          "en": "<span class=\"sn\" data-s=\"185\">Listen to the prophet, and you'll see how easy it is: *“Even if you bow your head like a reed and lie down on sackcloth and ashes, that is not what I call an acceptable fast.*</span> <span class=\"sn\" data-s=\"186\">*Instead, loose every chain of injustice, untie the ropes of every oppressive contract.”* [Isaiah 58:5-6] Notice the prophet's wisdom here: he lists the burdensome things first, dismisses them, and then urges people toward salvation through duties that are actually easy — showing that God doesn't need our hard labor, he needs our obedience.</span>"
+        },
+        {
+          "gr": "Εἶτα δεικνὺς ὅτι εὔκολον μὲν ἡ ἀρετὴ, βαρὺ δὲ καὶ φορτικὸν ἡ κακία, ἀπὸ τῶν ὀνομάτων γυμνῶν τοῦτο κατασκευάζει. Ἡ μὲν γὰρ κακία σύνδεσμος καὶ στραγγαλιὰ, φησίν· ἡ δὲ ἀρετὴ τούτων ἁπάντων ἀπαλλαγὴ καὶ διάλυσις.",
+          "en": "<span class=\"sn\" data-s=\"187\">Then, to show that virtue is easy and vice is heavy and painful, he proves it from the words themselves: vice, he says, is a “chain” and a “twisted rope,” while virtue is the loosening and release from exactly those things.</span>"
+        },
+        {
+          "gr": "Πᾶσαν συγγραφὴν ἄδικον διάσπα· τὰ τῶν τόκων γραμματεῖα, τὰ τῶν δανεισμάτων οὕτω καλῶν.",
+          "en": "<span class=\"sn\" data-s=\"188\">*“Tear up every unjust contract”* [Isaiah 58:6] — meaning by this the promissory notes for interest owed, and the records of money lent out.</span>"
+        },
+        {
+          "gr": "Ἀπόλυε τεθραυσμένους ἐν ἀφέσει· τοὺς τεταλαιπωρημένους.",
+          "en": "<span class=\"sn\" data-s=\"189\">*“Set free those who are crushed”* — those worn down and afflicted.</span>"
+        },
+        {
+          "gr": "Τοιοῦτον γὰρ ὁ χρεώστης· ὅταν ἴδῃ τὸν δανειστὴν, κλᾶται αὐτοῦ ἡ διάνοια, καὶ θηρίου μᾶλλον αὐτὸν δέδοικε.",
+          "en": "<span class=\"sn\" data-s=\"190\">That is exactly what a debtor is like: the moment he sees his creditor coming, his spirit breaks, and he fears him more than he would fear a wild animal.</span>"
+        },
+        {
+          "gr": "Πτωχοὺς ἀστέγους εἰσάγαγε εἰς τὸν οἶκόν σου· ἐὰν ἴδῃς γυμνὸν, περίβαλε, καὶ ἀπὸ τῶν οἰκείων τοῦ σπέρματός σου οὐκ ὑπερόψει.",
+          "en": "<span class=\"sn\" data-s=\"191\">*“Bring the homeless poor into your house; when you see someone naked, clothe him; do not turn away from your own flesh and blood.”* [Isaiah 58:7]</span>"
+        },
+        {
+          "gr": "Ἐν μὲν οὖν τῇ πρώην ἡμῖν γενομένῃ διαλέξει τὰ ἔπαθλα διηγούμενοι, τὸν πλοῦτον ἐδείκνυμεν τὸν ἐκ τούτων· νυνὶ δὲ ἴδωμεν εἴ τι τῶν ἐπιταγμάτων ἐστὶ δύσκολον, καὶ τὴν ἡμετέραν ὑπερβαῖνον φύσιν.",
+          "en": "<span class=\"sn\" data-s=\"192\">In an earlier sermon to you, when I described the rewards God gives, I showed the wealth that comes from acts like these.</span> <span class=\"sn\" data-s=\"193\">Now let's ask whether any of these commands is actually too hard, beyond what human nature can manage.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐδὲν τοιοῦτον εὑρήσομεν, ἀλλὰ τοὐναντίον ἅπαν, ταῦτα μὲν πολλὴν ἔχοντα τὴν εὐκολίαν, τὰ δὲ τῆς κακίας πολὺν τὸν ἱδρῶτα.",
+          "en": "<span class=\"sn\" data-s=\"194\">We will find nothing of the kind — quite the opposite: these good actions are genuinely easy, while the path of vice is full of hard labor.</span>"
+        },
+        {
+          "gr": "Τί γὰρ δυσκολώτερον τοῦ δανείζειν, καὶ ὑπὲρ τόκων καὶ συναλλαγμάτων φροντίζειν, καὶ ἐγγύας ἀπαιτεῖν, καὶ δεδοικέναι καὶ τρέμειν ὑπὲρ ἐνεχύρων, ὑπὲρ τοῦ κεφαλαίου, ὑπὲρ τῶν γραμματείων, ὑπὲρ τῶν τόκων, ὑπὲρ τῶν ἐγγυωμένων;",
+          "en": "<span class=\"sn\" data-s=\"195\">What could be more exhausting than lending money at interest — worrying about contracts, demanding collateral, living in constant fear and anxiety over securities, over the principal, over the paperwork, over the interest, over the guarantors?</span>"
+        },
+        {
+          "gr": "Τοιαῦτα γὰρ τὰ βιωτικά. Αὕτη γὰρ ἡ δοκοῦσα καὶ ἐπινοουμένη ἀσφάλεια πάντων ἐστὶ σαθροτέρα καὶ ὕποπτος· τὸ δὲ ἐλεεῖν ῥᾴδιον, καὶ πάσης ἀπαλλάττον φροντίδος.",
+          "en": "<span class=\"sn\" data-s=\"196\">That is simply the nature of worldly business — nothing is actually less secure or more suspect than what people call “security,” designed on purpose to feel safe.</span> <span class=\"sn\" data-s=\"197\">Showing mercy, on the other hand, is easy, and it frees you from all that anxiety.</span>"
+        },
+        {
+          "gr": "Μὴ τοίνυν πραγματευώμεθα τὰς ἀλλοτρίας συμφορὰς, μηδὲ καπηλεύωμεν τὴν φιλανθρωπίαν.",
+          "en": "<span class=\"sn\" data-s=\"198\">So let us not turn other people's misfortunes into our own business opportunity, and let us not turn generosity into a trade for profit.</span>"
+        },
+        {
+          "gr": "Καὶ οἶδα μὲν, ὅτι πολλοὶ τούτων ἀηδῶς ἀκούουσι τῶν λόγων· ἀλλὰ τί τὸ κέρδος τῆς σιγῆς;",
+          "en": "<span class=\"sn\" data-s=\"199\">I know many of you find these words unpleasant to hear.</span> <span class=\"sn\" data-s=\"200\">But what would silence actually gain us?</span>"
+        },
+        {
+          "gr": "Κἂν γὰρ σιγάσω, καὶ μηδὲν ἐνοχλήσω διὰ ῥημάτων, ἀδύνατον διὰ τῆς σιγῆς ταύτης ἀπαλλάξαι τῆς κολάσεως ὑμᾶς, ἀλλὰ καὶ τοὐναντίον ἅπαν ἐντεῦθεν γίνεται· ἐπιτείνεται τὰ τῆς τιμωρίας, καὶ οὐχ ὑμῖν μόνον, ἀλλὰ καὶ ἐμοὶ προξενεῖ τὴν κόλασιν ἡ τοιαύτη σιγή.",
+          "en": "<span class=\"sn\" data-s=\"201\">Even if I kept quiet and caused you no trouble with my words, my silence would not save you from punishment — quite the opposite: it would only make your punishment worse, and it would bring punishment down on me as well, not just on you.</span>"
+        },
+        {
+          "gr": "Τίς οὖν ἡ τῶν ῥημάτων χάρις, ὅταν εἰς τὰ ἔργα μὴ βοηθῇ, ἀλλὰ καὶ καταβλάπτῃ;",
+          "en": "<span class=\"sn\" data-s=\"202\">What good are pleasant words if, in practice, they don't help us but actually harm us?</span>"
+        },
+        {
+          "gr": "Τί τὸ κέρδος, εὐφρᾶναι λόγῳ, καὶ λυπῆσαι πράγματι; τέρψαι τὴν ἀκοὴν, καὶ κολάσαι τὴν ψυχήν, Διόπερ ἀναγκαῖον ἐνταῦθα λυπεῖν, ἵνα μὴ τιμωρίαν δῶμεν ἐκεῖ.",
+          "en": "<span class=\"sn\" data-s=\"203\">What is the benefit of delighting people's ears while we let their souls be punished?</span> <span class=\"sn\" data-s=\"204\">That is exactly why I have to make you uncomfortable here and now, so that we are not punished together there.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ δεινὸν, ἀγαπητὲ, δεινὸν καὶ πολλῆς δεόμενον θεραπείας νόσημα εἰς τὴν Ἐκκλησίαν ἐμπέπτωκεν.",
+          "en": "<span class=\"sn\" data-s=\"205\">Yes, dear friends, a serious sickness — serious, and badly in need of treatment — has taken hold in the Church.</span>"
+        },
+        {
+          "gr": "Οἱ γὰρ μηδὲ ἐκ δικαίων πόνων θησαυρίζειν κελευόμενοι, ἀλλὰ τὰς οἰκίας ἀνοίγειν τοῖς δεομένοις, τὴν ἑτέρων καρποῦνται πενίαν, εὐπρόσωπον ἁρπαγὴν, εὐπροφάσιστον πλεονεξίαν ἐπινοοῦντες.",
+          "en": "<span class=\"sn\" data-s=\"206\">People who are commanded not even to store up wealth through honest work, but rather to open their homes to those in need, are instead profiting off other people's poverty — inventing a respectable-looking form of theft, a greed with a plausible excuse.</span>"
+        },
+        {
+          "gr": "Μὴ γάρ μοι λέγε τοὺς ἔξω νόμους· ἐπεὶ καὶ ὁ τελώνης νόμον πληροῖ τὸν ἔξωθεν, ἀλλ' ὅμως κολάζεται.",
+          "en": "<span class=\"sn\" data-s=\"207\">Don't tell me the secular laws permit this.</span> <span class=\"sn\" data-s=\"208\">Even a tax collector can keep every outside law perfectly and still be condemned by God.</span>"
+        },
+        {
+          "gr": "Ὃ καὶ ἡμεῖς πεισόμεθα, ἐὰν μὴ ἀποστῶμεν τοὺς πένητας ἐπιτρίβοντες, καὶ τῇ χρείᾳ καὶ τῇ ἀνάγκῃ ἀφορμῇ εἰς καπηλείαν ἀναίσχυντον ἀποχρώμενοι.",
+          "en": "<span class=\"sn\" data-s=\"209\">The same will happen to us, unless we stop grinding down the poor and stop using their need and desperation as an opportunity for shameless profiteering.</span>"
+        },
+        {
+          "gr": "Διὰ γὰρ τοῦτο χρήματα ἔχεις, ἵνα λύσῃς πενίαν, οὐχ ἵνα πραγματεύσῃ πενίαν· σὺ δὲ ἐν προσχήματι παραμυθίας μείζονα ἐργάζῃ τὴν συμφορὰν, καὶ πωλεῖς φιλανθρωπίαν χρημάτων.",
+          "en": "<span class=\"sn\" data-s=\"210\">This is exactly why you have wealth in the first place: to relieve poverty, not to profit from it.</span> <span class=\"sn\" data-s=\"211\">But instead, under the pretense of helping, you make the disaster worse, and you sell kindness itself for money.</span>"
+        },
+        {
+          "gr": "Πώλησον, οὐ κωλύω, ἀλλὰ βασιλείας οὐρανῶν.",
+          "en": "<span class=\"sn\" data-s=\"212\">Go ahead, sell it — I am not stopping you — but sell it for a share in the kingdom of heaven.</span>"
+        },
+        {
+          "gr": "Μὴ μικρὰν λάβῃς τιμὴν τοῦ τοσούτου κατορθώματος τόκον ἑκατοστιαῖον, ἀλλὰ τὴν ἀθάνατον ζωὴν ἐκείνην.",
+          "en": "<span class=\"sn\" data-s=\"213\">Don't settle for such a small price for such a great deed — your one-percent monthly interest — when you could have immortal life instead.</span>"
+        },
+        {
+          "gr": "Τί πτωχὸς εἶ, καὶ πένης καὶ μικρολόγος, ὀλίγου τὰ μεγάλα πωλῶν, χρημάτων ἀπολλυμένων, δέον βασιλείας ἀεὶ μενούσης;",
+          "en": "<span class=\"sn\" data-s=\"214\">Why are you so cheap, so poor, so small-minded, selling something enormous for next to nothing — for things that perish, when it could buy you a kingdom that lasts forever?</span>"
+        },
+        {
+          "gr": "Τί τὸν Θεὸν ἀφεὶς, ἀνθρώπινα κερδαίνεις κέρδη;",
+          "en": "<span class=\"sn\" data-s=\"215\">Why do you walk away from God to chase human profits?</span>"
+        },
+        {
+          "gr": "τί τὸν πλουτοῦντα παραδραμὼν, τὸν οὐκ ἔχοντα ἐνοχλεῖς, καὶ τὸν ἀποδιδόντα καταλιπὼν, τῷ ἀγνωμονοῦντι συμβάλλεις;",
+          "en": "<span class=\"sn\" data-s=\"216\">Why do you pass over the one who is truly rich, and instead go pester the one who has nothing — leaving behind the most reliable paymaster of all to make your deal with someone who won't even thank you for it?</span>"
+        },
+        {
+          "gr": "Ἐκεῖνος ἐπιθυμεῖ ἀποδοῦναι· οὗτος δὲ καὶ δυσχεραίνει ἀποδιδούς.",
+          "en": "<span class=\"sn\" data-s=\"217\">God longs to repay you; the poor debtor resents even having to repay you at all.</span>"
+        },
+        {
+          "gr": "Οὗτος μόλις ἑκατοστὴν ἀποδίδωσιν· ἐκεῖνος δὲ ἑκατονταπλασίονα, καὶ ζωὴν αἰώνιον.",
+          "en": "<span class=\"sn\" data-s=\"218\">The poor man can barely scrape together a hundredth of what he owes;</span> <span class=\"sn\" data-s=\"219\">God repays a hundred times over, plus eternal life besides.</span>"
+        },
+        {
+          "gr": "Οὗτος μετὰ ὕβρεων καὶ λοιδοριῶν· ἐκεῖνος μετὰ ἐπαίνων καὶ εὐφημίας.",
+          "en": "<span class=\"sn\" data-s=\"220\">The poor man repays you with insults and complaints;</span> <span class=\"sn\" data-s=\"221\">God repays you with praise and blessing.</span>"
+        },
+        {
+          "gr": "Οὗτός σοι βασκανίαν ἐγείρει· ἐκεῖνος δὲ καὶ στεφάνους σοι πλέκει.",
+          "en": "<span class=\"sn\" data-s=\"222\">The poor man makes people envy and resent you;</span> <span class=\"sn\" data-s=\"223\">God weaves you crowns instead.</span>"
+        },
+        {
+          "gr": "Οὗτος μόλις ἐνταῦθα· ἐκεῖνος δὲ καὶ ἐκεῖ καὶ ἐνταῦθα.",
+          "en": "<span class=\"sn\" data-s=\"224\">The poor man's repayment barely lasts here on earth;</span> <span class=\"sn\" data-s=\"225\">God's repayment lasts both here and in eternity.</span>"
+        },
+        {
+          "gr": "Ἆρ' οὖν οὐκ ἐσχάτης ταῦτα ἀνοίας. τὸ μηδὲ εἰδέναι κερδαίνειν;",
+          "en": "<span class=\"sn\" data-s=\"226\">Isn't it the height of foolishness, then, not even to know how to actually profit?</span>"
+        },
+        {
+          "gr": "Πόσοι καὶ τὸ κεφάλαιον ἀπώλεσαν διὰ τόκους;",
+          "en": "<span class=\"sn\" data-s=\"227\">How many people have lost their entire original investment chasing interest?</span>"
+        },
+        {
+          "gr": "πόσοι κινδύνοις περιέπεσον διὰ τόκους;",
+          "en": "<span class=\"sn\" data-s=\"228\">How many have fallen into real danger chasing usurious gain?</span>"
+        },
+        {
+          "gr": "πόσοι καὶ ἑαυτοὺς καὶ ἑτέρους πενίᾳ περιέβαλον ἐσχάτῃ διὰ τὴν ἄφατον πλεονεξίαν;",
+          "en": "<span class=\"sn\" data-s=\"229\">How many have dragged both themselves and other people down into utter poverty through their unspeakable greed?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The bond of injustice",
+      "heading_sentence_index": 230,
+      "pairs": [
+        {
+          "gr": "ϛʹ. Μὴ γάρ μοι τοῦτο εἴπῃς, ὅτι ἥδεται λαμβάνων, καὶ χάριν ἔχει τοῦ δανείσματος.",
+          "en": "<span class=\"sn\" data-s=\"231\">Don't tell me the borrower is happy to receive the loan and grateful for it.</span>"
+        },
+        {
+          "gr": "Τοῦτο γὰρ διὰ τὴν σὴν ὠμότητα γίνεται.",
+          "en": "<span class=\"sn\" data-s=\"232\">That gratitude is only the product of your own cruelty.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ καὶ ὁ Ἀβραὰμ τὴν γυναῖκα ἐκδιδοὺς τοῖς βαρβάροις, αὐτὸς κατεσκεύαζεν εὐπαράδεκτον γενέσθαι τὴν ἐπιβουλήν· ἀλλ' οὐχ ἑκὼν, ἀλλὰ διὰ τὸν φόβον τοῦ Φαραώ.",
+          "en": "<span class=\"sn\" data-s=\"233\">Even Abraham, trying to make his plan work among foreigners, handed his own wife over to them [Genesis 12:11-13] — not because he wanted to, but out of fear of Pharaoh.</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ ὁ πένης, ἐπειδὴ οὐδὲ τούτου ἄξιον αὐτὸν εἶναι νομίζεις, καὶ ὠμότητος ἀναγκάζεται χάριν εἰδέναι.",
+          "en": "<span class=\"sn\" data-s=\"234\">In the same way, the poor man — because you have made it so that he isn't even worth so much money to you — is forced to feel grateful for your cruelty.</span>"
+        },
+        {
+          "gr": "Σὺ δέ μοι δοκεῖς, κἂν κινδύνων ἀπαλλάξῃς, μισθὸν ἀπαιτεῖν τῆς ἀπαλλαγῆς ταύτης αὐτόν.",
+          "en": "<span class=\"sn\" data-s=\"235\">It strikes me that if you rescued this same man from mortal danger, you would probably demand payment for the rescue itself, wouldn't you?</span>"
+        },
+        {
+          "gr": "Ἄπαγε, φησὶ, μὴ γένοιτο. Τί λέγεις; Τοῦ μείζονος ἀπαλλάττων, οὐ βούλει χρήματα ἀπαιτεῖν· ὑπὲρ δὲ τοῦ ἐλάττονος τοσαύτην ἐπιδείκνυσαι τὴν ἀπανθρωπίαν;",
+          "en": "<span class=\"sn\" data-s=\"236\">“Of course not,” you say — “God forbid!”</span> <span class=\"sn\" data-s=\"237\">But think about what you are saying: you would rescue him from the greater evil without demanding money for it — yet for the lesser evil, you show him this much inhumanity?</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς ὅση τῷ πράγματι κεῖται τιμωρία;",
+          "en": "<span class=\"sn\" data-s=\"238\">Don't you see how severe the punishment is that is reserved for this practice?</span>"
+        },
+        {
+          "gr": "οὐκ ἀκούεις ὅτι καὶ ἐν τῇ Παλαιᾷ τοῦτο κεκώλυται;",
+          "en": "<span class=\"sn\" data-s=\"239\">Haven't you heard that even the old Law forbids it [Exodus 22:25]?</span>"
+        },
+        {
+          "gr": "Ἀλλὰ τίς τῶν πολλῶν ὁ λόγος; Λαβὼν τὸν τόκον, πένητι δίδωμι, φησίν.",
+          "en": "<span class=\"sn\" data-s=\"240\">But what is the usual excuse people give?</span> <span class=\"sn\" data-s=\"241\">“Once I've collected the interest, I give some to the poor,” someone tells me.</span>"
+        },
+        {
+          "gr": "Εὐφήμει, ἄνθρωπε· οὐ βούλεται τοιαύτας θυσίας ὁ Θεός. Μὴ σοφίζου τὸν νόμον.",
+          "en": "<span class=\"sn\" data-s=\"242\">Watch what you say — God does not want sacrifices like that.</span> <span class=\"sn\" data-s=\"243\">Don't try to be clever with the Law.</span>"
+        },
+        {
+          "gr": "Βέλτιον μὴ διδόναι πένητι, ἢ ἐντεῦθεν διδόναι· ὅτι τὸ ἐκ δικαίων πόνων συλλεγὲν ἀργύριον πολλάκις ποιεῖς εἶναι παράνομον διὰ τὰ πονηρὰ γεννήματα· ὥσπερ ἂν εἴ τις νηδὺν καλὴν ἀναγκάζοι τίκτειν σκορπίους.",
+          "en": "<span class=\"sn\" data-s=\"244\">It would be better not to give to the poor at all than to give from money like that — because you often turn money that was honestly earned into something unlawful, through that evil profit tacked onto it; it is like forcing a healthy womb to give birth to scorpions.</span>"
+        },
+        {
+          "gr": "Καὶ τί λέγω τὸν τοῦ Θεοῦ νόμον; Οὐχὶ καὶ ὑμεῖς ῥύπον αὐτὸ καλεῖτε;",
+          "en": "<span class=\"sn\" data-s=\"245\">And why am I even bringing up God's own law?</span> <span class=\"sn\" data-s=\"246\">Don't you yourselves — the very people profiting from this — call it “filthy money”?</span>"
+        },
+        {
+          "gr": "Εἰ δὲ οἱ κερδαίνοντες τοιαῦτα ψηφίζεσθε, ἐννόησον τίνα ὁ Θεὸς περὶ ὑμῶν οἴσει τὴν ψῆφον.",
+          "en": "<span class=\"sn\" data-s=\"247\">And if that is the verdict even you pass on it, imagine the verdict God will pass on you.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ βούλει καὶ τοὺς ἔξωθεν νομοθέτας ἐρέσθαι, ἀκούσῃ ὅτι κἀκείνοις τῆς ἐσχάτης ἀναισχυντίας τὸ πρᾶγμα δεῖγμα εἶναι δοκεῖ.",
+          "en": "<span class=\"sn\" data-s=\"248\">And if you go and ask even the pagan lawmakers, they will tell you the very same thing: that this practice counts, in their eyes too, as absolute shamelessness.</span>"
+        },
+        {
+          "gr": "Τοὺς γοῦν ἐν ἀξιώμασιν ὄντας, καὶ εἰς τὴν μεγάλην τελοῦντας βουλὴν, ἣν σύγκλητον καλοῦσιν, οὐ θέμις τοιούτοις κέρδεσι καταισχύνεσθαι· ἀλλὰ νόμος ἐστὶ παρ' αὐτοῖς ὁ τὰ τοιαῦτα ἀπαγορεύων κέρδη.",
+          "en": "<span class=\"sn\" data-s=\"249\">People holding public office, members of the great council they call the senate, are legally forbidden from disgracing themselves with this kind of profit — there is an actual law among them prohibiting it.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν οὐκ ἄξιον φρίκης, εἰ μηδὲ τοσαύτην ἀπονέμοις τῇ τῶν οὐρανῶν πολιτείᾳ τιμὴν, ὅσην τῇ βουλῇ Ῥωμαίων οἱ νομοθέται· ἀλλ' ἔλαττον οἴσει τῆς γῆς ὁ οὐρανὸς, καὶ οὐδὲ αὐτὴν αἰσχύνῃ τοῦ πράγματος τὴν ἀλογίαν;",
+          "en": "<span class=\"sn\" data-s=\"250\">So isn't it horrifying, if you won't even show as much honor to the citizenship of heaven as pagan lawmakers show to the Roman senate — if heaven is worth less to you than earth, and you are not even embarrassed by how absurd that is?</span>"
+        },
+        {
+          "gr": "Τί γὰρ τούτου γένοιτ' ἂν ἀλογώτερον, ἀλλ' ἢ ὅταν τις χωρὶς γῆς καὶ ὑετοῦ καὶ ἀρότρου βιάζηται σπείρειν; Διὰ τοῦτο ζιζάνια θερίζουσι τὰ τῷ πυρὶ παραδιδόμενα οἱ τὴν πονηρὰν ταύτην ἐπινοήσαντες γεωργίαν.",
+          "en": "<span class=\"sn\" data-s=\"251\">What could be more foolish than this, except perhaps trying to sow seed without land, without rain, without a plough?</span> <span class=\"sn\" data-s=\"252\">Whoever invents this kind of wicked farming will only harvest weeds fit for burning.</span>"
+        },
+        {
+          "gr": "Μὴ γὰρ οὐκ εἰσὶ δίκαιαι ἐμπορίαι πολλαί; αἱ τῶν ἀγρῶν, αἱ τῶν ποιμνίων, αἱ τῶν βουκολίων, αἱ τῶν θρεμμάτων. αἱ τῶν χειρῶν, αἱ τῆς ἐπιμελείας τῶν ὄντων;",
+          "en": "<span class=\"sn\" data-s=\"253\">Aren't there plenty of honest ways to make a living — farming, raising sheep, raising cattle, breeding livestock, working with your hands, managing property?</span>"
+        },
+        {
+          "gr": "Τί μαίνῃ καὶ παραπαίεις εἰκῆ γεωργῶν ἀκάνθας;",
+          "en": "<span class=\"sn\" data-s=\"254\">Why rave like a madman, farming a crop of thorns for nothing?</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἔχουσιν ἀποτυχίας οἱ τῆς γῆς καρποὶ, καὶ χάλαζαν καὶ ἐρυσίβην καὶ ἐπομβρίας; Ἀλλ' οὐ τοσαύτας, ὅσας οἱ τόκοι.",
+          "en": "<span class=\"sn\" data-s=\"255\">Yes, crops in the field can fail — hail, blight, too much rain — but never on the scale that money-lending fails.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ὅσα ἂν γένηται τοιαῦτα, περὶ τὴν πρόσοδον ἡ ζημία· τὸ δὲ κεφάλαιον ἕστηκεν, ὁ ἀγρός.",
+          "en": "<span class=\"sn\" data-s=\"256\">When those disasters strike a farm, the damage hits only that year's harvest; the underlying asset, the land itself, is still there.</span>"
+        },
+        {
+          "gr": "Ἐνταῦθα δὲ πολλοὶ πολλάκις ἐν τῷ κεφαλαίῳ τὸ ναυάγιον ὑπέμειναν· καὶ πρὸ τῆς ζημίας δὲ ἐν διηνεκεῖ εἰσιν ἀθυμίᾳ.",
+          "en": "<span class=\"sn\" data-s=\"257\">But with lending, people often lose their entire original investment — shipwrecked completely — and even before that loss, they live in constant anxiety.</span>"
+        },
+        {
+          "gr": "Οὐδέποτε γὰρ ἀπολαύει τῶν ὄντων ὁ δανειστὴς, οὐδὲ εὐφραίνεται ἐπὶ τούτοις, ἀλλ' ὅταν ὁ τόκος ἐνεχθῇ, οὐ χαίρει, ὅτι πρόσοδος γέγονεν, ἀλλὰ λυπεῖται, ὅτι οὐδέπω τὸ κεφάλαιον ἔφθασεν ὁ τόκος· καὶ πρὶν ἢ τέλειον τεχθῆναι τὸ κακὸν γέννημα τοῦτο, καὶ αὐτὸ τίκτειν ἀναγκάζει, τοὺς τόκους κεφάλαιον ποιῶν, καὶ βιαζόμενος τὰ ἄωρα καὶ ἀμβλωθρίδια προενεγκεῖν γεννήματα τῶν ἐχιδνῶν.",
+          "en": "<span class=\"sn\" data-s=\"258\">A money-lender never actually enjoys what he has or takes pleasure in it: when the interest finally comes in, he doesn't rejoice at having gained something — he is upset that the interest still hasn't caught up to the principal.</span> <span class=\"sn\" data-s=\"259\">And before this evil offspring is even fully grown, he forces it to breed again too, turning interest into new principal, forcing it to bear premature, stillborn young — like a nest of vipers.</span>"
+        },
+        {
+          "gr": "Τοιοῦτον γὰρ οἱ τόκοι· τῶν θηρίων ἐκείνων μᾶλλον κατεσθίουσι καὶ σπαράττουσι τὰς τῶν ἀθλίων ψυχάς.",
+          "en": "<span class=\"sn\" data-s=\"260\">That is exactly what usurious profits are like: worse than wild animals, they devour and tear apart the souls of their wretched victims.</span>"
+        },
+        {
+          "gr": "Τοῦτο σύνδεσμος ἀδικίας· τοῦτο στραγγαλιὰ βιαίων συναλλαγμάτων.",
+          "en": "<span class=\"sn\" data-s=\"261\">This is what Scripture means by *“the bond of injustice”* and *“the twisted knot of oppressive bargains”* [Isaiah 58:6].</span>"
+        },
+        {
+          "gr": "Δίδωμι γὰρ, φησὶν, οὐχ ἵνα λάβῃς, ἀλλ' ἵνα πλείονα ἀποδῷς. Καὶ ὁ μὲν Θεὸς οὔτε τὸ διδόμενον κελεύει λαβεῖν· Δίδοτε γὰρ, φησὶ, παρ' ὧν οὐ προσδοκᾶτε λαβεῖν· σὺ δὲ καὶ τοῦ διδομένου πλέον ἀπαιτεῖς, καὶ ὅπερ οὐκ ἔδωκας, τοῦτο ὡς ὀφειλόμενον ἀναγκάζεις καταθεῖναι τὸν εἰληφότα.",
+          "en": "<span class=\"sn\" data-s=\"262\">The lender is really saying, without quite saying it: “I am giving you this not so that you simply have it, but so that you will have to pay back more than I gave.”</span> <span class=\"sn\" data-s=\"263\">And where God commands us not even to expect back what we give — *“give to those from whom you expect nothing in return”* [Luke 6:35] — you demand more than you gave in the first place, and force the borrower to pay back, as if it were owed, money you never actually gave him.</span>"
+        },
+        {
+          "gr": "Καὶ σὺ μὲν νομίζεις τὴν οὐσίαν σοι πλεονάζειν ἐντεῦθεν· ἀντὶ δὲ τῆς οὐσίας τὸ πῦρ ἀνάπτεις τὸ ἄσβεστον.",
+          "en": "<span class=\"sn\" data-s=\"264\">You think this is how you grow your wealth.</span> <span class=\"sn\" data-s=\"265\">But instead of wealth, you are only stoking a fire that will never go out.</span>"
+        },
+        {
+          "gr": "Ἵν' οὖν μὴ τοῦτο γένηται, ἐκκόψωμεν τὴν πονηρὰν νηδὺν τῶν τόκων, πηρώσωμεν τὰς παρανόμους ὠδῖνας, ἀναξηράνωμεν τὴν ὀλέθριον ταύτην γαστέρα, καὶ τὰ ἀληθῆ καὶ μεγάλα κέρδη διώκωμεν μόνα.",
+          "en": "<span class=\"sn\" data-s=\"266\">So that this does not happen to us, let us cut out this evil womb of usurious profit, let us put an end to these lawless birth-pangs, let us dry up this poisonous breeding-ground, and let us pursue only the true and great profit instead.</span>"
+        },
+        {
+          "gr": "Τίνα δὲ ταῦτά ἐστιν;",
+          "en": "<span class=\"sn\" data-s=\"267\">And what is that?</span>"
+        },
+        {
+          "gr": "Ἄκουσον Παύλου λέγοντος, ὅτι Μέγας πορισμὸς ἡ εὐσέβεια μετὰ αὐταρκείας. Τοῦτον τοίνυν πλουτῶμεν τὸν πλοῦτον μόνον, ἵνα καὶ ἐνταῦθα ἀδείας ἀπολαύσωμεν, καὶ τῶν μελλόντων ἐπιτύχωμεν ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα καὶ τὸ κράτος σὺν τῷ Πατρὶ καὶ τῷ ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+          "en": "<span class=\"sn\" data-s=\"268\">Listen to Paul: *“Godliness with contentment is great gain.”* [1 Timothy 6:6] So let this be the only wealth we are rich in — so that here, in this life, we may enjoy true security, and in the life to come obtain the good things that are promised, by the grace and love for mankind of our Lord Jesus Christ, to whom, with the Father and the Holy Spirit, be glory and power, now and always and to the endless ages.</span>"
+        },
+        {
+          "gr": "Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"269\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

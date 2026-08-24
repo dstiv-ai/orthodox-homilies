@@ -1,0 +1,19 @@
+{
+  "ref": "Luke 22:39-42, 45-23:1",
+  "book": "Luke",
+  "from": [
+    22,
+    39
+  ],
+  "to": [
+    23,
+    1
+  ],
+  "slug": "luke-22-39-42-45-23-1",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse range chunk '45-23:1' in 'Luke 22:39-42, 45-23:1'"
+}

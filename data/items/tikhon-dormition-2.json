@@ -1,0 +1,236 @@
+{
+  "id": "tikhon-dormition-2",
+  "slug": "tikhon-dormition-2",
+  "title": "Word for the Same Day",
+  "father": "St Tikhon of Zadonsk",
+  "collection": null,
+  "source_ref": null,
+  "category": "church-year",
+  "feast": "dormition",
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [
+    "Ephesians 5:15"
+  ],
+  "chapter": null,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 3611,
+  "reading_minutes": 18,
+  "attribution_note": "Translated for this edition from the Russian of St Tikhon of Zadonsk (public domain), from the Words Spoken to the Voronezh Flock — the twelve long sermons he preached as bishop of Voronezh, 1763–1767. The Russian text the translation was made from is kept in the repository. A second sermon for the same feast, known in earlier editions by its opening text, 'See then that you walk circumspectly.'",
+  "path": [
+    "church-year",
+    "feasts",
+    "dormition"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">*“See then that you walk circumspectly”* [Ephesians 5:15].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The man on a trembling throne",
+      "heading_sentence_index": 2,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"3\">Picture a man seated upon a richly adorned throne, holding in his hands every pleasure — and yet, beneath him, he sees a fire kindling; above his head, a razor-sharp sword hanging by the thinnest of threads; and on every side, enemies arming themselves against him.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"4\">Judge for yourselves, my hearers: in such danger, in such terror, could all these pleasures and delights give this man any peace?</span> <span class=\"sn\" data-s=\"5\">Death surrounds him on every side — death above, death below, death on every hand.</span> <span class=\"sn\" data-s=\"6\">Would not such danger and such dread overwhelm every pleasure he possesses?</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"7\">When I paint this picture of a man's condition, I am describing the condition of our own life.</span> <span class=\"sn\" data-s=\"8\">All of us who live upon the earth stand in exactly the same danger as this man.</span> <span class=\"sn\" data-s=\"9\">I offer this present word to the glory of God, in honor of today's feast, so that all of us, surrounded as we are by such dangers, may learn to walk more carefully in this world — heeding the exhortation of the God-wise teacher, Saint Paul: *“See then that you walk circumspectly.”*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"10\">When we open the eyes of our understanding, my hearers, and look closely at the circumstances of our life, we will see beyond doubt that it resembles the condition of that man — and that no beauty this world offers can truly delight us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The sword of justice above",
+      "heading_sentence_index": 11,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"12\">Above us we will see God, threatening us with the sword of His justice.</span> <span class=\"sn\" data-s=\"13\">Beneath us we will see the pit of hell, prepared for sinners.</span> <span class=\"sn\" data-s=\"14\">Behind us we will see our own sins, ceaselessly tormenting our conscience.</span> <span class=\"sn\" data-s=\"15\">Before us we will see death, drawing nearer to us without pause.</span> <span class=\"sn\" data-s=\"16\">To our right and to our left we will see the enemies of our souls, plotting against us and seeking our ruin.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"17\">God, who is above us, is almighty, so that none can stand against Him.</span> <span class=\"sn\" data-s=\"18\">He is our Creator and our Lord, who made us as a potter makes vessels of clay, and who can shatter us in a single moment — and therefore He is to be feared.</span> <span class=\"sn\" data-s=\"19\">For this reason Christ Himself commands us to fear Him: *“Fear Him who is able to destroy both soul and body in hell”* [Matthew 10:28].</span> <span class=\"sn\" data-s=\"20\">And Jeremiah cries out to Him: *“Who would not fear You, O King of the nations?”* [Jeremiah 10:7].</span> <span class=\"sn\" data-s=\"21\">He is also all-seeing, watching over all our deeds, all our designs, all the thoughts of our hearts.</span> <span class=\"sn\" data-s=\"22\">He sees even what we have not yet done: *“Your eyes saw my unformed substance,”* says the Psalmist [Psalm 139:16].</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"23\">And since He is infinite Goodness, He hates even the smallest evil, and punishes it, for He is just.</span> <span class=\"sn\" data-s=\"24\">Among all the sons of Israel who came out of Egypt, none was dearer or more beloved to Him than holy Moses, with whom He spoke as a friend speaks with a friend, and for whose intercession He turned back the sword of His wrath from a rebellious and stiff-necked people — Moses, to whom He declared at last, *“I know you above all others”* [Exodus 33:12].</span> <span class=\"sn\" data-s=\"25\">And yet, even him, God punished for a single transgression: He did not allow him to enter the promised land, though Moses longed for it with all his heart.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"26\">But if God punishes even His friends for a single transgression, what do you suppose will happen to you — you who dare, fearlessly and openly, to defy the law of God?</span> <span class=\"sn\" data-s=\"27\">You who lawlessly touch another man's marriage bed; you who shed a brother's blood; you who wrong your neighbor, secretly or openly; you who drink the bitter tears of widows, orphans, and the poor; you who devour without payment the labor of your workers and hired servants; you who touch with blaspheming lips the One who sits enthroned in heaven; you who break your oaths and your sworn word; you who, for some small and wounding word that grieved you, seek to wipe a man from the land of the living — and all sinners like you — what do you think will become of you?</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"28\">Do you imagine you will escape the righteous judgment of God?</span> <span class=\"sn\" data-s=\"29\">Will your great transgressions go unpunished, when in the saints even small ones are punished?</span> <span class=\"sn\" data-s=\"30\">God punishes what is small — will He overlook what is great?</span> <span class=\"sn\" data-s=\"31\">*“Is there unrighteousness with God?*</span> <span class=\"sn\" data-s=\"32\">*Certainly not!”* [Romans 9:14].</span> <span class=\"sn\" data-s=\"33\">Let it never even be thought — for *“the Lord is righteous, and there is no unrighteousness in Him”* [Psalm 92:15].</span> <span class=\"sn\" data-s=\"34\">How many iniquities you keep adding to iniquity, how much wrath and fury of God you are storing up for yourselves, unless you quickly take refuge in God's mercy with repentance and broken tears!</span> <span class=\"sn\" data-s=\"35\">See, my hearers, what a sword hangs over us — the sword of God's justice, sharpened by our own sins.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The abyss beneath us",
+      "heading_sentence_index": 36,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"37\">But look now with the eye of the mind downward, and you will see beneath you a deep pit, hell gaping open, eager to devour sinners — and it would devour them at once, were it not restrained by God's mercy, by God's goodness, which waits for the sinner's repentance.</span> <span class=\"sn\" data-s=\"38\">This abyss is fearful even to holy men.</span> <span class=\"sn\" data-s=\"39\">Saint Cyril of Alexandria says: *“I fear Gehenna, for it is endless.*</span> <span class=\"sn\" data-s=\"40\">*I fear Tartarus, for it knows no warmth.*</span> <span class=\"sn\" data-s=\"41\">*I fear the darkness, for it knows no light.”* The other saints felt the very same fear.</span> <span class=\"sn\" data-s=\"42\">For the saints of God, who spent their whole lives in such repentance, who served God so faithfully that they feared to break even His smallest commandment, still trembled and dreaded that abyss.</span> <span class=\"sn\" data-s=\"43\">Shall we, then — sinners that we are — be without fear?</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"44\">Saint John Chrysostom compares such fearless people to small children who are frightened by masks or costumes, but are not afraid of fire — so that they reach out and grasp it with their hands and are burned.</span> <span class=\"sn\" data-s=\"45\">So it is with people of childish understanding: they fear temporary misfortune, temporary troubles, chains, prison, poverty — all of which are sent by God, for the most part, to correct us — yet they do not tremble before Gehenna, which even the demons themselves dread, as the holy Gospel teaches: *“And they begged Him”* — that is, Christ — *“that He would not command them to go out into the abyss”* [Luke 8:31], though that abyss is prepared for them.</span> <span class=\"sn\" data-s=\"46\">In this we see the second danger — the one beneath us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Death advancing before us",
+      "heading_sentence_index": 47,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"48\">And when we look ahead, we will see a danger no less great: we will see death, which spares no one.</span> <span class=\"sn\" data-s=\"49\">The longer we live, the nearer it draws to us.</span> <span class=\"sn\" data-s=\"50\">This appointed boundary of God is as unknown to us as it is terrible.</span> <span class=\"sn\" data-s=\"51\">Unknown, because it snatches away the old and the young, infants and youths, the ready and the unready, the righteous and the sinful, without distinction.</span> <span class=\"sn\" data-s=\"52\">Terrible, because from that point begins an endless, unbroken, everlasting eternity.</span> <span class=\"sn\" data-s=\"53\">From there we pass either into eternal blessedness or eternal torment, into a place of joy or a place of weeping.</span> <span class=\"sn\" data-s=\"54\">At that moment we begin either to live forever or to die forever — to reign forever in heaven with Christ and His saints, or to suffer forever in hell with satan and his angels.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"55\">O death, death!</span> <span class=\"sn\" data-s=\"56\">How fearful is even the thought of you!</span> <span class=\"sn\" data-s=\"57\">Yet here is a strange thing: this inescapable fate awaits every one of us, and yet we live as though it did not exist.</span> <span class=\"sn\" data-s=\"58\">What wretched blindness is ours!</span> <span class=\"sn\" data-s=\"59\">Everyone knows the condition of a man who has been bound in irons, thrown into prison, and condemned to death.</span> <span class=\"sn\" data-s=\"60\">He no longer needs house or wife, children, friends, relatives, or riches.</span> <span class=\"sn\" data-s=\"61\">Food and drink no longer enter his mind.</span> <span class=\"sn\" data-s=\"62\">He has only one thought: that he is condemned to death, and awaits it.</span> <span class=\"sn\" data-s=\"63\">Possessed by this one fear alone, he grieves, laments, is broken in spirit, and waits for the day, the hour, when he must die.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Condemned like a prisoner",
+      "heading_sentence_index": 64,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"65\">The righteous judgment of God, back in Paradise, already condemned all of us, together with our forefather, to death: *“you are dust, and to dust you shall return”* [Genesis 3:19].</span> <span class=\"sn\" data-s=\"66\">However many centuries have passed since then, no one has ever escaped that sentence — and the examples we see every day confirm it.</span> <span class=\"sn\" data-s=\"67\">Why, then, do we not live as men condemned to death?</span> <span class=\"sn\" data-s=\"68\">Why do we not fear that hour?</span> <span class=\"sn\" data-s=\"69\">Why do we not prepare for it?</span> <span class=\"sn\" data-s=\"70\">Why do we spend ourselves instead on banquets, drunkenness, luxury, games, amusements, and cards?</span> <span class=\"sn\" data-s=\"71\">Why do we wrong, rob, and deceive one another?</span> <span class=\"sn\" data-s=\"72\">Why do we delight in bows and flatteries, devised by the devil's own cunning?</span> <span class=\"sn\" data-s=\"73\">Why do we gather wealth through unrighteous gain, as though we would never have to part with it?</span> <span class=\"sn\" data-s=\"74\">Why, my hearers, do we feel nothing?</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"75\">For we have been condemned to death by the judgment of God, just as surely as a man sitting in prison, and when the appointed time comes, the judgment of God will most certainly lead us out of the prison of this body, and dust will be given back to dust: *“you are dust, and to dust you shall go!”* Perhaps someone will object that this is not the same kind of death — that for a prisoner, death is forced and shameful, while for the rest of us it is an ordinary thing, coming through some unbearable illness.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"76\">But God alone knows what your own end will be — yes, yours, you who reason this way.</span> <span class=\"sn\" data-s=\"77\">Have you received some revelation from God as to how He has appointed your life to end?</span> <span class=\"sn\" data-s=\"78\">Perhaps you too will be put to death by execution.</span> <span class=\"sn\" data-s=\"79\">Perhaps you will drown in the depths of the sea, or be killed by robbers, or by treacherous men, or meet your end in some other such way.</span> <span class=\"sn\" data-s=\"80\">There are almost as many kinds of death as there are people in the world.</span> <span class=\"sn\" data-s=\"81\">We are all born in the same way, but we die in countless different ways.</span> <span class=\"sn\" data-s=\"82\">One man falls while standing and is dead in an instant.</span> <span class=\"sn\" data-s=\"83\">Another stumbles while walking and lies lifeless.</span> <span class=\"sn\" data-s=\"84\">Another leans over while sitting and is lifted up already dead.</span> <span class=\"sn\" data-s=\"85\">Another lies down to sleep at evening, and by morning is laid upon his deathbed.</span> <span class=\"sn\" data-s=\"86\">Another sits feasting and rejoicing at table, and in that very hour weeping takes the place of joy, and he is carried out to the grave amid lamentation.</span> <span class=\"sn\" data-s=\"87\">And whatever happens to another may happen to you, and to me.</span> <span class=\"sn\" data-s=\"88\">We are all people of the same nature, and subject to the same accidents.</span> <span class=\"sn\" data-s=\"89\">But when this will happen, we do not know.</span> <span class=\"sn\" data-s=\"90\">Therefore we must be ready for it at every hour.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"91\">But whenever and however our life comes to its end, it will not be without fear.</span> <span class=\"sn\" data-s=\"92\">For then the books of conscience will be opened for each of us.</span> <span class=\"sn\" data-s=\"93\">Then the deeds of each one will appear — the things he *“did while in the body, whether good or bad”* [2 Corinthians 5:10].</span> <span class=\"sn\" data-s=\"94\">Then we will meet a trial we never once considered.</span> <span class=\"sn\" data-s=\"95\">Then two roads will appear before us: one leading to life, the other to eternal death.</span> <span class=\"sn\" data-s=\"96\">We must confess that the prince of darkness has blinded our eyes, so that we will not see that boundary appointed by God, nor think upon it — so that, thinking nothing of it, we go on carrying out his evil and destructive will, and so lose our salvation.</span> <span class=\"sn\" data-s=\"97\">This, my hearers, is what stands before us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Our sins standing behind us",
+      "heading_sentence_index": 98,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"99\">And when we look behind us, when we look with the eye of the mind, what will we see there?</span> <span class=\"sn\" data-s=\"100\">Ah, it is terrible even to glance in that direction!</span> <span class=\"sn\" data-s=\"101\">There stand our fierce adversaries, gripping us tightly, dragging us mercilessly before the Judge, striving to hand us over to eternal imprisonment.</span> <span class=\"sn\" data-s=\"102\">There, I say, are our sins — all those committed throughout our life — standing like monsters ready to fall upon us and cast us down to the bottom of hell.</span> <span class=\"sn\" data-s=\"103\">Our sins, I say, press in upon us, wound our conscience, and pierce it like a sword.</span> <span class=\"sn\" data-s=\"104\">These same merciless enemies cast the angels down from heaven to the bottom of hell and bound them with chains of darkness.</span> <span class=\"sn\" data-s=\"105\">These enemies drove our forefather Adam and all his descendants out of paradise.</span> <span class=\"sn\" data-s=\"106\">They brought the terrible flood upon the whole world.</span> <span class=\"sn\" data-s=\"107\">These enemies burned the cities of Sodom and Gomorrah.</span> <span class=\"sn\" data-s=\"108\">These enemies struck down so many of God's people in the wilderness and kept them from entering the promised land.</span> <span class=\"sn\" data-s=\"109\">These same merciless enemies, even now, lay waste to cities and great kingdoms, shed so much blood, and bring on every other kind of calamity and disaster.</span> <span class=\"sn\" data-s=\"110\">Such, I say, are the fierce enemies that stand behind us and rise up against us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Enemies to the right and left",
+      "heading_sentence_index": 111,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"112\">But if we look about us still more carefully, and turn the eyes of our soul to the right and to the left, we will find no less danger there.</span> <span class=\"sn\" data-s=\"113\">On one side we will see the world with all its allurements; on the other, the prince of darkness with the principalities and powers of spiritual wickedness arming themselves against us.</span> <span class=\"sn\" data-s=\"114\">And so, when we turn aside from danger on one side, trouble comes upon us from the other.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"115\">Hear what Isaiah cries out concerning this: *“Fear, and the pit, and the snare are upon you who dwell on the earth.*</span> <span class=\"sn\" data-s=\"116\">*And it will be that he who flees from the fear shall fall into the pit, and he who climbs out of the pit shall be caught in the snare”* [Isaiah 24:17-18].</span> <span class=\"sn\" data-s=\"117\">For, my hearers, just as wild beasts in the forest are hunted and caught by hunters, so people in this world are pursued and ensnared by the spirits of wickedness in the heavenly places.</span> <span class=\"sn\" data-s=\"118\">When a beast escapes the snare, it falls into a pit; and if it escapes the pit, it falls prey to the hounds.</span> <span class=\"sn\" data-s=\"119\">The same thing happens to a poor man.</span> <span class=\"sn\" data-s=\"120\">When he has freed himself from one scheme, he falls into another.</span> <span class=\"sn\" data-s=\"121\">He seeks solitude, and falls into a greater temptation, since satan attacks all the more fiercely in solitude.</span> <span class=\"sn\" data-s=\"122\">He abandons solitude and associates with neighbors, with corrupt friends, and is blackened by their malice as though by pitch.</span> <span class=\"sn\" data-s=\"123\">And should he live among them as Lot lived in Sodom, preserved by the grace of Christ, he immediately feels a violent assault of pride and self-conceit.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"124\">And so, wherever he turns, a snare of destruction lies before him.</span> <span class=\"sn\" data-s=\"125\">Saint Anthony the Great, as we read in church history, once saw the whole world, from earth to heaven, filled with snares, and cried out to the Lord with a sigh: *“Lord, who can be delivered from these snares?”* And indeed, no one could be delivered from them, were it not that the grace of God saves everyone.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Every side besieged",
+      "heading_sentence_index": 126,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"127\">Now, my hearers, weighing all these circumstances with the eyes of your understanding, judge for yourselves: is not our own life in exactly the same danger as that of the king's brother we spoke of at the beginning of this sermon?</span> <span class=\"sn\" data-s=\"128\">We see above our heads the sword of God's justice hanging over us.</span> <span class=\"sn\" data-s=\"129\">We see below us the open abyss of fiery Gehenna, prepared for sinners.</span> <span class=\"sn\" data-s=\"130\">We see before us death, drawing nearer to us hour by hour, seeking to seize us.</span> <span class=\"sn\" data-s=\"131\">We see behind us our sins, oppressing our conscience and piercing it, like a sword, with remembrance.</span> <span class=\"sn\" data-s=\"132\">We see on both sides the world and the devil, our enemies, hurling their arrows at us and wounding us.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"133\">And above all this, we sit upon a trembling throne of our own — our unstable nature, inclined to every kind of fall.</span> <span class=\"sn\" data-s=\"134\">Come now, brethren, I say to you: sitting on this trembling throne, surrounded by all these dangers, let us go ahead and clothe ourselves every day in purple and fine linen, like the rich man of the Gospel; let us invite our friends, fill our tables, adorn them with rich food, warm ourselves with sweet and costly wines, eat, feast, and make merry; let us order music to entertain us, arrange dances and masquerades; let us add operas too, when our money allows it.</span> <span class=\"sn\" data-s=\"135\">But will merriment even enter our minds?</span> <span class=\"sn\" data-s=\"136\">Will we want to celebrate, when fear surrounds us above and below, behind and before, and on both sides at once?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Repentance, our only refuge",
+      "heading_sentence_index": 137,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"138\">What, then, are we to do in such circumstances?</span> <span class=\"sn\" data-s=\"139\">How are we to be delivered from all these evils?</span> <span class=\"sn\" data-s=\"140\">Let us seek for ourselves a pattern by which we might escape these dangers.</span> <span class=\"sn\" data-s=\"141\">And here is the way that comes to mind: let us free ourselves from our sins through true and tearful repentance, which the merciful God has granted to us sinners because of our weakness.</span> <span class=\"sn\" data-s=\"142\">In this way we will free our conscience from their torment; through humble repentance we will turn away the righteous wrath of God, incline Him to mercy, and quench the Gehenna beneath us that our sins have kindled.</span> <span class=\"sn\" data-s=\"143\">For nothing moves the God who loves mankind so much as human tears, flowing from a broken heart.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"144\">We are urged and encouraged toward this by the Ninevites, who escaped the wrath of God through repentance.</span> <span class=\"sn\" data-s=\"145\">We are urged by Manasseh, king of Judah, who was freed from the bonds of sin through a broken heart.</span> <span class=\"sn\" data-s=\"146\">We are urged by the harlot, who washed Christ's feet with her tears, and so washed away the defilement of her sins.</span> <span class=\"sn\" data-s=\"147\">Saint Peter gives us the example — the chief apostle, who denied Christ three times, yet through bitter weeping was restored again to the company of the apostles.</span> <span class=\"sn\" data-s=\"148\">Let us imitate them, and turn with tender contrition to our Master.</span> <span class=\"sn\" data-s=\"149\">He, as a Father rich in mercy, inclining Himself toward compassion, will cleanse us from our sins, turn away His righteous wrath, and in His love for mankind deliver us from the abyss of hell.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Reconciled to God",
+      "heading_sentence_index": 150,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"151\">And if God is reconciled with us, then death itself will no longer be fearsome to us.</span> <span class=\"sn\" data-s=\"152\">And we will be delivered from the other dangers as well — from the schemes of the devil and of the world — if we pray with tears to that same merciful God, our Provider, to open the eyes of our understanding, so that we may see the snares the enemy has spread out for us.</span> <span class=\"sn\" data-s=\"153\">And once we see them, by the grace of that same Lord we can turn aside from them; for the open attacks of the enemy are not as dangerous as the hidden ones, and are therefore easily avoided.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Our Advocate and the saints",
+      "heading_sentence_index": 154,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"155\">For help, protection, and shelter, let us always take refuge first in our Lady the Theotokos, the Advocate common to all Christians, whose holy Dormition we have celebrated today.</span> <span class=\"sn\" data-s=\"156\">Then let us earnestly call upon all the saints of God, that they may help us.</span> <span class=\"sn\" data-s=\"157\">For they, *“having themselves been tempted, are able to help us who are tempted”* [Hebrews 2:18].</span> <span class=\"sn\" data-s=\"158\">Let us strive to imitate them in the carefulness of their lives.</span> <span class=\"sn\" data-s=\"159\">They turned aside from the enemy's schemes by keeping in mind the Four Last Things: death, judgment, hell, and the kingdom of heaven.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Remembering the four last things",
+      "heading_sentence_index": 160,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"161\">Let us take this to heart, and always keep death in mind.</span> <span class=\"sn\" data-s=\"162\">It will not let us boast of our noble birth, or look down on others, our own brethren.</span> <span class=\"sn\" data-s=\"163\">For in remembering death, we will remember that we are dust, and to dust we shall go.</span> <span class=\"sn\" data-s=\"164\">In remembering death, we will turn our hand away from extortion and theft, and will instead fill the hands of those who ask from our own possessions, knowing that everything worldly will remain to the world, and that just as we entered this world naked, so naked we shall leave it.</span> <span class=\"sn\" data-s=\"165\">In remembering death, we will not burden this bodily vessel with gluttony and drunkenness, but will take only as much food and drink as keeps us from growing weak and able to labor — remembering that we ourselves will soon be food for worms.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"166\">In remembering death, we will not covet costly and various garments, knowing that for burial nothing more is needed than a single shroud to cover our nakedness.</span> <span class=\"sn\" data-s=\"167\">In remembering death, we will not seize by cunning and wicked schemes whole villages, estates, and lands, knowing that after death no more than seven feet of earth will be needed for us.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"168\">So then, remembering death, let us keep great watchfulness to escape the enemy's schemes.</span> <span class=\"sn\" data-s=\"169\">And when we remember death, the Last Judgment will also come to mind — the judgment that follows death, at which we will be examined for every evil word, deed, and thought.</span> <span class=\"sn\" data-s=\"170\">So then, remembering death, let us also prepare for the Last Judgment, and strive by every means to appease the righteous Judge.</span> <span class=\"sn\" data-s=\"171\">For if, when we are summoned before a human court, we prepare how to conduct ourselves there, what to say, how to defend ourselves — how much more should we prepare for the judgment of God, at which all our very thoughts will be laid bare!</span> <span class=\"sn\" data-s=\"172\">At the Last Judgment two roads will present themselves to the mind: on the one, poor sinners go with weeping, wailing, and useless lamentation into eternal torment; on the other, blessed the righteous go with unspeakable joy into eternal life.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"173\">The constant remembrance of these Four Last Things will not allow us to be seduced by the sweetness of sin — as Scripture warns us, for our own safekeeping: *“Remember your Four Last Things, and you will never sin”* [Sirach 7:39].</span> <span class=\"sn\" data-s=\"174\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

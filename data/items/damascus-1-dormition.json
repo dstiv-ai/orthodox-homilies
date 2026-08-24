@@ -1,0 +1,824 @@
+{
+  "id": "damascus-1-dormition",
+  "slug": "damascus-1-dormition",
+  "title": "First Homily on the Dormition",
+  "father": "St John of Damascus",
+  "collection": null,
+  "source_ref": null,
+  "category": "church-year",
+  "feast": "dormition",
+  "saint_key": null,
+  "cover_key": "dormition",
+  "scripture": [],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 5255,
+  "reading_minutes": 26,
+  "attribution_note": null,
+  "path": [
+    "church-year",
+    "feasts",
+    "dormition"
+  ],
+  "sections": [
+    {
+      "heading": "The memory of the just",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "αʹ. Μνήμη δικαίων μετ᾽ ἐγκωμίων γίνεται, φησὶν ὁ σοφώτατος Σολομῶν. Τίμιος γὰρ ἐναντίον Κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ, ὁ Θεοπάτωρ προέφη Δαβίδ.",
+          "en": "<span class=\"sn\" data-s=\"1\">*“The memory of the just is celebrated with praises,”* said Solomon, the wisest of men [Proverbs 10:7]; and King David sang, *“Precious in the sight of the Lord is the death of His saints”* [Psalm 116:15].</span>"
+        },
+        {
+          "gr": "Εἰ τοίνυν ἁπάντων δικαίων ἡ μνήμη μετ᾽ ἐγκωμίων γίνεται, τῇ πηγῇ τῆς δικαιοσύνης, καὶ τῷ τῆς ὁσιότητος θησαυρῷ, τίς οὐ προσοίσει τὸν ἔπαινον;",
+          "en": "<span class=\"sn\" data-s=\"2\">So if the memory of every holy person is a cause for celebration, who could fail to praise the one who was the very source of justice and the treasure-house of holiness?</span>"
+        },
+        {
+          "gr": "οὐχ ἵνα δοξάσῃ, ἀλλ᾽ ἵνα δοξασθῇ δόξαν αἰώνιον.",
+          "en": "<span class=\"sn\" data-s=\"3\">And we do not praise her to make her more glorious — we praise her so that we ourselves may gain eternal glory.</span>"
+        },
+        {
+          "gr": "Ἀνενδεὲς γὰρ τῆς παρ᾽ ἡμῶν δόξης, τοῦ Θεοῦ τὸ σκήνωμα, ἡ πόλις τοῦ Θεοῦ, περὶ ἧς δεδοξασμένα ἐλαλήθη, καθώς φησι πρὸς αὐτὴν ὁ θεῖος Δαβίδ· Δεδοξασμένα ἐλαλήθη περὶ σοῦ, ἡ πόλις τοῦ Θεοῦ, λέγων.",
+          "en": "<span class=\"sn\" data-s=\"4\">She is the dwelling-place of God, the “city of God” about which David said: *“Glorious things are spoken of you, O city of God”* [Psalm 87:3].</span>"
+        },
+        {
+          "gr": "Ποίαν γὰρ ἐκληψόμεθα πόλιν τοῦ ἀοράτου καὶ ἀπεριγράπτου Θεοῦ, τοῦ τὰ πάντα τῇ ἰδίᾳ δρακὶ περιέχοντος, ἀλλ᾽ ἢ τὴν μόνην ὄντως ὑπερφυῶς καὶ ὑπερουσίως τὸν ὑπερούσιον τοῦ Θεοῦ Λόγον ἀπεριγράπτως χωρήσασαν, περὶ ἧς δεδοξασμένα ὑπ᾽ αὐτοῦ τοῦ Κυρίου λελάληται;",
+          "en": "<span class=\"sn\" data-s=\"5\">For what kind of city could we possibly choose for the invisible, boundless God — the God who holds all things in His hand — except the one human being who alone rose above nature itself, and gave shelter, without limiting Him, to the Word of God whom nothing can contain?</span> <span class=\"sn\" data-s=\"6\">God Himself has spoken glorious things of that city.</span>"
+        },
+        {
+          "gr": "Τί γὰρ ἐπιδοξότερον τοῦ δέξασθαι τὴν τοῦ Θεοῦ βουλὴν τὴν ἀρχαίαν ἀληθινήν;",
+          "en": "<span class=\"sn\" data-s=\"7\">For what is more exalted than this: to be chosen, from all eternity, to carry out God's own eternal plan?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The farmer's gift of water",
+      "heading_sentence_index": 8,
+      "pairs": [
+        {
+          "gr": "βʹ. Ταύτην γὰρ οὐκ ἀνθρωπίνη γλῶττα, οὐκ ἀγγέλων νοῦς ὑπερκοσμίων, κατ᾽ ἀξίαν εὐφημῆσαι δύναται, δι᾽ ἧς ἡμῖν δέδοται τὴν δόξαν Κυρίου τηλαυγῶς ἐνοπτρίζεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"9\">No human tongue, and no angelic mind, can worthily praise the woman through whom we have been given the power to look clearly upon the glory of the Lord.</span>"
+        },
+        {
+          "gr": "Τί τοίνυν; σιγήσομεν ἄρα, ὅτι μὴ πρὸς ἀξίαν εὐφημῆσαι δυνάμεθα, φόβῳ συστελλόμενοι;",
+          "en": "<span class=\"sn\" data-s=\"10\">What then — should we stay silent, out of fear that we are not good enough?</span>"
+        },
+        {
+          "gr": "Ἥκιστα.",
+          "en": "<span class=\"sn\" data-s=\"11\">Certainly not.</span>"
+        },
+        {
+          "gr": "Ὑπερβάθμιον δὲ τὸν πόδα τείνωμεν, τὸ δὴ λεγόμενον, καὶ τοὺς οἰκείους ἀγνοήσωμεν ὅρους, καὶ τῶν ἀθίκτων ἀνέδην ἁψώμεθα, τῷ φόβῳ τὸν χαλινὸν ἀποπτύσαντες;",
+          "en": "<span class=\"sn\" data-s=\"12\">Should we then barge across our own limits, handle mysteries too great for words, and throw off all restraint?</span>"
+        },
+        {
+          "gr": "Οὐδαμῶς.",
+          "en": "<span class=\"sn\" data-s=\"13\">No, not that either.</span>"
+        },
+        {
+          "gr": "Πόθῳ δὲ μᾶλλον τὸν φόβον κεράσαντες, καὶ σύνθετον ἐξ ἀμφοῖν ἕνα πλέξαντες στέφανον, μεθ᾽ ἱερᾶς εὐλαβείας τρεμούσῃ χειρὶ, καὶ ποθούσῃ ψυχῇ, τῆς ἡμετέρας διανοίας τὸ εὐτελὲς ἀκροθίνιον τῇ βασιλίδι μητρὶ, εὐεργέτιδι πάσης τῆς φύσεως, εὐγνωμόνως εἰς ὀφειλὴν ἀποτίσωμεν.",
+          "en": "<span class=\"sn\" data-s=\"14\">Instead, let us mix fear with love, weave the two into a single crown, and with reverent hands and longing souls offer the poor first-fruits of our minds to our Queen and Mother, the benefactress of all creation — because we owe her a debt, and this is our repayment.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ καὶ λόγος ἐστὶν, ἀγρώτας τινὰς τοῖς ἀροτῆρσι βουσὶ τῆς γῆς τοὺς αὔλακας τέμνοντας, βασιλέα παριόντα θεάσασθαι, σεμνῶς μὲν τῇ ἁλουργίδι κοσμούμενον, φαιδρυνόμενον δὲ τῇ αἴγλῃ τοῦ διαδήματος, καὶ τῷ ἀπείρῳ πλήθει τῶν δορυφόρων κύκλῳ περιστοιχιζόμενον· ἐπεὶ παρῆν οὐδὲν, ὃ τότε τῷ μέδοντι δωροφορήσωσιν, ἀμελλητὶ ταῖς χερσὶν ὕδωρ ἀπαρυσάμενον ἕνα (παρέῤῥει γὰρ ἐγγύθεν ἀφθόνως τὰ νάματα), δῶρον κεκομικέναι τῷ αὐτοκράτορι.",
+          "en": "<span class=\"sn\" data-s=\"15\">There is a story about some farmers ploughing a field when a king happened to pass by, splendid in his royal robes and crown, ringed by countless attendants bearing gifts.</span> <span class=\"sn\" data-s=\"16\">One farmer had nothing at all to give at that moment — so he scooped up water in his two hands from a stream flowing nearby, and offered that to the king as his present.</span>"
+        },
+        {
+          "gr": "Πρὸς ὃν φάναι τὸν βασιλέα· Τί τοῦτο, ὦ παῖ;",
+          "en": "<span class=\"sn\" data-s=\"17\">The king said to him, “What is this, my boy?”</span>"
+        },
+        {
+          "gr": "τὸν δὲ θαρσαλέως ἀνταποκρίνασθαι· Ὅ μοι παρῆν, τοῦτο κεκόμικα, κρίνας ἄριστα τῇ ἐνδείᾳ τὴν προθυμίαν μὴ ἐγκαλύπτεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"18\">And the farmer answered boldly: “I made the best of what I had. I decided it was better to show my willingness than to offer nothing.</span>"
+        },
+        {
+          "gr": "Σὺ γὰρ τῶν ἡμετέρων οὐκ ἐπιδεὴς, οὐδὲν ἐθέλων τῶν παρ᾽ ἡμῖν ἢ τὴν εὔνοιαν.",
+          "en": "<span class=\"sn\" data-s=\"19\">You do not need our gifts — you want nothing from us except our good will.</span>"
+        },
+        {
+          "gr": "Ἡμῖν δὲ χρέος ἐστὶν ἅμα καὶ ἔπαινος τὸ τελούμενον.",
+          "en": "<span class=\"sn\" data-s=\"20\">But the need is on our side, and the reward lies in the doing.</span>"
+        },
+        {
+          "gr": "Δόξα γὰρ οἶδεν ἐπακολουθεῖν ὡς τὰ πολλὰ τοῖς εὐγνώμοσιν.",
+          "en": "<span class=\"sn\" data-s=\"21\">And I know that glory often comes to those who show gratitude.”</span>"
+        },
+        {
+          "gr": "Εἶτα τὸν βασιλέα θαυμάσαντα, ἐπαινέσαι μὲν τὸ σοφὸν, ἀποδέξασθαι δὲ μετ᾽ εὐνοίας τὴν προθυμίαν, πλείσταις δ᾽ ὅσαις δωρεαῖς φιλοτίμως αὐτὸν ἀνταμείψασθαι.",
+          "en": "<span class=\"sn\" data-s=\"22\">The king was amazed, praised the young man's cleverness, accepted his eagerness kindly, and gave him many rich gifts in return.</span>"
+        },
+        {
+          "gr": "Εἰ τοίνυν ἐκεῖνος ὁ ὑπέροφρυς τύραννος τῆς πολυτελείας προκέκρικε τὴν εὔνοιαν, αὕτη ἡ ὄντως ἀγαθὴ Δέσποινα, ἡ τοῦ μόνου ἀγαθοῦ Θεοῦ Μήτηρ, οὗ ἡ συγκατάβασις ἄπειρος, τοῦ τὰ δύο λεπτὰ τῶν πολλῶν καρπωμάτων προκρίναντος, οὐ μᾶλλον ἡμῶν ἀποδέξεται τὴν πρόθεσιν, οὐ τὴν δύναμιν κρίνουσα;",
+          "en": "<span class=\"sn\" data-s=\"23\">Now, if that proud earthly monarch rewarded a good intention so generously, will not the truly good Lady — the Mother of God — accept our good will too, without measuring what we actually manage to achieve?</span> <span class=\"sn\" data-s=\"24\">She is the Mother of the God who alone is good, whose generosity has no limit — the God who valued a poor widow's two small copper coins above many splendid offerings [Mark 12:42-44].</span>"
+        },
+        {
+          "gr": "Ναὶ μὴν ἀποδέξεται, ὡς ὀφειλὴν μὲν προσάγοντας, ἀντιμετρήσει τὰ ἀσύγκριτα.",
+          "en": "<span class=\"sn\" data-s=\"25\">So she will certainly receive us as we pay our debt of praise, and she will repay us out of all proportion to anything we offer.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ οὖν τὸ λέγειν ἐκ παντὸς ἀναγκαῖον, ὥστε τὸ χρέος ἀφοσιώσασθαι, φέρε πρὸς αὐτὴν τὸν λόγον τρέψωμεν.",
+          "en": "<span class=\"sn\" data-s=\"26\">And since prayer is what we most deeply need, let us turn to prayer now.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "What shall we say, O Queen?",
+      "heading_sentence_index": 27,
+      "pairs": [
+        {
+          "gr": "γʹ. Τί δὲ προσείπωμεν, Δέσποινα;",
+          "en": "<span class=\"sn\" data-s=\"28\">What shall we say, O Queen?</span>"
+        },
+        {
+          "gr": "τίσι δὲ προσφθεγξόμεθα ῥήμασι;",
+          "en": "<span class=\"sn\" data-s=\"29\">What words shall we use?</span>"
+        },
+        {
+          "gr": "ποίοις δὲ ἐγκωμίοις τὴν σὴν ἱερὰν καὶ δεδοξασμένην στέψομεν κεφαλὴν, τὴν ἀγαθοδότιν, τὴν πλουτοδότειραν, τοῦ ἀνθρωπείου γένους τὸ ἐγκαλλώπισμα, τὸ αὔχημα πάσης τῆς κτίσεως, δι᾽ ἣν ὡς ἀληθῶς μεμακάρισται;",
+          "en": "<span class=\"sn\" data-s=\"30\">What praise shall we pour upon your holy and glorified head — you, giver of good gifts and of riches, the pride of the human race, the glory of all creation, the one through whom creation truly became blessed?</span>"
+        },
+        {
+          "gr": "Ὃν γὰρ οὐκ ἐχώρει τὸ πρότερον, διὰ σοῦ κεχώρηκεν.",
+          "en": "<span class=\"sn\" data-s=\"31\">He whom nature could not contain was born of you.</span>"
+        },
+        {
+          "gr": "Οὗ ἀτενίσαι οὐκ ἐσθένει, ἀνακεκαλυμμένῳ προσώπῳ κατοπτρίζεται.",
+          "en": "<span class=\"sn\" data-s=\"32\">The Invisible One is now seen face to face.</span>"
+        },
+        {
+          "gr": "Ἄνοιξον ἡμῖν, ὦ Λόγε Θεοῦ, τὸ βραδύγλωσσον στόμα. Δὸς ἐν ἀνοίξει χειλέων ἡμῶν χαριέστατον λόγον.",
+          "en": "<span class=\"sn\" data-s=\"33\">O Word of God, open my slow lips, and give my words Your richest blessing.</span>"
+        },
+        {
+          "gr": "Ἔμπνευσον ἡμῖν τὴν τοῦ Πνεύματος χάριν, δι᾽ ἧς ἁλιεῖς ῥητορεύουσι, καὶ ἀγράμματοι λαλοῦσι σοφίαν τὴν ὑπὲρ ἄνθρωπον· ἵνα καὶ ἡμεῖς οἱ ἰσχνόφωνοι εὐπορήσωμεν τῆς σῆς φιλτάτης μητρὸς κἂν ἀμυδρῶς γέ πως μεγαλεῖα φθέγξασθαι.",
+          "en": "<span class=\"sn\" data-s=\"34\">Set us on fire with the grace of Your Spirit — the Spirit through whom fishermen became the world's teachers and uneducated men spoke a wisdom beyond nature — so that even our feeble voices may add something to the praises of Your beloved Mother, even though it means greatness being praised by misery.</span>"
+        },
+        {
+          "gr": "Αὕτη γὰρ ἐκ γενεῶν ἀρχαίων ἐκλελεγμένη, τῇ προωρισμένῃ βουλῇ καὶ εὐδοκίᾳ τοῦ σε ἀχρόνως, ἀῤῥεύστως τε καὶ ἀπαθῶς γεννήσαντος Θεοῦ καὶ Πατρὸς, ἱλασμὸν καὶ σωτηρίαν, δικαιοσύνην τε καὶ ἀπολύτρωσιν, σὲ τὴν ἐκ ζωῆς ζωὴν, καὶ τὸ ἐκ τοῦ φωτὸς φῶς, τὸν ἐκ Θεοῦ ἀληθινοῦ Θεὸν ἀληθινὸν, ἐξ αὐτῆς σεσαρκωμένον ἐπ᾽ ἐσχάτων τῶν χρόνων ἐκύησεν·",
+          "en": "<span class=\"sn\" data-s=\"35\">She was the chosen one of an ancient line; by a plan determined before time, with the good pleasure of God the Father — the Father who had begotten You in eternity, without matter or body — she brought You forth in these last times: You who are our mercy and salvation, our justice and redemption, life from life, light from light, true God from true God.</span>"
+        },
+        {
+          "gr": "ἧς ὁ τόκος παράδοξος, ἡ γέννησις ὑπὲρ φύσιν καὶ ἔννοιαν, καὶ τῷ κόσμῳ σωτήριος, ἡ κοίμησις ἔνδοξος καὶ ὄντως ἱερὰ καὶ πανεύφημος.",
+          "en": "<span class=\"sn\" data-s=\"36\">Her giving of birth was above nature and above understanding, because her Child was beyond all wonder — and it was the salvation of the world; and her death too was glorious, and is truly a sacred feast.</span>"
+        },
+        {
+          "gr": "Ταύτην ὁ Πατὴρ μὲν προώρισε, προφῆται δὲ διὰ μὲν τοῦ Πνεύματος ἁγίου προηγόρευσαν.",
+          "en": "<span class=\"sn\" data-s=\"37\">The Father chose her beforehand; the prophets, speaking through the Holy Spirit, foretold her.</span>"
+        },
+        {
+          "gr": "Ἡ δὲ τοῦ Πνεύματος ἁγιαστικὴ δύναμις ἐπεφοίτησεν, ἐκάθηρέ τε καὶ ἡγίασε, καὶ οἱονεὶ προήρδευσε.",
+          "en": "<span class=\"sn\" data-s=\"38\">The Spirit's sanctifying power came upon her, cleansed her, made her holy — prepared her, so to speak, in advance.</span>"
+        },
+        {
+          "gr": "Καὶ τότε σὺ ὁ τοῦ Πατρὸς ὅρος καὶ Λόγος ἀπεριγράπτως κατῴκησας, ἀνακαλούμενος τὴν ἐσχατιὰν τῆς ἡμετέρας φύσεως πρὸς τὸ ἄπειρον ὕψος τῆς σῆς ἀκαταλήπτου θεότητος.",
+          "en": "<span class=\"sn\" data-s=\"39\">Then You, the Word of the Father, who dwell in no place, invited the lowliness of our nature to be united to the boundless greatness of Your unsearchable Godhead.</span>"
+        },
+        {
+          "gr": "Ἧς τὴν ἀπαρχὴν ἐκ τῶν πανάγνων καὶ ἀχράντων αἱμάτων, καὶ παναμώμων τῆς ἁγίας Παρθένου ἀναλαβὼν σάρκα ἐψυχωμένην ψυχῇ λογικῇ τε καὶ νοερᾷ, σεαυτῷ περιέπηξας, ἐν σεαυτῷ αὐτὴν ὑποστήσας, καὶ γέγονας τέλειος ἄνθρωπος, οὐκ ἀποβαλὼν τὸ εἶναι τέλειος Θεὸς, καὶ τῷ σῷ Πατρὶ ὁμοούσιος, ἀλλὰ προσλαβὼν δι᾽ εὐσπλαγχνίαν ἄφατον τὴν ἡμετέραν ἀσθένειαν.",
+          "en": "<span class=\"sn\" data-s=\"40\">You took flesh of the Blessed Virgin — flesh given life by a reasoning soul — first coming to dwell in her undefiled and spotless womb, creating Your own manhood and causing her to exist in You, and You became perfect man without ever ceasing to be perfect God, equal to Your Father.</span> <span class=\"sn\" data-s=\"41\">You took our weakness upon Yourself out of goodness beyond words.</span>"
+        },
+        {
+          "gr": "Καὶ προῆλθες ἐξ αὐτῆς εἷς Χριστὸς, εἷς Κύριος, εἷς Υἱὸς, Θεὸς καὶ ἄνθρωπος ὁ αὐτὸς, Θεός τε ὁμοῦ τέλειος, καὶ ἄνθρωπος τέλειος, ὅλος Θεὸς, καὶ ὅλος ἄνθρωπος, μία ὑπόστασις σύνθετος, ἐκ δύο φύσεων τελείων, θεότητός τε καὶ ἀνθρωπότητος, καὶ ἐν δύο τελείαις φύσεσι, θεότητί τε καὶ ἀνθρωπότητι·",
+          "en": "<span class=\"sn\" data-s=\"42\">And so You are one Christ, one Lord, one Son of God — and man at the same time; perfect God and perfect man, wholly God and wholly man: one person formed of two complete natures, Godhead and manhood; and existing in two complete natures, divine and human.</span>"
+        },
+        {
+          "gr": "οὐ γυμνὸς Θεὸς, οὐδὲ ψιλὸς ἄνθρωπος, ἀλλ᾽ εἷς Υἱὸς Θεοῦ καὶ Θεὸς σεσαρκωμένος, Θεός τε αὐτὸς ὁμοῦ καὶ ἄνθρωπος, οὐ σύγχυσιν ὑποστὰς, οὐδὲ διαίρεσιν ὑπομείνας, φέρων ἐν ἑαυτῷ τῶν ἑτεροουσίων δύο φύσεων καθ᾽ ὑπόστασιν ἀσυγχύτως ἅμα καὶ ἀδιαιρέτως ἡνωμένων τὰς φυσικὰς ἰδιότητας, τὸ κτιστὸν καὶ τὸ ἄκτιστον, τὸ θνητὸν καὶ τὸ ἀθάνατον, τὸ ὁρατὸν καὶ τὸ ἀόρατον, τὸ περιγραπτὸν καὶ τὸ ἀπερίγραπτον, θεῖόν τε θέλημα καὶ ἀνθρώπινον θέλημα, θείαν ἐνέργειαν, οὐ μὴν ἀλλὰ καὶ ἀνθρωπίνην ἐνέργειαν, αὐτεξούσιά τε δύο, θεῖον ὡσαύτως καὶ ἀνθρώπινον, τά τε θεῖα θαύματα, καὶ τὰ ἀνθρώπινα πάθη, τὰ φυσικά φημι καὶ ἀδιάβλητα.",
+          "en": "<span class=\"sn\" data-s=\"43\">He is not only God, and not merely man: the Son of God and the God-made-flesh are one and the same — one God and man together, without confusion and without division, carrying in Himself, united, the qualities of both natures.</span> <span class=\"sn\" data-s=\"44\">So He is at once uncreated and created, mortal and immortal, visible and invisible, in place and beyond place.</span> <span class=\"sn\" data-s=\"45\">He has a divine will and a human will; a divine way of acting and a human one; two freedoms, divine and human.</span> <span class=\"sn\" data-s=\"46\">He works divine wonders, and He feels human feelings — natural, blameless ones, I mean.</span>"
+        },
+        {
+          "gr": "Ὅλον γὰρ τὸν πρῶτον Ἀδὰμ τὸν πρὸ τῆς παραβάσεως, τὸν ἁμαρτίας ἐλεύθερον, ἀνέλαβες, Δέσποτα, διὰ τὰ σπλάγχνα ἐλέους σου, σῶμα, ψυχὴν, νοῦν, καὶ τὰ τούτων φυσικὰ ἰδιώματα, ἵν᾽ ὅλῳ μοι τὴν σωτηρίαν χαρίσῃ·",
+          "en": "<span class=\"sn\" data-s=\"47\">For in Your great mercy, Lord, You took on the whole condition of Adam as he was before the fall — body, soul, mind, and everything belonging to them — in order to give me complete salvation.</span>"
+        },
+        {
+          "gr": "ὄντως γὰρ τὸ ἀπρόσληπτον, ἀθεράπευτον·",
+          "en": "<span class=\"sn\" data-s=\"48\">For it is true that *“what was not taken up was not healed”* — as the great teacher Gregory said: whatever part of our nature Christ had not made His own would have been left unsaved.</span>"
+        },
+        {
+          "gr": "καὶ οὕτως μεσίτης Θεοῦ καὶ ἀνθρώπων γενόμενος, τὴν ἔχθραν ἔλυσας, καὶ τῷ σῷ Πατρὶ τοὺς ἀποστάτας προσήγαγες, τὸ πεπλανημένον ἐπέστρεψας, τὸ ἐσκοτωμένον ἐφώτισας, τὸ συντετριμμένον ἀνεκαίνισας, τὸ φθαρτὸν εἰς ἀφθαρσίαν μετέβαλες·",
+          "en": "<span class=\"sn\" data-s=\"49\">Having become in this way the mediator between God and mankind, You destroyed the old hostility;</span> <span class=\"sn\" data-s=\"50\">You led the deserters back to Your Father, the wanderers home, and those in darkness to the light.</span> <span class=\"sn\" data-s=\"51\">You gave the broken-hearted pardon, and changed mortality into immortality.</span>"
+        },
+        {
+          "gr": "τῆς πολυθέου πλάνης τὴν κτίσιν ἠλευθέρωσας· τέκνα Θεοῦ τοὺς ἀνθρώπους πεποίηκας, κοινωνοὺς τῆς θείας σου δόξης τοὺς ἠτιμημένους ἀνέδειξας·",
+          "en": "<span class=\"sn\" data-s=\"52\">You freed the world from the error of many gods, made human beings children of God, and gave them a share in Your divine glory.</span>"
+        },
+        {
+          "gr": "τὸν καταδεδικασμένον τὰ τῆς γῆς καταχθόνια, ὑπεράνω πάσης ἀρχῆς καὶ ἐξουσίας ἀνήγαγες, ἐν τῷ θρόνῳ τῷ βασιλικῷ τὸν εἰς γῆν ἀποστρέφειν, καὶ τὸν ᾅδην οἰκεῖν κατακριθέντα, ἐν σεαυτῷ ἐκάθισας.",
+          "en": "<span class=\"sn\" data-s=\"53\">You lifted the human race, which had been condemned to the underworld, above every power and majesty — and in Your own person our nature now sits on the King's eternal throne.</span>"
+        },
+        {
+          "gr": "Τίς οὖν τῶν ἀπείρων τούτων ἀγαθῶν, τῶν ὑπὲρ πάντα νοῦν καὶ κατάληψιν, ἐργαστήριον γέγονεν; οὐχὶ ἡ σὲ τεκοῦσα Ἀειπάρθενος;",
+          "en": "<span class=\"sn\" data-s=\"54\">And who was the instrument of all these boundless blessings, blessings beyond all mind and understanding, if not the ever-Virgin Mother who bore You?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The grace of this day",
+      "heading_sentence_index": 55,
+      "pairs": [
+        {
+          "gr": "δʹ. Ὁρᾶτε, φίλοι Θεῷ Πατέρες καὶ ἀδελφοὶ, τῆς παρούσης ἡμέρας τὴν χάριν. Ὁρᾶτε, τῆς νῦν εὐφημουμένης τὸ ὑψηλὸν καὶ σεβάσμιον.",
+          "en": "<span class=\"sn\" data-s=\"56\">Understand, beloved in the Lord, the grace of this day, and how wonderful its celebration is.</span>"
+        },
+        {
+          "gr": "Οὐ φρικώδη τὰ ταύτης μυστήρια; οὐ θαύματος γέμοντα;",
+          "en": "<span class=\"sn\" data-s=\"57\">Its mysteries are not terrifying ones; they inspire no dread.</span>"
+        },
+        {
+          "gr": "Μακάριοι οἱ ὁρῶντες, ὡς ἰδεῖν πρεπωδέστατον. Μακάριοι οἱ νοερὰν κτησάμενοι αἴσθησιν.",
+          "en": "<span class=\"sn\" data-s=\"58\">Blessed are those who have eyes to see; blessed are those who see with the eyes of the spirit.</span>"
+        },
+        {
+          "gr": "Οἷαι φωτὸς ἀστραπαὶ τὴν παροῦσαν νύκτα καταφαιδρύνουσιν·",
+          "en": "<span class=\"sn\" data-s=\"59\">This night shines like the day.</span>"
+        },
+        {
+          "gr": "οἷαι ἀγγέλων δορυφορίαι τὴν τῆς ζωαρχικῆς μητρὸς καταγλαΐζουσι κοίμησιν·",
+          "en": "<span class=\"sn\" data-s=\"60\">Countless angels acclaim the death of the life-giving Mother.</span>"
+        },
+        {
+          "gr": "οἷαι ἀποστόλων θεηγορίαι τὴν κηδείαν τοῦ Θεοδόχου σώματος μακαρίζουσιν.",
+          "en": "<span class=\"sn\" data-s=\"61\">The eloquence of apostles blesses the departure of this body which was the dwelling-place of God.</span>"
+        },
+        {
+          "gr": "Πῶς ὁ τοῦ Θεοῦ Λόγος, ὁ ταύτης υἱὸς δι᾽ εὐσπλαγχνίαν γενέσθαι καταδεξάμενος, δεσποτικαῖς παλάμαις τῇ παναγίᾳ ταύτῃ καὶ θειοτάτῃ οἷα μητρὶ λειτουργῶν, τὴν ἱερὰν ψυχὴν ὑποδέχεται.",
+          "en": "<span class=\"sn\" data-s=\"62\">The Word of God — who in His mercy stooped to become her Son — waits on this immaculate and holy woman with His own divine hands, as befits her Son, and receives her sacred soul.</span>"
+        },
+        {
+          "gr": "Ὢ ἀγαθοῦ νομοθέτου· μὴ ὑποκείμενος νόμῳ, τὸν νόμον πληρῶν, ὃν αὐτὸς ἐνετείλατο. Αὐτὸς γὰρ τοῖς γονεῦσι τὴν ὀφειλὴν τοὺς παῖδας νέμειν ἐθεσμοθέτησε. Τίμα, φησὶ, τὸν πατέρα καὶ τὴν μητέρα σου.",
+          "en": "<span class=\"sn\" data-s=\"63\">What a wondrous Law-giver: He keeps the law He Himself laid down, though He is not bound by it — for it was He who commanded children to honour their parents: *“Honour your father and your mother”* [Exodus 20:12].</span>"
+        },
+        {
+          "gr": "Ὅτι δὲ ἀληθὲς τοῦτο, παντί που δῆλον, τῷ κἂν μικρὸν γοῦν τῶν θείων τῆς ἁγίας Γραφῆς μεμυημένῳ λογίων.",
+          "en": "<span class=\"sn\" data-s=\"64\">Anyone who remembers even dimly the words of holy Scripture can see this is true.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ, ὥς φησιν ἡ θεία Γραφὴ, ψυχαὶ δικαίων ἐν χειρὶ Κυρίου, οὐκ αὐτὴ μᾶλλον ταῖς χερσὶ τοῦ Υἱοῦ καὶ Θεοῦ αὐτῆς τὴν ψυχὴν παρατίθεται;",
+          "en": "<span class=\"sn\" data-s=\"65\">For if, as Scripture says, *“the souls of the just are in the hand of God”* [Wisdom 3:1], how much more is her soul in the hands of her Son and her God?</span>"
+        },
+        {
+          "gr": "Ἀληθὴς ὁ λόγος, καὶ πάσης ἀντιλογίας ὑπέρτερος.",
+          "en": "<span class=\"sn\" data-s=\"66\">That is beyond dispute.</span>"
+        },
+        {
+          "gr": "Ἀλλ᾽ εἰ δοκεῖ, τίς αὕτη, καὶ πόθεν, καὶ πῶς τῷ παρόντι χαρισθεῖσα βίῳ, δῶρον ἁπάντων τῶν τοῦ Θεοῦ δωρημάτων ὑψηλότερον ἅμα καὶ προσφιλέστερον δέδοται· οἵαν τε τὴν ἐν τῷδε τῷ βίῳ διατριβὴν πεποίηται, καὶ οἵων μυστηρίων ἠξίωται, διεξίωμεν.",
+          "en": "<span class=\"sn\" data-s=\"67\">Let us consider, then, who she is, and where she came from; how the greatest and dearest of all God's gifts was given to this world; what her life was, and the mysteries she took part in.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ τοὺς κατοιχομένους ἐπιταφίοις γεραίροντες Ἕλληνες, πᾶν ὅτιπερ ἑώρων ἀγώγιμον, πάσῃ σπουδῇ συνεισέφερον, ὡς ἂν τῷ μὲν εὐφημουμένῳ κατηρτισμένον τὸ ἐγκώμιον γένηται, τοῖς δὲ λειπομένοις, ζῆλος ἅμα πρὸς ἀρετὴν καὶ παράκλησις· μύθοις δὲ ὡς τὰ πολλὰ καὶ ἀπείροις πλάσμασι τὸν λόγον ἐξύφαινον, οἴκοθεν μὴ κεκτημένων τῶν ὑμνουμένων ἔπαινον· πῶς ἡμεῖς τὰ λίαν ἀληθῆ καὶ σεβάσμια, καὶ ὄντως ὄντα τοῖς πᾶσιν εὐλογίας ἁπάσης καὶ σωτηρίας πρόξενα, σιγῆς βυθοῖς, τὸ τοῦ λόγου, καλύψαντες, οὐ πολὺν ὀφλήσομεν γέλωτα, καὶ τῷ κατακρύψαντι τὸ τάλαντον τῆς αὐτῆς δίκης τευξόμεθα;",
+          "en": "<span class=\"sn\" data-s=\"68\">The pagans, in their funeral speeches, used to search out with great care anything that could be turned to the praise of the dead and the encouragement of the living — and they usually had to draw on fable and fiction, because the dead man's real life gave them nothing to work with.</span> <span class=\"sn\" data-s=\"69\">How then shall we escape contempt if we bury in silence what is completely true and sacred — the real source of praise and salvation for everyone?</span> <span class=\"sn\" data-s=\"70\">Would we not receive the same punishment as the servant who hid his master's money in the ground [Matthew 25:25]?</span>"
+        },
+        {
+          "gr": "τῆς συντομίας τοῦ λόγου φροντίζοντες, ὡς ἂν μὴ ταῖς ἀκοαῖς πολέμιος γένηται, ὡς τροφὴ τοῖς σώμασιν ὑπερβάλλουσα.",
+          "en": "<span class=\"sn\" data-s=\"71\">So let us shape our account to the needs of those listening, as food is suited to the body.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Joachim and Anna",
+      "heading_sentence_index": 72,
+      "pairs": [
+        {
+          "gr": "εʹ. Ἰωακεὶμ καὶ Ἄννα οἱ ταύτης γεννήτορες.",
+          "en": "<span class=\"sn\" data-s=\"73\">Mary's parents were Joachim and Anna.</span>"
+        },
+        {
+          "gr": "Ἰωακεὶμ, ὥσπερ τις προβάτων ποιμὴν, οὐχ ἧττον νέμων τοὺς λογισμοὺς, ἄγων τε κατ᾽ ἐξουσίαν ὅπη βούλοιτο, ἢ τὰ θρέμματα.",
+          "en": "<span class=\"sn\" data-s=\"74\">Joachim kept watch over his thoughts as strictly as a shepherd keeps watch over his flock, holding them entirely under his control.</span>"
+        },
+        {
+          "gr": "Ὑπὸ Κυρίῳ γὰρ τῷ Θεῷ ὡς πρόβατον ποιμαινόμενος, οὐδενὸς τῶν ἀρίστων ἐστέρητο.",
+          "en": "<span class=\"sn\" data-s=\"75\">For the Lord God shepherded him like a sheep of His own flock, and he lacked none of the best things.</span>"
+        },
+        {
+          "gr": "Ἄριστα δὲ λέγειν μηδεὶς οἰέσθω με, τὰ τοῖς πολλοῖς καταθύμια, πρὸς ἃ ἡ τῶν λιχνοτέρων ἀεὶ διάνοια κέχηνεν, ἃ μήτε παραμένειν πέφυκε, μήτε βελτίονα δρᾷν τὸν κεκτημένον ἐπίσταται, τὰ τοῦ παρόντος βίου τερπνὰ, ἃ μὴ δύναται βεβαίαν δύναμιν κτήσασθαι, ἀλλὰ περὶ αὐτὰ καταῤῥεῖ, καὶ αὐθωρὸν διαλύεται, εἰ καὶ τούτων πολλὴν εἶχον τὴν περιουσίαν.",
+          "en": "<span class=\"sn\" data-s=\"76\">And when I say “best things,” don't imagine I mean what the crowd usually chases — the things greedy minds fix on, the pleasures of life that cannot last and cannot make their owners better or truly stronger.</span> <span class=\"sn\" data-s=\"77\">Those follow the downhill slide of human life and vanish in a moment, however plentiful they were before.</span>"
+        },
+        {
+          "gr": "Ἄπαγε· οὐ πρὸς ἡμῶν ταῦτα θαυμάζειν, οὐδ᾽ αὕτη μερὶς τῶν φοβουμένων τὸν Κύριον· ἀλλὰ τὰ ἀγαθὰ, τὰ ὄντως τοῖς εὖ φρονοῦσιν ἐφετὰ καὶ ἐράσμια, ἃ μένει διαιωνίζοντα, Θεὸν μὲν εὐφραίνοντα, καρπὸν δὲ τοῖς κεκτημένοις ἀνατέλλοντα ὥριμον, τὰς ἀρετὰς φημὶ, αἳ τὸν καρπὸν ἐν καιρῷ αὐτῶν, τῷ αἰῶνι λέγω μέλλοντι, ζωὴν αἰώνιον δώσουσι, τοῖς γε ἀξίως φιλοπονήσασι, καὶ πονήσασι τὸν ἑαυτῶν πόνον ὅση δύναμις.",
+          "en": "<span class=\"sn\" data-s=\"78\">Far be it from us to cherish such things; that is not the portion of those who fear God.</span> <span class=\"sn\" data-s=\"79\">No — the truly good things are the ones desired by people of real understanding: the things that delight God and bear fruit for their owners — the virtues.</span> <span class=\"sn\" data-s=\"80\">They bear their fruit in due season, that is, in eternity, and they repay with eternal life those who have laboured for them worthily and persevered in gaining them as far as they could.</span>"
+        },
+        {
+          "gr": "Πόνος μὲν γὰρ προπορεύεται, ἕπεται δὲ μακαριότης αἰώνιος.",
+          "en": "<span class=\"sn\" data-s=\"81\">The labour goes first; eternal happiness follows.</span>"
+        },
+        {
+          "gr": "Ἐν τούτοις Ἰωακεὶμ συνήθως τοὺς οἰκείους ἐποίμανε λογισμοὺς, ἐν τόπῳ μὲν χλόης, τῶν ἱερῶν λογίων τῇ θεωρίᾳ ἐναυλιζόμενος, ἐπὶ ὕδατος δὲ ἀναπαύσεως τῆς θείας εὐφραινόμενος χάριτος, ἐξ ἀτόπων ἐπιστρέφων, ἐπὶ δὲ τρίβους δικαιοσύνης ὁδηγῶν.",
+          "en": "<span class=\"sn\" data-s=\"82\">Joachim shepherded his thoughts without ceasing: his pasture was the contemplation of the words of holy Scripture; his restful waters [Psalm 23:2] were divine grace; his path, turned away from foolishness, was the path of justice.</span>"
+        },
+        {
+          "gr": "Ἄννα δὲ, ἣ χάρις ἑρμηνεύεται, οὐχ ἧττον ὁμότροπος ἦν, καὶ ὁμόζυγος, πᾶσι μὲν ἀγαθοῖς κομῶσα, μυστικῷ δέ τινι λόγῳ κατεχομένη τῷ τῆς στειρώσεως ἀῤῥωστήματι.",
+          "en": "<span class=\"sn\" data-s=\"83\">And Anna — whose name means “grace” — was his match in life, not merely his wife, blessed with every good gift, though for a hidden, symbolic reason she was afflicted with childlessness.</span>"
+        },
+        {
+          "gr": "Ἐστείρευε γὰρ ὄντως ἡ χάρις, ἐν ταῖς τῶν ἀνθρώπων ψυχαῖς καρποφορεῖν οὐκ ἰσχύουσα· διότι πάντες ἐξέκλιναν, ἅμα ἠχρειώθησαν, οὐκ ἦν ὁ συνιὼν, οὐκ ἦν ὁ ἐκζητῶν τὸν Θεόν.",
+          "en": "<span class=\"sn\" data-s=\"84\">For grace itself had, in truth, gone barren: it could no longer bear fruit in the souls of men.</span> <span class=\"sn\" data-s=\"85\">Men had turned away from good and sunk lower and lower; there was *“no one of understanding, no one who sought after God”* [Psalm 14:2].</span>"
+        },
+        {
+          "gr": "Εἶτα ὁ ἀγαθὸς Θεὸς ἐπιδὼν, καὶ κατοικτειρήσας τῆς οἰκείας χειρὸς τὸ πλαστούργημα, καὶ τοῦτο βουληθεὶς ἀνασώσασθαι, λύει τὴν τῆς χάριτος στείρωσιν, τῆς Ἄννης φημὶ τῆς θεόφρονος, καὶ τίκτει παῖδα, οἵα οὐ πρότερον γέγονεν, οὐδ᾽ αὖ πάλιν γενήσεται.",
+          "en": "<span class=\"sn\" data-s=\"86\">Then the good God, taking pity on the work of His hands and wishing to save it, put an end to that symbolic barrenness — the barrenness of holy Anna — and she gave birth to a child such as had never been created before and never can be again.</span>"
+        },
+        {
+          "gr": "Ἡ δὲ τῆς στειρώσεως λύσις ἐδήλου σαφέστατα τὴν κοσμικὴν τῶν ἀγαθῶν λυθήσεσθαι στείρωσιν, καὶ τῆς ἀποῤῥήτου μακαριότητος καρπογονεῖσθαι τὸ στέλεχος.",
+          "en": "<span class=\"sn\" data-s=\"87\">The ending of Anna's barrenness announced plainly that the world's barrenness would also end — that the withered trunk of mankind would be crowned again with strong and mystical life.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Her presentation in the temple",
+      "heading_sentence_index": 88,
+      "pairs": [
+        {
+          "gr": "ςʹ. Ἐντεῦθεν ἡ Θεοτόκος ἐξ ἐπαγγελίας προέρχεται.",
+          "en": "<span class=\"sn\" data-s=\"89\">So the Mother of the Lord is announced.</span>"
+        },
+        {
+          "gr": "Ἄγγελος γὰρ καταμηνύει τῆς γενησομένης τὴν σύλληψιν. Ἔπρεπε γὰρ κἀν τούτῳ μὴ ἐλαττοῦσθαί τινος, ἢ φέρειν τὰ δεύτερα, τὴν τοῦ μόνου καὶ ὄντως τελείου Θεοῦ ἐσομένην κατὰ σάρκα λοχεύτριαν.",
+          "en": "<span class=\"sn\" data-s=\"90\">An angel foretells her birth — for it was fitting that in this too, the one who would become the human Mother of the one true and living God should be set apart from everyone else.</span>"
+        },
+        {
+          "gr": "Εἶτα τῷ ἱερῷ ναῷ τοῦ Θεοῦ ἀνατίθεται, κἀνταῦθα διατρίβει, κρείττονα καὶ καθαρωτέραν τῶν ἄλλων ἐπιδεικνυμένη σπουδὴν καὶ ἀναστροφὴν, ἁπάσης ἐπιμιξίας ἀνδρῶν καὶ θηλειῶν ἀτόπων ἀπηλλαγμένη.",
+          "en": "<span class=\"sn\" data-s=\"91\">Then she was offered in God's holy temple, and stayed there, showing everyone an example of dedication and holiness, kept apart from frivolous company.</span>"
+        },
+        {
+          "gr": "Ἀλλ᾽ ἐπεὶ τῆς ἡλικίας ἡ ἀκμὴ κατελάμβανε, καὶ μένειν τῶν ἀνακτόρων ἔνδον νομίμως ἀπείργετο, μνηστῆρι, ταὐτὸν δὲ εἰπεῖν φύλακι τῆς παρθενίας, πρὸς τοῦ χοροῦ τῶν ἱερέων τῷ Ἰωσὴφ ἐγχειρίζεται, ὃς τὸν νόμον ἀπαραχάρακτον μέχρι γήρως ἐν συγκρίσει τῶν ἄλλων ἐφύλαττε.",
+          "en": "<span class=\"sn\" data-s=\"92\">But when she came of age, and the law required her to leave the temple, the priests entrusted her to Joseph as her betrothed — a man who had faithfully kept the law from his youth — to be the guardian of her virginity.</span>"
+        },
+        {
+          "gr": "Πρὸς τοῦτον ἡ ἱερὰ αὕτη καὶ πανάμωμος νεᾶνις διέτριβε, τοῖς κατ᾽ οἶκον στοιχοῦσα, καὶ τῶν πρὸ τῆς οἰκίας εἰδυῖα μηδέν.",
+          "en": "<span class=\"sn\" data-s=\"93\">Mary, the all-blameless one, went to Joseph's house, attended to her household duties, and knew nothing beyond her own four walls.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The Annunciation",
+      "heading_sentence_index": 94,
+      "pairs": [
+        {
+          "gr": "ζʹ. Ὅτε δὲ ἦλθε τὸ πλήρωμα τοῦ χρόνου, ὥς φησιν ὁ θεῖος Ἀπόστολος, ἀπεστάλη ὑπὸ τοῦ Θεοῦ ἄγγελος Γαβριὴλ πρὸς ταύτην τὴν ὄντως θεόπαιδα, καί φησι πρὸς αὐτήν· Χαῖρε, κεχαριτωμένη, ὁ Κύριος μετὰ σοῦ.",
+          "en": "<span class=\"sn\" data-s=\"95\">When *“the fullness of time”* had come, as the holy apostle says [Galatians 4:4], the angel Gabriel was sent to this true child of God, and greeted her with the words: *“Hail, full of grace, the Lord is with you”* [Luke 1:28].</span>"
+        },
+        {
+          "gr": "Καλὸν τὸ τοῦ ἀγγέλου, πρὸς τὴν ὑπὲρ ἄγγελον πρόσφθεγμα. Χαρὰν γὰρ φέρει παγκόσμιον.",
+          "en": "<span class=\"sn\" data-s=\"96\">Beautiful is the angel's greeting to her who is greater than an angel — he brings joy to the whole world.</span>"
+        },
+        {
+          "gr": "Ἡ δὲ ἐπὶ τῷ λόγῳ ἐταράχθη, τῆς πρὸς ἄνδρας ὁμιλίας ἀήθης ὑπάρχουσα. Ἀσφαλῶς γὰρ τηρεῖν τὴν παρθενίαν προῄρητο. Διελογίζετο δὲ ἐν ἑαυτῇ, ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος.",
+          "en": "<span class=\"sn\" data-s=\"97\">But she was troubled at his words, since she was not used to speaking with men, for she had resolved to keep her virginity untouched; and she wondered to herself what such a greeting could mean.</span>"
+        },
+        {
+          "gr": "Καὶ πρὸς αὐτὴν ὁ ἄγγελος· Μὴ φοβοῦ, Μαριάμ· εὗρες γὰρ χάριν παρὰ τῷ Θεῷ.",
+          "en": "<span class=\"sn\" data-s=\"98\">Then the angel said to her: *“Do not be afraid, Mary.*</span> <span class=\"sn\" data-s=\"99\">*You have found grace with God”* [Luke 1:30].</span>"
+        },
+        {
+          "gr": "Ὄντως εὗρε χάριν, ἡ ἀξία τῆς χάριτος.",
+          "en": "<span class=\"sn\" data-s=\"100\">Truly, the one worthy of grace had found it.</span>"
+        },
+        {
+          "gr": "Εὗρε χάριν, ἡ τοὺς πόνους τῆς χάριτος γεωργήσασα, καὶ πολὺν δρεψαμένη τὸν ἄσταχυν.",
+          "en": "<span class=\"sn\" data-s=\"101\">She found grace who had ploughed the field of grace and reaped its full harvest.</span>"
+        },
+        {
+          "gr": "Εὗρε χάριν, ἡ τοὺς σπόρους τῆς χάριτος γεννήσασα, καὶ πολύχουν δρεψαμένη τὸν ἄσταχυν τῆς χάριτος.",
+          "en": "<span class=\"sn\" data-s=\"102\">She found grace who bore the very source of grace.</span>"
+        },
+        {
+          "gr": "Εὗρε χάριτος ἄβυσσον, ἡ σῶαν τὴν ὁλκάδα τῆς διπλῆς παρθενίας τηρήσασα· καὶ τὴν ψυχὴν γὰρ παρθένον ἐτήρησεν, οὐ τοῦ σώματος ἔλαττον. Ὅθεν καὶ ἡ τοῦ σώματος παρθενία τετήρητο.",
+          "en": "<span class=\"sn\" data-s=\"103\">She found an ocean of grace — she who kept her double virginity intact, a virgin soul no less spotless than her body.</span>"
+        },
+        {
+          "gr": "Καὶ τέξῃ, φησὶν, υἱὸν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· Ἰησοῦς δὲ σωτὴρ ἑρμηνεύεται· αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἐκ τῶν ἀνομιῶν αὐτῶν.",
+          "en": "<span class=\"sn\" data-s=\"104\">*“You shall bring forth a Son,”* he said, *“and shall call His name Jesus”* — the name Jesus means “Saviour” — *“He shall save His people from their sins”* [Matthew 1:21].</span>"
+        },
+        {
+          "gr": "Τί πρὸς ταῦτα τῆς ἀληθοῦς σοφίας ὁ θησαυρός;",
+          "en": "<span class=\"sn\" data-s=\"105\">And what did she answer — she who is wisdom itself?</span>"
+        },
+        {
+          "gr": "Τὴν μὲν Εὔαν οὐ μιμεῖται τὴν προμήτορα, ἐπανορθοῦται δὲ μᾶλλον τὸ ταύτης ἀφύλακτον, καὶ συνήγορον τὴν φύσιν προβάλλεται, ὧδέ πως τῷ τοῦ ἀγγέλου ἀντιῤῥητορεύουσα ῥήματι· Πῶς ἔσται μοι τοῦτο, ἐπεὶ ἄνδρα οὐ γινώσκω;",
+          "en": "<span class=\"sn\" data-s=\"106\">She did not copy our first mother Eve, who accepted a stranger's word too carelessly; she corrected Eve's carelessness. She called nature itself as her witness, and answered the angel: “How can this be, since I know no man?</span>"
+        },
+        {
+          "gr": "Ἀδύνατα φθέγγῃ, φησίν. Ὁ γε σὸς λόγος τοὺς ὅρους λύει τῆς φύσεως, οὓς ὁ πλαστουργήσας ἐπήξατο.",
+          "en": "<span class=\"sn\" data-s=\"107\">What you describe is impossible — it breaks the natural laws the Creator laid down.</span>"
+        },
+        {
+          "gr": "Οὐκ ἀνέχομαι Εὔα χρηματίσαι δευτέρα, καὶ τὸ τοῦ Ποιήσαντος παρακρούσασθαι βούλημα.",
+          "en": "<span class=\"sn\" data-s=\"108\">I will not be a second Eve and disobey the will of my God.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ μὴ λέγεις ἀντίθεα, τὸν τρόπον εἰπὼν τῆς συλλήψεως, λῦσον τὴν ἀπορίαν.",
+          "en": "<span class=\"sn\" data-s=\"109\">If what you are saying is not godless, then explain the mystery: say how it is to happen.”</span>"
+        },
+        {
+          "gr": "Πρὸς ἣν ὁ τῆς ἀληθείας ἄγγελος· Πνεῦμα ἅγιον ἐπελεύσεται ἐπὶ σέ, καὶ δύναμις Ὑψίστου ἐπισκιάσει σοι· διὸ καὶ τὸ γεννώμενον ἅγιον κληθήσεται Υἱὸς Θεοῦ.",
+          "en": "<span class=\"sn\" data-s=\"110\">And the messenger of truth answered her: *“The Holy Spirit shall come upon you, and the power of the Most High shall overshadow you; therefore the Holy One to be born of you shall be called the Son of God”* [Luke 1:35].</span>"
+        },
+        {
+          "gr": "Οὐ δουλεύει φύσεως νόμοις τὸ τελούμενον. Ὁ γὰρ Δημιουργὸς καὶ Δεσπότης τῆς φύσεως, κατ᾽ ἐξουσίαν τοὺς ὅρους ἀμείβει τῆς φύσεως.",
+          "en": "<span class=\"sn\" data-s=\"111\">What was being announced was not subject to the laws of nature — for God, who created nature, can alter its laws.</span>"
+        },
+        {
+          "gr": "Ἡ δὲ, τὸ ἀεὶ ποθούμενον καὶ τιμώμενον ὄνομα, μεθ᾽ ἱερᾶς εὐλαβείας ἀκούσασα, τῆς ὑπακοῆς ἐπηφίει φόβου καὶ χαρᾶς γέμοντα ῥήματα· Ἰδοὺ ἡ δούλη Κυρίου· γένοιτό μοι κατὰ τὸ ῥῆμά σου.",
+          "en": "<span class=\"sn\" data-s=\"112\">And she, listening in holy reverence to that sacred name she had always longed for, spoke her obedience in words full of humility and joy: *“Behold the handmaid of the Lord.*</span> <span class=\"sn\" data-s=\"113\">*Let it be done to me according to your word”* [Luke 1:38].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Figures and foreshadowings",
+      "heading_sentence_index": 114,
+      "pairs": [
+        {
+          "gr": "ηʹ. Ὢ βάθος πλούτου, καὶ σοφίας, καὶ γνώσεως Θεοῦ· κἀγὼ γὰρ εἰς καιρὸν τῷ Ἀποστόλῳ συμφθέγξομαι, ὡς ἀνεξερεύνητα τὰ κρίματα αὐτοῦ, καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"115\">*“O the depth of the riches of the wisdom and of the knowledge of God!”* — let me cry out in the apostle's words — *“how unsearchable are His judgments, and His ways past finding out!”* [Romans 11:33].</span>"
+        },
+        {
+          "gr": "Ὢ ἀπλήστου ἀγαθότητος Θεοῦ· ὢ ἀγάπης οὐκ ἐχούσης ἔρευναν.",
+          "en": "<span class=\"sn\" data-s=\"116\">O inexhaustible goodness of God!</span> <span class=\"sn\" data-s=\"117\">O boundless generosity!</span>"
+        },
+        {
+          "gr": "Ὁ καλῶν τὰ μὴ ὄντα ὡς ὄντα, ὁ πληρῶν τὸν οὐρανὸν καὶ τὴν γῆν, οὗ ὁ οὐρανὸς θρόνος, ἡ δὲ γῆ ὑποπόδιον, εὐρύχωρον ἐνδιαίτημα τὴν γαστέρα τῆς οἰκείας δούλης ἐποιήσατο, καὶ ἐν αὐτῇ τὸ πάντων καινότερον ἀποτελεῖ μυστήριον.",
+          "en": "<span class=\"sn\" data-s=\"118\">He who called what did not exist into being, who fills heaven and earth, whose throne is heaven and whose footstool is the earth — He made the womb of His own servant His roomy dwelling-place, and in it accomplished the mystery newer than all new things.</span>"
+        },
+        {
+          "gr": "Θεὸς γὰρ ὢν, ἄνθρωπος γίνεται, ὑπερφυῶς τε τῷ χρόνῳ τῆς κυήσεως τίκτεται, καὶ διανοίγει μήτραν, τὰ κλεῖθρα τῆς παρθενίας μὴ λυμηνάμενος, καὶ ἀγκάλαις γηΐναις ὡς βρέφος βαστάζεται, τὸ τῆς δόξης ἀπαύγασμα, ὁ χαρακτὴρ τῆς τοῦ Πατρὸς ὑποστάσεως, ᾧ φέρονται τὰ σύμπαντα τῷ ῥήματι τοῦ στόματος αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"119\">Being God, He becomes man;</span> <span class=\"sn\" data-s=\"120\">He is marvellously born without harming His Mother's virginity; and He is lifted up as a baby in human arms — He who is the radiance of eternal glory, the exact image of the Father's being, by the word of whose mouth all created things exist [Hebrews 1:3].</span>"
+        },
+        {
+          "gr": "Ὢ θείων ἀληθῶς θαυμάτων· ὢ μυστηρίων τῶν ὑπὲρ φύσιν καὶ ἔννοιαν· ὢ παρθενικῶν αὐχημάτων τῶν ὑπὲρ ἄνθρωπον.",
+          "en": "<span class=\"sn\" data-s=\"121\">O truly divine wonder!</span> <span class=\"sn\" data-s=\"122\">O mystery beyond all nature and understanding!</span> <span class=\"sn\" data-s=\"123\">O virginity beyond marvel!</span>"
+        },
+        {
+          "gr": "Τί τοῦτο τὸ μέγα περὶ σὲ, ὦ ἱερὰ μῆτερ καὶ παρθένε, μυστήριον;",
+          "en": "<span class=\"sn\" data-s=\"124\">What is this great mystery accomplished in you, holy Mother and Virgin?</span>"
+        },
+        {
+          "gr": "Εὐλογημένη σὺ ἐν γυναιξὶν, καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου.",
+          "en": "<span class=\"sn\" data-s=\"125\">*“Blessed are you among women, and blessed is the fruit of your womb”* [Luke 1:42].</span>"
+        },
+        {
+          "gr": "Μακαρία εἶ ἐν γενεαῖς γενεῶν, ἡ μόνη ἀξιομακάριστος.",
+          "en": "<span class=\"sn\" data-s=\"126\">Blessed are you from generation to generation — you who alone are worthy to be called blessed.</span>"
+        },
+        {
+          "gr": "Ἰδοὺ γὰρ μακαρίζουσί σε πᾶσαι γενεαὶ, ὥσπερ ἔφησας.",
+          "en": "<span class=\"sn\" data-s=\"127\">Behold, *“all generations shall call you blessed,”* just as you said [Luke 1:48].</span>"
+        },
+        {
+          "gr": "Σὲ εἶδον θυγατέρες Ἱερουσαλὴμ, τῆς Ἐκκλησίας λέγω, καὶ ἐμακάρισάν σε αἱ βασίλισσαι, ἤτοι δικαίων ψυχαὶ, καὶ εἰς αἰῶνας αἰνέσουσί σε.",
+          "en": "<span class=\"sn\" data-s=\"128\">The daughters of Jerusalem — that is, of the Church — have seen you; queens — that is, the souls of the just — have blessed you, and they shall praise you for ever.</span>"
+        },
+        {
+          "gr": "Σὺ γὰρ εἶ ὁ βασιλικὸς θρόνος, ᾧ παρεστήκεισαν ἄγγελοι, τὸν ἑαυτῶν ὁρῶντες Δεσπότην καὶ Δημιουργὸν ἐποχούμενον.",
+          "en": "<span class=\"sn\" data-s=\"129\">You are the royal throne the angels stand around, seeing seated upon it their own King and Lord.</span>"
+        },
+        {
+          "gr": "Σὺ Ἐδὲμ νοητὴ κεχρημάτικας, τῆς πάλαι ἱερωτέρα καὶ θειοτέρα. Ἐν ἐκείνῃ μὲν γὰρ Ἀδὰμ χοϊκὸς ηὐλίζετο, ἐν σοὶ δὲ Κύριος ἐξ οὐρανοῦ.",
+          "en": "<span class=\"sn\" data-s=\"130\">You are a spiritual Eden, holier and more divine than the Eden of old — for that Eden housed Adam, who was mortal, but into you the Lord Himself came down from heaven to dwell.</span>"
+        },
+        {
+          "gr": "Σὲ κιβωτὸς προεικόνισε, δευτέρου κόσμου σπέρμα φυλάττουσα· σὺ γὰρ τὴν τοῦ κόσμου σωτηρίαν τὸν Χριστὸν ἀπεκύησας, τὸν τὴν ἁμαρτίαν μὲν κατακλύσαντα, τὰ δὲ ταύτης κατευνάσαντα κύματα.",
+          "en": "<span class=\"sn\" data-s=\"131\">The ark of Noah foreshadowed you: it preserved the seed of a new world, and you gave birth to Christ, the salvation of the world, who drowned sin beneath the flood of His mercy.</span>"
+        },
+        {
+          "gr": "Σὲ βάτος προέγραψε, πλάκες θεόγραφοι προεχάραξαν, νόμου ἡ κιβωτὸς προϊστόρησε, στάμνος χρυσῆ καὶ λυχνία, καὶ τράπεζα, καὶ ῥάβδος Ἀαρὼν ἡ βλαστήσασα, ἐμφανῶς προετύπωσαν.",
+          "en": "<span class=\"sn\" data-s=\"132\">The burning bush that blazed without being consumed was a picture of you; so were the tablets on which God wrote His law, and the ark of the covenant that carried them.</span> <span class=\"sn\" data-s=\"133\">The golden jar of manna, the lampstand, the table of offering, the rod of Aaron that blossomed though it was dry wood — all these were clear images of you.</span>"
+        },
+        {
+          "gr": "Ἐκ σοῦ γὰρ ἡ φλὸξ τῆς θεότητος, ὁ τοῦ Πατρὸς ὅρος καὶ Λόγος, τὸ γλυκύτατον καὶ οὐράνιον μάννα, τὸ ὄνομα τὸ ἀνώνυμον, τὸ ὑπὲρ πᾶν ὄνομα, τὸ φῶς τὸ ἀΐδιον καὶ ἀπρόσιτον, ὁ ἄρτος τῆς ζωῆς ὁ οὐράνιος, ὁ ἀγεώργητος καρπὸς, σωματικῶς ἐκ σοῦ ἀνεβλάστησεν.",
+          "en": "<span class=\"sn\" data-s=\"134\">For from you arose the splendour of the Godhead: the eternal Word of the Father, the true and sweetest heavenly Manna, the holy Name above every name, the Light that was from the beginning; the heavenly Bread of Life; the Fruit that came without seed.</span>"
+        },
+        {
+          "gr": "Οὐ σὲ προεμήνυσε κάμινος, πῦρ δροσίζον ἅμα καὶ φλογίζον δεικνύουσα, καὶ τοῦ θείου πυρὸς ἀντίτυπον τοῦ ἐν σοὶ κατοικήσαντος;",
+          "en": "<span class=\"sn\" data-s=\"135\">Did not the furnace of fire also point to you — its flame at once burning and refreshing, an image of the divine fire that dwelt in you?</span>"
+        },
+        {
+          "gr": "Ἡ δὲ σκηνὴ Ἀβραὰμ σὲ προδηλοῖ προφανέστατα. Τῷ γὰρ Θεῷ Λόγῳ ἐν τῇ γαστρί σου σκηνώσαντι ἀνθρωπεία φύσις τὸν ἐγκρυφίαν ἄρτον, τὴν ἑαυτῆς ἀπαρχὴν ἐκ τῶν σῶν ἁγνῶν αἱμάτων προσήγαγεν, ὀπτωμένην πως καὶ ἀρτοποιουμένην ὑπὸ τοῦ θείου πυρὸς, ἐν τῇ θείᾳ αὐτοῦ ὑποστάσει ὑφισταμένην, καὶ εἰς ἀληθῆ ὕπαρξιν ἐρχομένην σώματος ἐψυχωμένου ψυχῇ λογικῇ τε καὶ νοερᾷ.",
+          "en": "<span class=\"sn\" data-s=\"136\">And Abraham's tent points to you plainly as well: as human nature there offered bread baked in the ashes to the visiting God, so from your most pure womb human nature offered its true first-fruits — kneaded, so to speak, and baked through by the divine fire: God's own person made flesh, His true body, living and quickened by a reasoning, intelligent soul.</span>"
+        },
+        {
+          "gr": "Μικροῦ με καὶ τοῦτο Ἰακὼβ ἡ κλίμαξ διέφυγε. Τί γάρ; οὐ παντὶ δῆλον, ὅτι σοῦ προεγράφη, καὶ τύπος γνωρίζεται;",
+          "en": "<span class=\"sn\" data-s=\"137\">And I nearly forgot Jacob's ladder!</span> <span class=\"sn\" data-s=\"138\">Isn't it obvious to everyone that it prefigured you — an image easy to recognise?</span>"
+        },
+        {
+          "gr": "Ὃν τρόπον ἐκεῖνος τεθέαται διὰ τῶν ἄκρων τῆς κλίμακος οὐρανὸν τῇ γῇ συναπτόμενον, καὶ διὰ ταύτης ἀγγέλους κατιόντας καὶ ἀνιόντας, καὶ τὸν ὄντως ἰσχυρὸν, καὶ ἀήττητον, τυπικῶς αὐτῷ προσπαλαίοντα, οὕτως καὶ σὺ μεσιτεύσασα, καὶ κλίμαξ γεγονυῖα τῆς πρὸς ἡμᾶς τοῦ Θεοῦ καταβάσεως, τοῦ τὸ ἀσθενὲς ἡμῶν ἀναλαβόντος φύραμα, καὶ ἑαυτῷ συμπλέξαντος καὶ ἑνώσαντος, καὶ νοῦν ὁρῶντα Θεὸν δεδρακότος τὸν ἄνθρωπον, τὰ διεστῶτα συνήγαγες.",
+          "en": "<span class=\"sn\" data-s=\"139\">Just as Jacob saw a ladder joining heaven and earth, with angels going down and coming up it, and saw the truly strong and unconquerable God mysteriously wrestling with man [Genesis 28:12; 32:24], so you stand placed between us and God, and have become the ladder of God's dealings with us — of the God who took our weakness upon Himself, united us to Himself, and made it possible for man to see God.</span> <span class=\"sn\" data-s=\"140\">You have joined together what had been split apart.</span>"
+        },
+        {
+          "gr": "Ὅθεν ἄγγελοι μὲν πρὸς αὐτὸν κατῄεσαν, ὡς Θεῷ καὶ Δεσπότῃ λειτουργήσαντες, ἄνθρωποι δὲ ἀγγελικῇ πολιτείᾳ χρησάμενοι, πρὸς οὐρανὸν ἀναρπάζονται.",
+          "en": "<span class=\"sn\" data-s=\"141\">And so angels came down to Him, serving Him as their God and Lord; and human beings, taking up the way of life of angels, are carried up to heaven.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The prophets foretell her",
+      "heading_sentence_index": 142,
+      "pairs": [
+        {
+          "gr": "θʹ. Ποῦ δὲ θήσομαι τῶν προφητῶν τὰ κηρύγματα; οὐκ ἐπὶ σὲ, εἴπερ ἀληθῆ δεικνύναι ταῦτα ἐθελήσαιμεν;",
+          "en": "<span class=\"sn\" data-s=\"143\">And the predictions of the prophets — how shall I understand them, except by pointing them at you, where they prove true?</span>"
+        },
+        {
+          "gr": "Τίς γὰρ ὁ Δαυϊτικὸς πόκος, ἐφ᾽ ὃν ὁ τοῦ βασιλέως τῶν ἁπάντων Θεοῦ Υἱὸς, ὁ συνάναρχος καὶ συμβασιλεύων τῷ οἰκείῳ Γεννήτορι, ὡς ὑετὸς καταβέβηκεν; οὐχὶ σὺ τηλαυγέστατα;",
+          "en": "<span class=\"sn\" data-s=\"144\">What is the fleece of which David sang, on which the Son of the almighty God — co-eternal and co-equal with His Father — came down *“like rain upon the fleece”* [Psalm 72:6], as gently as rain sinks into wool?</span> <span class=\"sn\" data-s=\"145\">Does it not clearly mean you?</span>"
+        },
+        {
+          "gr": "Τίς δὲ ἡ παρθένος, ἣν Ἡσαΐας προβλεπτικῶς προηγόρευσεν, ἐν γαστρὶ ἕξειν καὶ τέξεσθαι υἱὸν τὸν μεθ᾽ ἡμῶν ὄντα Θεὸν, τουτέστι μετὰ τὸ γενέσθαι ἄνθρωπον, καὶ Θεὸν διαμείναντα;",
+          "en": "<span class=\"sn\" data-s=\"146\">Who is the virgin whom Isaiah foretold, who would *“conceive and bear a Son”* called *“God-with-us”* — Emmanuel — that is, one who being born a man would remain God [Isaiah 7:14]?</span>"
+        },
+        {
+          "gr": "Τί δὲ τὸ ὄρος τοῦ Δανιὴλ, ἐξ οὗ ὁ ἀκρογωνιαῖος ἐτμήθη λίθος Χριστὸς, οὐχ ὑποστὰς ἀνδρὸς ἐγχειρίδιον; οὐχὶ σὺ ἡ ἀσπόρως κυήσασα, καὶ πάλιν παρθένος μείνασα;",
+          "en": "<span class=\"sn\" data-s=\"147\">What is Daniel's mountain, out of which Christ was cut, the Corner-Stone, hewn by no human hand [Daniel 2:34, 45]?</span> <span class=\"sn\" data-s=\"148\">Is it not you — who conceived without man, and remained a virgin still?</span>"
+        },
+        {
+          "gr": "Ἐλθέτω Ἰεζεκιὴλ ὁ θειότατος, καὶ δεικνύτω κεκλεισμένην πύλην, διωδευμένην ὑπὸ Κυρίου, καὶ οὐκ ἀνοιγομένην, καθὰ προφητικῶς προεκήρυξε· δειξάτω τῶν λεγομένων τὴν ἔκβασιν· σὲ δείξει πάντως, ἣν διελθὼν ὁ ἐπὶ πάντων Θεὸς, καὶ σάρκα λαβὼν, τὴν τῆς παρθενίας οὐκ ἀνέῳξε πύλην. Μένει γὰρ ἡ σφραγὶς ὄντως διαιωνίζουσα.",
+          "en": "<span class=\"sn\" data-s=\"149\">Let the inspired Ezekiel come forward and show us the gate that was closed and sealed by the Lord, never to be forced — and let him point to its fulfilment in you [Ezekiel 44:2]: for the Lord of all came to you, took flesh, and did not open the gate of your virginity; the seal remains intact for ever.</span>"
+        },
+        {
+          "gr": "Σὲ τοίνυν προφῆται κηρύττουσι.",
+          "en": "<span class=\"sn\" data-s=\"150\">So the prophets proclaim you.</span>"
+        },
+        {
+          "gr": "Σοὶ διακονοῦσιν ἄγγελοι, λειτουργοῦσιν ἀπόστολοι, ὁ παρθένος καὶ θεολόγος τῇ Ἀειπαρθένῳ καὶ Θεοτόκῳ.",
+          "en": "<span class=\"sn\" data-s=\"151\">Angels and apostles serve you, O Mother of God, ever-Virgin — with John, the virgin apostle, among them.</span>"
+        },
+        {
+          "gr": "Σὲ γὰρ σήμερον πρὸς τὸν σὸν ἐκδημοῦσαν Υἱὸν περιεῖπον ἄγγελοι, ψυχαὶ δικαίων, πατριαρχῶν τε καὶ προφητῶν· ἐδορυφόρουν ἀπόστολοι, θεοφόρων τε Πατέρων πλῆθος ἄπειρον, ἐκ τῶν τερμάτων τῆς γῆς τῷ θείῳ προστάγματι ὡς ἐν νεφέλῃ πρὸς ταύτην τὴν θείαν καὶ ἱερὰν Ἱερουσαλὴμ ἀθροιζόμενοι, καί σοι τῇ πηγῇ τοῦ ζωαρχικοῦ τοῦ Κυρίου σώματος ὕμνους ἱεροὺς ἐνθεαστικώτατα λέγοντες.",
+          "en": "<span class=\"sn\" data-s=\"152\">Angels and the souls of the just, patriarchs and prophets, surround you today as you depart to your Son; and the apostles kept watch over the countless host of the faithful, gathered by God's command from every corner of the earth like a cloud around this divine, living Jerusalem, all singing hymns of praise to you, the mother of the Lord's life-giving body.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "How can the Mother of Life die?",
+      "heading_sentence_index": 153,
+      "pairs": [
+        {
+          "gr": "ιʹ. Ὢ πῶς ἡ πηγὴ τῆς ζωῆς πρὸς τὴν ζωὴν διὰ μέσου θανάτου μετάγεται· ὢ πῶς ἡ ἐν τῷ τόκῳ τοὺς ὅρους ὑπερβᾶσα τῆς φύσεως, νῦν ὑποκύπτει τοῖς ταύτης θεσμοῖς, καὶ θανάτῳ τὸ ἀκήρατον καθυποβάλλεται σῶμα.",
+          "en": "<span class=\"sn\" data-s=\"154\">But how does the source of life pass through death into life?</span> <span class=\"sn\" data-s=\"155\">How can she obey the law of nature, who in conceiving her Child overstepped the boundaries of nature?</span> <span class=\"sn\" data-s=\"156\">How is her spotless body made subject to death?</span>"
+        },
+        {
+          "gr": "Δεῖ γὰρ αὐτὸ τὸ θνητὸν ἀποθέμενον τὴν ἀφθαρσίαν ἀμφιάσασθαι, ἐπεὶ καὶ ὁ Δεσπότης τῆς φύσεως τὴν τοῦ θανάτου πεῖραν οὐκ ἀπηνήνατο.",
+          "en": "<span class=\"sn\" data-s=\"157\">Because, in order to be clothed in immortality, she must first lay aside mortality — since even the Lord of nature Himself did not refuse the experience of death.</span>"
+        },
+        {
+          "gr": "Θνῄσκει γὰρ σαρκὶ, καὶ θανάτῳ λύει τὸν θάνατον, καὶ φθορᾷ τὴν ἀφθαρσίαν χαρίζεται, καὶ τὴν νέκρωσιν ποιεῖ πηγὴν τῆς ἀναστάσεως.",
+          "en": "<span class=\"sn\" data-s=\"158\">She dies in the flesh, and by her death she destroys death; through corruption she gains incorruption, and makes her very dying a source of resurrection.</span>"
+        },
+        {
+          "gr": "Ὢ πῶς ψυχὴν ἱερὰν τοῦ θεοδόχου διαιρουμένην σκηνώματος, οἰκείαις χερσὶν ὁ παντουργὸς ὑποδέχεται, τιμῶν νομίμως, ἣν τῇ φύσει δούλην ὑπάρχουσαν, φιλανθρωπίας ἀνεξιχνιάστοις πελάγεσιν οἰκονομικῶς μητέρα ἑαυτοῦ ἐποιήσατο, ὁ ἀληθείᾳ σαρκωθεὶς, οὐ φενακίσας τὴν ἐνανθρώπησιν.",
+          "en": "<span class=\"sn\" data-s=\"159\">And see how Almighty God receives with His own hands the holy soul of His Mother as it leaves her body!</span> <span class=\"sn\" data-s=\"160\">He honours her truly: she was His servant by nature, but He made her His Mother — in the unfathomable depth of His mercy — when He truly became flesh.</span>"
+        },
+        {
+          "gr": "Ἑώρων γὰρ, ὡς δοκεῖ, τῶν ἀγγέλων τὰ τάγματα τὴν σὴν ἐξ ἀνθρώπων ἀποβίωσιν προσδεχόμενα.",
+          "en": "<span class=\"sn\" data-s=\"161\">And we may well believe that the choirs of angels stood waiting to receive your departing soul.</span>"
+        },
+        {
+          "gr": "Ὢ τῆς καλλίστης ἐκδημίας, ἣ τὴν πρὸς Θεὸν ἐκδημίαν χαρίζεται.",
+          "en": "<span class=\"sn\" data-s=\"162\">What a blessed departure — this going of yours to God!</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ πᾶσι τοῖς θεοφόροις θεράπουσι πρὸς Θεοῦ τοῦτο κεχάρισται (κεχάρισται γὰρ, καὶ πιστεύομεν), ἀλλά γε τὸ διάφορον ἄπειρον δούλων Θεοῦ καὶ μητρός.",
+          "en": "<span class=\"sn\" data-s=\"163\">God grants it to all His servants, we know — but what an immense difference between His servants and His Mother!</span>"
+        },
+        {
+          "gr": "Τί τοίνυν τὸ περὶ σὲ τοῦτο μυστήριον ὀνομάσομεν; θάνατον;",
+          "en": "<span class=\"sn\" data-s=\"164\">What, then, shall we call this mystery of yours?</span> <span class=\"sn\" data-s=\"165\">Death?</span>"
+        },
+        {
+          "gr": "Ἀλλ᾽ εἰ καὶ φυσικῶς ἡ πανίερος καὶ μακαρία σου ψυχὴ τοῦ πανολβίου καὶ ἀκηράτου σου χωρίζεται σώματος, καὶ τὸ σῶμα τῇ νομίμῳ ταφῇ παραδίδοται, ὅμως οὐκ ἐναπομένει ἐν τῷ θανάτῳ, οὐδ᾽ ὑπὸ τῆς φθορᾶς διαλύεται.",
+          "en": "<span class=\"sn\" data-s=\"166\">Your blessed soul is separated, yes, in the course of nature, from your glorious and undefiled body; the body is given over to the grave — and yet it does not remain in death, and corruption never touches it.</span>"
+        },
+        {
+          "gr": "Ἧς γὰρ τικτούσης ἀλώβητος ἡ παρθενία μεμένηκε, ταύτης μεθισταμένης ἀδιάλυτον τὸ σῶμα πεφύλακται, καὶ πρὸς κρείττονα καὶ θειοτέραν σκηνὴν μετατίθεται, οὐ διακοπτομένην θανάτῳ, ἀλλ᾽ εἰς ἀπεράντους αἰῶνας αἰώνων διαιωνίζουσαν.",
+          "en": "<span class=\"sn\" data-s=\"167\">The body of her whose virginity stayed unstained in childbirth was kept incorrupt in death, and was taken away to a better and more divine place, where there is no death, only eternal life.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ οὗτος ὁ ὁλολαμπὴς καὶ ἀείφωτος ἥλιος ὑπὸ τοῦ σεληνιακοῦ πρὸς μικρὸν κρυπτόμενος σώματος, δοκεῖ μέν πως ἐκλιμπάνειν, καὶ τῷ ζόφῳ καλύπτεσθαι, καὶ τῆς αἴγλης ἀντιλαμβάνειν τὸ σκότος, ὅμως αὐτὸς τοῦ οἰκείου φωτὸς οὐκ ἐξίσταται. Ἔχει δὲ ἐν ἑαυτῷ πηγὴν φωτὸς ἀένναον βρύουσαν, μᾶλλον δὲ αὐτὸς πηγὴ φωτὸς ὑπάρχει ἀνέκλειπτος, ὡς ὁ κτίσας αὐτὸν Θεὸς διετάξατο.",
+          "en": "<span class=\"sn\" data-s=\"168\">When the brilliant sun is hidden for a moment behind the moon, it still shows through, though covered; its rays light up the darkness, because light belongs to its very essence — it carries in itself a perpetual spring of light, or rather it is a spring of light, as God made it.</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ σὺ ἡ πηγὴ τοῦ ἀληθινοῦ φωτὸς ἡ ἀέναος, ὁ ἀδάπανος τῆς αὐτοζωῆς θησαυρὸς, ἡ δαψιλὴς τῆς εὐλογίας ἀνάβλυσις, ἡ πάντων τῶν ἀγαθῶν ἡμῖν αἰτία καὶ πρόξενος, εἰ καὶ πρός τι χρονικὸν διάστημα καλύπτῃ σωματικῶς τῷ θανάτῳ, ἀλλὰ βρύεις ἀφθόνως ἡμῖν φωτὸς ἀπειρεσίου, καὶ ἀμβροσίας ζωῆς, καὶ τῆς ὄντως μακαριότητος ἀνελλιπῆ, καὶ καθαρὰ, καὶ ἀδαπάνητα νάματα, ποταμοὺς χάριτος, ἰαμάτων πηγὰς, εὐλογίαν ἀένναον.",
+          "en": "<span class=\"sn\" data-s=\"169\">So you too: even if for a little while you are hidden by the death of the body, you remain — without needing to speak — our light; our life-giving nourishment; our true happiness; a sea of grace; a fountain of healing and of unending blessing.</span>"
+        },
+        {
+          "gr": "Σὺ γὰρ ὡς μῆλον ἐν τοῖς ξύλοις τοῦ δρυμοῦ ἐξήνθησας, καὶ ὁ καρπός σου γλυκασμὸς ἐν λάρυγγι τῶν πιστῶν.",
+          "en": "<span class=\"sn\" data-s=\"170\">You are like a fruitful tree in the forest, and your fruit is sweet in the mouth of the faithful [Song of Songs 2:3].</span>"
+        },
+        {
+          "gr": "Ἐντεῦθεν οὐ θάνατον τὴν ἱεράν σου μετάστασιν λέξομαι, ἀλλὰ κοίμησιν, ἢ ἐκδημίαν, ἢ ἐνδημίαν εἰπεῖν οἰκειότερον. Ἐκδημοῦσα γὰρ τῶν τοῦ σώματος, ἐνδημεῖς πρὸς τὰ κρείττονα.",
+          "en": "<span class=\"sn\" data-s=\"171\">Therefore I will not call your sacred passing a death, but a falling asleep, a going home — and “going home” is the truest word: for laying aside the things of the body, you have gone home to a better dwelling.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Her soul ascends to heaven",
+      "heading_sentence_index": 172,
+      "pairs": [
+        {
+          "gr": "ιαʹ. Σὲ συνεπόρθμευσαν σὺν ἀρχαγγέλοις ἄγγελοι.",
+          "en": "<span class=\"sn\" data-s=\"173\">Angels and archangels carry you up.</span>"
+        },
+        {
+          "gr": "Σοῦ τὴν ἔξοδον ἔφριξαν τὰ ἀκάθαρτα καὶ ἐναέρια πνεύματα.",
+          "en": "<span class=\"sn\" data-s=\"174\">The unclean spirits of the air tremble as you pass.</span>"
+        },
+        {
+          "gr": "Σοῦ τῇ διαβάσει εὐλογεῖται μὲν ἀὴρ, αἰθὴρ δὲ καθαγιάζεται.",
+          "en": "<span class=\"sn\" data-s=\"175\">The very air is blessed by your ascent, and the atmosphere purified.</span>"
+        },
+        {
+          "gr": "Σοῦ τὴν ψυχὴν χαίρων οὐρανὸς ὑποδέχεται.",
+          "en": "<span class=\"sn\" data-s=\"176\">Heaven receives your soul with joy.</span>"
+        },
+        {
+          "gr": "Σοὶ μεθ᾽ ἱερῶν ὕμνων καὶ φαιδρᾶς τελετῆς προσυπαντῶσι δυνάμεις, μονονουχὶ λέγουσαι· Τίς αὕτη ἡ ἀναβαίνουσα λελευκανθισμένη, ἐκκύπτουσα ὡσεὶ ὄρθρος; καλὴ ὡς σελήνη, ἐκλεκτὴ ὡς ὁ ἥλιος.",
+          "en": "<span class=\"sn\" data-s=\"177\">The powers of heaven greet you with sacred hymns and glad celebration, saying: *“Who is this who comes up shining like the dawn, beautiful as the moon, bright as the sun?”* [Song of Songs 6:10].</span>"
+        },
+        {
+          "gr": "Ὡς ὡραιώθης, ὡς ἡδύνθης· σὺ ἄνθος τοῦ πεδίου, ὡς κρίνον ἐν μέσῳ ἀκανθῶν· διὰ τοῦτο νεάνιδες ἠγάπησάν σε.",
+          "en": "<span class=\"sn\" data-s=\"178\">How sweet and lovely you are — the lily of the field, the rose among thorns;</span> <span class=\"sn\" data-s=\"179\">*“therefore the young maidens loved you; we run after the fragrance of your perfumes; the King has brought you into His chamber”* [Song of Songs 1:3-4; 2:1-2].</span>"
+        },
+        {
+          "gr": "Εἰς ὀσμὴν μύρων σου δραμούμεθα.",
+          "en": "<span class=\"sn\" data-s=\"180\">There the Powers protect you, the Principalities praise you, the Thrones proclaim you; the Cherubim fall silent for joy, and the Seraphim magnify you — the true Mother, by nature and by grace, of their own Lord.</span>"
+        },
+        {
+          "gr": "Εἰσήνεγκέ σε ὁ βασιλεὺς εἰς τὸ ταμιεῖον αὐτοῦ, ἔνθα ἐξουσίαι δορυφοροῦσιν, ἀρχαὶ εὐλογοῦσι, θρόνοι ἀνυμνοῦσι, τὰ Χερουβὶμ ἐκπλήττεται χαίροντα, δοξάζει τὰ Σεραφὶμ τὴν τοῦ οἰκείου Δεσπότου φύσει καὶ ἀληθείᾳ οἰκονομίᾳ χρηματίσασαν μητέρα. Οὐ γὰρ ὡς ὁ Ἠλίας ὡς εἰς τὸν οὐρανὸν ἐλήλυθας· οὐχ ὡς ὁ Παῦλος ἕως τρίτου διεβιβάσθης οὐρανοῦ,",
+          "en": "<span class=\"sn\" data-s=\"181\">You were not simply carried into heaven, as the prophet Elijah was [2 Kings 2:11]; you did not merely reach the third heaven, like Paul [2 Corinthians 12:2].</span>"
+        },
+        {
+          "gr": "ἀλλ᾽ ἕως αὐτοῦ τοῦ βασιλικοῦ θρόνου τοῦ Υἱοῦ σου ἔφθασας, αὐτόπτως ὁρῶσα, καὶ χαίρουσα, καὶ σὺν πολλῇ καὶ ἀφάτῳ τῇ παῤῥησίᾳ παρεστῶσα,",
+          "en": "<span class=\"sn\" data-s=\"182\">You went all the way to the royal throne of your Son Himself — seeing it with your own eyes, standing beside it in joy and in a closeness beyond all telling.</span>"
+        },
+        {
+          "gr": "ἀγγέλοις θυμηδία ἀπόῤῥητος, καὶ πάσαις ταῖς ὑπερκοσμίοις δυνάμεσι, πατριάρχαις εὐφροσύνη ἄληκτος, δικαίοις χαρὰ ἀνεκλάλητος, προφήταις διηνεκὴς ἀγαλλίασις,",
+          "en": "<span class=\"sn\" data-s=\"183\">O gladness of angels and of all the powers of heaven!</span> <span class=\"sn\" data-s=\"184\">Sweetness of patriarchs and of the just, unending exultation of prophets!</span>"
+        },
+        {
+          "gr": "κόσμον εὐλογοῦσα, τὰ σύμπαντα ἁγιάζουσα, τοῖς κάμνουσιν ἄνεσις, τοῖς πενθοῦσι παράκλησις, τοῖς νοσοῦσιν ἴασις, τοῖς χειμαζομένοις λιμὴν, ἁμαρτάνουσιν ἄφεσις, τοῖς λυπουμένοις εὐμενὲς παραμύθιον, πᾶσι τοῖς αἰτοῦσιν ἑτοίμη βοήθεια.",
+          "en": "<span class=\"sn\" data-s=\"185\">You gladden the world and sanctify all things.</span> <span class=\"sn\" data-s=\"186\">You are rest for the weary, comfort for the sorrowful, forgiveness for sinners, health for the sick, harbour for the storm-tossed, enduring strength for mourners, and ever-ready help for all who call on you.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The burial and the empty tomb",
+      "heading_sentence_index": 187,
+      "pairs": [
+        {
+          "gr": "ιβʹ. Ὢ θαύματος ὄντως ὑπερφυοῦς· ὢ πραγμάτων ἐκπλήξεως.",
+          "en": "<span class=\"sn\" data-s=\"188\">O wonder above nature — a wonder that creates wonder!</span>"
+        },
+        {
+          "gr": "Ὁ πάλαι βδελυκτὸς καὶ μισούμενος θάνατος, καὶ εὐφημεῖται καὶ μακαρίζεται.",
+          "en": "<span class=\"sn\" data-s=\"189\">Death, which of old was feared and hated, is now praised and blessed.</span>"
+        },
+        {
+          "gr": "Ὁ πάλαι πένθους καὶ κατηφείας, δακρύων τε καὶ σκυθρωπότητος πρόξενος, νῦν χαρᾶς ἀναδέδεικται καὶ πανηγύρεως αἴτιος.",
+          "en": "<span class=\"sn\" data-s=\"190\">Of old it meant grief, dejection, tears and sadness; now it is revealed as joy and celebration.</span>"
+        },
+        {
+          "gr": "Ὅμως εἰ καὶ πᾶσι τοῖς τοῦ Θεοῦ θεράπουσιν, ὧν ὁ θάνατος μακαρίζεται, ἐκ τοῦ τέλους τὸ ἀσφαλὲς περιγίνεται τῆς πρὸς Θεὸν εὐαρεστήσεως, καὶ τούτου χάριν ὁ θάνατος αὐτῶν μακαρίζεται· τελειοῖ γὰρ αὐτοὺς, καὶ μακαρίους δείκνυσι, τὸ ἄτρεπτον τῆς ἀρετῆς χαριζόμενος, κατὰ τὸ φάσκον λόγιον· Μὴ μακάριζε ἄνδρα πρὸ τελευτῆς αὐτοῦ· ἀλλ᾽ οὐκ ἐπὶ σοὶ τοῦτο ληψόμεθα.",
+          "en": "<span class=\"sn\" data-s=\"191\">With all God's servants whose deaths we honour, it is their holy end that lets us infer God's favour towards them — that is why their death is called blessed: it shows them finished and complete, proven blessed and now unshakeable in goodness, as the proverb says: *“Call no man happy before his death”* [Sirach 11:28].</span> <span class=\"sn\" data-s=\"192\">But to you we will not apply that saying.</span>"
+        },
+        {
+          "gr": "Σὸς γὰρ μακαρισμὸς, οὐχ ὁ θάνατος· οὐδὲ ἡ μετάστασις τελείωσις γέγονεν, οὐδ᾽ αὖ πάλιν ἡ ἐκδημία χαρίζεται τὴν ἀσφάλειαν.",
+          "en": "<span class=\"sn\" data-s=\"193\">Your blessedness was not death; your dying was not your completion; your departure was not what made you secure.</span>"
+        },
+        {
+          "gr": "Πάντων γὰρ σοὶ τῶν ὑπὲρ νοῦν ἀγαθῶν ἀρχὴ, καὶ μεσότης, καὶ τέλος, ἀσφάλειά τε καὶ ἀληθὴς βεβαίωσις, ἡ ἄσπορος σύλληψις, ἡ θεία ἐνοίκησις, ὁ τόκος ὁ ἄφθορος γέγονεν.",
+          "en": "<span class=\"sn\" data-s=\"194\">For you, the beginning and middle and end of every good thing beyond the mind's grasp — your security, your true and unassailable safety — was your Son: His conception in you, His divine dwelling within you.</span>"
+        },
+        {
+          "gr": "Ὅθεν ἀληθῶς ἔφησας, οὐκ ἀπὸ τοῦ θανάτου, ἀλλ᾽ ἐξ αὐτῆς τῆς συλλήψεως ὑπὸ πασῶν τῶν γενεῶν μακαρίζεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"195\">That is why your own words were true: it was not from your death, but from the very moment of His conception, that you said *“all generations shall call me blessed”* [Luke 1:48].</span>"
+        },
+        {
+          "gr": "Ἐντεῦθεν οὐ σὲ ὁ θάνατος ἐμακάρισεν, ἀλλ᾽ αὐτὴ τὸν θάνατον κατηγλάϊσας, τὴν τούτου κατήφειαν λύσασα, καὶ χαρὰν τὸν θάνατον δείξασα.",
+          "en": "<span class=\"sn\" data-s=\"196\">It was you who broke the power of death — you paid its penalty and made it gentle.</span>"
+        },
+        {
+          "gr": "Ὅθεν σου τὸ ἱερὸν καὶ πανάμωμον σῶμα ὁσίᾳ ταφῇ παρεδίδοτο, προτρεχόντων ἀγγέλων, περικυκλούντων, ἑπομένων, μηδὲν ὅ τι μὴ πραττόντων ὧν εἰκὸς τῇ μητρὶ τοῦ ἑαυτῶν λειτουργῆσαι Δεσπότου· ἀποστόλων, καὶ παντὸς τοῦ τῆς Ἐκκλησίας πληρώματος θεηγορικοὺς ὕμνους ἐκβοώντων, καὶ κροτουμένων τῷ πνεύματι· Πλησθησόμεθα ἐν τοῖς ἀγαθοῖς τοῦ οἴκου σου· ἅγιος ὁ ναός σου, θαυμαστὸς ἐν δικαιοσύνῃ. Καὶ πάλιν· Ἡγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος. Ὄρος τοῦ Θεοῦ, ὄρος πῖον· τὸ ὄρος ὃ εὐδόκησεν ὁ Θεὸς κατοικεῖν ἐν αὐτῷ.",
+          "en": "<span class=\"sn\" data-s=\"197\">And so, when your holy and sinless body was carried to the tomb, choirs of angels bore it and hovered all around it, leaving nothing undone to honour the Lord's Mother; while the apostles and the whole assembly of the Church burst into prophetic song: *“We shall be filled with the good things of Your house; holy is Your temple, wonderful in righteousness”* [Psalm 65:4], and again: *“The Most High has sanctified His tabernacle”* [Psalm 46:4];</span> <span class=\"sn\" data-s=\"198\">*“the mountain of God is a rich mountain, the mountain where God was pleased to dwell”* [Psalm 68:15-16].</span>"
+        },
+        {
+          "gr": "Σὲ τῶν ἀποστόλων ὁ δῆμος τὴν ἀληθῆ κιβωτὸν Κυρίου τοῦ Θεοῦ ἐπὶ τῶν ὤμων ἀράμενοι, ὡς πάλαι ποτὲ οἱ ἱερεῖς τὴν τυπικὴν κιβωτὸν, καὶ ἐν τάφῳ θέμενοι, δι᾽ αὐτοῦ, ὡς δι᾽ Ἰορδάνου τινὸς, ἐπὶ τὴν ἀληθῆ τῆς ἐπαγγελίας παρέπεμπον γῆν, τὴν ἄνω φημὶ Ἱερουσαλὴμ, τὴν πάντων τῶν πιστῶν μητέρα, ἧς τεχνίτης καὶ δημιουργὸς ὁ Θεός.",
+          "en": "<span class=\"sn\" data-s=\"199\">The band of apostles lifted you — the true Ark of the Lord God — on their shoulders, as the priests of old lifted the ark that was only a symbol, and laid your body in the tomb; and the tomb became, as it were, another Jordan river: the crossing-point into the true promised land, the heavenly Jerusalem, the mother of all the faithful, whose Lord and builder is God.</span>"
+        },
+        {
+          "gr": "Οὐ κατελήλυθε γὰρ ἡ ψυχή σου εἰς τὸν ᾅδην, ἀλλ᾽ οὐδὲ ἡ σάρξ σου εἶδε διαφθοράν.",
+          "en": "<span class=\"sn\" data-s=\"200\">Your soul did not go down into the dark realm of the dead, and your flesh never saw corruption.</span>"
+        },
+        {
+          "gr": "Οὐκ ἀπελείφθη ἐν γῇ τὸ σὸν ἄχραντον καὶ πανακήρατον σῶμα, ἀλλ᾽ ἐν οὐρανῶν βασιλείοις μοναῖς ἡ βασιλὶς, ἡ κυρία, ἡ δέσποινα, ἡ Θεομήτωρ, ἡ ἀληθὴς Θεοτόκος μετατέθειται.",
+          "en": "<span class=\"sn\" data-s=\"201\">Your pure and spotless body was not left in the earth: the Queen, the true Mother of God, was settled in the courts of the kingdom of heaven, and nowhere else.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Wider than the heavens",
+      "heading_sentence_index": 202,
+      "pairs": [
+        {
+          "gr": "ιγʹ. Ὢ πῶς οὐρανὸς ὑπεδέξατο τὴν πλατυτέραν οὐρανῶν χρηματίσασαν; πῶς δὲ τάφος τὸ τοῦ Θεοῦ δοχεῖον ἐδέξατο;",
+          "en": "<span class=\"sn\" data-s=\"203\">But how did heaven receive her who is wider than heaven?</span> <span class=\"sn\" data-s=\"204\">And how did she who had contained God go down into a grave?</span>"
+        },
+        {
+          "gr": "Ναὶ ἐδέξατο, ναὶ κεχώρηκεν.",
+          "en": "<span class=\"sn\" data-s=\"205\">Both truly happened: the tomb really held her.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ σωματικοῖς ὄγκοις οὐρανοῦ πλατύτερον ἐγένετο. Πῶς γὰρ τὸ τρίπηχυ, τὸ ἀεὶ λεπτυνόμενον, εὔρεσί τε καὶ μήκεσιν οὐρανοῦ παραβληθῆναι δυνήσεται;",
+          "en": "<span class=\"sn\" data-s=\"206\">It was not by the size of her body that she outstripped heaven — for how could a body of five feet, one growing thinner all the time, be compared with the vastness of the sky?</span>"
+        },
+        {
+          "gr": "τῇ δὲ χάριτι μᾶλλον παντὸς ὕψους καὶ βάθους τὸ μέτρον ὑπερηκόντισε. Τὸ γὰρ θεῖον ἀσύγκριτον.",
+          "en": "<span class=\"sn\" data-s=\"207\">It was by grace that she surpassed all height and depth, for the divine cannot be compared with anything.</span>"
+        },
+        {
+          "gr": "Ὢ ἱεροῦ, καὶ θαυμαστοῦ, καὶ σεβασμίου, καὶ προσκυνητοῦ μνήματος· ὃ καὶ νῦν περιέπουσιν ἄγγελοι, αἰδοῖ καὶ φόβῳ πολλῷ παριστάμενοι· φρίττουσι δαίμονες· πίστει προστρέχουσιν ἄνθρωποι, τιμῶντες, προσκυνοῦντες, ὀφθαλμοῖς, καὶ χείλεσι, καὶ πόθῳ ψυχῆς ἀσπαζόμενοι, καὶ ἀφθονίαν ἀγαθῶν ἀρυόμενοι.",
+          "en": "<span class=\"sn\" data-s=\"208\">O sacred and marvellous body, holy and worthy of all reverence — waited on even now by angels who stand by it in lowly attendance!</span> <span class=\"sn\" data-s=\"209\">Demons tremble before it; men approach it with faith — honouring it, venerating it, greeting it with eyes and lips — and drawing down on themselves abundant blessings.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ εἴ τις μύρον πολυτελὲς τοῖς ἱματίοις ἢ τόπῳ τινὶ ἐναπόθοιτο, εἶτα ἀφέλοιτο, ἐναπομένει τῆς εὐωδίας τὰ λείψανα καὶ μετὰ τὴν τοῦ μύρου ἀφαίρεσιν· οὕτω καὶ νῦν τὸ θεῖον σῶμα, καὶ ἱερὸν, καὶ πανάμωμον, καὶ τῆς θείας εὐωδίας ἀνάπλεον, ἡ ἄφθονος κρήνη τῆς χάριτος, ἐν τῷ τάφῳ τεθὲν, εἶτα πάλιν ἁρπασθὲν πρὸς κρείττονα χῶρον καὶ ὑψηλότερον, οὐκ ἀφῆκε τὸν τάφον ἀγέραστον, ἀλλὰ μεταδίδωσι μὲν τῆς θείας εὐωδίας καὶ χάριτος, πηγὴν δὲ τῶν ἰαμάτων καὶ πάντων τῶν ἀγαθῶν τοῖς πίστει προσιοῦσι τὸ μνῆμα κατέλιπε.",
+          "en": "<span class=\"sn\" data-s=\"210\">For just as a rich perfume sprinkled on clothing or on a place leaves its fragrance behind even after it is taken away, so that holy, undefiled and divine body, filled with heavenly fragrance, the rich spring of grace, was laid in a tomb only so that it might be taken up to a higher and better place.</span> <span class=\"sn\" data-s=\"211\">And she did not leave the grave empty of honour: her body gave the tomb itself a share of divine fragrance — it became a source of healing and of every good thing, for all who approach it with faith.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Our thank-offering",
+      "heading_sentence_index": 212,
+      "pairs": [
+        {
+          "gr": "ιδʹ. Σοὶ καὶ ἡμεῖς προσκαθήμεθα σήμερον, ὦ Δέσποινα, καὶ πάλιν ἐρῶ, Δέσποινα, Θεοτόκε ἀπειρόγαμε, τὰς ἑαυτῶν ψυχὰς τῆς σῆς ἐλπίδος ἐφάψαντες, ὥσπερ ἔκ τινος ἰσχυροτάτης καὶ ἀῤῥαγεστάτης ἀγκύρας, νοῦν, ψυχὴν, σῶμα, ὅλους ἑαυτοὺς σοὶ ἀναθέμενοι, ψαλμοῖς καὶ ὕμνοις, καὶ ᾠδαῖς πνευματικαῖς γεραίροντες, ὅσον ἐφικτόν· τὸ γὰρ πρὸς ἀξίαν ἀνέφικτον.",
+          "en": "<span class=\"sn\" data-s=\"213\">We too draw near to you today, O Queen — Queen, I say again, Virgin Mother of God — steadying our souls on our trust in you as on a strong anchor.</span> <span class=\"sn\" data-s=\"214\">Lifting up to you our minds, our souls, our bodies — our whole selves — delighting in psalms and hymns and spiritual songs [Ephesians 5:19], through you we reach Him whom His majesty sets beyond our reach.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ, ὡς ὁ λόγος ὁ ἱερὸς ἡμᾶς ἐξεπαίδευσεν, ἡ περὶ τοὺς ὁμοδούλους τιμὴ ἀπόδειξιν ἔχει τῆς πρὸς τὸν κοινὸν Δεσπότην εὐνοίας, ἡ περὶ σὲ τὴν τεκοῦσαν τὸν Δεσπότην σου τιμὴ, πῶς παρορατέα;",
+          "en": "<span class=\"sn\" data-s=\"215\">For if honour shown to fellow-servants is proof of good will towards our common Master — as the Word of God made flesh Himself taught us — how could the honour we show to you, His own Mother, be brushed aside?</span>"
+        },
+        {
+          "gr": "πῶς δὲ οὐ περισπούδαστος;",
+          "en": "<span class=\"sn\" data-s=\"216\">How would it not be worth pursuing with all our strength?</span>"
+        },
+        {
+          "gr": "πῶς δὲ οὐκ αὐτῆς τῆς ἀναγκαίας προτιμωμένη πνοῆς, καὶ τῆς ζωῆς πρόξενος;",
+          "en": "<span class=\"sn\" data-s=\"217\">Are you not honoured as the very breath of our life?</span>"
+        },
+        {
+          "gr": "οὕτω γὰρ ἂν μᾶλλον τὴν πρὸς τὸν οἰκεῖον Δεσπότην παραστήσαιμεν εὔνοιαν.",
+          "en": "<span class=\"sn\" data-s=\"218\">This is how we shall best show our devotion to the Lord Himself.</span>"
+        },
+        {
+          "gr": "Τί γὰρ πρὸς τὸν Δεσπότην φημί;",
+          "en": "<span class=\"sn\" data-s=\"219\">But what am I saying — “to the Lord”?</span>"
+        },
+        {
+          "gr": "αὔταρκες γὰρ ὄντως τοῖς εὐλαβῶς μεμνημένοις σου τῆς μνήμης τὸ τιμαλφέστατον δώρημα· χαρᾶς γὰρ ἀναφαιρέτου ὑπόθεσις γίνεται.",
+          "en": "<span class=\"sn\" data-s=\"220\">For those who cherish your memory it is enough that it is itself the most precious of gifts: the cause of a joy no one can take away.</span>"
+        },
+        {
+          "gr": "Ποίας γὰρ οὐκ ἐμπίμπλαται εὐφροσύνης, ποίων ἀγαθῶν, ὁ ταμιεῖον τῆς πανάγνου σου μνήμης τὴν ἑαυτοῦ ποιησάμενος διάνοιαν;",
+          "en": "<span class=\"sn\" data-s=\"221\">What gladness it fills us with!</span> <span class=\"sn\" data-s=\"222\">What riches the mind gains that dwells on this holy treasury of grace!</span>"
+        },
+        {
+          "gr": "Οὗτός σοι παρ᾽ ἡμῶν χαριστήριος, τῶν ἡμετέρων λόγων ἀπαρχὴ, τῆς πτωχῆς ἡμῶν διανοίας τὸ ἀκροθίνιον, τῷ περὶ σὲ κινηθείσης πόθῳ, καὶ τὴν οἰκείαν ἐκλελησμένης ἀσθένειαν.",
+          "en": "<span class=\"sn\" data-s=\"223\">Accept, then, this our thank-offering — the first-fruits of our words, the best tribute my poor mind can pay — a tribute moved by longing for you, even while I am full of my own misery.</span>"
+        },
+        {
+          "gr": "Ἀλλ᾽ εὐμενῶς δέχοιο τὸν πόθον, εἰδυῖα τὴν δύναμιν ὑπερβάλλοντα.",
+          "en": "<span class=\"sn\" data-s=\"224\">Receive my desire with favour, knowing that it reaches beyond my power.</span>"
+        },
+        {
+          "gr": "Σὺ δὲ ἐποπτεύοις ἡμᾶς, ἀγαθὴ Δέσποινα, ἀγαθοῦ Δεσπότου λοχεύτρια,",
+          "en": "<span class=\"sn\" data-s=\"225\">Watch over us, O Queen, dwelling-place of our Lord.</span>"
+        },
+        {
+          "gr": "ἄγοις τε καὶ φέροις τὰ καθ᾽ ἡμᾶς ὅπου βούλοιο,",
+          "en": "<span class=\"sn\" data-s=\"226\">Lead us and guide us wherever you will.</span>"
+        },
+        {
+          "gr": "καὶ τὰς ὁρμὰς τῶν αἰσχίστων ἡμῶν παθῶν στήσειας,",
+          "en": "<span class=\"sn\" data-s=\"227\">Save us from our sins.</span>"
+        },
+        {
+          "gr": "καὶ πρὸς τὸν τοῦ θείου θελήματος ἀχείμαστον λιμένα καθοδηγοῦσα,",
+          "en": "<span class=\"sn\" data-s=\"228\">Bring us into the calm harbour of God's will.</span>"
+        },
+        {
+          "gr": "καὶ τῆς μελλούσης μακαριότητος καταξιώσειας, τῆς γλυκείας τε καὶ αὐτοπροσώπου ἐλλάμψεως, τοῦ ἐκ σοῦ σαρκωθέντος Θεοῦ Λόγου.",
+          "en": "<span class=\"sn\" data-s=\"229\">Make us worthy of the happiness to come, of the sweet, face-to-face vision of the Word made flesh through you.</span>"
+        },
+        {
+          "gr": "Μεθ᾽ οὗ τῷ Πατρὶ δόξα, τιμὴ, κράτος, μεγαλωσύνη τε καὶ μεγαλοπρέπεια, σὺν τῷ παναγίῳ καὶ ἀγαθῷ, καὶ ζωοποιῷ αὐτοῦ Πνεύματι, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+          "en": "<span class=\"sn\" data-s=\"230\">With Him be glory, praise, power and majesty to the Father and to the holy and life-giving Spirit, now and for ever and to the endless ages of ages.</span>"
+        },
+        {
+          "gr": "Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"231\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tikhon-sent-letter-38",
+  "slug": "tikhon-sent-letter-38",
+  "title": "Letter 38 — Now Is the Time of Patience",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 38,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 79,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 38 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "38"
+  ],
+  "sections": [
+    {
+      "heading": "Patience for a season",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">*“Brethren and sisters in Christ!”*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">Now is the time of patience.</span> <span class=\"sn\" data-s=\"3\">Therefore let us be patient now.</span> <span class=\"sn\" data-s=\"4\">There will be a time of consolation, and then we shall be comforted abundantly.</span> <span class=\"sn\" data-s=\"5\">The Lord will comfort us, *as one whom his mother comforteth* [Isaiah 66:13].</span> <span class=\"sn\" data-s=\"6\">Then the mouths of the blasphemers shall be stopped, and shame shall cover them.</span> <span class=\"sn\" data-s=\"7\">The Lord grant that He convert them and make them our friends.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">Your brother in Christ and partaker in sorrow, Tikhon.</span>"
+        }
+      ]
+    }
+  ]
+}

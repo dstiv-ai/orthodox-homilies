@@ -1,0 +1,19 @@
+{
+  "ref": "Jude 11-25",
+  "book": "Jude",
+  "from": [
+    1,
+    11
+  ],
+  "to": [
+    1,
+    25
+  ],
+  "slug": "jude-11-25",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse book/range from 'Jude 11-25'"
+}

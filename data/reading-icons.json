@@ -1,0 +1,29 @@
+{
+  "books": {
+    "Matt": "assets/christ-medallion.jpg",
+    "Mark": "assets/christ-medallion.jpg",
+    "Luke": "assets/christ-medallion.jpg",
+    "John": "assets/christ-medallion.jpg",
+    "Rom": "assets/icons/apostle-paul.jpg",
+    "1Cor": "assets/icons/apostle-paul.jpg",
+    "2Cor": "assets/icons/apostle-paul.jpg",
+    "Gal": "assets/icons/apostle-paul.jpg",
+    "Eph": "assets/icons/apostle-paul.jpg",
+    "Php": "assets/icons/apostle-paul.jpg",
+    "Col": "assets/icons/apostle-paul.jpg",
+    "1Th": "assets/icons/apostle-paul.jpg",
+    "2Th": "assets/icons/apostle-paul.jpg",
+    "1Tim": "assets/icons/apostle-paul.jpg",
+    "2Tim": "assets/icons/apostle-paul.jpg",
+    "Titus": "assets/icons/apostle-paul.jpg",
+    "Phlm": "assets/icons/apostle-paul.jpg",
+    "Heb": "assets/icons/apostle-paul.jpg",
+    "1Pet": "assets/icons/apostle-peter.jpg",
+    "2Pet": "assets/icons/apostle-peter.jpg",
+    "Acts": "assets/icons/synaxis-of-the-apostles.jpg"
+  },
+  "ot_books": {
+    "Exodus": "assets/icons/prophet-moses.jpg",
+    "Kings": "assets/icons/prophet-elijah.jpg"
+  }
+}

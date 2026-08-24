@@ -1,0 +1,52 @@
+{
+  "ref": "Romans 15:30-33",
+  "book": "Rom",
+  "from": [
+    15,
+    30
+  ],
+  "to": [
+    15,
+    33
+  ],
+  "slug": "romans-15-30-33",
+  "greek": [
+    {
+      "v": "15:30",
+      "text": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ, καὶ διὰ τῆς ἀγάπης τοῦ πνεύματος, συναγωνίσασθαί μοι ἐν ταῖς προσευχαῖς ὑπὲρ ἐμοῦ πρὸς τὸν θεόν·"
+    },
+    {
+      "v": "15:31",
+      "text": "ἵνα ῥυσθῶ ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ, καὶ ἵνα ἡ διακονία μου ἡ εἰς Ἱερουσαλὴμ εὐπρόσδεκτος γένηται τοῖς ἁγίοις·"
+    },
+    {
+      "v": "15:32",
+      "text": "ἵνα ἐν χαρᾷ ἔλθω πρὸς ὑμᾶς διὰ θελήματος θεοῦ, καὶ συναναπαύσωμαι ὑμῖν."
+    },
+    {
+      "v": "15:33",
+      "text": "Ὁ δὲ θεὸς τῆς εἰρήνης μετὰ πάντων ὑμῶν. Ἀμήν."
+    }
+  ],
+  "english": [
+    {
+      "v": "15:30",
+      "text": "Brothers and sisters, I beg you, by our Lord Jesus Christ and by the love of the Spirit: wrestle alongside me in your prayers to God for me —"
+    },
+    {
+      "v": "15:31",
+      "text": "that I may be rescued from those in Judea who refuse to believe, and that my service for Jerusalem may prove welcome to the saints,"
+    },
+    {
+      "v": "15:32",
+      "text": "so that, by God's will, I may come to you with joy and be refreshed together with you."
+    },
+    {
+      "v": "15:33",
+      "text": "May the God of peace be with you all. Amen."
+    }
+  ],
+  "greek_source": "content/2026-08-08/readings.md",
+  "english_source": "content/2026-08-08/readings.md",
+  "status": "complete"
+}

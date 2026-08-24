@@ -1,0 +1,338 @@
+{
+  "id": "homily-58-matthew",
+  "slug": "homily-58-matthew",
+  "title": "Homily 58 on Matthew",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 58 on Matthew",
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "christ-gospel",
+  "scripture": [
+    "Matthew 17:22-18:6"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 5096,
+  "reading_minutes": 25,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "matthew"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ ΝΗʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**Matthew 17:22-23.**</span>"
+        },
+        {
+          "gr": "Ἀναστρεφομένων δὲ αὐτῶν ἐν τῇ Γαλιλαίᾳ, εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μέλλει ὁ Υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι εἰς χεῖρας ἀνθρώπων, καὶ ἀποκτε νοῦσιν αὐτὸν, καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται. Καὶ ἐλυπήθησαν σφόδρα. αʹ.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“And while they abode in Galilee, Jesus said unto them, The Son of Man shall be betrayed into the hands of men, and they shall kill Him, and the third day He shall be raised again.*</span> <span class=\"sn\" data-s=\"3\">*And they were exceeding sorry.”*</span>"
+        },
+        {
+          "gr": "Ἵνα γὰρ μὴ λέγωσι, Τίνος ἕνεκεν ἐνταῦθα διατρίβομεν διηνεκῶς; πάλιν περὶ τοῦ πάθους αὐτοῖς φησιν· ὅπερ ἀκούοντες οὐδὲ ἰδεῖν ἐβούλοντο τὰ Ἱεροσόλυμα. Ὅρα γοῦν πῶς καὶ τοῦ Πέτρου ἐπιτιμηθέντος, καὶ τῶν περὶ Μωϋσέα καὶ Ἠλίαν περὶ αὐτοῦ διαλεχθέντων, καὶ δόξαν τὸ πρᾶγμα καλεσάντων, καὶ τοῦ Πατρὸς ἄνωθεν φωνὴν ἀφέντος, καὶ σημείων τοσούτων γενομένων, καὶ τῆς ἀναστάσεως ἐπὶ θύραις οὔσης· (οὐδὲ γὰρ πολὺν ἔφησε χρόνον ἐν τῷ θανάτῳ μένειν, ἀλλὰ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεσθαι·) οὐδὲ οὕτως ἀνήνεγκαν, ἀλλ' Ἐλυπήθησαν· καὶ οὐδὲ ἁπλῶς, ἀλλὰ Σφόδρα.",
+          "en": "<span class=\"sn\" data-s=\"4\">He speaks to them again about the Passion in order to keep them from saying, “Why do we stay here continually?” — for when they heard about it, they had no wish even to see Jerusalem.</span> <span class=\"sn\" data-s=\"5\">And it is remarkable: Peter had been rebuked;</span> <span class=\"sn\" data-s=\"6\">Moses and Elijah had spoken with Him about it and called the thing glory; the Father had uttered His voice from above; so many miracles had been done; and the resurrection was at the doors — for He said He would by no means remain in death for long, but would be raised on the third day.</span> <span class=\"sn\" data-s=\"7\">Yet not even so could they bear it; they were sorry — and not merely sorry, but *exceeding* sorry.</span>"
+        },
+        {
+          "gr": "Ἐγένετο δὲ τοῦτο διὰ τὸ ἀγνοεῖν ἔτι τῶν λεγομένων τὴν δύναμιν. Ὅπερ ὁ Μάρκος καὶ ὁ Λουκᾶς αἰνιττόμενοι ἔλεγον· ὁ μὲν, ὅτι Ἠγνόουν τὸ ῥῆμα, καὶ ἐφοβοῦντο αὐτὸν ἐρωτῆσαι· ὁ δὲ, ὅτι Ἦν παρακεκαλυμμένον ἀπ' αὐτῶν, ἵνα μὴ αἴσθωνται, καὶ ἐφοβοῦντο αὐτὸν ἐρωτῆσαι περὶ τοῦ ῥήματος.",
+          "en": "<span class=\"sn\" data-s=\"8\">This came from their not yet understanding the force of His words.</span> <span class=\"sn\" data-s=\"9\">Mark and Luke hint at this when one says, “They did not understand the saying, and were afraid to ask Him,” and the other, “It was hidden from them, so that they did not perceive it, and they were afraid to ask Him about this saying.”</span>"
+        },
+        {
+          "gr": "Καὶ μὴν εἰ ἠγνόουν, πῶς ἐλυπήθησαν; Ὅτι οὐ πάντα ἠγνόουν· ἀλλ' ὅτι μὲν ἀποθανεῖται ᾔδεσαν, συνεχῶς ἀκούοντες· ὅ τί ποτε δὲ ἦν οὗτος ὁ θάνατος, καὶ ὅτι ταχέως λυθήσεται, καὶ μυρία ἐργάσεται ἀγαθὰ, τοῦτο οὐδέπω ᾔδεσαν σαφῶς· οὐδὲ ὅ τί ποτέ ἐστιν αὕτη ἡ ἀνάστασις· ἀλλ' ἠγνόουν· διὸ ἤλγουν· καὶ γὰρ σφόδρα ἀντείχοντο τοῦ ∆ιδασκάλου.",
+          "en": "<span class=\"sn\" data-s=\"10\">And yet, if they did not understand, how could they be sorry?</span> <span class=\"sn\" data-s=\"11\">Because they were not entirely ignorant.</span> <span class=\"sn\" data-s=\"12\">That He was going to die they knew, hearing it constantly; but what this death would be, and that there would be a swift release from it, and that it would accomplish countless blessings — this they did not yet know clearly, nor what this resurrection would be.</span> <span class=\"sn\" data-s=\"13\">They did not understand, and so they grieved; for indeed they clung to their Master with great intensity.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The temple tax collectors come to Peter",
+      "heading_sentence_index": 14,
+      "pairs": [
+        {
+          "gr": "Ἐλθόντων δὲ αὐτῶν εἰς Καπερναοὺμ, προσῆλθον οἱ τὰ δίδραχμα λαμβάνοντες τῷ Πέτρῳ, καὶ εἶπον· Ὁ ∆ιδάσκαλος ὑμῶν οὐ τελεῖ τὰ δίδραχμα;",
+          "en": "<span class=\"sn\" data-s=\"15\">“And when they had come to Capernaum, those who collected the didrachma came to Peter and said, 'Does your Master not pay the didrachma?'”</span>"
+        },
+        {
+          "gr": "Καὶ τίνα ἐστὶ ταῦτα τὰ δίδραχμα; Ὅτε τὰ πρωτότοκα τῶν Αἰγυπτίων ἀπέκτεινεν ὁ Θεὸς, τότε τὴν Λευῒ φυλὴν ἀντ' αὐτῶν ἔλαβεν. Εἶτα ἐπειδὴ τῶν παρὰ Ἰουδαίοις πρωτοτόκων ἐλάττων ὁ τῆς φυλῆς ἀριθμὸς ἦν, ἀντὶ τῶν λειπόντων εἰς τὸν ἀριθμὸν σίκλον ἐκέλευσεν εἰσενεχθῆναι· καὶ ἄλλως δὲ ἐξ ἐκείνου ἔθος ἐκράτησε, τὰ πρωτότοκα τὸν φόρον τοῦτον εἰσφέρειν.",
+          "en": "<span class=\"sn\" data-s=\"16\">And what is this “didrachma”?</span> <span class=\"sn\" data-s=\"17\">When God struck down the firstborn of the Egyptians, He took the tribe of Levi in their place.</span> <span class=\"sn\" data-s=\"18\">Then, because the number of the tribe fell short of the number of the firstborn among the Jews, He commanded a shekel to be paid for those needed to make up the count; and from this a custom also took hold, that the firstborn should pay this tribute.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ οὖν πρωτότοκος ἦν ὁ Χριστὸς, ἐδόκει δὲ τῶν μαθητῶν πρῶτος εἶναι ὁ Πέτρος, αὐτῷ προσέρχονται. Καὶ γὰρ, ὡς ἔμοιγε δοκεῖ, κατὰ πόλιν ἑκάστην ἀπῄτουν· διὸ καὶ ἐν τῇ πατρίδι προσῆλθον αὐτῷ, ἐπειδὴ πατρὶς αὐτοῦ ἐνομίζετο ἡ Καπερ ναούμ.",
+          "en": "<span class=\"sn\" data-s=\"19\">So because Christ was a firstborn child, and Peter seemed to be the first of the disciples, it is to him that they come.</span> <span class=\"sn\" data-s=\"20\">Their practice, I suppose, was to collect it in every city — which is why they approached Him in His own town, for Capernaum was reckoned His hometown.</span>"
+        },
+        {
+          "gr": "Καὶ αὐτῷ μὲν οὐκ ἐτόλμησαν προσελθεῖν, τῷ Πέτρῳ δέ· καὶ οὐδὲ τούτῳ μετὰ πολλῆς τῆς σφοδρότητος, ἀλλ' ἐπιεικέστερον. Οὐδὲ γὰρ ἐγκαλοῦντες, ἀλλ' ἐρωτῶντες ἔλεγον· Ὁ ∆ιδάσκαλος ὑμῶν οὐ τελεῖ τὰ δίδραχμα; Τὴν μὲν γὰρ προσήκουσαν περὶ αὐτοῦ δόξαν οὐδέπω εἶχον, ἀλλ' ὡς περὶ ἀνθρώπου οὕτω διέκειντο· πλὴν ἀπένεμόν τινα αἰδῶ καὶ τιμὴν, διὰ τὰ προλαβόντα σημεῖα.",
+          "en": "<span class=\"sn\" data-s=\"21\">They did not dare approach Him, but Peter; and not even Peter with much force, but rather gently.</span> <span class=\"sn\" data-s=\"22\">For they spoke not as though blaming, but as though inquiring: “Does your Master not pay the didrachma?”</span> <span class=\"sn\" data-s=\"23\">They did not yet hold the right opinion of Him — they regarded Him as a mere man — yet they showed Him some reverence and honor because of the signs that had gone before.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Of whom do the kings of the earth take tribute?\"",
+      "heading_sentence_index": 24,
+      "pairs": [
+        {
+          "gr": "Τί οὖν ὁ Πέτρος; Ναὶ, φησί· καὶ τούτοις μὲν εἶπεν, ὅτι τελεῖ· αὐτῷ δὲ οὐκ εἶπεν, ἴσως ἐρυθριῶν ὑπὲρ τούτων αὐτῷ διαλεχθῆναι. ∆ιὸ ὁ ἥμερος καὶ πάντα σαφῶς εἰδὼς, προλαβὼν αὐτόν φησι· Τί σοι δοκεῖ, Σίμων; οἱ βασιλεῖς τῆς γῆς ἀπὸ τίνων λαμβάνουσι τέλη ἢ κῆνσον; ἀπὸ τῶν υἱῶν αὐτῶν, ἢ ἀπὸ τῶν ἀλλοτρίων; Εἰπόντος δὲ, Ἀπὸ τῶν ἀλλοτρίων, ἔφη· Ἄραγε ἐλεύθεροί εἰσιν οἱ υἱοί.",
+          "en": "<span class=\"sn\" data-s=\"25\">What then does Peter say?</span> <span class=\"sn\" data-s=\"26\">“He says, 'Yes.'”</span> <span class=\"sn\" data-s=\"27\">To them he said that He pays, but to Him he did not say it — perhaps blushing to speak to Him about such things.</span> <span class=\"sn\" data-s=\"28\">That gentle one, then, knowing all things well, spoke first, before Peter could: “What do you think, Simon?</span> <span class=\"sn\" data-s=\"29\">From whom do the kings of the earth take custom or tribute — from their own sons, or from strangers?”</span> <span class=\"sn\" data-s=\"30\">And when Peter said, “From strangers,” He replied, “Then the sons are free.”</span>"
+        },
+        {
+          "gr": "Ἵνα γὰρ μὴ νομίσῃ ὁ Πέτρος, ὅτι παρ' ἐκείνων ἀκηκοὼς λέγει, προλαμβάνει αὐτὸν, τοῦτό τε αὐτὸ δηλῶν, καὶ παῤῥησίαν αὐτῷ παρέχων ὀκνοῦντι προτέρῳ περὶ τούτων εἰπεῖν.",
+          "en": "<span class=\"sn\" data-s=\"31\">He speaks first so that Peter will not suppose He is saying this because the others told Him; partly showing that He knows what was said, partly giving Peter leave to speak freely, hesitant as he was to raise these matters himself.</span>"
+        },
+        {
+          "gr": "Ὃ δὲ λέγει, τοιοῦτόν ἐστιν· Ἐλεύθερος μέν εἰμι τοῦ δοῦναι κῆνσον. Εἰ γὰρ οἱ τῆς γῆς βασιλεῖς παρὰ τῶν υἱῶν αὐτῶν οὐ λαμβάνουσιν, ἀλλὰ παρὰ τῶν ἀρχομένων· πολλῷ μᾶλλον ἐμὲ ἀπηλλάχθαι δεῖ τῆς ἀπαιτήσεως ταύτης, οὐκ ἐπιγείου βασιλέως, ἀλλὰ τοῦ τῶν οὐρανῶν ὄντα με Υἱὸν, καὶ βασιλέα. Ὁρᾷς πῶς διέστειλε τοὺς υἱοὺς, καὶ τοὺς οὐχ υἱούς; Εἰ δὲ οὐκ ἦν Υἱὸς, εἰκῆ καὶ τὸ ὑπόδειγμα παρήγαγε τῶν βασιλέων. Ναὶ, φησὶν, Υἱὸς, ἀλλ' οὐ γνήσιος. Οὐκοῦν οὐχ Υἱός· εἰ δὲ οὐχ Υἱὸς, οὐδὲ γνήσιος, οὐδὲ αὐτοῦ, ἀλλ' ἀλλότριος. Εἰ δὲ ἀλλότριος, οὐδὲ τὸ παράδειγμα ἔχει τὴν οἰκείαν ἰσχύν. Αὐτὸς γὰρ οὐ περὶ τῶν υἱῶν ἁπλῶς, ἀλλὰ περὶ τῶν γνησίων διαλέγεται, καὶ ἰδίων, καὶ τῶν κοινωνούντων τοῖς γεγεννηκόσι τῆς βασιλείας.",
+          "en": "<span class=\"sn\" data-s=\"32\">What He says amounts to this: “I am indeed free from paying tribute.</span> <span class=\"sn\" data-s=\"33\">For if the kings of the earth do not collect it from their sons but from their subjects, how much more ought I to be exempt from this demand — I who am Son not of an earthly king but of the King of heaven, and am myself a King.”</span> <span class=\"sn\" data-s=\"34\">Do you see how He has distinguished the sons from those who are not sons?</span> <span class=\"sn\" data-s=\"35\">If He were not a Son, His bringing in the example of the kings would be pointless.</span> <span class=\"sn\" data-s=\"36\">“Yes,” someone may say, “He is a Son, but not truly begotten.”</span> <span class=\"sn\" data-s=\"37\">Then He is not a Son at all; and if He is neither a Son nor truly begotten, then He does not belong to God either, but to some other.</span> <span class=\"sn\" data-s=\"38\">But if He belongs to another, then the comparison loses its proper force.</span> <span class=\"sn\" data-s=\"39\">For He is not speaking of sons in general, but of genuine sons, men's very own — of those who share the kingdom with their parents.</span>"
+        },
+        {
+          "gr": "∆ιὸ καὶ πρὸς ἀντιδιαστολὴν ἔθηκε τοὺς ἀλλοτρίους, ἀλλοτρίους καλῶν τοὺς οὐκ ἐξ αὐτῶν γεννηθέντας· τοὺς δὲ αὐτῶν, οὓς ἐξ ἑαυτῶν γεγεννήκασι.",
+          "en": "<span class=\"sn\" data-s=\"40\">That is why, by way of contrast, He mentioned the “strangers”: by “strangers” meaning those not born of them, and by “their own,” those whom they have begotten of themselves.</span>"
+        },
+        {
+          "gr": "Σὺ δέ μοι σκόπει κἀκεῖνο, πῶς τὴν ἀποκαλυφθεῖσαν τῷ Πέτρῳ γνῶσιν καὶ ἐντεῦθεν βεβαιοῖ. Καὶ οὐδὲ ἐνταῦθα ἔστη, ἀλλὰ καὶ διὰ τῆς συγκαταβάσεως τὸ αὐτὸ τοῦτο δηλοῖ, ὅπερ πολλῆς ἦν σοφίας.",
+          "en": "<span class=\"sn\" data-s=\"41\">And I want you to notice this too: how by this very act He confirms once more the lofty doctrine that had been revealed to Peter.</span> <span class=\"sn\" data-s=\"42\">Nor did He stop there, but by His very condescension He declares this same truth — an instance of surpassing wisdom.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The coin in the fish's mouth",
+      "heading_sentence_index": 43,
+      "pairs": [
+        {
+          "gr": "Καὶ γὰρ ταῦτα εἰπὼν, φησίν· Ἵνα δὲ μὴ σκανδαλίσωμεν αὐτοὺς, πορευθεὶς βάλε ἄγκιστρον εἰς τὴν θάλασσαν, καὶ τὸν ἀναβάντα πρῶτον ἰχθὺν ἆρον, καὶ εὑρήσεις ἐν αὐτῷ στατῆρα· ἐκεῖνον λαβὼν, δὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ.",
+          "en": "<span class=\"sn\" data-s=\"44\">For after speaking in this way, He says: “But lest we offend them, go to the sea, cast in a hook, and take the first fish that comes up; and when you open its mouth you will find a piece of money.</span> <span class=\"sn\" data-s=\"45\">Take that and give it to them for Me and for you.”</span>"
+        },
+        {
+          "gr": "Ὅρα πῶς οὔτε παραιτεῖται τὸν φόρον, οὔτε ἁπλῶς κελεύει δοῦναι, ἀλλὰ πρότερον δείξας οὐκ ὄντα ὑπεύθυνον, τότε δίδωσι· τὸ μὲν, ἵνα μὴ ἐκεῖνοι σκανδαλισθῶσι· τὸ δὲ, ἵνα μὴ οὗτοι. Οὐδὲ γὰρ ὡς ὀφείλων δίδωσιν, ἀλλ' ὡς τὴν ἐκείνων ἀσθένειαν διορθούμενος. βʹ. Ἀλλαχοῦ μέντοι καταφρονεῖ τοῦ σκανδάλου, ὅτε περὶ βρωμάτων διελέγετο· διδάσκων ἡμᾶς εἰδέναι καιροὺς καθ' οὓς δεῖ φροντίζειν τῶν σκανδαλιζομένων, καὶ καθ' οὓς δεῖ καταφρονεῖν.",
+          "en": "<span class=\"sn\" data-s=\"46\">See how He neither refuses the tribute nor simply commands that it be paid.</span> <span class=\"sn\" data-s=\"47\">Having first proved that He is not liable to it, He then pays it — the one, to spare the people; the other, to spare those around Him from offense.</span> <span class=\"sn\" data-s=\"48\">For He pays it not at all as a debt, but as doing what is best given their weakness.</span> <span class=\"sn\" data-s=\"49\">Elsewhere, however, He dismisses the offense — when He was teaching about foods, for instance — teaching us to recognize the seasons when we ought to consider those who are offended, and when to disregard them.</span>"
+        },
+        {
+          "gr": "Καὶ αὐτῷ δὲ τῷ τῆς δόσεως τρόπῳ δείκνυσιν ἑαυτὸν πάλιν. Τίνος γὰρ ἕνεκεν οὐκ ἐξ ἀποκειμένων κελεύει δοῦναι; Ἵν', ὅπερ ἔφην, καὶ ἐν τούτῳ δείξῃ Θεὸν ἑαυτὸν ὄντα τῶν ὅλων, καὶ ὅτι καὶ τῆς θαλάττης κρατεῖ. Ἔδειξε μὲν γὰρ καὶ ἤδη ἐπιτιμήσας, καὶ τὸν Πέτρον τοῦτον αὐτὸν κελεύσας ἐπιβῆναι τῶν κυμάτων· δείκνυσι δὲ καὶ νῦν τὸ αὐτὸ τοῦτο, ἑτέρῳ μὲν τρόπῳ, πολλὴν δὲ καὶ ἐν τούτῳ παρέχων τὴν ἔκπληξιν. Οὐδὲ γὰρ μικρὸν ἦν ἀπὸ τῶν βυθῶν ἐκείνων προειπεῖν, ὅτι καὶ πρῶτος ἐμπεσεῖται ὁ τὸν φόρον τελῶν ἰχθὺς, καὶ ὥσπερ ἀμφίβληστρον εἰς τὴν ἄβυσσον ἐκείνην ἀφέντα αὐτοῦ τὸ πρόσταγμα, ἀγαγεῖν τὸν κομίζοντα τὸν στατῆρα· ἀλλὰ θείας δυνάμεως καὶ ἀποῤῥήτου τὸ καὶ τὴν θάλατταν οὕτω ποιῆσαι δωροφορεῖν, καὶ πάντοθεν τὴν ὑποταγὴν αὐτῆς ἐπιδείκνυσθαι, καὶ ἡνίκα μαινομένη ἐσίγα, καὶ ὅτε τὸν σύνδουλον ἐδέχετο ἀγριαίνουσα, καὶ νῦν πάλιν, ὅτε πρὸς τοὺς ἀπαιτοῦντας ὑπὲρ αὐτοῦ διαλύεται.",
+          "en": "<span class=\"sn\" data-s=\"50\">And indeed, by the very manner of the payment He reveals Himself again.</span> <span class=\"sn\" data-s=\"51\">Why does He not command Peter to give from what they have stored up?</span> <span class=\"sn\" data-s=\"52\">So that, as I have said, in this too He might show Himself to be God of all, and the sea also to be under His rule.</span> <span class=\"sn\" data-s=\"53\">He had already shown this by His rebuke of the sea and by commanding this same Peter to walk on the waves; but now He shows the same thing again, in a different way, yet so as to cause great amazement.</span> <span class=\"sn\" data-s=\"54\">For it was no small thing to foretell that the first creature to come up out of those depths and meet him would be the fish that would pay the tribute — to cast His commandment like a net into that abyss and draw up the one carrying the coin.</span> <span class=\"sn\" data-s=\"55\">No, it belonged to a divine and unutterable power to make even the sea bring Him tribute, and to have its subjection to Him displayed on every side: both when in its madness it fell silent at His word, and when, fierce as it was, it received its fellow servant — and now again, when it makes payment on His behalf to those demanding it.</span>"
+        },
+        {
+          "gr": "Καὶ δὸς αὐτοῖς, φησὶν, ἀντὶ ἐμοῦ καὶ σοῦ. Εἶδες τὸ ὑπερβάλλον τῆς τιμῆς; Ἴδε καὶ τὸ φιλόσοφον τῆς Πέτρου γνώμης. Τοῦτο γὰρ οὐ φαίνεται Μάρκος, ὁ τούτου φοιτητὴς, γεγραφηκὼς τὸ κεφάλαιον, ἐπειδὴ πολλὴν ἐδείκνυ τὴν εἰς αὐτὸν τιμήν· ἀλλὰ τὴν μὲν ἄρνησιν καὶ αὐτὸς ἔγραψε, τὰ δὲ ποιοῦντα αὐτὸν λαμπρὸν ἀπεσίγησεν, ἴσως τοῦ ∆ιδασκάλου παραιτουμένου τὸ μεγάλα περὶ αὐτοῦ λέγειν. Ἀντὶ ἐμοῦ δὲ καὶ σοῦ, εἶπεν, ἐπειδὴ καὶ αὐτὸς πρωτότοκος ἦν.",
+          "en": "<span class=\"sn\" data-s=\"56\">“And give it to them,” He says, “for Me and for you.”</span> <span class=\"sn\" data-s=\"57\">Do you see the surpassing greatness of the honor?</span> <span class=\"sn\" data-s=\"58\">See also the self-command of Peter's mind.</span> <span class=\"sn\" data-s=\"59\">For Mark, this apostle's follower, does not appear to have recorded this point, because it indicated the great honor paid to him; yet while Mark wrote of the denial just as the others did, the things that make Peter illustrious he passed over in silence — his master perhaps having begged him not to mention the great things about himself.</span> <span class=\"sn\" data-s=\"60\">And He used the phrase “for Me and for you” because Peter too was a firstborn child.</span>"
+        },
+        {
+          "gr": "Ὥσπερ δὲ ἐξεπλάγης τοῦ Χριστοῦ τὴν δύναμιν, οὕτω θαύμασον καὶ τοῦ μαθητοῦ τὴν πίστιν, ὅτι πράγματι ἀπόρῳ οὕτως ὑπήκουσε. Καὶ γὰρ σφόδρα ἄπορον ἦν κατὰ τὴν φύσιν. ∆ιὸ καὶ τῆς πίστεως αὐτὸν ἀμειβόμενος, συνῆψεν ἑαυτῷ κατὰ τὴν τοῦ φόρου δόσιν.",
+          "en": "<span class=\"sn\" data-s=\"61\">Now, as you marvel at Christ's power, I bid you admire also the disciple's faith — that he so readily gave ear to a thing beyond possibility.</span> <span class=\"sn\" data-s=\"62\">For by nature it was far beyond possibility indeed.</span> <span class=\"sn\" data-s=\"63\">And so, in requital for his faith, He joined him to Himself in the payment of the tribute.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Who is the greatest in the kingdom of heaven?\"",
+      "heading_sentence_index": 64,
+      "pairs": [
+        {
+          "gr": "Ἐν ἐκείνῃ τῇ ὥρᾳ, προσῆλθον τῷ Ἰησοῦ οἱ μαθηταὶ λέγοντες· Τίς ἄρα μείζων ἐστὶν ἐν τῇ βασιλείᾳ τῶν οὐρανῶν;",
+          "en": "<span class=\"sn\" data-s=\"65\">“In that hour the disciples came to Jesus, saying, 'Who then is the greatest in the kingdom of heaven?'”</span>"
+        },
+        {
+          "gr": "Ἔπαθόν τι ἀνθρώπινον οἱ μαθηταί· διὸ καὶ ὁ εὐαγγελιστὴς ἐπισημαίνεται λέγων, ὅτι Ἐν ἐκείνῃ τῇ ὥρᾳ· ὅτε πάντων αὐτὸν προετίμησε. Καὶ γὰρ καὶ Ἰακώβου καὶ Ἰωάννου θάτερος πρωτότοκος ἦν, ἀλλ' οὐδὲν τοιοῦτον ὑπὲρ τούτων ἐποίησεν.",
+          "en": "<span class=\"sn\" data-s=\"66\">The disciples were experiencing some stirring of human weakness; that is why the evangelist adds this note, saying, “In that hour” — when He had singled Peter out above them all.</span> <span class=\"sn\" data-s=\"67\">For of James and John too, one was a firstborn son, yet He had done no such thing for them.</span>"
+        },
+        {
+          "gr": "Εἶτα αἰσχυνόμενοι τὸ πάθος ὁμολογῆσαι, ὅπερ ἔπαθον, φανερῶς μὲν οὐ λέγουσι, Τίνος ἕνεκεν τὸν Πέτρον ἡμῶν προετίμησας; καὶ, Εἰ μείζων ἡμῶν οὗτός ἐστιν; ᾐσχύνοντο γάρ· ἀδιορίστως δὲ ἐρωτῶσι· Τίς ἄρα μείζων ἐστίν; Ὅτε μὲν γὰρ τοὺς τρεῖς εἶδον προτιμωμένους, οὐδὲν τοιοῦτον ἔπαθον· ἐπειδὴ δὲ εἰς τὸν ἕνα περιέστη τὸ τῆς τιμῆς, τότε ἤλγησαν. Οὐ τοῦτο δὲ μόνον, ἀλλὰ καὶ ἕτερα πολλὰ συναγαγόντες, τὸ πάθος ἀνῆψαν. Καὶ γὰρ εἶπεν αὐτῷ· Σοὶ δώσω τὰς κλεῖς· καὶ, Μακάριος εἶ, Σίμων Βὰρ Ἰωνᾶ· καὶ ἐνταῦθα, ∆ὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ· καὶ τὴν ἄλλην δὲ παῤῥησίαν αὐτοῦ τὴν πολλὴν ὁρῶντες, παρεκνίζοντο.",
+          "en": "<span class=\"sn\" data-s=\"68\">Then, ashamed to admit their feeling, they do not say openly, “Why have You preferred Peter to us?” or, “Is he greater than we are?” — for they were ashamed.</span> <span class=\"sn\" data-s=\"69\">Instead they ask indefinitely, “Who then is greater?”</span> <span class=\"sn\" data-s=\"70\">For when they saw the three preferred, they felt nothing of the kind; but now that the honor had come around to one, they were stung.</span> <span class=\"sn\" data-s=\"71\">And not for this reason only — there were many other things they were putting together to kindle that feeling.</span> <span class=\"sn\" data-s=\"72\">To him He had said, “I will give you the keys”; to him, “Blessed are you, Simon Bar-Jonah”; to him here, “Give it to them for Me and for you”; and seeing too how freely he was generally allowed to speak, it somewhat galled them.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ ὁ Μάρκος φησὶν, ὅτι οὐκ ἠρώτησαν, ἀλλ' ἐν ἑαυτοῖς διελογίζοντο, οὐδὲν τοῦτο ἐναντίον ἐστὶν ἐκείνῳ. Εἰκὸς γὰρ αὐτοὺς κἀκεῖνο καὶ τοῦτο ποιῆσαι, καὶ πρότερον μὲν ἐν ἑτέρῳ καιρῷ τοῦτο παθεῖν, καὶ ἅπαξ καὶ δεύτερον, τότε δὲ καὶ ἐξειπεῖν, καὶ ἐν ἑαυτοῖς διαλογίσασθαι.",
+          "en": "<span class=\"sn\" data-s=\"73\">And if Mark says that they did not ask but were reasoning among themselves, there is nothing in that contrary to this account.</span> <span class=\"sn\" data-s=\"74\">It is likely that they did both: whereas before, on other occasions, they had felt this once and twice, now they both declared it and reasoned among themselves.</span>"
+        },
+        {
+          "gr": "Σὺ δέ μοι μὴ τὸ ἔγκλημα μόνον ἴδῃς, ἀλλὰ κἀκεῖνο λογίζου· πρῶτον μὲν, ὅτι οὐδὲν τῶν ἐνταῦθα ζητοῦσιν· ἔπειτα, ὅτι καὶ τοῦτο ὕστερον τὸ πάθος ἀπέθεντο, καὶ τῶν πρωτείων ἀλλήλοις παραχωροῦσιν. Ἡμεῖς δὲ οὐδὲ εἰς τὰ ἐλαττώματα αὐτῶν φθάσαι δυνάμεθα, οὐδὲ ζητοῦμεν τίς μείζων ἐν τῇ βασιλείᾳ τῶν οὐρανῶν, ἀλλὰ τίς μείζων ἐν τῇ βασιλείᾳ τῆς γῆς, τίς εὐπορώτερος, τίς δυνατώτερος.",
+          "en": "<span class=\"sn\" data-s=\"75\">But to you I say: do not look only at the charge against them; consider this as well — first, that they seek none of the things of this world; and second, that even this passion they afterward laid aside, yielding the first place to one another.</span> <span class=\"sn\" data-s=\"76\">We cannot attain even to their faults.</span> <span class=\"sn\" data-s=\"77\">We do not ask who is greatest in the kingdom of heaven, but who is greatest in the earthly kingdom — who is wealthiest, who most powerful.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "A little child set in their midst",
+      "heading_sentence_index": 78,
+      "pairs": [
+        {
+          "gr": "Τί οὖν ὁ Χριστός; Ἀνακαλύπτει αὐτῶν τὸ συνειδὸς, καὶ πρὸς τὸ πάθος ἀποκρίνεται, οὐχ ἁπλῶς πρὸς τὰ ῥήματα. Προσκαλεσάμενος γὰρ παιδίον, φησὶν, εἶπεν· Ἐὰν μὴ στραφῆτε, καὶ γένησθε ὡς τὸ παιδίον τοῦτο, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν. Ὑμεῖς μὲν γὰρ, φησὶν, ἐξετάζετε τίς μείζων, καὶ περὶ πρωτείων φιλονεικεῖτε· ἐγὼ δὲ τὸν μὴ πάντων ταπεινότερον γενόμενον οὐδὲ τῆς εἰσόδου τῆς ἐκεῖ ἄξιον εἶναί φημι.",
+          "en": "<span class=\"sn\" data-s=\"79\">What then does Christ say?</span> <span class=\"sn\" data-s=\"80\">He lays bare their conscience and answers their feeling, not merely their words.</span> <span class=\"sn\" data-s=\"81\">For “He called a little child to Him,” the Scripture says, “and set him in their midst,” and said, “Unless you are converted and become as this little child, you shall not enter the kingdom of heaven.”</span> <span class=\"sn\" data-s=\"82\">“Why,” He says, “do you ask who is greatest, and contend for the first honors?</span> <span class=\"sn\" data-s=\"83\">I pronounce the man who has not become lowest of all unworthy even to enter there.”</span>"
+        },
+        {
+          "gr": "Καὶ καλῶς καὶ τὸ ὑπόδειγμα παράγει· καὶ οὐ παράγει μόνον, ἀλλὰ καὶ τὸ παιδίον εἰς μέσον ἵστησι, καὶ ἀπὸ τῆς ὄψεως αὐτοὺς ἐντρέπων, καὶ πείθων εἶναι ταπεινοὺς οὕτω καὶ ἀπλάστους. Καὶ γὰρ φθόνου καθαρὸν τὸ παιδίον, καὶ κενοδοξίας, καὶ τοῦ τῶν πρωτείων ἐρᾷν· καὶ τὴν μεγίστην κέκτηται ἀρετὴν, τὴν ἀφέλειαν καὶ τὸ ἄπλαστον καὶ τάπεινον.",
+          "en": "<span class=\"sn\" data-s=\"84\">And He does very well both to cite that pattern and not merely to cite it, but to set the child in their very midst — putting them to shame by the sight itself, and persuading them to be lowly and artless in the same way.</span> <span class=\"sn\" data-s=\"85\">For the little child is pure of envy, of vainglory, and of longing for the first place; and he possesses the greatest of virtues — simplicity — and whatever is artless and lowly.</span>"
+        },
+        {
+          "gr": "Οὐκ ἄρα ἀνδρείας δεῖ μόνον, οὐδὲ φρονήσεως, ἀλλὰ καὶ ταύτης τῆς ἀρετῆς, τῆς ταπεινοφροσύνης λέγω καὶ τῆς ἀφελείας. Καὶ γὰρ καὶ ἐν τοῖς μεγίστοις χωλεύει τὰ τῆς σωτηρίας ἡμῶν, τούτων ἡμῖν οὐ παρουσῶν.",
+          "en": "<span class=\"sn\" data-s=\"86\">It is not only courage that is needed, then, nor wisdom, but this virtue also — humility, I mean, and simplicity.</span> <span class=\"sn\" data-s=\"87\">Indeed, the things that belong to our salvation limp even at their chief point if these are not present with us.</span>"
+        },
+        {
+          "gr": "Τὸ παιδίον κἂν ὑβρίζηται, κἂν τύπτηται, κἂν τιμᾶται, κἂν δοξάζηται, οὔτε ἐκεῖθεν δυσχεραίνει καὶ βασκαίνει, οὔτε ἐντεῦθεν ἐπαίρεται.",
+          "en": "<span class=\"sn\" data-s=\"88\">The little child, whether insulted and beaten or honored and glorified, is neither moved to impatience or envy by the one, nor lifted up by the other.</span>"
+        },
+        {
+          "gr": "γʹ. Εἶδες πῶς πάλιν ἡμᾶς πρὸς τὰ φυσικὰ κατορθώματα ἐκκαλεῖται, δεικνὺς ὅτι ἐκ προαιρέσεως ταῦτα κατορθοῦν δυνατὸν, καὶ τὴν πονηρὰν Μανιχαίων ἐπιστομίζει λύτταν; Εἰ γὰρ πονηρὸν ἡ φύσις, τίνος ἕνεκεν ἐκεῖθεν τῆς φιλοσοφίας τὰ παραδείγματα ἕλκει;",
+          "en": "<span class=\"sn\" data-s=\"89\">Do you see how again He calls us on to all the natural excellences, showing that it is possible to attain them by free choice — and so silences the wicked frenzy of the Manichaeans?</span> <span class=\"sn\" data-s=\"90\">For if nature were an evil thing, why does He draw from it His patterns of uncompromising goodness?</span>"
+        },
+        {
+          "gr": "Παιδίον δέ μοι δοκεῖ σφόδρα παιδίον ἐν τῷ μέσῳ στῆσαι, τῶν παθῶν ἁπάντων τούτων ἀπηλλαγμένον. Τὸ γὰρ τοιοῦτον παιδίον καὶ ἀπονοίας, καὶ δοξομανίας, καὶ βασκανίας, καὶ φιλονεικίας, καὶ πάντων τῶν τοιούτων ἀπήλλακται παθῶν, καὶ πολλὰς ἔχον τὰς ἀρετὰς, ἀφέλειαν, ταπεινοφροσύνην, ἀπραγμοσύνην, ἐπ' οὐδενὶ τούτων ἐπαίρεται· ὅπερ διπλῆς ἐστι φιλοσοφίας, τὸ κεκτῆσθαι ταῦτα, καὶ μὴ φυσᾶσθαι ἐπ' αὐτοῖς.",
+          "en": "<span class=\"sn\" data-s=\"91\">The child He set in the midst I take to have been a very young child indeed, free from all these passions.</span> <span class=\"sn\" data-s=\"92\">For such a little child is free from pride, from the mad desire for glory, from envy and contentiousness and all such passions; and having many virtues — simplicity, humility, unworldliness — he prides himself on none of them.</span> <span class=\"sn\" data-s=\"93\">And that is a twofold rigor of goodness: to have these things, and not to be puffed up about them.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Receiving the little ones in His name",
+      "heading_sentence_index": 94,
+      "pairs": [
+        {
+          "gr": "∆ιόπερ αὐτὸ παρήγαγε, καὶ ἔστησεν ἐν τῷ μέσῳ· καὶ οὐ μέχρι τούτου μόνον τὸν λόγον κατέκλεισεν, ἀλλὰ καὶ περαιτέρω προάγει τὴν παραίνεσιν ταύτην, λέγων· Καὶ ὃς ἐὰν δέξηται παιδίον τοιοῦτον ἐν τῷ ὀνόματί μου, ἐμὲ δέχεται.",
+          "en": "<span class=\"sn\" data-s=\"95\">That is why He brought the child in and set him in the midst; and He did not conclude His discourse at this point alone, but carries the admonition further, saying, “And whoever receives one such little child in My name receives Me.”</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ δὴ μόνον, φησὶν, ἐὰν αὐτοὶ τοιοῦτοι γένησθε, μισθὸν λήψεσθε μέγαν· ἀλλὰ κἂν ἑτέρους τοιούτους τιμήσητε δι' ἐμὲ, καὶ τῆς εἰς ἐκείνους τιμῆς βασιλείαν ὑμῖν ὁρίζω τὴν ἀμοιβήν. Μᾶλλον δὲ τὸ πολλῷ μεῖζον τίθησιν, Ἐμὲ δέχεται, λέγων. Οὕτω μοι σφόδρα ποθεινὸν τὸ ταπεινὸν καὶ ἄπλαστον. Παιδίον γὰρ ἐνταῦθα τοὺς ἀνθρώπους τοὺς οὕτως ἀφελεῖς φησι καὶ ταπεινοὺς, καὶ ἀπεῤῥιμμένους παρὰ τοῖς πολλοῖς, καὶ εὐκαταφρονήτους.",
+          "en": "<span class=\"sn\" data-s=\"96\">“Know,” He says, “that not only if you yourselves become like this will you receive a great reward, but also if for My sake you honor others who are such — even for your honor shown to them, I appoint a kingdom to you as your recompense.”</span> <span class=\"sn\" data-s=\"97\">Or rather, He states something far greater, saying, “he receives Me.”</span> <span class=\"sn\" data-s=\"98\">So exceedingly dear to Me is all that is lowly and artless.</span> <span class=\"sn\" data-s=\"99\">For by “a little child” here He means the people who are simple and lowly in this way — abject and contemptible in the judgment of the common crowd.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Better a millstone than to offend one little one",
+      "heading_sentence_index": 100,
+      "pairs": [
+        {
+          "gr": "Εἶτα εὐπαράδεκτον μειζόνως ποιῶν τὸν λόγον, οὐκ ἀπὸ τῆς τιμῆς μόνον, ἀλλὰ καὶ ἀπὸ τῆς κολάσεως αὐτὸν συνίστησιν, ἐπάγων καὶ λέγων· Καὶ ὃς ἐὰν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων, συμφέρει αὐτῷ, ἵνα κρεμασθῇ μύλος ὀνικὸς εἰς τὸν τράχηλον αὐτοῦ, καὶ καταποντισθῇ ἐν τῷ πελάγει τῆς θαλάσσης.",
+          "en": "<span class=\"sn\" data-s=\"101\">After this, to win yet more acceptance for His saying, He establishes it not by the honor alone but also by the punishment, going on to say: “And whoever offends one of these little ones, it would be better for him that a millstone were hung about his neck and that he were drowned in the depth of the sea.”</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ οἱ τούτους τιμῶντες, φησὶ, δι' ἐμὲ, τὸν οὐρανὸν ἔχουσι, μᾶλλον δὲ τῆς βασιλείας αὐτῆς μείζω τιμήν· οὕτω δὴ καὶ οἱ ἀτιμάζοντες (τοῦτο γάρ ἐστι τὸ σκανδαλίσαι) τὴν ἐσχάτην δώσουσι δίκην. Εἰ δὲ σκάνδαλον τὴν ὕβριν καλεῖ, μὴ θαυμάσῃς· πολλοὶ γὰρ τῶν μικροψύχων οὐχ ὡς ἔτυχεν ἐκ τοῦ παροφθῆναι καὶ καθυβρισθῆναι ἐσκανδαλίσθησαν. Ἐπαίρων τοίνυν καὶ αὔξων τὸ ἔγκλημα, τὴν ἐξ αὐτοῦ τίθησι βλάβην.",
+          "en": "<span class=\"sn\" data-s=\"102\">“For as those who honor these for My sake have heaven — or rather, an honor greater than the kingdom itself — even so those who dishonor them (for this is what it means to offend them) will suffer the extremity of punishment.”</span> <span class=\"sn\" data-s=\"103\">And do not marvel at His calling an affront an “offense”; many feeble-minded persons have suffered no slight offense from being treated with contempt and insult.</span> <span class=\"sn\" data-s=\"104\">So to heighten and aggravate the blame, He states the harm that arises from it.</span>"
+        },
+        {
+          "gr": "Καὶ οὐκέτι ἀπὸ τῶν αὐτῶν τὴν τιμωρίαν ἐμφαίνει, ἀλλ' ἀπὸ τῶν παρ' ἡμῖν γνωρίμων τὸ ἀφόρητον αὐτῆς ἐνδείκνυται. Ὅταν γὰρ μάλιστα καθάψασθαι βούληται τῶν παχυτέρων, αἰσθητὰ ἄγει παραδείγματα. ∆ιὸ καὶ ἐνταῦθα βουλόμενος δεῖξαι, ὅτι πολλὴν ὑποστήσονται τὴν τιμωρίαν, καὶ καθικέσθαι τῆς τῶν διαπτυόντων αὐτοὺς ἀπονοίας, αἰσθητήν τινα κόλασιν εἰς μέσον ἤγαγε, τὴν τοῦ μύλου καὶ τοῦ καταποντισμοῦ. Καίτοιγε ἀκόλουθον τῷ προτέρῳ ἦν εἰπεῖν· Ὁ μὴ δεχόμενος ἕνα τῶν μικρῶν τούτων, ἐμὲ οὐ δέχεται· ὃ πάσης κολάσεως πικρότερον ἦν· ἀλλ' ἐπειδὴ τῶν σφόδρα ἀναισθήτων καὶ παχυτάτων, καίτοι φοβερὸν ὂν τοῦτο οὐχ οὕτω καθικνεῖτο, τίθησι μύλον καὶ καταποντισμόν. Καὶ οὐκ εἶπεν, ὅτι μύλος κρεμασθήσεται εἰς τὸν τράχηλον αὐτοῦ· ἀλλὰ, Συμφέρει αὐτῷ τοῦτο ὑπομεῖναι, δεικνὺς ὅτι ἕτερον τούτου χαλεπώτερον αὐτὸν ἀναμένει κακόν· εἰ δὲ τοῦτο ἀφόρητον, πολλῶ μᾶλλον ἐκεῖνο.",
+          "en": "<span class=\"sn\" data-s=\"105\">And He does not go on to express the punishment in the same terms as before; instead, from things familiar to us, He indicates how intolerable it is.</span> <span class=\"sn\" data-s=\"106\">For when He wants to touch the duller sort most sharply, He brings in images the senses can grasp.</span> <span class=\"sn\" data-s=\"107\">Here too, then, meaning to show the greatness of the punishment they will undergo and to strike at the arrogance of those who despise them, He puts forward a kind of sensible punishment: the millstone and the drowning.</span> <span class=\"sn\" data-s=\"108\">Yet surely it would have suited what went before to say, “He who does not receive one of these little ones does not receive Me” — a thing more bitter than any punishment.</span> <span class=\"sn\" data-s=\"109\">But since the utterly unfeeling, the exceedingly gross, were not so penetrated by this, terrible as it is, He sets before them a millstone and a drowning.</span> <span class=\"sn\" data-s=\"110\">And He did not say, “A millstone shall be hung about his neck,” but, “It would be *better* for him to undergo this” — implying that another evil, more grievous than this, awaits him; and if this is unbearable, how much more that.</span>"
+        },
+        {
+          "gr": "Εἶδες πῶς ἑκα τέρωθεν φοβερὰν ἐποίησε τὴν ἀπειλὴν, τῇ μὲν τοῦ γνωρίμου παραδείγματος συγκρίσει σαφεστέραν αὐτὴν ποιῶν, τῇ δὲ ἐντεῦθεν ὑπεροχῇ πολλῷ μείζονα τῆς ὁρωμένης φαντάζεσθαι παρασκευάσας; Εἶδες πῶς πρόῤῥιζον ἀνέσπασε τῆς ἀπονοίας τὸ φρόνημα; πῶς ἰάσατο τῆς κενοδοξίας τὸ ἕλκος; πῶς ἐπαίδευσε μηδαμοῦ τῶν πρωτείων ἐρᾷν; πῶς ἔπεισε τοὺς ἐπιθυμοῦντας τῶν πρωτείων τὴν ἐσχάτην πανταχοῦ διώκειν τάξιν;",
+          "en": "<span class=\"sn\" data-s=\"111\">Do you see how in both respects He made His threat terrible: first by the comparison with the known image, rendering it more vivid, then by the excess on its side, presenting it to the imagination as far greater than the visible one?</span> <span class=\"sn\" data-s=\"112\">Do you see how He plucks up the spirit of arrogance by the root; how He heals the ulcer of vainglory; how He teaches us to set our heart on none of the first honors; how He persuades those who covet them to pursue the lowest place in everything?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The madness of arrogance and the vanity of noble birth",
+      "heading_sentence_index": 113,
+      "pairs": [
+        {
+          "gr": "Οὐδὲν γὰρ ἀπονοίας χεῖρον. Αὕτη καὶ τῶν κατὰ φύσιν ἐξίστησι φρενῶν, καὶ μωρῶν ἐπιτίθησι δόξαν· μᾶλλον δὲ καὶ σφόδρα ἀνοήτους εἶναι ποιεῖ.",
+          "en": "<span class=\"sn\" data-s=\"114\">For nothing is worse than arrogance.</span> <span class=\"sn\" data-s=\"115\">It even takes men out of their natural senses and stamps them with the character of fools — or rather, it truly makes them altogether like idiots.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ εἴ τις, τρίπηχυς ὢν, βιάζοιτο εἶναι τῶν ὀρῶν ὑψηλότερος, ἢ καὶ νομίζοι τοῦτο, καὶ ἀνατείνοι ἑαυτὸν ὡς ὑπερβαλλόμενος αὐτῶν τὰς κορυφὰς, οὐδὲν ἕτερον ζητήσομεν δεῖγμα ἀνοίας· οὕτω καὶ ὅταν ἄνθρωπον ἀπονενοημένον ἴδῃς, καὶ ἁπάντων βελτίονα ἑαυτὸν ἡγούμενον εἶναι, καὶ ὕβριν νομίζοντα τὸ μετὰ τῶν πολλῶν ζῇν, μὴ ζήτει λοιπὸν ἕτερον ἔλεγχον ἰδεῖν τῆς ἐκείνου παρανοίας. Τῶν γὰρ φύσει μωρῶν πολὺ καταγελαστότερος οὗτος, ὅσον καὶ ἑκὼν ταύτην δημιουργεῖ τὴν νόσον. Οὐ ταύτῃ δὲ μόνον ἄθλιος, ἀλλ' ὅτι καὶ ἀναλγήτως εἰς αὐτὸ τῆς κακίας ἐμπίπτει τὸ βάραθρον.",
+          "en": "<span class=\"sn\" data-s=\"116\">Just as, if a man three cubits tall were to strive to be higher than the mountains — or actually to think he was, drawing himself up as though overtopping their summits — we would need no other proof that he was out of his senses; so also, when you see a man who is arrogant, who thinks himself superior to all and counts it a degradation to live among other people, do not look for any further proof of that man's madness.</span> <span class=\"sn\" data-s=\"117\">Why, he is far more ridiculous than any natural fool, inasmuch as he deliberately creates this disease in himself.</span> <span class=\"sn\" data-s=\"118\">And he is wretched not only for this, but because, without feeling it, he falls into the very gulf of wickedness.</span>"
+        },
+        {
+          "gr": "Πότε γὰρ ὁ τοιοῦτος ἐπιγνώσεται ἁμαρτίαν ὡς χρή; πότε αἰσθήσεται πλημμελῶν; Καὶ γὰρ ὡς ἀνδράποδον κακὸν καὶ αἰχμάλωτον λαβὼν αὐτὸν ὁ διάβολος ἄπεισι, καὶ ἄγει καὶ φέρει, ῥαπίζων πάντοθεν καὶ μυρίαις περιβάλλων ὕβρεσιν.",
+          "en": "<span class=\"sn\" data-s=\"119\">For when will such a man come to a due knowledge of any sin?</span> <span class=\"sn\" data-s=\"120\">When will he perceive that he is offending?</span> <span class=\"sn\" data-s=\"121\">No — he is like a vile and captive slave whom the devil has caught and carries off, making him wholly his prey, buffeting him on every side and hemming him in with ten thousand insults.</span>"
+        },
+        {
+          "gr": "Εἰς τοσαύτην γὰρ αὐτοὺς ἄγει μωρίαν λοιπὸν, ὡς πείθειν καὶ κατὰ παίδων καὶ γυναικῶν μέγα φρονεῖν, καὶ κατὰ τῶν προγόνων τῶν οἰκείων. Ἑτέρους δὲ τοὐναντίον ἀπὸ τῆς τῶν προγόνων περιφανείας φυσᾶσθαι παρασκευάζει· οὗ τί γένοιτ' ἂν ἀνοητότερον, ὅταν ἀπὸ τῶν ἐναντίων ὁμοίως φλεγμαίνωσιν, οἱ μὲν ἐπειδὴ εὐτελεῖς ἔσχον πατέρας καὶ πάππους καὶ ἐπιπάππους, οἱ δὲ ἐπειδὴ λαμπροὺς καὶ περιφανεῖς; Πῶς οὖν ἄν τις ἑκατέρων ταπεινώσειε τὴν φλεγμονήν; Πρὸς μὲν ἐκείνους λέγων· Ἀνάβηθι περαιτέρω τῶν πάππων καὶ τῶν προπάππων, καὶ πολλοὺς ἴσως εὑρήσεις μαγείρους, καὶ ὀνηλάτας, καὶ καπήλους· πρὸς δὲ τούτους, τοὺς ἀπὸ τῆς εὐτελείας τῶν προγόνων φυσωμένους, τὸ ἐναντίον πάλιν, ὅτι Καὶ σὺ πάλιν ἀνωτέρω προελθὼν τῶν προγόνων, ὄψει πολλῷ σου λαμπροτέρους πολλούς.",
+          "en": "<span class=\"sn\" data-s=\"122\">For the devil leads them in the end into such great folly that he makes them haughty toward their children and wives and toward their own forefathers; and others, on the contrary, he causes to be puffed up by the distinction of their ancestors.</span> <span class=\"sn\" data-s=\"123\">Now what could be more foolish than this — people puffed up from opposite causes alike, one sort because they had mean persons for fathers, grandfathers, and ancestors, and the other because theirs were glorious and distinguished?</span> <span class=\"sn\" data-s=\"124\">How then can one reduce the swelling in each case?</span> <span class=\"sn\" data-s=\"125\">By saying to the latter: “Go back farther than your grandfather and your immediate ancestors, and you will perhaps find many cooks and donkey-drivers and shopkeepers.”</span> <span class=\"sn\" data-s=\"126\">And to the former, who are puffed up by the meanness of their forefathers, the opposite: “You too, if you go farther up among your forefathers, will find many far more illustrious than yourself.”</span>"
+        },
+        {
+          "gr": "δʹ. Ὅτι γὰρ τοῦτον ἔχει τὸν δρόμον ἡ φύσις, φέρε καὶ ἀπὸ τῶν Γραφῶν ὑμῖν ἀποδείξω· Ὁ Σολομῶν υἱὸς βασιλέως ἦν, καὶ βασιλέως λαμπροῦ· ἀλλ' ὁ τούτου πατὴρ τῶν εὐτελῶν καὶ ἀσήμων, καὶ ὁ πρὸς μητρὸς δὲ πάππος ὁμοίως· οὐδὲ γὰρ ἂν ψιλῷ στρατιώτῃ τὴν θυγατέρα ἐξέδωκεν. Εἰ δὲ ἀναβαίης ἀνωτέρω πάλιν ἀπὸ τῶν εὐτελῶν τούτων, λαμπρότερον ὄψει τὸ γένος καὶ βασιλικώτερον. Οὕτω καὶ ἐπὶ τοῦ Σαοὺλ, οὕτω καὶ ἐπὶ πολλῶν ἑτέρων εὕροι τις ἂν τοῦτο συμβαῖνον. Μὴ δὴ μέγα φρονῶμεν ἐντεῦθεν. Τί γάρ ἐστι γένος; εἰπέ μοι. Οὐδὲν, ἀλλ' ἢ ὄνομα μόνον πράγματος ἔρημον· καὶ τοῦτο εἴσεσθε κατὰ τὴν ἡμέραν ἐκείνην. Ἐπεὶ δὲ οὔπω πάρεστιν ἐκείνη, φέρε καὶ ἀπὸ τῶν παρόντων ὑμᾶς πείσωμεν, ὅτι οὐδεμία ἐντεῦθεν ὑπεροχή. Καὶ γὰρ κἂν πόλεμος καταλάβῃ, κἂν λιμὸς, κἂν ἕτερον ὁτιοῦν, πάντα ἐλέγχεται ταῦτα τὰ τῆς εὐγενείας φυσήματα· κἂν νόσος ἐπέλθῃ, κἂν λοιμὸς, οὐκ οἶδε διαγνῶναι τὸν πλούσιον καὶ τὸν πένητα, τὸν ἔνδοξον καὶ τὸν ἄδοξον, τὸν εὐγενῆ καὶ τὸν οὐ τοιοῦτον· οὔτε ὁ θάνατος, οὔτε αἱ λοιπαὶ τῶν πραγμάτων μεταβολαὶ, ἀλλ' ὁμοίως πᾶσι πάντα ἐπανίσταται· καὶ εἰ δεῖ τι καὶ θαυμαστὸν εἰπεῖν, τοῖς πλουτοῦσι μᾶλλον. Ὅσῳ γὰρ ἀμελέτητοι τούτων εἰσὶ, τοσούτῳ μᾶλλον ἁλόντες ἀπόλλυνται. Καὶ ὁ φόβος δὲ παρὰ τοῖς πλουτοῦσι μείζων. Καὶ γὰρ ἄρχοντας οὗτοι μάλιστα τρέμουσι, καὶ τοὺς δήμους τῶν ἀρχόντων οὐκ ἔλαττον, ἀλλὰ καὶ πολλῷ πλέον· πολλὰς γοῦν οἰκίας τοιαύτας ὁμοίως καὶ δήμων θυμὸς καὶ ἀρχόντων ἀνέτρεψεν ἀπειλή. Ὁ δὲ πένης ἑκατέρων τούτων τῶν κυμάτων ἀπήλλακται.",
+          "en": "<span class=\"sn\" data-s=\"127\">For that nature runs this course, come, let me prove it to you even from the Scriptures.</span> <span class=\"sn\" data-s=\"128\">Solomon was the son of a king, and of an illustrious king; but that king's father was one of the vile and ignoble.</span> <span class=\"sn\" data-s=\"129\">And his grandfather on his mother's side likewise — otherwise he would not have given his daughter to a mere soldier.</span> <span class=\"sn\" data-s=\"130\">And if you were to go up again higher from these mean persons, you would see the line grow more illustrious and royal.</span> <span class=\"sn\" data-s=\"131\">So it is with Saul too, and so with many others one comes to the same result.</span> <span class=\"sn\" data-s=\"132\">Let us not, then, pride ourselves on this.</span> <span class=\"sn\" data-s=\"133\">For what is birth?</span> <span class=\"sn\" data-s=\"134\">Tell me.</span> <span class=\"sn\" data-s=\"135\">Nothing but a bare name without substance — and you will know this on that day.</span> <span class=\"sn\" data-s=\"136\">But because that day has not yet come, let us now persuade you even from present things that no superiority arises from it.</span> <span class=\"sn\" data-s=\"137\">If war overtakes us, if famine, if anything else, all these inflated conceits of noble birth are put to the proof; if disease or pestilence comes upon us, it does not know how to distinguish between rich and poor, glorious and inglorious, high-born and low.</span> <span class=\"sn\" data-s=\"138\">Neither does death, nor the other reverses of fortune — they all rise up alike against all; and, if I may say something even more marvelous, against the rich more than the rest.</span> <span class=\"sn\" data-s=\"139\">For the less they are exercised in such things, the more they perish when overtaken by them.</span> <span class=\"sn\" data-s=\"140\">And the fear is greater for the rich as well: no one trembles before rulers as they do — and before the multitudes no less than before rulers, indeed much more.</span> <span class=\"sn\" data-s=\"141\">Many such houses have in fact been overthrown alike by the wrath of multitudes and the threats of rulers.</span> <span class=\"sn\" data-s=\"142\">But the poor man is exempt from both these troubled waters.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "True nobility: the freedom of the soul",
+      "heading_sentence_index": 143,
+      "pairs": [
+        {
+          "gr": "Ὥστε ταύτην ἀφεὶς τὴν εὐγένειαν, εἰ βούλει μοι δεῖξαι ὅτι εὐγενὴς εἶ, δεῖξον τῆς ψυχῆς τὴν ἐλευθερίαν, οἵαν εἶχεν ὁ μακάριος ἐκεῖνος, καὶ ταῦτα πένης ὢν, ὁ λέγων τῷ Ἡρώδῃ· Οὐκ ἔξεστί σοι ἔχειν τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ σου· οἵαν ἐκέκτητο ὁ πρὸ ἐκείνου τοιοῦτος καὶ μετ' ἐκεῖνον τοιοῦτος, ὁ λέγων τῷ Ἀχαάβ· Οὐ διαστρέφω ἐγὼ τὸν Ἰσραὴλ, ἀλλ' ἢ σὺ καὶ ὁ οἶκος τοῦ πατρός σου· οἵαν εἶχον οἱ προφῆται, οἵαν οἱ ἀπόστολοι πάντες.",
+          "en": "<span class=\"sn\" data-s=\"144\">So let this nobility go; and if you want to show me that you are noble, show me the freedom of your soul — such as that blessed man had (and he a poor man) who said to Herod, “It is not lawful for you to have your brother Philip's wife”; such as the man before him who was like him, and who after him will be so again — the one who said to Ahab, “It is not I who trouble Israel, but you and your father's house”; such as the prophets had, such as all the apostles.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐχ αἱ τῶν πλούτῳ δουλευόντων ψυχαὶ τοιαῦται, ἀλλ' ὥσπερ οἱ ὑπὸ μυρίους ὄντες παιδαγωγοὺς καὶ δημίους, οὕτως οὐδὲ ἐπᾶραι τὸ ὄμμα τολμῶσι, καὶ ὑπὲρ ἀρετῆς παῤῥησιάσασθαι. Ὁ γὰρ τῶν χρημάτων ἔρως, καὶ ὁ τῆς δόξης, καὶ ὁ τῶν ἄλλων πραγμάτων, φοβερὸν εἰς αὐτοὺς βλέποντες, δουλοπρεπεῖς ποιοῦσι καὶ κόλακας. Οὐδὲν γὰρ οὕτως ἐλευθερίαν ἀναιρεῖ, ὡς τὸ βιωτικοῖς ἐμπεπλέχθαι πράγμασι, καὶ τὰ δοκοῦντα εἶναι λαμπρὰ περιβεβλῆσθαι. Οὐδὲ γὰρ ἕνα δεσπότην καὶ δύο καὶ τρεῖς, ἀλλὰ μυρίους ὁ τοιοῦτος ἔχει.",
+          "en": "<span class=\"sn\" data-s=\"145\">But not like this are the souls of those enslaved to wealth.</span> <span class=\"sn\" data-s=\"146\">Like men under ten thousand tutors and taskmasters, they dare not so much as lift up their eyes and speak boldly on behalf of virtue.</span> <span class=\"sn\" data-s=\"147\">For the love of riches, and of glory, and of other things, glaring at them terribly, makes slavish flatterers of them.</span> <span class=\"sn\" data-s=\"148\">There is nothing that takes away liberty like entanglement in worldly affairs and the wearing of what are counted marks of distinction.</span> <span class=\"sn\" data-s=\"149\">For such a man has not one master, nor two, nor three, but ten thousand.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The courtier and his ten thousand masters",
+      "heading_sentence_index": 150,
+      "pairs": [
+        {
+          "gr": "Καὶ εἰ βούλεσθε καὶ ἀριθμῆσαι τούτους, παραγάγωμεν ἕνα τινὰ τῶν εὐδοκιμούντων ἐν βασιλείοις, καὶ ἔστω αὐτῷ καὶ χρήματα πάμπολλα, καὶ δυναστεία μεγάλη, καὶ πατρὶς ὑπερέχουσα, καὶ προγόνων περιφάνεια, καὶ ἀποβλεπέσθω παρὰ πάντων. Ἴδωμεν τοίνυν εἰ μὴ οὗτός ἐστιν ὁ πάντων δουλικώτερος· καὶ ἀντιστήσωμεν αὐτῷ, μὴ δοῦλον ἁπλῶς, ἀλλὰ δοῦλον δούλου· πολλοὶ γὰρ καὶ οἰκέται δούλους ἔχουσιν. Οὗτος μὲν οὖν ὁ δοῦλος τοῦ δούλου ἕνα ἔχει δεσπότην. Τί γὰρ, εἰ καὶ μὴ ἐλεύθερον; ἀλλ' ἕνα, καὶ πρὸς τὸ ἐκείνῳ δοκοῦν μόνον ὁρᾷ. Κἂν γὰρ ὁ τούτου δεσπότης αὐτοῦ δοκῇ κρατεῖν, ἀλλὰ τέως ἑνὶ μόνῳ πείθεται· κἂν τὰ πρὸς ἐκεῖνον αὐτῷ καλῶς ἔχῃ, ἐν ἀδείᾳ τὸν ἅπαντα καθεδεῖται βίον. Οὗτος δὲ οὐχ ἕνα καὶ δύο μόνον, ἀλλὰ πολλοὺς καὶ χαλεπωτέρους ἔχει δεσπότας. Καὶ πρῶτον αὐτὸν τὸν βασιλεύοντα μεριμνᾷ. Οὐκ ἔστι δὲ ἴσον εὐτελῆ δεσπότην ἔχειν, καὶ βασιλέα ὑπὸ πολλῶν τὰ ὦτα διαθρυλλούμενον, καὶ νῦν μὲν τούτων, νῦν δὲ ἐκείνων γινόμενον.",
+          "en": "<span class=\"sn\" data-s=\"151\">If you would like to count them, let us bring forward one of those honored in kings' courts: let him have very great wealth, great power, a birthplace surpassing others', distinction of ancestry, and let him be looked up to by all men.</span> <span class=\"sn\" data-s=\"152\">Now let us see whether this is not the very man who is more enslaved than all; and let us set beside him for comparison not merely a slave, but a slave's slave — for many, though servants, have slaves.</span> <span class=\"sn\" data-s=\"153\">This slave's slave, for his part, has but one master.</span> <span class=\"sn\" data-s=\"154\">And what if that one is not a freeman?</span> <span class=\"sn\" data-s=\"155\">Still, he is but one, and the slave looks only to his pleasure.</span> <span class=\"sn\" data-s=\"156\">For although his master's master may seem to have power over him, for the present he obeys one only; and if matters stand well between the two of them, he will live out his life in security.</span> <span class=\"sn\" data-s=\"157\">But our man has not one or two masters only, but many, and more grievous ones.</span> <span class=\"sn\" data-s=\"158\">First, he is anxious about the sovereign himself — and it is not the same to have a mean person for a master as to have a king, into whose ears many are buzzing, and who becomes the property now of this faction and now of that.</span>"
+        },
+        {
+          "gr": "Οὗτος κἂν μηδὲν ἑαυτῷ συνειδὼς ᾖ, πάντας ὑποπτεύει, καὶ τοὺς μετ' αὐτοῦ στρατευομένους, καὶ τοὺς ὑπ' αὐτῷ ταττομένους, καὶ τοὺς φίλους, καὶ τοὺς ἐχθρούς.",
+          "en": "<span class=\"sn\" data-s=\"159\">Our man, though conscious of no wrongdoing, suspects everyone: his comrades and his subordinates, his friends and his enemies alike.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ καὶ οὗτος, φησὶ, τὸν δεσπότην. Καὶ ποῦ ἴσον ἕνα καὶ πολλοὺς ἔχειν τοὺς δεδιττομένους αὐτόν; Μᾶλλον δὲ εἴ τις ἀκριβῶς ἐξετάσειεν, οὐδὲ ἕνα εὑρήσει. Πῶς καὶ τίνι τρόπῳ; Ἐκεῖνος μὲν οὐδένα ἔχει τὸν ἐπιθυμοῦντα αὐτὸν ἐκβαλεῖν τῆς δουλείας ταύτης, καὶ εἰσαγαγεῖν ἑαυτὸν, ὅθεν οὐδὲ τὸν ἐπιβουλεύοντα ἐν τούτοις ἔχει· οὗτοι δὲ οὐδὲ ἑτέραν σπουδὴν ἔχουσιν, ἀλλ' ἢ τὸ διασαλεῦσαι τὸν εὐδοκιμώτερον καὶ μᾶλλον ἀγαπώμενον παρὰ τῷ κρατοῦντι. ∆ιὸ καὶ πάντας ἀνάγκη κολακεύειν, τοὺς μείζους, τοὺς ὁμοτίμους, τοὺς φίλους. Ἔνθα γὰρ βασκανία καὶ δόξης ἔρως, οὐδὲ φιλίας εἰλικρινοῦς ἐστιν ἰσχύς. Ὥσπερ γὰρ οἱ ὁμότεχνοι φιλεῖν ἀλλήλους οὐκ ἂν δύναιντο ἀκριβῶς καὶ γνησίως, οὕτω καὶ οἱ ὁμότιμοι καὶ τῶν αὐτῶν ἐρῶντες ἐν τοῖς βιωτικοῖς. Ὅθεν καὶ ὁ πόλεμος ἔνδον πολύς.",
+          "en": "<span class=\"sn\" data-s=\"160\">“But the other man fears his master too,” you may say.</span> <span class=\"sn\" data-s=\"161\">Yet how is it the same thing to have one man making you timid, or many?</span> <span class=\"sn\" data-s=\"162\">Or rather, if a man inquires carefully, he will not find even one.</span> <span class=\"sn\" data-s=\"163\">How so, and in what sense?</span> <span class=\"sn\" data-s=\"164\">That slave has no one who desires to push him out of his service and take his place — which is why no one plots against him in it.</span> <span class=\"sn\" data-s=\"165\">But these courtiers have no other occupation than to unsettle the man who stands higher in their ruler's approval and affection.</span> <span class=\"sn\" data-s=\"166\">That is why he must flatter them all — his superiors, his equals, his friends.</span> <span class=\"sn\" data-s=\"167\">For where envy and love of glory are, there even sincere friendship has no strength.</span> <span class=\"sn\" data-s=\"168\">Just as men of the same trade cannot love one another with a perfect and genuine love, so it is with rivals in honor and with those who long for the same worldly objects.</span> <span class=\"sn\" data-s=\"169\">Hence the war within is great.</span>"
+        },
+        {
+          "gr": "Εἶδες δεσποτῶν ἐσμὸν, καὶ δεσποτῶν χαλεπῶν; Βούλει καὶ ἕτερον ἐπιδείξω τούτου χαλεπώτερον; Οἱ μετ' αὐτὸν ἅπαντες πρὸ αὐτοῦ γενέσθαι σπεύδουσιν, οἱ πρὸ αὐτοῦ κωλῦσαι γενέσθαι πλησίον καὶ παραδραμεῖν.",
+          "en": "<span class=\"sn\" data-s=\"170\">Do you see what a swarm of masters, and hard masters at that?</span> <span class=\"sn\" data-s=\"171\">Shall I show you yet another, more grievous still?</span> <span class=\"sn\" data-s=\"172\">All those behind him strive to get ahead of him; all those ahead of him strive to keep him from drawing near and passing them by.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Enemies wearing the mask of masters — and the apostolic way",
+      "heading_sentence_index": 173,
+      "pairs": [
+        {
+          "gr": "εʹ. Ἀλλ' ὢ τοῦ θαύματος! ἐγὼ μὲν ὑπεσχόμην δεσπότας δεῖξαι, ὁ δὲ λόγος ἡμῖν προϊὼν καὶ ἀγωνιζόμενος πλέον τῆς ὑποσχέσεως ἐποίησε, πολεμίους ἀντὶ δεσποτῶν δείξας, μᾶλλον δὲ καὶ πολεμίους καὶ δεσπότας τοὺς αὐτούς. Θεραπεύονται μὲν γὰρ ὡς δεσπόται, φοβεροὶ δέ εἰσιν ὡς πολέμιοι, καὶ ἐπιβουλεύουσιν ὡς ἐχθροί. Ὅταν οὖν τις τοὺς αὐτοὺς καὶ κυρίους ἔχῃ καὶ ἐχθροὺς, τί ταύτης τῆς συμφορᾶς χεῖρον γένοιτ' ἄν; Ὁ μὲν δοῦλος, κἂν ἐπιτάττηται, ἀλλ' ὅμως ἐπιμελείας ἀπολαύει παρὰ τῶν κελευόντων καὶ εὐνοίας· οὗτοι δὲ καὶ ἐπιτάττονται, καὶ πολεμοῦνται, καὶ κατ' ἀλλήλων ἑστήκασι· καὶ τοσούτῳ τῶν ἐν ταῖς μάχαις χαλεπώτερον, ὅσῳ καὶ λάθρα κεντοῦσι, καὶ ἐν προσωπείῳ φίλων τὰ τῶν ἐχθρῶν διατιθέασι, καὶ ἐκ τῆς ἑτέρων πολλάκις εὐδοκιμοῦσι συμφορᾶς.",
+          "en": "<span class=\"sn\" data-s=\"174\">But what a marvel!</span> <span class=\"sn\" data-s=\"175\">I undertook to show you masters, yet our discourse, gathering momentum and growing eager, has accomplished more than I undertook: it has pointed out foes instead of masters — or rather, the same persons as both foes and masters.</span> <span class=\"sn\" data-s=\"176\">For while they are courted like masters, they are as terrible as foes, and they plot against us like enemies.</span> <span class=\"sn\" data-s=\"177\">When a man has the same persons as both masters and enemies, what calamity could be worse?</span> <span class=\"sn\" data-s=\"178\">The slave, though subject to command, nevertheless enjoys the care and good will of those who give him orders; but these men, while receiving commands, are made enemies and set against one another — and so much more grievously than men in battle, in that they both wound in secret and, under the mask of friendship, treat men as enemies would, often even taking credit for another's calamity.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐ τὰ ἡμέτερα τοιαῦτα· ἀλλὰ κἂν πράξῃ κακῶς ἕτερος, πολλοὶ οἱ συναλγοῦντες· κἂν εὐδοκιμῇ, πολλοὶ οἱ συνηδόμενοι. Ἀλλ' οὐχ ὁ Ἀπόστολος· Εἴτε γὰρ πάσχει, φησὶν, ἓν μέλος, συμπάσχει πάντα τὰ μέλη· εἴτε δοξάζεται ἓν μέλος, συγχαίρει πάντα τὰ μέλη. Καὶ νῦν μὲν ἔλεγεν ὁ ταῦτα παραινῶν· Τίς μού ἐστιν ἡ ἐλπὶς ἢ χαρὰ, ἢ οὐχὶ καὶ ὑμεῖς; νῦν δὲ, Ὅτι νῦν ζῶμεν, ἐὰν ὑμεῖς στήκητε ἐν Κυρίῳ· νῦν δὲ, Ἐκ πολλῆς θλίψεως καὶ συνοχῆς καρδίας ἔγραψα ὑμῖν· καὶ, Τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+          "en": "<span class=\"sn\" data-s=\"179\">But our circumstances are not like this.</span> <span class=\"sn\" data-s=\"180\">Rather, if another fares ill, there are many to grieve with him; if he receives distinction, many to take pleasure with him.</span> <span class=\"sn\" data-s=\"181\">So too the apostle: “If one member suffers,” he says, “all the members suffer with it; if one member is honored, all the members rejoice with it.”</span> <span class=\"sn\" data-s=\"182\">And the words of the one who gives these admonitions run, at one time, “What is my hope or joy?</span> <span class=\"sn\" data-s=\"183\">Are not even you?”; at another, “Now we live, if you stand fast in the Lord”; at another, “Out of much affliction and anguish of heart I wrote to you”; and, “Who is weak, and I am not weak?</span> <span class=\"sn\" data-s=\"184\">Who is made to stumble, and I do not burn?”</span>"
+        },
+        {
+          "gr": "Τίνος οὖν ἕνεκεν ἔτι τῆς ζάλης ἀνεχόμεθα, καὶ τῶν κυμάτων τῶν ἔξωθεν, καὶ οὐ τρέχομεν ἐπὶ τὸν εὔδιον λιμένα τοῦτον, καὶ τὰ ὀνόματα ἀφέντες τῶν ἀγαθῶν, ἐπὶ τὰ πράγματα βαδίζομεν αὐτά; ∆όξα γὰρ καὶ δυναστεία καὶ πλοῦτος καὶ εὐδοκίμησις καὶ πάντα τὰ τοιαῦτα, ὀνόματα παρ' ἐκείνοις, παρὰ δὲ ἡμῖν πράγματα· ὥσπερ οὖν τὰ λυπηρὰ, θάνατος καὶ ἀτιμία καὶ πενία καὶ ὅσα τοιαῦτα, ὀνόματα μὲν παρ' ἡμῖν, πράγματα δὲ παρ' ἐκείνοις.",
+          "en": "<span class=\"sn\" data-s=\"185\">Why, then, do we still endure the tempest and the billows of the world outside, and not run into this calm haven — leaving the mere names of good things and going on to the very things themselves?</span> <span class=\"sn\" data-s=\"186\">For glory and dignity and wealth and credit, and all such things, are names with them, but realities with us; just as the grievous things — death and dishonor and poverty and whatever resembles them — are names with us, but realities with them.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Unmasking glory: the harlot and her paint",
+      "heading_sentence_index": 187,
+      "pairs": [
+        {
+          "gr": "Καὶ εἰ βούλει, τὴν δόξαν πρῶτον εἰς μέσον ἀγάγωμεν, τὴν παρ' ἐκείνοις πᾶσιν ἐπέραστον καὶ ποθεινήν. Καὶ οὐ λέγω, ὅτι ὀλιγοχρόνιος, οὐδ' ὅτι ταχέως σβέννυται· ἀλλ' ὅτε ἀνθεῖ, τότε μοι δεῖξον αὐτήν. Μὴ περιέλῃς τῆς πόρνης τὰ ἐπιτρίμματα καὶ τὰς ὑπογραφὰς, ἀλλὰ κεκαλλωπισμένην εἰς μέσον ἄγε καὶ ἐπίδειξον ἡμῖν, ἵνα τότε αὐτῆς ἐλέγξω τὸ δυσειδές. Οὐκοῦν τὸ σχῆμα πάντως ἐρεῖς καὶ τὸ πλῆθος τῶν ῥαβδούχων, καὶ τοῦ κήρυκος τὴν φωνὴν, καὶ τῶν δήμων τὴν ὑπακοὴν, καὶ τὴν παρὰ τῶν πολλῶν σιγὴν, καὶ τὸ τύπτεσθαι τοὺς ἀπαντῶντας ἅπαντας, καὶ τὸ ὑπὸ πάντων περιβλέπεσθαι. Οὐχὶ ταῦτά ἐστι τὰ λαμπρά; Φέρε οὖν, ἐξετάσωμεν εἰ μὴ περιττὰ ταῦτα, καὶ ὑπόληψις μόνον ἀνόνητος. Τί γὰρ ἐκεῖνος ἀπὸ τούτων βελτίων γίνεται, ἢ τὸ σώμα, ἢ τὴν ψυχήν; Τοῦτο γὰρ ἄνθρωπος. Ἆρα ὑψηλότερος ἔσται ἐντεῦθεν, ἢ ἰσχυρότερος, ἢ ὑγιεινότερος, ἢ ταχύτερος, ἢ τὰς αἰσθήσεις ὀξυτέρας κτήσεται καὶ τρανοτέρας; Ἀλλ' οὐδεὶς ἂν ἔχοι τοῦτο εἰπεῖν. Ἴωμεν τοίνυν ἐπὶ τὴν ψυχὴν, μήποτε ἐκεῖ τι κέρδος προσγινόμενον ἐντεῦθεν εὑρήσομεν. Τί οὖν; σωφρονέστερος, ἐπιεικέστερος, συνετώτερος ἀπὸ ταύτης ἔσται τῆς θεραπείας ὁ τοιοῦτος; Οὐδαμῶς, ἀλλὰ καὶ τοὐναντίον ἅπαν. Οὐ γὰρ ὅπερ ἐπὶ τοῦ σώματος, τοῦτο καὶ ἐνταῦθα συμβαίνει. Ἐκεῖ μὲν γὰρ οὐδὲν πρὸς τὴν οἰκείαν προσλαμ βάνει ἀρετὴν τὸ σῶμα· ἐνταῦθα δὲ οὐ μόνον τοῦτό ἐστι τὸ δεινὸν, ὅτι οὐδὲν καρποῦται χρηστὸν, ἀλλ' ὅτι καὶ κακίαν δέχεται πολλὴν ἐντεῦθεν ἡ ψυχή. Καὶ γὰρ εἰς ἀπόνοιαν, καὶ κενοδοξίαν, καὶ ἄνοιαν, καὶ εἰς θυμὸν, καὶ εἰς μυρία ἐλαττώματα τοιαῦτα ἐντεῦθεν ἐκφέρεται.",
+          "en": "<span class=\"sn\" data-s=\"188\">And if you will, let us first bring forward glory, so lovely and desirable in all their eyes.</span> <span class=\"sn\" data-s=\"189\">I do not speak of its being short-lived and quickly extinguished — no, show it to me when it is in full bloom.</span> <span class=\"sn\" data-s=\"190\">Do not wipe away the harlot's daubings and painted lines; bring her forward decked out and exhibit her to us, so that I may then expose her deformity.</span> <span class=\"sn\" data-s=\"191\">Well then: you will no doubt tell of her array, her many lictors, the herald's voice, the attention of every class, the silence kept by the crowd, the blows dealt to all who cross one's path, the gazing of all.</span> <span class=\"sn\" data-s=\"192\">Are not these her splendors?</span> <span class=\"sn\" data-s=\"193\">Come then, let us examine whether these things are not vain, a mere unprofitable fancy.</span> <span class=\"sn\" data-s=\"194\">For in what respect is the man we speak of the better for them, either in body or in soul? — for these constitute the man.</span> <span class=\"sn\" data-s=\"195\">Will he be taller for them, or stronger, or healthier, or swifter?</span> <span class=\"sn\" data-s=\"196\">Will his senses be keener and more piercing?</span> <span class=\"sn\" data-s=\"197\">No one could say so.</span> <span class=\"sn\" data-s=\"198\">Let us turn, then, to the soul, in case we may find some advantage arising there.</span> <span class=\"sn\" data-s=\"199\">What then?</span> <span class=\"sn\" data-s=\"200\">Will such a man be more temperate, more gentle, more prudent because of that kind of retinue?</span> <span class=\"sn\" data-s=\"201\">By no means — quite the contrary.</span> <span class=\"sn\" data-s=\"202\">For the result here is not as it is with the body.</span> <span class=\"sn\" data-s=\"203\">There, the body gains nothing toward its proper excellence; but here the mischief is not only that the soul reaps no good fruit — it actually receives much evil from it, being hurried by these means into haughtiness, vainglory, folly, wrath, and ten thousand faults like them.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ χαίρει, φησὶ, καὶ γάννυται τούτοις, καὶ φαιδρύνεται. Τὸν κολοφῶνά μοι τῶν κακῶν εἶπες, καὶ τοῦ νοσήματος τὸ ἀνίατον. Ὁ γὰρ χαίρων ἐπὶ τούτοις, οὐδὲ ἀπαλλαγῆναι ῥᾳδίως ἂν θελήσειε τῆς ὑποθέσεως τῶν κακῶν, ἀλλ' ἀπετείχισεν ἑαυτῷ τῆς θεραπείας τὴν ὁδὸν διὰ τῆς ἡδονῆς. Ὥστε τοῦτο μάλιστά ἐστι τὸ δεινὸν, ὅτι οὐδὲ ἀλγεῖ, ἀλλὰ καὶ χαίρει, τῶν νοσημάτων αὐξανομένων αὐτῷ.",
+          "en": "<span class=\"sn\" data-s=\"204\">“But he rejoices in these things,” you will say, “and exults in them, and they brighten him up.”</span> <span class=\"sn\" data-s=\"205\">In that word of yours lies the crowning point of his evils, the incurable part of the disease.</span> <span class=\"sn\" data-s=\"206\">For the man who rejoices in these things would be unwilling to be released, however easily, from the very ground of his evils; indeed, by this delight he has blocked up the way of healing against himself.</span> <span class=\"sn\" data-s=\"207\">So here most of all lies the mischief: that he is not even pained, but rather rejoices, while the diseases grow upon him.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ πανταχοῦ τὸ χαίρειν καλόν· ἐπεὶ καὶ κλέπται χαίρουσι κλέπτοντες, καὶ μοιχὸς διαφθείρων τὸν τοῦ πλησίον γάμον, καὶ ὁ πλεονέκτης ἁρπάζων, καὶ ὁ ἀνδροφόνος φονεύων. Μὴ τοίνυν εἰ χαίρει ἴδωμεν, ἀλλ' εἰ ἐπὶ χρησίμῳ· καὶ διασκεψώμεθα, μήποτε τοιαύτην εὑρήσομεν τὴν χαρὰν, οἵαν τὴν τοῦ μοιχοῦ καὶ τοῦ κλέπτου.",
+          "en": "<span class=\"sn\" data-s=\"208\">For rejoicing is not always a good thing: even thieves rejoice in stealing, the adulterer in defiling his neighbor's marriage bed, the covetous in plundering by violence, the manslayer in murdering.</span> <span class=\"sn\" data-s=\"209\">Let us not, then, look at whether he rejoices, but at whether it is for something profitable — lest we find his joy to be such as that of the adulterer and the thief.</span>"
+        },
+        {
+          "gr": "Τίνος γὰρ ἕνεκεν, εἰπέ μοι, χαίρει; διὰ τὴν παρὰ τῶν πολλῶν δόξαν, καὶ τὸ δύνασθαι φυσᾶσθαι καὶ περιβλέπεσθαι; Καὶ τί τῆς ἐπιθυμίας ταύτης πονηρότερον γένοιτ' ἂν καὶ τοῦ ἀτόπου τούτου ἔρωτος; Εἰ δὲ μὴ πονηρὸν, παύσασθε τοὺς κενοδόξους σκώπτοντες, καὶ μυρίοις πλύνοντες σκώμμασι· παύσασθε τοῖς ἀπονενοημένοις καὶ ὑπερόπταις ἐπαρώμενοι. Ἀλλ' οὐκ ἂν ἀνάσχοισθε. Οὐκοῦν μυρίας ἄξιοι καὶ αὐτοὶ κατηγορίας, κἂν μυρίους ἔχωσι ῥαβδούχους. Καὶ ταῦτά μοι περὶ τῶν ἀνεκτοτέρων ἀρχόντων εἴρηται, ὡς τούς γε πλείονας καὶ λῃστῶν, καὶ ἀνδροφόνων, καὶ μοιχῶν, καὶ τυμβωρύχων μείζονα ἁμαρτάνοντας εὑρήσομεν, ἀπὸ τοῦ μὴ καλῶς κεχρῆσθαι τῇ ἀρχῇ. Καὶ γὰρ καὶ κλέπτουσιν ἐκείνων ἀναισχυντότερον, καὶ σφάττουσιν ἰταμώτερον, καὶ ἀσελγαίνουσι πολλῷ παρανομώτερον, καὶ διορύττουσιν, οὐ τοῖχον ἕνα, ἀλλὰ οὐσίας καὶ οἰκίας ἀπείρους, ἀπὸ τῆς ἐξουσίας πολλὴν τὴν εὐκολίαν ἔχοντες.",
+          "en": "<span class=\"sn\" data-s=\"210\">For tell me, why does he rejoice?</span> <span class=\"sn\" data-s=\"211\">For his credit with the multitude — because he can puff himself up and be gazed at?</span> <span class=\"sn\" data-s=\"212\">What could be worse than this desire, this misplaced fondness?</span> <span class=\"sn\" data-s=\"213\">Or if it is no bad thing, then you must stop deriding the vainglorious and pelting them with continual mockery; you must stop calling down curses on the haughty and contemptuous.</span> <span class=\"sn\" data-s=\"214\">But you would not endure that.</span> <span class=\"sn\" data-s=\"215\">Very well, then: they too deserve plenty of censure, though they have plenty of lictors.</span> <span class=\"sn\" data-s=\"216\">And all this I have said about the more tolerable sort of rulers; for the greater part of them we shall find transgressing more grievously than robbers or murderers or adulterers or tomb-robbers, from not making good use of their power.</span> <span class=\"sn\" data-s=\"217\">Their thefts are more shameless, their butcheries more hardened, their impurities far more enormous than the others'; and they dig through not one wall but estates and houses without end, their prerogative making it very easy for them.</span>"
+        },
+        {
+          "gr": "Καὶ δουλεύουσι δουλείαν χαλεπωτάτην, καὶ τοῖς πάθεσιν ὑποκύπτοντες ἀγεννῶς, [καὶ τοὺς συνδούλους τύπτοντες ἀφειδῶς,] καὶ τοὺς συνειδότας αὐτοῖς ἅπαντας τρέμοντες. Μόνος γάρ ἐστιν ἐλεύθερος, καὶ μόνος ἄρχων, καὶ τῶν βασιλέων βασιλικώτερος, ὁ τῶν παθῶν ἀπηλλαγμένος.",
+          "en": "<span class=\"sn\" data-s=\"218\">And they serve a most grievous servitude, both stooping basely beneath their passions and trembling before all their accomplices.</span> <span class=\"sn\" data-s=\"219\">For he alone is free, he alone a ruler, more kingly than all kings, who is delivered from his passions.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Closing exhortation and doxology",
+      "heading_sentence_index": 220,
+      "pairs": [
+        {
+          "gr": "Ταῦτ' οὖν εἰδότες, διώξωμεν τὴν ἀληθῆ ἐλευθερίαν, καὶ τῆς πονηρᾶς δουλείας ἀπαλλάξωμεν ἑαυτούς· καὶ μήτε ἀρχῆς ὄγκον, μήτε πλούτου τυραννίδα, μήτε ἄλλο τι τοιοῦτον μακαριστὸν νομίζωμεν, ἀλλὰ ἀρετὴν μόνην. Οὕτω γὰρ καὶ τῆς ἐνταῦθα ἀπολαυσόμεθα ἀδείας, καὶ τῶν μελλόντων ἐπιτευξόμεθα ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα καὶ τὸ κράτος, σὺν τῷ Πατρὶ καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"221\">Knowing these things, then, let us pursue the true freedom and deliver ourselves from the evil slavery; and let us count neither the pomp of power, nor the dominion of wealth, nor any other such thing to be blessedness — but virtue alone.</span> <span class=\"sn\" data-s=\"222\">For thus we shall both enjoy security here and attain to the good things to come, by the grace and love toward man of our Lord Jesus Christ, to whom be glory and might, with the Father and the Holy Spirit, world without end.</span> <span class=\"sn\" data-s=\"223\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ref": "Luke 17:26-37; 18:8",
+  "book": "Luke",
+  "from": [
+    17,
+    26
+  ],
+  "to": [
+    18,
+    8
+  ],
+  "slug": "luke-17-26-37-18-8",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse range chunk '17:26-37; 18:8' in 'Luke 17:26-37; 18:8'"
+}

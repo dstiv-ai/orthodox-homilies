@@ -1,0 +1,111 @@
+{
+  "id": "tikhon-sent-letter-41",
+  "slug": "tikhon-sent-letter-41",
+  "title": "Letter 41 — Alms for the Poor",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 41,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 459,
+  "reading_minutes": 2,
+  "attribution_note": "Letter 41 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "41"
+  ],
+  "sections": [
+    {
+      "heading": "I send these alms to you",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">*“Nikita Andreich, my brother in Christ!”*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">A man living here has given one hundred and fifty roubles for distribution to the poor: for a certain reason it is not so profitable to distribute them here as in your parts.</span> <span class=\"sn\" data-s=\"3\">Therefore I, knowing your soul and your good heart, send them to you, and I ask you by the love of Christ to labour in this matter.</span> <span class=\"sn\" data-s=\"4\">Namely, proceed thus in the distribution:</span>"
+        }
+      ]
+    },
+    {
+      "heading": "How the alms are to be given",
+      "heading_sentence_index": 5,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"6\">1) Both in your village and in the neighbouring villages, learn of the poorest widows, and of others who pay the soul tax or the dues, or who are held under guard for the soul tax or the dues.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"7\">2) Having learned the poverty of each, and how many there are, reckon the money that has been sent, how much will fall to each, and write it down on a paper in your own house.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">3) Having so done, distribute to every one according to his need.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"9\">4) In distributing, do not say that they were sent from me, when they ask — for this money is not mine, and my kinsfolk, learning of it, will be angry with me and upbraid me that I did not send to them — but only say that they were sent from a man for the poor.</span> <span class=\"sn\" data-s=\"10\">This I ask of you in the name of Christ.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"11\">5) To people who, though poor, drink to excess, or are lazy to work — to such give not a single copeck.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"12\">6) For the beggars who go about the streets and under the windows with rascals, set aside ten roubles, and, having gathered them, distribute according to their poverty.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"13\">7) What you give to each, write in this notebook which I send you with this letter, and send that notebook back to me with this same man who delivered the letter, when he travels hither from Petersburg.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"14\">8) For yourself, for your labours, take three roubles; and if that seems little, take five roubles from that money, if you will.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Labour for Christ's sake",
+      "heading_sentence_index": 15,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"16\">I humbly beg you to labour for the sake of Christ, who will recompense the labours with His mercy.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"17\">These one hundred and fifty roubles for the matter described above I send with this gentleman, His Excellency Alexei Dmitrievich, my faithful friend and benefactor, whom receive as his rank requires, and as you would receive me myself.</span> <span class=\"sn\" data-s=\"18\">He wished also to lodge with you; and see him on his way as far as Valdai.</span> <span class=\"sn\" data-s=\"19\">I commit myself and you to God.</span> <span class=\"sn\" data-s=\"20\">Be saved in Christ.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"21\">Your brother in Christ Tikhon, the former bishop of Voronezh.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"22\">The … day of January, 1773.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"23\">The Zadonsk Monastery.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"24\">To my brother at Korotsko and to my other kinsfolk — nothing, since this money is not mine.</span>"
+        }
+      ]
+    }
+  ]
+}

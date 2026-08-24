@@ -1,0 +1,76 @@
+{
+  "ref": "Philippians 2:5-11",
+  "book": "Php",
+  "from": [
+    2,
+    5
+  ],
+  "to": [
+    2,
+    11
+  ],
+  "slug": "philippians-2-5-11",
+  "greek": [
+    {
+      "v": "2:5",
+      "text": "Τοῦτο γὰρ φρονείσθω ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ,"
+    },
+    {
+      "v": "2:6",
+      "text": "ὃς ἐν μορφῇ θεοῦ ὑπάρχων, οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ,"
+    },
+    {
+      "v": "2:7",
+      "text": "ἀλλὰ ἑαυτὸν ἐκένωσεν, μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος,"
+    },
+    {
+      "v": "2:8",
+      "text": "καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος, ἐταπείνωσεν ἑαυτόν, γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ."
+    },
+    {
+      "v": "2:9",
+      "text": "Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα,"
+    },
+    {
+      "v": "2:10",
+      "text": "ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων,"
+    },
+    {
+      "v": "2:11",
+      "text": "καὶ πᾶσα γλῶσσα ἐξομολογησάτω ὅτι Κύριος Ἰησοῦς Χριστός, εἰς δόξαν θεοῦ πατρός."
+    }
+  ],
+  "english": [
+    {
+      "v": "2:5",
+      "text": "Brothers and sisters: let the same mind be among you that was in Christ Jesus."
+    },
+    {
+      "v": "2:6",
+      "text": "He shared the very form of God; yet he did not treat being equal with God as something to clutch and hold onto."
+    },
+    {
+      "v": "2:7",
+      "text": "No — he emptied himself. He took the form of a slave; he was born in the likeness of human beings."
+    },
+    {
+      "v": "2:8",
+      "text": "And being found in human form, he lowered himself, and became obedient — obedient all the way to death, even death on a cross."
+    },
+    {
+      "v": "2:9",
+      "text": "That is why God lifted him up to the highest place, and gave him the name that stands above every other name."
+    },
+    {
+      "v": "2:10",
+      "text": "So that at the name of Jesus every knee will bow — in heaven, and on earth, and under the earth."
+    },
+    {
+      "v": "2:11",
+      "text": "And every tongue will openly say: Jesus Christ is Lord — to the glory of God the Father."
+    }
+  ],
+  "greek_source": "content/2026-08-15/readings.md",
+  "english_source": "content/2026-08-15/readings.md",
+  "status": "complete"
+}

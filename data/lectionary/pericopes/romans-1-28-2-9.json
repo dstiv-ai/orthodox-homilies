@@ -1,0 +1,154 @@
+{
+  "ref": "Romans 1:28-2:9",
+  "book": "Rom",
+  "from": [
+    1,
+    28
+  ],
+  "to": [
+    2,
+    9
+  ],
+  "slug": "romans-1-28-2-9",
+  "greek": [
+    {
+      "v": "1:28",
+      "text": "Καὶ καθὼς οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει, παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν, ποιεῖν τὰ μὴ καθήκοντα,"
+    },
+    {
+      "v": "1:29",
+      "text": "πεπληρωμένους πάσῃ ἀδικίᾳ, πορνείᾳ, πονηρίᾳ, πλεονεξίᾳ, κακίᾳ· μεστοὺς φθόνου, φόνου, ἔριδος, δόλου, κακοηθείας· ψιθυριστάς,"
+    },
+    {
+      "v": "1:30",
+      "text": "καταλάλους, θεοστυγεῖς, ὑβριστάς, ὑπερηφάνους, ἀλαζόνας, ἐφευρετὰς κακῶν, γονεῦσιν ἀπειθεῖς,"
+    },
+    {
+      "v": "1:31",
+      "text": "ἀσυνέτους, ἀσυνθέτους, ἀστόργους, ἀσπόνδους, ἀνελεήμονας·"
+    },
+    {
+      "v": "1:32",
+      "text": "οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες, ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν, οὐ μόνον αὐτὰ ποιοῦσιν, ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν."
+    },
+    {
+      "v": "2:1",
+      "text": "Διὸ ἀναπολόγητος εἶ, ὦ ἄνθρωπε πᾶς ὁ κρίνων· ἐν ᾧ γὰρ κρίνεις τὸν ἕτερον, σεαυτὸν κατακρίνεις, τὰ γὰρ αὐτὰ πράσσεις ὁ κρίνων."
+    },
+    {
+      "v": "2:2",
+      "text": "Οἴδαμεν δὲ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας."
+    },
+    {
+      "v": "2:3",
+      "text": "Λογίζῃ δὲ τοῦτο, ὦ ἄνθρωπε ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά, ὅτι σὺ ἐκφεύξῃ τὸ κρίμα τοῦ θεοῦ;"
+    },
+    {
+      "v": "2:4",
+      "text": "Ἢ τοῦ πλούτου τῆς χρηστότητος αὐτοῦ καὶ τῆς ἀνοχῆς καὶ τῆς μακροθυμίας καταφρονεῖς, ἀγνοῶν ὅτι τὸ χρηστὸν τοῦ θεοῦ εἰς μετάνοιάν σε ἄγει;"
+    },
+    {
+      "v": "2:5",
+      "text": "Κατὰ δὲ τὴν σκληρότητά σου καὶ ἀμετανόητον καρδίαν θησαυρίζεις σεαυτῷ ὀργὴν ἐν ἡμέρᾳ ὀργῆς καὶ ἀποκαλύψεως καὶ δικαιοκρισίας τοῦ θεοῦ,"
+    },
+    {
+      "v": "2:6",
+      "text": "ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ·"
+    },
+    {
+      "v": "2:7",
+      "text": "τοῖς μὲν καθ’ ὑπομονὴν ἔργου ἀγαθοῦ δόξαν καὶ τιμὴν καὶ ἀφθαρσίαν ζητοῦσιν, ζωὴν αἰώνιον·"
+    },
+    {
+      "v": "2:8",
+      "text": "τοῖς δὲ ἐξ ἐριθείας, καὶ ἀπειθοῦσιν μὲν τῇ ἀληθείᾳ πειθομένοις δὲ τῇ ἀδικίᾳ, θυμὸς καὶ ὀργή,"
+    },
+    {
+      "v": "2:9",
+      "text": "θλίψις καὶ στενοχωρία, ἐπὶ πᾶσαν ψυχὴν ἀνθρώπου τοῦ κατεργαζομένου τὸ κακόν, Ἰουδαίου τε πρῶτον καὶ Ἕλληνος·"
+    }
+  ],
+  "english": [
+    {
+      "v": "1:28",
+      "text": "Brothers and sisters: and just as they did not think it worthwhile to keep God in their knowledge, God handed them over to a worthless mind, to do what ought not to be done —"
+    },
+    {
+      "v": "1:29",
+      "text": "filled with every kind of injustice, sexual immorality, wickedness, greed, and malice; full of envy, murder, strife, deceit, and mean-spiritedness; whisperers,"
+    },
+    {
+      "v": "1:30",
+      "text": "slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents,"
+    },
+    {
+      "v": "1:31",
+      "text": "senseless, faithless, without natural affection, implacable, merciless."
+    },
+    {
+      "v": "1:32",
+      "text": "They know God's just decree — that those who do such things deserve death — and yet they not only do them, but also approve of those who do them."
+    },
+    {
+      "v": "2:1",
+      "text": "So you have no excuse, whoever you are, when you sit in judgement on another. In passing judgement on the other person, you condemn yourself, because you, the one judging, do the same things."
+    },
+    {
+      "v": "2:2",
+      "text": "We know that God's judgement on those who do such things is according to the truth."
+    },
+    {
+      "v": "2:3",
+      "text": "And do you suppose, you who judge those who do such things and do them yourself, that you will escape the judgement of God?"
+    },
+    {
+      "v": "2:4",
+      "text": "Or do you treat the riches of his kindness and his patience and his long-suffering with contempt, not realizing that God's kindness is meant to lead you to repentance?"
+    },
+    {
+      "v": "2:5",
+      "text": "But by your hardness and your unrepentant heart you are storing up wrath for yourself on the day of wrath, when God's righteous judgement is revealed —"
+    },
+    {
+      "v": "2:6",
+      "text": "he who will repay each person according to their deeds."
+    },
+    {
+      "v": "2:7",
+      "text": "To those who, by persistence in doing good, seek glory and honour and immortality: eternal life."
+    },
+    {
+      "v": "2:8",
+      "text": "But to those who are self-seeking, who refuse the truth and obey injustice: fury and wrath,"
+    },
+    {
+      "v": "2:9",
+      "text": "trouble and distress for every human soul that does evil — the Jew first, and also the Greek."
+    }
+  ],
+  "greek_source": "work/byztxt/ROM.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "1:28",
+      "note": "Paul's wordplay: οὐκ ἐδοκίμασαν ('they did not approve / think fit') … εἰς ἀδόκιμον νοῦν ('an unapproved / worthless mind'). English cannot keep both halves of δοκιμάζω. 'Worthless mind' carries the second half; the first is 'did not think it worthwhile'."
+    },
+    {
+      "v": "1:29",
+      "note": "Byzantine includes πορνείᾳ ('sexual immorality') in the list. Many modern editions omit it."
+    },
+    {
+      "v": "1:30",
+      "note": "θεοστυγεῖς can be active ('haters of God') or passive ('hateful to God'). In a list of vices I have taken it as active, but the passive is possible."
+    },
+    {
+      "v": "1:31",
+      "note": "Byzantine includes ἀσπόνδους ('implacable, who will not make peace'). Many modern editions omit it. ἀσυνθέτους is 'covenant-breakers / faithless'; ἀστόργους is 'without natural affection' — no single English word for either."
+    },
+    {
+      "v": "2:8",
+      "note": "ἐξ ἐριθείας is 'from selfish ambition / factiousness'. Rendered as 'self-seeking'."
+    }
+  ]
+}

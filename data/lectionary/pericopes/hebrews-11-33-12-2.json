@@ -1,0 +1,118 @@
+{
+  "ref": "Hebrews 11:33-12:2",
+  "book": "Heb",
+  "from": [
+    11,
+    33
+  ],
+  "to": [
+    12,
+    2
+  ],
+  "slug": "hebrews-11-33-12-2",
+  "greek": [
+    {
+      "v": "11:33",
+      "text": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, εἰργάσαντο δικαιοσύνην, ἐπέτυχον ἐπαγγελιῶν, ἔφραξαν στόματα λεόντων,"
+    },
+    {
+      "v": "11:34",
+      "text": "ἔσβεσαν δύναμιν πυρός, ἔφυγον στόματα μαχαίρας, ἐνεδυναμώθησαν ἀπὸ ἀσθενείας, ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, παρεμβολὰς ἔκλιναν ἀλλοτρίων."
+    },
+    {
+      "v": "11:35",
+      "text": "Ἔλαβον γυναῖκες ἐξ ἀναστάσεως τοὺς νεκροὺς αὐτῶν· ἄλλοι δὲ ἐτυμπανίσθησαν, οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, ἵνα κρείττονος ἀναστάσεως τύχωσιν·"
+    },
+    {
+      "v": "11:36",
+      "text": "ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον, ἔτι δὲ δεσμῶν καὶ φυλακῆς·"
+    },
+    {
+      "v": "11:37",
+      "text": "ἐλιθάσθησαν, ἐπρίσθησαν, ἐπειράσθησαν, ἐν φόνῳ μαχαίρας ἀπέθανον· περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι-"
+    },
+    {
+      "v": "11:38",
+      "text": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος- ἐν ἐρημίαις πλανώμενοι καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς."
+    },
+    {
+      "v": "11:39",
+      "text": "Καὶ οὗτοι πάντες, μαρτυρηθέντες διὰ τῆς πίστεως, οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν,"
+    },
+    {
+      "v": "11:40",
+      "text": "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου, ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν."
+    },
+    {
+      "v": "12:1",
+      "text": "Τοιγαροῦν καὶ ἡμεῖς, τοσοῦτον ἔχοντες περικείμενον ἡμῖν νέφος μαρτύρων, ὄγκον ἀποθέμενοι πάντα καὶ τὴν εὐπερίστατον ἁμαρτίαν, δι’ ὑπομονῆς τρέχωμεν τὸν προκείμενον ἡμῖν ἀγῶνα,"
+    },
+    {
+      "v": "12:2",
+      "text": "ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν, ὅς, ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς, ὑπέμεινεν σταυρόν, αἰσχύνης καταφρονήσας, ἐν δεξιᾷ τε τοῦ θρόνου τοῦ θεοῦ κεκάθικεν."
+    }
+  ],
+  "english": [
+    {
+      "v": "11:33",
+      "text": "Brothers and sisters: who through faith conquered kingdoms, practised justice, obtained promises, shut the mouths of lions,"
+    },
+    {
+      "v": "11:34",
+      "text": "quenched the power of fire, escaped the edge of the sword, were made strong out of weakness, became mighty in war, put foreign armies to flight."
+    },
+    {
+      "v": "11:35",
+      "text": "Women received their dead back by resurrection. Others were tortured, refusing to accept release, so that they might obtain a better resurrection."
+    },
+    {
+      "v": "11:36",
+      "text": "Others faced jeers and flogging, and even chains and imprisonment."
+    },
+    {
+      "v": "11:37",
+      "text": "They were stoned, they were sawn in two, they were tested, they died by the sword. They went about in sheepskins and goatskins, destitute, afflicted, ill-treated —"
+    },
+    {
+      "v": "11:38",
+      "text": "the world was not worthy of them — wandering in deserts and mountains and caves and the holes of the earth."
+    },
+    {
+      "v": "11:39",
+      "text": "And all these, though they were commended for their faith, did not receive the promise,"
+    },
+    {
+      "v": "11:40",
+      "text": "because God had provided something better for us, so that they would not be made perfect without us."
+    },
+    {
+      "v": "12:1",
+      "text": "Therefore, since we too have so great a cloud of witnesses surrounding us, let us throw off every weight, and the sin that so easily clings to us, and let us run with endurance the race that is set before us,"
+    },
+    {
+      "v": "12:2",
+      "text": "looking to Jesus, the pioneer and perfecter of our faith, who, for the sake of the joy set before him, endured a cross, thinking nothing of its shame, and has sat down at the right hand of the throne of God."
+    }
+  ],
+  "greek_source": "work/byztxt/HEB.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "11:35",
+      "note": "ἐτυμπανίσθησαν is specifically to be beaten on a drum-frame, stretched and thrashed. 'Tortured' is the ordinary English; the instrument is lost."
+    },
+    {
+      "v": "11:37",
+      "note": "Byzantine has ἐπειράσθησαν, 'they were tested / tempted', between 'sawn in two' and 'died by the sword'. Some readers expect ἐπρήσθησαν, 'they were burned', which is a widely proposed correction; I have translated the text as it stands."
+    },
+    {
+      "v": "12:1",
+      "note": "εὐπερίστατον ἁμαρτίαν is 'the sin that stands well around us' — that easily hems us in. 'Clings' is an English picture for a Greek one."
+    },
+    {
+      "v": "12:2",
+      "note": "ἀρχηγόν is pioneer / captain / author; τελειωτήν is perfecter / finisher. No pair of English words covers both. ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς can be 'for the sake of the joy set before him' or 'instead of the joy that was available to him'. I have taken the first, which is the more natural reading of ἀντί with a following genitive of the prize in view, but the second is possible."
+    }
+  ]
+}

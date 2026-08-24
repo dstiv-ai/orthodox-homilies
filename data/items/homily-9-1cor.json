@@ -1,0 +1,572 @@
+{
+  "id": "homily-9-1cor",
+  "slug": "homily-9-1cor",
+  "title": "Homily 9 on First Corinthians",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": null,
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "apostle-paul",
+  "scripture": [
+    "1 Corinthians 3:9-17"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 3940,
+  "reading_minutes": 20,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "1-corinthians"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ Θʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**1 Corinthians 3:12–15.**</span>"
+        },
+        {
+          "gr": "Εἴ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον τοῦτον, χρυσὸν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην· ἑκάστου τὸ ἔργον φανερὸν γενήσεται. Ἡ γὰρ ἡμέρα δηλώσει, ὅτι ἐν πυρὶ ἀποκαλύπτεται· καὶ ἑκάστου τὸ ἔργον, ὁποῖόν ἐστι, τὸ πῦρ αὐτὸ δοκιμάσει. Εἴ τινος τὸ ἔργον μένει ὃ ἐπῳκοδόμησε, μισθὸν λήψεται· εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται· αὐτὸς δὲ σωθήσεται, οὕτω δὲ ὡς διὰ πυρός.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“If anyone builds on this foundation with gold, silver, precious stones, wood, hay, or straw, each person's work will be shown for what it is.*</span> <span class=\"sn\" data-s=\"3\">*The Day will make it plain, because it will be revealed by fire — and the fire will test the quality of each person's work.*</span> <span class=\"sn\" data-s=\"4\">*If what someone has built survives, they will receive a reward.*</span> <span class=\"sn\" data-s=\"5\">*If it burns up, they will suffer loss; they themselves will be saved, but only as through fire.”* [1 Corinthians 3:12–15]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Does the fire of hell ever end?",
+      "heading_sentence_index": 6,
+      "pairs": [
+        {
+          "gr": "αʹ. Οὐ μικρὸν ἡμῖν τοῦτο τὸ προκείμενον ζήτημα, ἀλλὰ καὶ περὶ τῶν σφόδρα ἀναγκαίων, καὶ ὧν ἅπαντες ζητοῦσιν ἄνθρωποι, εἰ τέλος ἔχει τὸ τῆς γεέννης πῦρ.",
+          "en": "<span class=\"sn\" data-s=\"7\">The question we're taking up today is not a small one.</span> <span class=\"sn\" data-s=\"8\">It's one of the most urgent questions there is, and everyone asks it: does the fire of hell ever come to an end?</span>"
+        },
+        {
+          "gr": "Ὅτι μὲν γὰρ οὐκ ἔχει, ὁ Χριστὸς ἀπεφήνατο λέγων· Τὸ πῦρ αὐτῶν οὐ σβεσθήσεται, καὶ ὁ σκώληξ αὐτῶν οὐ τελευτήσει. Καὶ οἶδα μὲν, ὅτι ναρκᾶτε ταῦτα ἀκούοντες· ἀλλὰ τί πάθω;",
+          "en": "<span class=\"sn\" data-s=\"9\">Christ said it does not.</span> <span class=\"sn\" data-s=\"10\">He said, *“their fire is not quenched, and their worm does not die.”* [Mark 9:44, 46, 48] I know a shiver runs through you when you hear those words.</span> <span class=\"sn\" data-s=\"11\">But what am I supposed to do?</span>"
+        },
+        {
+          "gr": "καὶ γὰρ ὁ Θεὸς κελεύει ταῦτα συνεχῶς ἐνηχεῖν, λέγων· Διάστειλαι τῷ λαῷ τούτῳ· καὶ ἡμεῖς εἰς διακονίαν λόγου τετάγμεθα, καὶ ἀνάγκη φορτικὸν εἶναι τοῖς ἀκροαταῖς, οὐχ ἑκόντα, ἀλλ' ἀναγκαζόμενον.",
+          "en": "<span class=\"sn\" data-s=\"12\">God's own command to preachers is to keep sounding this warning in people's ears — we don't get to skip the painful parts just because they're painful.</span> <span class=\"sn\" data-s=\"13\">We give pain to our hearers not because we want to, but because we must.</span>"
+        },
+        {
+          "gr": "Μᾶλλον δὲ, εἰ βούλεσθε, οὐκ ἐσόμεθα φορτικοί· Ἂν γὰρ, φησὶ, ποιῇς τὸ ἀγαθὸν, μὴ φοβοῦ. Ὥστε ἔξεστιν ὑμῖν μὴ μόνον μὴ μετὰ ἀπεχθείας, ἀλλὰ καὶ μετὰ ἡδονῆς ἡμῶν ἀκούειν.",
+          "en": "<span class=\"sn\" data-s=\"14\">And actually, if you want, you can avoid the pain entirely.</span> <span class=\"sn\" data-s=\"15\">Scripture says, *“do what is good, and you will have no fear.”* [Romans 13:3] So it's possible to hear this message not just without resentment, but even with gladness.</span>"
+        },
+        {
+          "gr": "Ὅτι μὲν οὖν οὐκ ἔχει τέλος, καὶ ὁ Χριστὸς ἀπεφήνατο·",
+          "en": "<span class=\"sn\" data-s=\"16\">As I said, Christ declared that the punishment has no end.</span>"
+        },
+        {
+          "gr": "καὶ ὁ Παῦλος δέ φησι, δεικνὺς ἀθάνατον τὴν κόλασιν, ὅτι οἱ ἁμαρτάνοντες δίκην τίσουσι ὄλεθρον αἰώνιον· καὶ πάλιν, Μὴ πλανᾶσθε· οὔτε πόρνοι, οὔτε μοιχοὶ, οὔτε μαλακοὶ βασιλείαν Θεοῦ κληρονομήσουσι· καὶ Ἑβραίοις δὲ ἔλεγεν· Εἰρήνην διώκετε μετὰ πάντων καὶ τὸν ἁγιασμὸν, οὗ χωρὶς οὐδεὶς ὄψεται τὸν Κύριον. Καὶ ὁ Χριστὸς δὲ τοῖς εἰρηκόσιν, Ἐν τῷ ὀνόματί σου δυνάμεις πολλὰς ἐποιήσαμεν, φησί· Πορεύεσθε ἀπ' ἐμοῦ, οἱ ἐργαζόμενοι τὴν ἀνομίαν· οὐκ οἶδα ὑμᾶς. Καὶ αἱ παρθένοι δὲ ἀποκλεισθεῖσαι, οὐκ ἔτι εἰσῆλθον·",
+          "en": "<span class=\"sn\" data-s=\"17\">Paul says the same thing when he points out that it is eternal: sinners *“will pay the penalty of eternal destruction.”* [2 Thessalonians 1:9] And again: *“Do not be deceived: neither the sexually immoral, nor adulterers, nor the self-indulgent will inherit the kingdom of God.”* [1 Corinthians 6:9] And to the Hebrews he says, *“Pursue peace with everyone, and the holiness without which no one will see the Lord.”* [Hebrews 12:14] Christ said to people who claimed, “In your name we did many miracles”: *“Depart from me, I never knew you, you workers of evil.”* [Matthew 7:22–23] The young women shut out of the wedding feast never got in.</span>"
+        },
+        {
+          "gr": "καὶ περὶ τῶν μὴ θρεψάντων δὲ αὐτὸν φησὶν, ὅτι Ἀπελεύσονται εἰς κόλασιν αἰώνιον.",
+          "en": "<span class=\"sn\" data-s=\"18\">And about those who gave him no food he says, *“They will go away into eternal punishment.”* [Matthew 25:46]</span>"
+        },
+        {
+          "gr": "Καὶ μή μοι λέγε· Ποῦ ὁ τοῦ δικαίου διαφυλάττεται λόγος, εἰ μὴ ἔχει τέλος ἡ κόλασις;",
+          "en": "<span class=\"sn\" data-s=\"19\">Don't say to me, “How is that fair?</span> <span class=\"sn\" data-s=\"20\">How is justice preserved if the punishment never ends?”</span>"
+        },
+        {
+          "gr": "Ὅταν γὰρ ὁ Θεὸς ἐργάζηταί τι, πείθου ταῖς ἀποφάσεσι, καὶ μὴ ὑπόβαλλε λογισμοῖς ἀνθρωπίνοις τὰ λεγόμενα.",
+          "en": "<span class=\"sn\" data-s=\"21\">When God does something, accept his decisions and don't drag what he says in front of the court of human logic.</span> <span class=\"sn\" data-s=\"22\">But in fact, let's reason it through anyway.</span>"
+        },
+        {
+          "gr": "Ἄλλως δὲ πῶς οὐκ ἂν εἴη δίκαιον τὸν μυρία παθόντα ἐξ ἀρχῆς ἀγαθὰ, εἶτα κολάσεως ἄξια πράξαντα, καὶ μήτε ἀπειλῇ μήτε εὐεργεσίᾳ βελτίω γενόμενον, κολάζεσθαι;",
+          "en": "<span class=\"sn\" data-s=\"23\">Is it really anything other than just?</span> <span class=\"sn\" data-s=\"24\">Think about what a person has actually done.</span> <span class=\"sn\" data-s=\"25\">From the very beginning he received blessings beyond counting.</span> <span class=\"sn\" data-s=\"26\">Then he did things deserving punishment.</span> <span class=\"sn\" data-s=\"27\">Then neither warnings nor kindness improved him at all.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ τὸ δίκαιον ἐξετάζεις, ἐξ ἀρχῆς ἡμᾶς εὐθέως ἐχρῆν ἀπολέσθαι, κατὰ τὸν τοῦ δικαίου λόγον· μᾶλλον δὲ οὐδὲ τότε κατὰ τὸν τοῦ δικαίου λόγον μόνον.",
+          "en": "<span class=\"sn\" data-s=\"28\">What does strict justice actually say about a person like that?</span> <span class=\"sn\" data-s=\"29\">If you want pure, strict justice — by that standard the human race should have been wiped out at the very start.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ καὶ φιλανθρωπίαν εἶχεν, εἰ καὶ τοῦτο ἐπάθομεν τὸ γινόμενον.",
+          "en": "<span class=\"sn\" data-s=\"30\">Actually, even that would have been more than justice; there would have been kindness mixed into it.</span> <span class=\"sn\" data-s=\"31\">Here's why.</span>"
+        },
+        {
+          "gr": "Ὅταν μὲν γάρ τις τὸν μηδὲν ἠδικηκότα ὑβρίζῃ, κατὰ τὸν τοῦ δικαίου λόγον δίδωσι δίκην· ὅταν δέ τις τὸν εὐεργέτην, τὸν οὐδὲν προπαθόντα μὲν, εὖ ποιήσαντα δὲ μυρία, καὶ μόνον τοῦ εἶναι γενόμενον αἴτιον, καὶ Θεὸν ὄντα, καὶ ψυχὴν ἐμπνεύσαντα, καὶ μυρία χαρισάμενον, καὶ εἰς οὐρανὸν βουληθέντα ἀναγαγεῖν, εἰ τοῦτον μετὰ τοσαύτας εὐεργεσίας μὴ μόνον ὑβρίζει, ἀλλὰ καὶ καθ' ἡμέραν ὑβρίζει δι' ὧν ποιεῖ, ποίας ἄξιος ἔσται συγγνώμης;",
+          "en": "<span class=\"sn\" data-s=\"32\">When you insult a stranger who never did anything to you, justice says you get punished.</span> <span class=\"sn\" data-s=\"33\">But when the person you insult is your benefactor — someone who owed you nothing and gave you countless gifts, the one who is the very author of your existence, who is God, who breathed your soul into you, who gave you ten thousand gifts of grace and wants to take you up into heaven — when you insult *that* person, and not once but daily, how can you possibly deserve a pardon?</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς πῶς τὸν Ἀδὰμ ἐκόλασε διὰ μίαν ἁμαρτίαν;",
+          "en": "<span class=\"sn\" data-s=\"34\">Don't you see how God punished Adam for one single sin?</span>"
+        },
+        {
+          "gr": "Ναὶ, φησὶ, παράδεισον παρέδωκεν ἐκείνῳ, καὶ πολλῆς εὐνοίας ἀπολαῦσαι ἐποίησε.",
+          "en": "<span class=\"sn\" data-s=\"35\">“Yes,” you'll say, “but God had given Adam Paradise.</span> <span class=\"sn\" data-s=\"36\">Adam was enjoying enormous favor — that made his sin worse.”</span>"
+        },
+        {
+          "gr": "Καίτοι γε οὐκ ἔστιν ἴσον, ἀδείας ἀπολαύοντα ἁμαρτάνειν, καὶ ἐν θλίψει καθεστῶτα πολλῇ.",
+          "en": "<span class=\"sn\" data-s=\"37\">No.</span> <span class=\"sn\" data-s=\"38\">It is not the same thing at all to sin while you're comfortable and secure as it is to sin while you're suffering.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ τὸ δεινὸν τοῦτό ἐστιν, ὅτι οὐδὲ ἐν παραδείσῳ ὢν ἁμαρτάνεις, ἀλλ' ἐν τοῖς μυρίοις τοῦ παρόντος βίου κακοῖς, καὶ οὐδὲ τῇ ταλαιπωρίᾳ σωφρονέστερος γίνῃ· ὥσπερ ἂν εἴ τις δεδεμένος χρῷτο τῇ πονηρίᾳ.",
+          "en": "<span class=\"sn\" data-s=\"39\">And that's exactly what makes our situation so dreadful: our sins are not the sins of someone in Paradise.</span> <span class=\"sn\" data-s=\"40\">We sin surrounded by the countless miseries of this life — and we aren't sobered up even by our afflictions.</span> <span class=\"sn\" data-s=\"41\">We're like a prisoner who keeps committing his crime inside the prison.</span>"
+        },
+        {
+          "gr": "Σοὶ δὲ καὶ παραδείσου μείζονα ἐπηγγείλατο· καὶ οὔτε ἔδωκεν ἤδη, ἵνα μή σε διαχέῃ ἐν τῷ καιρῷ τῶν ἀγώνων, οὔτε ἐσίγησεν, ἵνα μή σε καταβάλ[λ]ῃ τοῖς πόνοις.",
+          "en": "<span class=\"sn\" data-s=\"42\">And God has promised us things even greater than Paradise.</span> <span class=\"sn\" data-s=\"43\">He hasn't given them to us yet — because handing over the prize in the middle of the contest would make us go soft — but he hasn't kept silent about them either, because total silence would crush us in the middle of our labors.</span>"
+        },
+        {
+          "gr": "Κἀκεῖνος μὲν μίαν ἁμαρτίαν ἁμαρτὼν, θάνατον ὁλόκληρον ἐπεσπάσατο, ἡμεῖς δὲ μυρία καθ' ἑκάστην ἡμέραν πλημμελοῦμεν.",
+          "en": "<span class=\"sn\" data-s=\"44\">Adam committed one sin and brought death on himself.</span> <span class=\"sn\" data-s=\"45\">We commit ten thousand sins every day.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ μίαν ἐργασάμενος ἐκεῖνος τοσοῦτον ἐπεσπάσατο κακὸν, καὶ θάνατον εἰσήνεγκεν· οἱ διηνεκῶς ἐν ἁμαρτήμασι ζῶντες, τί οὐ πεισόμεθα, οἱ ἀντὶ παραδείσου τὸν οὐρανὸν προσδοκῶντες;",
+          "en": "<span class=\"sn\" data-s=\"46\">If one act brought him so great a disaster — brought death into the world — what will we suffer, who live in sin continually, and who have been promised not Paradise but heaven?</span>"
+        },
+        {
+          "gr": "Φορτικὸς ὁ λόγος, καὶ λυπεῖ τὸν ἀκροατήν· καὶ ἐξ ὧν αὐτὸς πάσχω, τοῦτο οἶδα· καὶ γὰρ ἡ καρδία μου ταράττεται καὶ πάλλει· καὶ ὅσῳ ἂν ἴδω κατασκευαζόμενον τὸν τῆς γεέννης λόγον, τοσούτῳ μᾶλλον τρέμω καὶ ἀναδύομαι τῷ δέει.",
+          "en": "<span class=\"sn\" data-s=\"47\">This argument is heavy, and it hurts the people listening.</span> <span class=\"sn\" data-s=\"48\">I know it from my own body: my heart pounds and I tremble as I speak, and the more certain the reality of hell becomes to me, the more I shudder.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἀνάγκη ταῦτα λέγειν, ἵνα μὴ περιπέσωμεν τῇ γεέννῃ.",
+          "en": "<span class=\"sn\" data-s=\"49\">But these things must be said, so that we don't end up in hell.</span>"
+        },
+        {
+          "gr": "Οὐκ ἔλαβες σὺ παράδεισον οὐδὲ ξύλα καὶ φυτὰ, ἀλλ' οὐρανὸν καὶ τὰ ἐν τοῖς οὐρανοῖς ἀγαθά. Εἰ δὲ ὁ ἐλάττω λαβὼν κατεδικάσθη, καὶ οὐδεὶς αὐτὸν ἐξείλετο λόγος, πολλῷ μᾶλλον ἡμεῖς οἱ πλείονα ἁμαρτάνοντες καὶ ἐπὶ μείζοσι κεκλημένοι, τὰ ἀνήκεστα ὑπομενοῦμεν. Ἐννόησον γοῦν πόσον χρόνον ἐν τῷ θανάτῳ μένει διὰ μίαν ἁμαρτίαν τὸ γένος τὸ ἡμέτερον. Πεντακισχίλια ἔτη καὶ πλείω παρῆλθε, καὶ ὁ θάνατος οὐδέπω λέλυται διὰ μίαν ἁμαρτίαν.",
+          "en": "<span class=\"sn\" data-s=\"50\">Consider how long our race has stayed under death because of that one sin — more than five thousand years, by our reckoning, and death still has not been abolished.</span>"
+        },
+        {
+          "gr": "Καὶ οὐδὲ ἔχομεν εἰπεῖν, ὅτι προφητῶν ἤκουσεν ὁ Ἀδὰμ, οὐδὲ ὅτι ἐπὶ ἁμαρτήμασιν ἑτέρους κολαζομένους εἶδε, καὶ φοβηθῆναι ἐντεῦθεν αὐτὸν εἰκὸς ἦν, καὶ αὐτῷ τῷ παραδείγματι σωφρονισθῆναι· πρῶτος γὰρ ἦν τότε καὶ μόνος, ἀλλ' ὅμως ἐτιμωρεῖτο.",
+          "en": "<span class=\"sn\" data-s=\"51\">And Adam had no examples to warn him.</span> <span class=\"sn\" data-s=\"52\">He couldn't say he had heard prophets, or watched other people punished for sinning and taken the lesson to heart.</span> <span class=\"sn\" data-s=\"53\">He was the first human being, and the only one — and still he was punished.</span>"
+        },
+        {
+          "gr": "Σὺ δὲ οὐδὲν ἂν ἔχοις τούτων προβαλέσθαι, ὁ μετὰ τοσαῦτα παραδείγματα γενόμενος χείρων, ὁ τοσούτου καταξιωθεὶς Πνεύματος, καὶ οὐ μίαν οὐδὲ δύο καὶ τρεῖς, ἀλλὰ μυρίας ἐφελκόμενος ἁμαρτίας.",
+          "en": "<span class=\"sn\" data-s=\"54\">But you can't claim any such excuse.</span> <span class=\"sn\" data-s=\"55\">You have had thousands of examples, and you've grown worse anyway.</span> <span class=\"sn\" data-s=\"56\">You have received the Holy Spirit, and you're not carrying one sin, or two, or three, but sins beyond counting.</span>"
+        },
+        {
+          "gr": "Μὴ γὰρ, ὅτι ἐν ῥοπῇ βραχείᾳ τὰ ἁμαρτήματα γίνεται, τοῦτο σκόπει, καὶ διὰ τοῦτο καὶ τὴν κόλασιν ῥοπῆς εἶναι νόμιζε.",
+          "en": "<span class=\"sn\" data-s=\"57\">And don't run the calculation “the sin only took a moment, so the punishment should only take a moment.”</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς τοὺς ἀνθρώπους, οἳ πολλάκις ὑπὲρ μιᾶς κλοπῆς καὶ μιᾶς μοιχείας ἐν μικρᾷ ῥοπῇ γινομένης ἐν δεσμωτηρίοις καὶ μετάλλοις ὁλόκληρον αὐτῶν τὸν βίον ἀνάλωσαν, λιμῷ διηνεκεῖ καὶ μυρίοις παλαίοντες θανάτοις;",
+          "en": "<span class=\"sn\" data-s=\"58\">Look at how human justice works.</span> <span class=\"sn\" data-s=\"59\">People who commit one theft or one act of adultery — a crime of a single moment — often spend their entire lives in prisons and mines, fighting constant hunger and every kind of death.</span>"
+        },
+        {
+          "gr": "καὶ οὐδεὶς αὐτοὺς ἐξείλετο οὐδὲ εἶπεν, ὅτι ἐπειδὴ ἐν βραχείᾳ καιροῦ ῥοπῇ τὸ ἁμάρτημα γέγονε, δεῖ καὶ τὴν κόλασιν ἀντίῤῥοπον τῇ ἁμαρτίᾳ καὶ τὸν χρόνον ἔχειν.",
+          "en": "<span class=\"sn\" data-s=\"60\">And nobody comes to release them saying, “The offence took a moment; the punishment should take a moment too.”</span>"
+        }
+      ]
+    },
+    {
+      "heading": "A God who loves and still punishes",
+      "heading_sentence_index": 61,
+      "pairs": [
+        {
+          "gr": "βʹ. Ἀλλ' ἄνθρωποι, φησὶν, εἰσὶν, οἱ ταῦτα ποιοῦντες, ὁ δὲ Θεὸς φιλάνθρωπός ἐστι.",
+          "en": "<span class=\"sn\" data-s=\"62\">“But those are *men* doing that,” someone will say.</span> <span class=\"sn\" data-s=\"63\">“God is loving toward mankind.”</span>"
+        },
+        {
+          "gr": "Πρῶτον μὲν οὖν οὐδὲ ἄνθρωποι ὠμότητι ταῦτα πράττουσιν, ἀλλὰ φιλανθρωπίᾳ·",
+          "en": "<span class=\"sn\" data-s=\"64\">First of all: even men don't impose those punishments out of cruelty.</span> <span class=\"sn\" data-s=\"65\">They do it out of humanity — to protect people.</span>"
+        },
+        {
+          "gr": "καὶ ὁ Θεὸς δὲ, ὥσπερ ἐστὶ φιλάνθρωπος, οὕτω καὶ ἐπεξέρχεται· κατὰ γὰρ τὸ ἔλεος αὐτοῦ πολὺς καὶ ὁ ἔλεγχος αὐτοῦ. Ὅταν οὖν εἴπῃς φιλάνθρωπον τὸν Θεὸν, τότε μείζονά μοι λέγεις τῆς κολάσεως τὴν ἀφορμὴν, ὅτι εἰς τοιοῦτον ἁμαρτάνομεν.",
+          "en": "<span class=\"sn\" data-s=\"66\">And God, precisely *because* he is loving toward mankind, punishes sin.</span> <span class=\"sn\" data-s=\"67\">As Scripture says, *“As great as his mercy is, so great is also his rebuke.”* [Sirach 16:12] So when you say to me, “God loves mankind,” you're actually giving me a stronger reason for punishment: the Being we sin against is that good.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ὁ Παῦλος ἔλεγε· Φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας Θεοῦ ζῶντος.",
+          "en": "<span class=\"sn\" data-s=\"68\">That's why Paul said, *“It is a fearful thing to fall into the hands of the living God.”* [Hebrews 10:31]</span>"
+        },
+        {
+          "gr": "Ἀνάσχεσθε, παρακαλῶ, τῆς πυρᾶς τῶν ῥημάτων· ἴσως γὰρ, ἴσως ἔσται τις ὑμῖν ἐντεῦθεν παραμυθία.",
+          "en": "<span class=\"sn\" data-s=\"69\">Bear with the fire in these words, I beg you — there may actually be comfort in them.</span>"
+        },
+        {
+          "gr": "Τίς ἀνθρώπων δύναται κολάσαι οὕτως, ὡς ἐκόλασεν ὁ Θεὸς, κατακλυσμὸν ποιήσας καὶ πανωλεθρίαν τοσούτου γένους, καὶ μετὰ μικρὸν πάλιν πῦρ ἄνωθεν βρέξας, καὶ πάντας ἄρδην ἀφανίσας; ποία ἀνθρώπων τιμωρία δύναται εἶναι τοιαύτη;",
+          "en": "<span class=\"sn\" data-s=\"70\">Ask yourself: what human being can punish the way God has punished?</span> <span class=\"sn\" data-s=\"71\">He once sent a flood and wiped out an entire generation of the human race.</span> <span class=\"sn\" data-s=\"72\">Soon after, he rained fire from the sky and destroyed the people of Sodom completely.</span> <span class=\"sn\" data-s=\"73\">What human punishment can compare with that?</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς ἀθάνατον σχεδὸν καὶ τὴν ἐντεῦθεν κόλασιν οὖσαν; Τετρακισχίλια ἔτη παρῆλθε, καὶ ἡ τιμωρία μένει τῶν Σοδομιτῶν ἀκμάζουσα.",
+          "en": "<span class=\"sn\" data-s=\"74\">And notice that even the punishment of Sodom is, in this world's terms, nearly eternal — four thousand years have passed, and their punishment still stands in full force.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ ἡ φιλανθρωπία αὐτοῦ μεγάλη, οὕτω καὶ ἡ κόλασις.",
+          "en": "<span class=\"sn\" data-s=\"75\">As great as his mercy is, so great is his punishment.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ εἰ μὲν φορτικά τινα ἐπέταξε καὶ ἀδύνατα, ἴσως ἄν τις εἶχε τὴν δυσκολίαν προβαλέσθαι τῶν νόμων· εἰ δὲ σφόδρα ῥᾷστα, τί ἂν ἔχοιμεν εἰπεῖν μηδὲ τούτων ποιούμενοι λόγον;",
+          "en": "<span class=\"sn\" data-s=\"76\">Second: God has not made his commands difficult.</span> <span class=\"sn\" data-s=\"77\">If he had demanded burdensome or impossible things, you might plead that the laws were too hard.</span> <span class=\"sn\" data-s=\"78\">But they're extremely easy — so what's our excuse for ignoring even these?</span>"
+        },
+        {
+          "gr": "Νηστεῦσαι οὐ δύνασαι, οὐδὲ παρθενίαν ἀσκῆσαι;",
+          "en": "<span class=\"sn\" data-s=\"79\">Suppose you can't fast, or can't commit to lifelong celibacy.</span>"
+        },
+        {
+          "gr": "Καίτοι γε δύνασαι, ἐὰν θέλῃς, καὶ κατηγοροῦσιν ἡμῶν οἱ δυνηθέντες· ἀλλ' ὅμως οὐκ ἐχρήσατο ταύτῃ πρὸς ἡμᾶς ὁ Θεὸς τῇ ἀκριβείᾳ, οὐδὲ ἐπέταξε ταῦτα οὐδὲ ἐνομοθέτησεν, ἀλλ' ἀφῆκεν εἶναι τὴν αἵρεσιν ἐν τῇ γνώμῃ τῶν ἀκουόντων· σωφρονεῖν δὲ ἐν γάμῳ δύνασαι, καὶ μὴ μεθύειν δύνασαι.",
+          "en": "<span class=\"sn\" data-s=\"80\">(Actually you could if you chose to, and the people who have managed it are the proof that condemns the rest of us — but never mind.)</span> <span class=\"sn\" data-s=\"81\">God hasn't been strict with us about those things.</span> <span class=\"sn\" data-s=\"82\">He never made them laws; he left them as free choices.</span> <span class=\"sn\" data-s=\"83\">But you *can* be faithful within your marriage.</span> <span class=\"sn\" data-s=\"84\">You *can* stay sober.</span>"
+        },
+        {
+          "gr": "Χρήματα κενῶσαι οὐ δύνασαι πάντα;",
+          "en": "<span class=\"sn\" data-s=\"85\">Can't you give away everything you own?</span>"
+        },
+        {
+          "gr": "Καίτοι γε δύνασαι, καὶ δηλοῦσιν οἱ ἐργασάμενοι· ἀλλ' ὅμως οὐδὲ τοῦτο ἐπέταξεν, ἀλλὰ μὴ ἁρπάζειν ἐκέλευσε, καὶ ἐκ τῶν ὄντων τοῖς δεομένοις ἐπικουρεῖν.",
+          "en": "<span class=\"sn\" data-s=\"86\">Of course you could — people have done it — but God hasn't demanded even that.</span> <span class=\"sn\" data-s=\"87\">He has only commanded you not to grab what belongs to others, and to help the needy out of what you have.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ λέγοι τις, ὅτι Οὐδὲ τῇ γυναικὶ μόνον ἀρκεσθῆναι δύναμαι, ἀπατᾷ ἑαυτὸν καὶ παραλογίζεται· καὶ κατηγοροῦσιν οἱ χωρὶς γυναικὸς σωφρονοῦντες.",
+          "en": "<span class=\"sn\" data-s=\"88\">If a man says “I can't even be content with just my wife,” he's lying to himself — the people who live chastely without any wife at all condemn that excuse.</span>"
+        },
+        {
+          "gr": "Τί δὲ, εἰπέ μοι, μὴ λοιδορεῖσθαι οὐ δύνασαι; μὴ καταρᾶσθαι οὐ δύνασαι;",
+          "en": "<span class=\"sn\" data-s=\"89\">And tell me — how hard is it, really, to stop insulting people?</span> <span class=\"sn\" data-s=\"90\">To stop cursing?</span>"
+        },
+        {
+          "gr": "Καὶ μὴν τὸ ταῦτα ποιεῖν φορτικὸν, οὐ τὸ μὴ ποιεῖν.",
+          "en": "<span class=\"sn\" data-s=\"91\">The *doing* of these sins is the tiring part, not the refraining.</span>"
+        },
+        {
+          "gr": "Ποίαν οὖν ἔχομεν ἀπολογίαν, τὰ οὕτω κοῦφα καὶ εὔκολα μὴ φυλάττοντες;",
+          "en": "<span class=\"sn\" data-s=\"92\">What excuse do we have, then, for not keeping commands this easy and this light?</span>"
+        },
+        {
+          "gr": "Οὐκ ἔστιν εἰπεῖν οὐδεμίαν.",
+          "en": "<span class=\"sn\" data-s=\"93\">None at all.</span>"
+        },
+        {
+          "gr": "Ὅτι μὲν οὖν ἀθάνατος ἡ κόλασις, ἐκ τῶν εἰρημένων ἁπάντων δῆλον· ἐπειδὴ δὲ δοκεῖ τισι τὸ τοῦ Παύλου ῥῆμα ἀντιπίπτειν, φέρε καὶ αὐτὸ καταμάθωμεν ἀγαγόντες εἰς μέσον.",
+          "en": "<span class=\"sn\" data-s=\"94\">So from everything said: the punishment is eternal.</span> <span class=\"sn\" data-s=\"95\">That much is plain.</span>"
+        },
+        {
+          "gr": "Εἰπὼν γὰρ, Εἴ τινος τὸ ἔργον μένει, ὃ ἐπῳκοδόμησε, μισθὸν λήψεται· καὶ εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, ἐπήγαγεν· Αὐτὸς δὲ σωθήσεται, οὕτω δὲ ὡς διὰ πυρός.",
+          "en": "<span class=\"sn\" data-s=\"96\">But Paul's saying — *“he himself will be saved, yet so as through fire”* — seems to some people to point the other way.</span> <span class=\"sn\" data-s=\"97\">So let's bring it out and examine it thoroughly.</span>"
+        },
+        {
+          "gr": "Τί οὖν ἂν εἴποιμεν πρὸς τοῦτο· Σκοπήσωμεν πρότερον τίς ἐστιν ὁ θεμέλιος, καὶ τίς ὁ χρυσὸς, καὶ τίνες οἱ λίθοι οἱ τίμιοι, καὶ τίς ὁ χόρτος, καὶ τίς ἡ καλάμη.",
+          "en": "<span class=\"sn\" data-s=\"98\">First, let's establish the pieces: what is “the Foundation”?</span> <span class=\"sn\" data-s=\"99\">What are “the gold,” “the precious stones,” “the hay,” “the straw”?</span>"
+        },
+        {
+          "gr": "Τὸν μὲν οὖν θεμέλιον φανερῶς αὐτὸς ἐδήλωσεν ὄντα τὸν Χριστὸν εἰπών· Θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, φησὶν, ὅς ἐστι Χριστὸς Ἰησοῦς. Ἡ δὲ οἰκοδομὴ πράξεις ἐμοὶ δοκοῦσιν εἶναι.",
+          "en": "<span class=\"sn\" data-s=\"100\">The Foundation, Paul tells us plainly himself, is Christ: *“No one can lay any foundation other than the one already laid, which is Jesus Christ.”* [1 Corinthians 3:11] The building, it seems to me, is our *actions* — how we live.</span>"
+        },
+        {
+          "gr": "Καίτοι γέ τινές φασιν, ὅτι καὶ αὐτὸ τοῦτο περὶ διδασκάλων εἴρηται καὶ μαθητῶν, καὶ περὶ αἱρέσεων διεφθαρμένων· ἀλλ' ὁ λόγος οὐ παραδέχεται.",
+          "en": "<span class=\"sn\" data-s=\"101\">Some people argue instead that this whole passage is about teachers, their disciples, and corrupt heresies — that “building with hay” means teaching people falsehood.</span> <span class=\"sn\" data-s=\"102\">But the logic doesn't allow it.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ τοῦτό ἐστι, πῶς τὸ μὲν ἔργον ἀπόλλυται, ὁ δὲ οἰκοδομῶν σωθήσεται κἂν διὰ πυρός;",
+          "en": "<span class=\"sn\" data-s=\"103\">Follow it through: if that's the meaning, why is the *builder* saved (even “through fire”) while his *work* — his students — is destroyed?</span>"
+        },
+        {
+          "gr": "τὸν γὰρ αἴτιον μᾶλλον ἀπόλλυσθαι ἐχρῆν; νυνὶ δὲ εὑρεθήσεται πλείονα δίκην διδοὺς ὁ οἰκοδομηθείς. Εἰ μὲν γὰρ ὁ διδάσκαλος αἴτιος γέγονε τῆς κακίας, πλείονα ἄξιος δοῦναι δίκην· πῶς οὖν σωθήσεται;",
+          "en": "<span class=\"sn\" data-s=\"104\">By rights, the teacher who caused the corruption ought to perish more surely than anyone; the harsher penalty would be landing on the people who were merely built into the structure.</span>"
+        },
+        {
+          "gr": "εἰ δ' οὐκ αἴτιος, ἀλλὰ παρὰ τὴν οἰκείαν δυστροπίαν οἱ μαθηταὶ τοιοῦτοι γεγόνασιν, οὐδ' ὅλως ἄξιος δοῦναι δίκην, ἀλλ' οὐδὲ ζημίαν ὑποστῆναι ὁ καλῶς οἰκοδομήσας.",
+          "en": "<span class=\"sn\" data-s=\"105\">And flip it around: if the teacher was *not* at fault — if the disciples went bad through their own stubbornness while he built well — then the teacher deserves no punishment and no loss at all.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν φησι, Ζημιωθήσεται;",
+          "en": "<span class=\"sn\" data-s=\"106\">So in what sense would Paul say he “suffers loss”?</span>"
+        },
+        {
+          "gr": "Ὅθεν δῆλον ὅτι περὶ πράξεων ὁ λόγος.",
+          "en": "<span class=\"sn\" data-s=\"107\">The interpretation collapses either way.</span> <span class=\"sn\" data-s=\"108\">The passage is about how each of us lives.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ μέλλει λοιπὸν πρὸς τὸν πεπορνευκότα ἀποτείνεσθαι, ἄνωθεν καὶ πρὸ πολλοῦ καταβάλλεται τὰ προοίμια.",
+          "en": "<span class=\"sn\" data-s=\"109\">There's also a reason Paul plants this subject here.</span> <span class=\"sn\" data-s=\"110\">He is preparing, a little further into the letter, to confront a member of the church living in serious sexual sin [1 Corinthians 5].</span>"
+        },
+        {
+          "gr": "Οἶδε γὰρ, περὶ ἑτέρου διαλεγόμενος, ἐν αὐτῇ τῇ περὶ ἑτέρου διαλέξει προκατασκευάζειν ἕτερον, ἐφ' ὃ μέλλει ἰέναι.",
+          "en": "<span class=\"sn\" data-s=\"111\">That's his method: while discussing one topic, he quietly lays the groundwork for the next one.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ἐπιτιμῶν περὶ τοῦ μὴ ἀναμένειν ἑαυτοὺς τοῖς ἀρίστοις, τὸν περὶ τῶν μυστηρίων κατεσκεύασε λόγον.",
+          "en": "<span class=\"sn\" data-s=\"112\">(He did the same thing elsewhere — while rebuking the Corinthians for not waiting for one another at their common meals, he laid the groundwork for teaching about Communion.)</span>"
+        },
+        {
+          "gr": "Ὅτι δὲ καὶ νῦν πρὸς τὸν πεπορνευκότα ἐπείγεται, περὶ τοῦ θεμελίου εἰπὼν, ἐπήγαγεν· Οὐκ οἴδατε ὅτι ναὸς Θεοῦ ἐστε, καὶ τὸ Πνεῦμα τοῦ Θεοῦ οἰκεῖ ἐν ὑμῖν; Εἴ τις τὸν ναὸν τοῦ Θεοῦ φθείρει, φθερεῖ τοῦτον ὁ Θεός. Ταῦτα δὲ ἔλεγεν ἤδη διασαλεύων τῷ φόβῳ τὴν ψυχὴν τοῦ πεπορνευκότος.",
+          "en": "<span class=\"sn\" data-s=\"113\">So because he's already steering toward that sinner, he moves from “the Foundation” straight to this: *“Do you not know that you are the Temple of God, and that the Spirit of God dwells in you?*</span> <span class=\"sn\" data-s=\"114\">*If anyone destroys the Temple of God, God will destroy him.”* [1 Corinthians 3:16–17] He said that to begin shaking that man's soul with fear.</span>"
+        },
+        {
+          "gr": "Εἴ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον τοῦτον, χρυσὸν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην.",
+          "en": "<span class=\"sn\" data-s=\"115\">*“If anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw.”* [1 Corinthians 3:12]</span>"
+        },
+        {
+          "gr": "Μετὰ γὰρ τὴν πίστιν οἰκοδομῆς χρεία· διὸ καὶ ἀλλαχοῦ φησιν· Οἰκοδομεῖτε ἀλλήλους ἐν τοῖς λόγοις τούτοις. Καὶ γὰρ καὶ ὁ τεχνίτης καὶ ὁ μαθητὴς συνεισφέρουσιν ἐν τῇ οἰκοδομῇ· διὸ λέγει· Ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ.",
+          "en": "<span class=\"sn\" data-s=\"116\">After faith comes the *building* — the life you construct on top of your faith.</span> <span class=\"sn\" data-s=\"117\">That's why Paul says elsewhere, *“encourage one another and build each other up.”* [1 Thessalonians 5:11] Both the craftsman and the learner contribute to the building.</span> <span class=\"sn\" data-s=\"118\">That's why he warns, *“let each one take care how he builds.”* [1 Corinthians 3:10]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Gold, silver, and the fire that tests our works",
+      "heading_sentence_index": 119,
+      "pairs": [
+        {
+          "gr": "γʹ. Εἰ δὲ περὶ πίστεως ταῦτα εἴρητο, λόγον οὐκ ἔχει τὸ λεγόμενον. Ἐν γὰρ τῇ πίστει ἴσους πάντας εἶναι χρὴ, ἐπειδὴ μία πίστις· ἐν δὲ ἀρετῇ βίου οὐκ ἔνι πάντας εἶναι τοὺς αὐτούς. Πίστις μὲν γὰρ οὐκ ἔστιν ἡ μὲν ἐλάττων, ἡ δὲ βελτίων, ἀλλ' ἡ αὐτὴ πάντων τῶν ἀληθῶς πιστευόντων· ἐπὶ δὲ βίου ἔστι τοὺς μὲν σπουδαιοτέρους εἶναι, τοὺς δὲ ῥᾳθυμοτέρους· καὶ τοὺς μὲν ἀκριβεστέρους, τοὺς δὲ καταδεεστέρους· καὶ τοὺς μὲν τὰ μείζω, τοὺς δὲ τὰ ἐλάττω κατωρθωκέναι· καὶ τοὺς μὲν χαλεπώτερα, τοὺς δὲ καταδεέστερα πεπλημμεληκέναι.",
+          "en": "<span class=\"sn\" data-s=\"120\">Here's more proof the passage is about conduct, not faith.</span> <span class=\"sn\" data-s=\"121\">If these verses were about faith, they wouldn't make sense — because in faith, everyone is meant to be equal: *“there is one faith.”* [Ephesians 4:5] Faith doesn't come in smaller and larger sizes; it's the same in everyone who truly believes.</span> <span class=\"sn\" data-s=\"122\">But in how we *live*, there's every kind of difference: one person is diligent, another lazy; one strict with himself, another ordinary; one does well in great things, another in small ones; one person's failures are grave, another's minor.</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο εἶπε χρυσὸν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην.",
+          "en": "<span class=\"sn\" data-s=\"123\">That's why the materials range all the way from gold down to straw.</span>"
+        },
+        {
+          "gr": "Ἑκάστου τὸ ἔργον φανερὸν γενήσεται. Τὴν πρᾶξιν ἐνταῦθά φησιν.",
+          "en": "<span class=\"sn\" data-s=\"124\">“Each person's work will be shown for what it is” — his *conduct*; that's what's meant here.</span>"
+        },
+        {
+          "gr": "Εἴ τινος τὸ ἔργον μενεῖ, ὃ ἐπῳκοδόμησε, μισθὸν λήψεται· εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται. Καίτοι γε εἰ περὶ μαθητῶν καὶ διδασκάλων τὸ λεγόμενον ἦν, οὔτε ζημιοῦσθαι ἐχρῆν, εἰ μὴ ἤκουσαν οἱ μαθηταί, Διὰ γὰρ τοῦτό φησιν· Ἕκαστος τὸν ἴδιον μισθὸν λήψεται κατὰ τὸν ἴδιον κόπον· οὐ κατὰ τὸ τέλος, ἀλλὰ κατὰ τὸν κόπον. Τί γὰρ, εἰ μὴ προσεῖχον οἱ ἀκούοντες;",
+          "en": "<span class=\"sn\" data-s=\"125\">And notice: *“each will receive his reward according to his own labor”* [1 Corinthians 3:8] — according to the labor, not the outcome.</span> <span class=\"sn\" data-s=\"126\">If Paul were talking about teachers, a teacher would be punished because his students refused to listen — for an outcome outside his control.</span>"
+        },
+        {
+          "gr": "Ὅθεν δῆλον καὶ ἐντεῦθεν, ὅτι περὶ ἔργων τὸ λεγόμενον.",
+          "en": "<span class=\"sn\" data-s=\"127\">One more proof the subject is our own actions.</span>"
+        },
+        {
+          "gr": "Ὃ δὲ λέγει, τοῦτό ἐστιν· Εἴ τις κακὸν βίον ἔχει μετὰ πίστεως ὀρθῆς, οὐ προστήσεται αὐτοῦ ἡ πίστις εἰς τὸ μὴ κολάζεσθαι, τοῦ ἔργου κατακαιομένου.",
+          "en": "<span class=\"sn\" data-s=\"128\">So Paul's meaning is this: **if a person has a right faith but an evil life, his faith will not shield him from punishment.** His “work” burns.</span>"
+        },
+        {
+          "gr": "Τὸ δὲ, Κατακαήσεται, τοῦτ' ἔστιν, οὐκ οἴσει τοῦ πυρὸς τὴν ῥύμην. Ἀλλ' ὥσπερ εἴ τις χρυσᾶ ὅπλα ἔχων διέλθοι ποταμὸν πυρὸς, φαιδρότερος διαβαίνει· εἰ δὲ χόρτον ἔχων διέλθοι, οὐ μόνον οὐδὲν ὀνίνησιν, ἀλλὰ καὶ ἑαυτὸν ἀπόλλυσιν· οὕτω καὶ ἐπὶ τῶν ἔργων ἐστίν.",
+          "en": "<span class=\"sn\" data-s=\"129\">“Burned up” means: *it cannot withstand the violence of the fire.* Picture a man wearing golden armor crossing a river of fire — he comes out the other side gleaming brighter than before.</span> <span class=\"sn\" data-s=\"130\">Now picture a man trying to cross the same river carrying hay.</span> <span class=\"sn\" data-s=\"131\">Far from bringing anything through, he destroys himself as well.</span> <span class=\"sn\" data-s=\"132\">That's how it is with our deeds.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ ὡς περὶ ἐνυποστάτων διαλεγόμενος καὶ διακαιομένων, τοῦτο λέγει, ἀλλὰ τὸν φόβον μᾶλλον ἐπιτεῖναι θέλων, καὶ δεῖξαι γυμνὸν ἀσφαλείας τὸν ἐν κακίᾳ ὄντα.",
+          "en": "<span class=\"sn\" data-s=\"133\">Paul isn't describing literal building materials burning; he's intensifying our fear, and showing how utterly defenceless a person is who stands on right faith while living in wickedness.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ἔλεγε· Ζημιωθήσεται. Ἰδοὺ μία κόλασις.",
+          "en": "<span class=\"sn\" data-s=\"134\">So there are two punishments in the verse, not one.</span> <span class=\"sn\" data-s=\"135\">*“He will suffer loss”* — that's the first.</span>"
+        },
+        {
+          "gr": "Αὐτὸς δὲ σωθήσεται, οὕτω δὲ ὡς διὰ πυρός. Ἰδοὺ καὶ δευτέρα.",
+          "en": "<span class=\"sn\" data-s=\"136\">*“But he himself will be saved, yet so as through fire”* — that's the second.</span>"
+        },
+        {
+          "gr": "Ὃ δὲ λέγει, τοῦτό ἐστιν· Οὐχὶ καὶ αὐτὸς οὕτως ἀπολεῖται, ὡς τὰ ἔργα, εἰς τὸ μηδὲν χωρῶν· ἀλλὰ μενεῖ ἐν τῷ πυρί.",
+          "en": "<span class=\"sn\" data-s=\"137\">Paul's meaning: the man will not perish the way his works perish — they pass into nothing, but he will *remain*, in the fire.</span>"
+        },
+        {
+          "gr": "Σωτηρίαν γοῦν τὸ πρᾶγμα καλεῖ, φησί. Οὐχ ἁπλῶς· διὰ τοῦτο προσέθηκεν· Ὡς διὰ πυρός. Καὶ γὰρ καὶ ἡμῖν ἔθος λέγειν, Ἐν τῷ πυρὶ σώζεται, περὶ τῶν μὴ κατακαιομένων καὶ τεφρουμένων εὐθέως ὑλῶν.",
+          "en": "<span class=\"sn\" data-s=\"138\">“But Paul calls it being *saved*,” you'll say.</span> <span class=\"sn\" data-s=\"139\">Exactly — and that's why he added *“so as through fire.”* We use the same expression ourselves: we say a material is “preserved” in fire when we mean it doesn't instantly burn away to ash.</span>"
+        },
+        {
+          "gr": "Μὴ οὖν, ἐπειδὴ πῦρ ἤκουσας, νομίσῃς εἰς ἀνυπαρξίαν χωρεῖν τοὺς καιομένους.",
+          "en": "<span class=\"sn\" data-s=\"140\">So when you hear the word “fire,” don't imagine that those who are burning get the mercy of ceasing to exist.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ σωτηρίαν καὶ τὴν τοιαύτην τιμωρίαν καλεῖ, μὴ θαυμάσῃς· ἔθος γὰρ αὐτῷ καὶ ἐπὶ τῶν κακεμφάτων καλοῖς ὀνόμασι κεχρῆσθαι, καὶ ἐπὶ τῶν χρηστῶν τοῖς ἐναντίοις.",
+          "en": "<span class=\"sn\" data-s=\"141\">And don't be startled that Paul can call such a punishment “salvation.”</span> <span class=\"sn\" data-s=\"142\">It's his habit to use fair-sounding words for terrible things, and harsh-sounding words for good things.</span>"
+        },
+        {
+          "gr": "Οἷον, τὸ τῆς αἰχμαλωσίας ὄνομα, πονηροῦ πράγματος δοκεῖ εἶναι ὄνομα· ἀλλ' ἐπὶ καλῷ Παῦλος αὐτῷ κέχρηται λέγων· Αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ Χριστοῦ. Καὶ ἐπὶ κακῷ πάλιν εὐφήμῳ κέχρηται ὀνόματι, λέγων· Ἐβασίλευσεν ἡ ἁμαρτία· καίτοι γε τὸ τῆς βασιλείας ὄνομα εὔφημόν ἐστι μᾶλλον.",
+          "en": "<span class=\"sn\" data-s=\"143\">For example, “captivity” sounds like a purely evil word — but Paul uses it for something good: *“taking every thought captive to obey Christ.”* [2 Corinthians 10:5] And he attaches a grand-sounding word to an evil thing: *“sin reigned”* [Romans 5:21] — “reigning” normally sounds splendid.</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ ἐνταῦθα εἰπὼν, Σωθήσεται, οὐδὲν ἕτερον ἢ τὴν ἐπίτασιν τῆς τιμωρίας ᾐνίξατο, ὡσανεὶ ἔλεγεν· Αὐτὸς δὲ μενεῖ διηνεκῶς κολαζόμενος.",
+          "en": "<span class=\"sn\" data-s=\"144\">It's the same here.</span> <span class=\"sn\" data-s=\"145\">When he says “he shall be saved,” he is darkly hinting at how severe the penalty is.</span> <span class=\"sn\" data-s=\"146\">It's as if he had said: *he himself will remain — forever — in punishment.*</span>"
+        },
+        {
+          "gr": "Εἶτα καὶ ἐπιφέρει λέγων· Οὐκ οἴδατε ὅτι ναὸς Θεοῦ ἐστε; Ἐπειδὴ γὰρ περὶ τῶν διατεμνόντων τὴν Ἐκκλησίαν ἐν τοῖς ἔμπροσθεν διελέχθη, καθάπτεται λοιπὸν καὶ τοῦ πεπορνευκότος, σαφῶς μὲν οὐδέπω, ἀορίστως δὲ, αἰνιττόμενος τὸν διεφθαρμένον αὐτοῦ βίον, καὶ ἐπαίρων τὸ ἁμάρτημα ἀπὸ τῆς ἤδη δοθείσης αὐτῷ δωρεᾶς.",
+          "en": "<span class=\"sn\" data-s=\"147\">Then Paul draws his conclusion: *“Do you not know that you are the Temple of God?”* [1 Corinthians 3:16] He had just been dealing with the people who were splitting the church into factions.</span> <span class=\"sn\" data-s=\"148\">From here on, he turns toward the man living in sexual sin — not yet by name, not yet in plain terms, but in general language: hinting at his corrupt way of life, and making the sin weigh heavier by pointing to the Gift the man had already received — the Spirit living in him.</span>"
+        },
+        {
+          "gr": "Εἶτα καὶ τοὺς ἄλλους ἐντρέπει ἀπὸ τῶν αὐτῶν τούτων τῶν ἤδη ὑπαρξάντων.",
+          "en": "<span class=\"sn\" data-s=\"149\">And at the same time, the words put everyone *else* to shame too, arguing from the blessings they had all already received.</span>"
+        },
+        {
+          "gr": "Ἢ γὰρ ἀπὸ τῶν μελλόντων, ἢ ἀπὸ τῶν ἤδη γεγενημένων, ἢ λυπηρῶν, ἢ χρηστῶν, ἀεὶ τοῦτο ποιεῖ· ἀπὸ μὲν τῶν μελλόντων· Ἡ γὰρ ἡμέρα δηλώσει, ὅτι ἐν πυρὶ ἀποκαλύπτεται· ἀπὸ δὲ τῶν ἤδη γεγενημένων· Οὐκ οἴδατε ὅτι ναὸς Θεοῦ ἐστε, καὶ τὸ Πνεῦμα τοῦ Θεοῦ οἰκεῖ ἐν ὑμῖν; Εἴ τις τὸν ναὸν τοῦ Θεοῦ φθείρει, φθερεῖ τοῦτον ὁ Θεός. Ὁρᾷς τὴν καταφορὰν τοῦ λόγου;",
+          "en": "<span class=\"sn\" data-s=\"150\">(This is Paul's constant method: he argues from the future or from the past, from what frightens or what encourages.</span> <span class=\"sn\" data-s=\"151\">From the future: “the Day will reveal it, because it is revealed by fire.”</span> <span class=\"sn\" data-s=\"152\">From what has already happened: “you are the Temple of God, and God's Spirit dwells in you.”)</span> <span class=\"sn\" data-s=\"153\">*“If anyone destroys the Temple of God, God will destroy him.”* [1 Corinthians 3:17] Do you feel the sweeping force of those words?</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἕως τὸ πρόσωπον ἄδηλόν ἐστιν, οὐχ οὕτως ἐπαχθὲς τὸ λεγόμενον, πάντων διανεμομένων τὸν τῆς ἐπιτιμήσεως φόβον.",
+          "en": "<span class=\"sn\" data-s=\"154\">But notice his mercy: as long as the guilty man isn't named, the rebuke doesn't humiliate anyone in particular — the whole congregation shares the fear of it between them.</span>"
+        },
+        {
+          "gr": "Φθερεῖ τοῦτον ὁ Θεός· τουτέστιν, ἀπολεῖ.",
+          "en": "<span class=\"sn\" data-s=\"155\">“God will destroy him” — that is, God will cause him to perish.</span>"
+        },
+        {
+          "gr": "Τοῦτο δὲ οὐχὶ καταρωμένου ἐστὶν, ἀλλὰ προφητεύοντος.",
+          "en": "<span class=\"sn\" data-s=\"156\">And this isn't Paul pronouncing a curse; it's Paul prophesying what will happen.</span>"
+        },
+        {
+          "gr": "Ὁ γὰρ ναὸς τοῦ Θεοῦ ἅγιός ἐστιν. Ὁ δὲ πεπορνευμένος βέβηλος.",
+          "en": "<span class=\"sn\" data-s=\"157\">*“For the Temple of God is holy”* — and the man living in that sin is unholy.</span>"
+        },
+        {
+          "gr": "Εἶτα, ἵνα μὴ δόξῃ πρὸς ἐκεῖνον ἀποτείνεσθαι, εἰπὼν, Ὁ γὰρ ναὸς τοῦ Θεοῦ ἅγιός ἐστιν, ἐπάγει· Οἵτινές ἐστε ὑμεῖς.",
+          "en": "<span class=\"sn\" data-s=\"158\">Then, so that his intensity doesn't seem aimed at one man alone, having said “the Temple of God is holy,” he adds: *“which is what you are.”*</span>"
+        },
+        {
+          "gr": "Μηδεὶς ἑαυτὸν ἐξαπατάτω. Καὶ τοῦτο πρὸς ἐκεῖνον, ὡς νομίζοντά τι εἶναι, καὶ ἀπὸ τῆς σοφίας αὐχοῦντα.",
+          "en": "<span class=\"sn\" data-s=\"159\">*“Let no one deceive himself.”* [1 Corinthians 3:18] This is still aimed at that same man — a man who thought he was somebody, and flattered himself on his wisdom.</span>"
+        },
+        {
+          "gr": "Καὶ ἵνα μὴ δόξῃ παρέργως μέχρι πολλοῦ πρὸς αὐτὸν ἀποτείνεσθαι, ἐμβαλὼν αὐτὸν εἰς ἀγωνίαν καὶ τῷ φόβῳ παραδοὺς αὐτὸν, πάλιν ἐπὶ τὸ κοινὸν ἔγκλημα τὸν λόγον ἄγει, λέγων· Εἴ τις δοκεῖ φρόνιμος εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω, ἵνα γένηται σοφός. Ποιεῖ δὲ αὐτὸ λοιπὸν μετὰ πολλῆς τῆς παῤῥησίας, ἅτε καταγωνισάμενος αὐτοὺς ἱκανῶς.",
+          "en": "<span class=\"sn\" data-s=\"160\">But so that the digression doesn't run too long, Paul first throws the man into dread, hands him over to fear — and then steers the message back to the fault the whole congregation shared: *“If any of you thinks he is wise in this world, let him become a fool, so that he may become wise.”* By then he can speak with total boldness, because the fear has already leveled them — not just the guilty man, but every listener.</span> <span class=\"sn\" data-s=\"161\">That's how precisely Paul measures the reach of his own words.</span>"
+        },
+        {
+          "gr": "Κἂν γὰρ πλούσιος ᾖ τις, κἂν εὐγενὴς, τῶν εὐτελῶν ἐστιν εὐτελέστερος, ὅταν ὑπὸ τῆς ἁμαρτίας ἁλῶ.",
+          "en": "<span class=\"sn\" data-s=\"162\">Because — what does it matter if a man is rich?</span> <span class=\"sn\" data-s=\"163\">What does it matter if he's from a noble family?</span> <span class=\"sn\" data-s=\"164\">If sin has taken him captive, he is lower than the lowest.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ κἂν βασιλεὺς ᾖ τις, δοῦλος δὲ γένηται βαρβάρων, πάντων ἐστὶν ἀθλιώτερος· οὕτω καὶ ἐπὶ τῆς ἁμαρτίας.",
+          "en": "<span class=\"sn\" data-s=\"165\">A king enslaved to barbarians is the most wretched man alive — and that's what sin does.</span>"
+        },
+        {
+          "gr": "Βάρβαρος γάρ ἐστιν ἡ ἁμαρτία, καὶ ψυχῆς οὐκ εἰδυῖα φείδεσθαι τῆς ἅπαξ ἁλούσης, ἀλλ' ἐπὶ λύμῃ τῶν ἐπιδεχομένων αὐτὴν τυραννοῦσα.",
+          "en": "<span class=\"sn\" data-s=\"166\">Sin is a barbarian invader.</span> <span class=\"sn\" data-s=\"167\">Once it captures a soul, it doesn't know how to show mercy; it turns tyrant and ruins everyone who lets it in.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The portrait of sin",
+      "heading_sentence_index": 168,
+      "pairs": [
+        {
+          "gr": "δʹ. Οὐδὲν γὰρ οὕτως ἀλόγιστον, ὡς ἁμαρτία, οὐδὲν οὕτως ἀνόητον καὶ μωρὸν καὶ ῥαγδαῖον· πάντα ἀνατρέπει καὶ συγχεῖ καὶ ἀπόλλυσι ἔνθα ἂν εἰσπηδήσῃ· ἀηδὴς ἰδεῖν, φορτικὴ καὶ ἐπαχθής.",
+          "en": "<span class=\"sn\" data-s=\"169\">Nothing is as reckless as sin.</span> <span class=\"sn\" data-s=\"170\">Nothing is as senseless, as stupid, as violent.</span> <span class=\"sn\" data-s=\"171\">Wherever it lands, everything is overturned, poisoned, destroyed.</span> <span class=\"sn\" data-s=\"172\">It is ugly to look at, disgusting, and heavy to carry.</span>"
+        },
+        {
+          "gr": "Καὶ εἴ τις αὐτὴν ἀνέπλαττε ζωγράφος, οὐκ ἄν μοι δοκεῖ ἁμαρτεῖν οὕτως αὐτὴν ἀναπλάττων, γυναῖκά τινα θηριόμορφον, βάρβαρον, πῦρ πνέουσαν, ἀτερπῆ, μέλαιναν, οἵας οἱ τῶν ἔξωθεν ποιηταὶ τὰς Σκύλλας ὑπογράφουσι.",
+          "en": "<span class=\"sn\" data-s=\"173\">If a painter had to paint sin's portrait, I think he wouldn't go wrong painting it like this: a woman with the body of a beast, savage, breathing fire, hideous, black — the way the pagan poets used to paint their monsters, like Scylla, the many-armed sea-creature of the old myths.</span>"
+        },
+        {
+          "gr": "Μυρίαις γὰρ χερσὶν ἐπιλαμβάνεται τῶν ἡμετέρων λογισμῶν, καὶ ἀδοκήτως ἐπεισέρχεται, καὶ πάντα διασπαράττει, καθάπερ οἱ κύνες οἱ λάθρα δάκνοντες.",
+          "en": "<span class=\"sn\" data-s=\"174\">With ten thousand hands she grabs at our thoughts, arrives when no one expects her, and tears everything to shreds — like a dog that bites without barking first.</span>"
+        },
+        {
+          "gr": "Μᾶλλον δὲ τί δεῖ ζωγραφίας ἡμῖν, δέον τοὺς κατ' αὐτὴν πεποιημένους εἰς μέσον ἀγαγεῖν;",
+          "en": "<span class=\"sn\" data-s=\"175\">But actually, why bother with a painter?</span> <span class=\"sn\" data-s=\"176\">We have live models — people who have been made over into sin's likeness.</span>"
+        },
+        {
+          "gr": "Τίνα οὖν βούλεσθε πρότερον ὑπογράψωμεν; τὸν πλεονέκτην καὶ ἅρπαγα;",
+          "en": "<span class=\"sn\" data-s=\"177\">Who should we portray first?</span> <span class=\"sn\" data-s=\"178\">The greedy — the ones who grab everything for themselves?</span>"
+        },
+        {
+          "gr": "Καὶ τί τῶν ὀφθαλμῶν ἐκείνων ἀναισχυντότερον; τί ἀναιδέστερον καὶ κυνικώτερον; οὐ γὰρ οὕτω κύων ἕστηκεν ἀναιδευόμενος, ὡς οὗτος, ὅταν τὰ πάντων ἁρπάζῃ.",
+          "en": "<span class=\"sn\" data-s=\"179\">What is more shameless than those eyes?</span> <span class=\"sn\" data-s=\"180\">What is more like a scavenging dog?</span> <span class=\"sn\" data-s=\"181\">No dog stands its ground with such naked impudence as a greedy man reaching for everyone else's property.</span>"
+        },
+        {
+          "gr": "Τί τῶν χειρῶν μιαρώτερον ἐκείνων; τί τοῦ στόματος ἰταμώτερον τοῦ πάντα καταπίνοντος, καὶ οὐ κορεννυμένου;",
+          "en": "<span class=\"sn\" data-s=\"182\">What is filthier than those hands?</span> <span class=\"sn\" data-s=\"183\">What is more brazen than that mouth, swallowing everything and never full?</span>"
+        },
+        {
+          "gr": "Μὴ γὰρ εἰς τὸ πρόσωπον καὶ τοὺς ὀφθαλμοὺς ἴδῃς, ὅτι ἀνθρώπου· οὐ γὰρ τὰ τοιαῦτα βλέπουσιν οἱ ἀνθρώπινοι ὀφθαλμοί.",
+          "en": "<span class=\"sn\" data-s=\"184\">Don't think of his face and eyes as a man's, because that gaze is not human.</span>"
+        },
+        {
+          "gr": "Οὐ βλέπει τοὺς ἀνθρώπους ἀνθρώπους, οὐ βλέπει τὸν οὐρανὸν οὐρανὸν, οὐδὲ ἀνανεύει πρὸς τὸν Δεσπότην, ἀλλὰ πάντα χρήματα εἶναι νομίζει.",
+          "en": "<span class=\"sn\" data-s=\"185\">He doesn't see people as people.</span> <span class=\"sn\" data-s=\"186\">He doesn't see the sky as the sky.</span> <span class=\"sn\" data-s=\"187\">He doesn't even lift his head toward the Lord — everything he looks at, he sees as money.</span>"
+        },
+        {
+          "gr": "Οἱ ἀνθρώπων ὀφθαλμοὶ πένητας εἰώθασιν ὁρᾷν καταπεπονημένους, καὶ ἐπικλᾶσθαι· οὗτοι δὲ τοῦ ἅρπαγος ὁρῶσι πένητας, καὶ ἐκθηριοῦνται·",
+          "en": "<span class=\"sn\" data-s=\"188\">Human eyes look at the poor in their suffering and soften.</span> <span class=\"sn\" data-s=\"189\">The greedy man's eyes see the poor and glare like a predator's.</span>"
+        },
+        {
+          "gr": "οἱ ἀνθρώπων ὀφθαλμοὶ οὐχ ὡς ἴδια τὰ ἀλλότρια βλέπουσιν, ἀλλὰ καὶ τὰ ἴδια ὡς ἀλλότρια, καὶ οὐκ ἐφίενται τῶν ἑτέροις δεδομένων, ἀλλὰ καὶ εἰς ἑτέρους κενοῦσι τὰ ἑαυτῶν· οὗτοι δὲ οὐκ ἀνέχονται, εἰ μὴ τὰ πάντων λάβοιεν· οὐ γὰρ ἀνθρώπινον, ἀλλὰ θηριῶδες ἔχουσιν ὄμμα.",
+          "en": "<span class=\"sn\" data-s=\"190\">Human eyes don't look at other people's property as their own — if anything, they treat their *own* property as belonging to others, and pour it out on them.</span> <span class=\"sn\" data-s=\"191\">The greedy man is not content until he has taken what belongs to everyone.</span> <span class=\"sn\" data-s=\"192\">He doesn't have a man's eye; he has a wild animal's.</span>"
+        },
+        {
+          "gr": "Οἱ ἀνθρώπων ὀφθαλμοὶ γυμνὸν ἰδεῖν τὸ σῶμα τὸ ἑαυτῶν οὐκ ἀνέχονται· αὐτῶν γάρ ἐστι, κἂν ἑτέρων ᾖ κατὰ πρόσωπον· οὗτοι δὲ εἰ μὴ πάντα γυμνώσαιεν, καὶ τὰ πάντων οἴκοι κατάθωνται, οὐδέποτε κόρον λαμβάνουσι, μᾶλλον δὲ οὐδέποτε ἐμπιπλῶνται.",
+          "en": "<span class=\"sn\" data-s=\"193\">Human eyes can't bear to see another human body stripped of clothing — because that body is *ours*, even if the individual person is a stranger.</span> <span class=\"sn\" data-s=\"194\">The greedy man is never satisfied until he has stripped everyone and piled all their belongings in his own house.</span> <span class=\"sn\" data-s=\"195\">Or rather — he's never satisfied at all.</span>"
+        },
+        {
+          "gr": "Διόπερ οὐδὲ θηρίων τὰς χεῖρας τὰς τούτων ἄν τις εἶναι φαίη μόνον, ἀλλὰ καὶ τούτων ἀγριωτέρας πολλῷ καὶ χαλεπωτέρας.",
+          "en": "<span class=\"sn\" data-s=\"196\">You could even say his hands are worse than a wild animal's.</span>"
+        },
+        {
+          "gr": "Ἄρκτοι μὲν γὰρ καὶ λύκοι, ἐπειδὰν λάβωσι κόρον, τῆς τοιαύτης τροφῆς ἀφίστανται· οὗτοι δὲ κόρον οὐκ ἔχουσι.",
+          "en": "<span class=\"sn\" data-s=\"197\">Bears and wolves stop eating when they're full; the greedy never reach “full.”</span>"
+        },
+        {
+          "gr": "Καίτοι διὰ τοῦτο χεῖρας ἡμῖν ἐποίησεν ὁ Θεὸς, ἵνα ἑτέροις βοηθῶμεν, οὐχ ἵνα ἐπιβουλεύωμεν.",
+          "en": "<span class=\"sn\" data-s=\"198\">And yet God gave us hands to *help* others — not to set traps for them.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ μέλλοιμεν αὐταῖς εἰς τοῦτο κεχρῆσθαι, βέλτιον αὐτὰς ἀποκοπῆναι, καὶ χωρὶς τούτων εἶναι.",
+          "en": "<span class=\"sn\" data-s=\"199\">If traps are what we use them for, better to have had them cut off.</span>"
+        },
+        {
+          "gr": "Σὺ δὲ ἂν μὲν πρόβατον σπαράττῃ θηρίον, ἀλγεῖς· εἰς αὐτὸν δὲ τὸν ὁμόφυλον τοῦτο ἐργαζόμενος, οὐ νομίζεις τι ποιεῖν δεινόν;",
+          "en": "<span class=\"sn\" data-s=\"200\">You grieve when a wolf tears apart a sheep.</span> <span class=\"sn\" data-s=\"201\">You do the same thing to a member of your own flesh and blood — and you think nothing terrible has happened?</span>"
+        },
+        {
+          "gr": "καὶ πῶς ἂν εἴης ἄνθρωπος;",
+          "en": "<span class=\"sn\" data-s=\"202\">How can you call yourself a man?</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς ὅτι ἀνθρώπινον πρᾶγμα καλοῦμεν, τὸ ἐλέου γέμον καὶ φιλανθρωπίας; ὅταν δὲ ὠμόν τι καὶ ἀπηνὲς ἐργάσηται, ἀπάνθρωπον τὸν τοιοῦτον ὀνομάζομεν.",
+          "en": "<span class=\"sn\" data-s=\"203\">Haven't you noticed that we call an act “humane” precisely when it's full of mercy and kindness — and when someone acts cruelly, we call it “inhuman”?</span>"
+        },
+        {
+          "gr": "Οὐκοῦν τὸν χαρακτῆρα τοῦ ἀνθρώπου ἀπὸ τοῦ ἐλεεῖν, τοῦ δὲ θηρίου ἀπὸ τοῦ ἐναντίου ὑπογράφομεν, λέγοντες ἀεί· Μὴ γὰρ ἄνθρωπος; θηρίον ἢ κύων.",
+          "en": "<span class=\"sn\" data-s=\"204\">The very definition of *human*, as we all use the word, is *showing mercy* — and of *beast*, the opposite.</span> <span class=\"sn\" data-s=\"205\">That's why people say of someone vicious, “Is he a man or a wild dog?”</span>"
+        },
+        {
+          "gr": "Οἱ γὰρ ἄνθρωποι πενίαν διορθοῦσιν, οὐκ αὔξουσι.",
+          "en": "<span class=\"sn\" data-s=\"206\">Men relieve poverty.</span> <span class=\"sn\" data-s=\"207\">They don't farm it for profit.</span>"
+        },
+        {
+          "gr": "Τούτων καὶ τὰ στόματα θηρίων ἐστὶ στόματα, μᾶλλον δὲ καὶ ταῦτα ἐκείνων ἀγριώτερα· καὶ γὰρ ῥήματα φθέγγονται μᾶλλον ἐκείνων τῶν ὀδόντων ἰὸν ἀφιέντα, φόνον ἐργαζόμενα.",
+          "en": "<span class=\"sn\" data-s=\"208\">And the greedy man's mouth?</span> <span class=\"sn\" data-s=\"209\">A wild animal's mouth — no, fiercer.</span> <span class=\"sn\" data-s=\"210\">The words that come out of it carry more poison than any animal's fangs, and they kill.</span>"
+        },
+        {
+          "gr": "Καὶ εἰ πάντα τις ἐπέλθοι, τότε ὄψεται καλῶς, πῶς θηρία ἀπὸ ἀνθρώπων τοὺς χρωμένους ἡ ἀπανθρωπία ποιεῖ.",
+          "en": "<span class=\"sn\" data-s=\"211\">Go through it point by point, and you'll see it clearly: inhumanity turns the people who practise it from men into beasts.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ καὶ τὴν διάνοιάν τις ἐξετάσειε τῶν τοιούτων, οὐκέτι θηρία μόνον, ἀλλὰ καὶ δαίμονας αὐτοὺς προσερεῖ.",
+          "en": "<span class=\"sn\" data-s=\"212\">And if you examined the *mind* of such people, you'd stop calling them beasts and start calling them demons.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ πολλῆς γέμουσι τῆς ἀπηνείας καὶ τῆς πρὸς τὸν ὁμόδουλον ἔχθρας· καὶ οὔτε βασιλείας ἔρως ἐκεῖ, οὔτε γεέννης φόβος, οὐκ αἰδὼς ἀνθρώπων, οὐκ ἔλεος, οὐ συμπάθεια, ἀλλ' ἀναισχυντία καὶ ἰταμότης, καὶ ὑπεροψία τῶν μελλόντων ἁπάντων· καὶ μῦθος αὐτοῖς εἶναι δοκεῖ τὰ τοῦ Θεοῦ ῥήματα τὰ περὶ κολάσεως, καὶ γέλως ἡ ἀπειλή.",
+          "en": "<span class=\"sn\" data-s=\"213\">Inside there is savage cruelty and hatred toward their fellow servants.</span> <span class=\"sn\" data-s=\"214\">No longing for the kingdom of heaven.</span> <span class=\"sn\" data-s=\"215\">No fear of hell.</span> <span class=\"sn\" data-s=\"216\">No respect for other people, no pity, no fellow-feeling — only shamelessness, audacity, and contempt for everything to come.</span> <span class=\"sn\" data-s=\"217\">God's warnings about punishment sound to them like a fairy tale; his threats sound like a joke.</span>"
+        },
+        {
+          "gr": "Τοιαύτη γὰρ ἡ τοῦ πλεονέκτου διάνοια.",
+          "en": "<span class=\"sn\" data-s=\"218\">That is the mind of the greedy man.</span>"
+        },
+        {
+          "gr": "Ὅταν οὖν ἔνδοθεν μὲν δαίμονες ὦσιν, ἔξωθεν δὲ θηρία, καὶ θηρίων χείρους, ποῦ θήσομεν τοὺς τοιούτους, εἰπέ μοι;",
+          "en": "<span class=\"sn\" data-s=\"219\">So: inwardly demons, outwardly beasts — worse than beasts, actually.</span> <span class=\"sn\" data-s=\"220\">Where exactly are we supposed to file such people?</span>"
+        },
+        {
+          "gr": "Ὅτι γὰρ καὶ θηρίων χείρους, δῆλον ἐκεῖθεν· Τὰ θηρία τῇ φύσει τοιαῦτά ἐστιν· οὗτοι δὲ κατὰ φύσιν τὸ ἥμερον ἔχοντες, παρὰ φύσιν εἰς τὸ θηριῶδες ἑαυτοὺς ἐξάγειν βιάζονται.",
+          "en": "<span class=\"sn\" data-s=\"221\">That they're worse than beasts is easy to show: beasts are savage by *nature*; these men were given a gentle nature and fight against it, deliberately training themselves into savagery.</span>"
+        },
+        {
+          "gr": "Καὶ οἱ δαίμονες δὲ τοὺς ἐπιβουλεύοντας ἀνθρώπους συμπράττοντας ἑαυτοῖς ἔχουσιν· ὡς εἰ μὴ συνέπραττον, τὸ πλέον τῶν ἐπιβουλῶν τῶν καθ' ἡμῶν ἐκείνοις ἀνῄρητο· οὗτοι δὲ καὶ φιλονεικούντων αὐτοῖς τῶν ἐπηρεαζομένων κρατεῖν ἐπιχειροῦσι.",
+          "en": "<span class=\"sn\" data-s=\"222\">Even demons come off better in the comparison.</span> <span class=\"sn\" data-s=\"223\">The demons at least need human schemers as their accomplices — take away their human helpers and most of their plots against us collapse.</span>"
+        },
+        {
+          "gr": "Πάλιν ὁ δαίμων ἀνθρώπῳ πολεμεῖ, οὐ δαίμοσι τοῖς ὁμοφύλοις· οὗτος δὲ τὸ συγγενὲς καὶ οἰκεῖον παντὶ τρόπῳ κακοῦν ἐπείγεται, καὶ οὐδὲ τὴν φύσιν αἰδεῖται.",
+          "en": "<span class=\"sn\" data-s=\"224\">And the devil wages his war against *mankind*, not against his fellow demons — but the greedy man works hardest at harming his own relatives and his own family.</span> <span class=\"sn\" data-s=\"225\">He doesn't even respect nature itself.</span>"
+        },
+        {
+          "gr": "Οἶδα ὅτι πολλοὶ πρὸς ἡμᾶς ὑπὲρ τούτων ἀπεχθάνονται τῶν ῥημάτων·",
+          "en": "<span class=\"sn\" data-s=\"226\">I know that many people hate me for saying these things.</span>"
+        },
+        {
+          "gr": "ἐγὼ δὲ οὐκ ἀπεχθάνομαι πρὸς αὐτοὺς, ἀλλ' ἐλεῶ καὶ δακρύω τοὺς οὕτω διακειμένους·",
+          "en": "<span class=\"sn\" data-s=\"227\">I don't hate them back.</span> <span class=\"sn\" data-s=\"228\">I pity them;</span> <span class=\"sn\" data-s=\"229\">I grieve for people in that condition.</span>"
+        },
+        {
+          "gr": "κἂν πλῆξαι θέλωσιν, ἡδέως ἂν ἀνασχοίμην, εἰ ἀπέχοιντο τῆς θηριωδίας ταύτης.",
+          "en": "<span class=\"sn\" data-s=\"230\">Even if they wanted to hit me, I'd gladly take it — if it would make them give up their savagery.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ ἐγὼ μόνος, ἀλλὰ καὶ ὁ προφήτης μεθ' ἡμῶν τοὺς τοιούτους ἐκβάλλει τῆς τῶν ἀνθρώπων συγγενείας, λέγων, ὅτι Ἄνθρωπος ἐν τιμῇ ὢν οὐ συνῆκεν, ἀλλὰ παρασυνεβλήθη τοῖς κτήνεσι τοῖς ἀνοήτοις.",
+          "en": "<span class=\"sn\" data-s=\"231\">Because it isn't only me saying this; the prophet says it with me, and shuts all such people out of the human family: *“Man, being in honor, did not understand — he is compared to the senseless beasts, and has become like them.”* [Psalm 49:20]</span>"
+        },
+        {
+          "gr": "Γενώμεθα τοίνυν ἄνθρωποί ποτε, καὶ εἰς τὸν οὐρανὸν ἀναβλέψωμεν, καὶ τὸ κατ' εἰκόνα ἀπολάβωμεν, καὶ ἑαυτοὺς ἀνακτησώμεθα, ἵνα καὶ τῶν μελλόντων ἀγαθῶν ἐπιτύχωμεν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, μεθ' οὗ τῷ Πατρὶ ἅμα τῷ ἁγίῳ Πνεύματι, δόξα, κράτος, τιμὴ, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"232\">So let us finally become *men*.</span> <span class=\"sn\" data-s=\"233\">Let us look up toward heaven, and let us recover what was made *according to God's image* [Colossians 3:10] — so that we may also obtain the good things to come, through the grace and loving-kindness of our Lord Jesus Christ, with whom to the Father and the Holy Spirit be glory, power, and honor, now and always, and to everlasting ages.</span> <span class=\"sn\" data-s=\"234\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

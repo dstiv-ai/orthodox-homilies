@@ -1,0 +1,300 @@
+{
+  "ref": "1 Peter 1:1-25, 2:1-10",
+  "book": "1Pet",
+  "from": [
+    1,
+    1
+  ],
+  "to": [
+    2,
+    10
+  ],
+  "slug": "1-peter-1-1-25-2-1-10",
+  "greek": [
+    {
+      "v": "1:1",
+      "text": "Πέτρος, ἀπόστολος Ἰησοῦ χριστοῦ, ἐκλεκτοῖς παρεπιδήμοις διασπορᾶς Πόντου, Γαλατίας, Καππαδοκίας, Ἀσίας, καὶ Βιθυνίας,"
+    },
+    {
+      "v": "1:2",
+      "text": "κατὰ πρόγνωσιν θεοῦ πατρός, ἐν ἁγιασμῷ πνεύματος, εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ χριστοῦ· χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη."
+    },
+    {
+      "v": "1:3",
+      "text": "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ, ὁ κατὰ τὸ πολὺ αὐτοῦ ἔλεος ἀναγεννήσας ἡμᾶς εἰς ἐλπίδα ζῶσαν δι' ἀναστάσεως Ἰησοῦ χριστοῦ ἐκ νεκρῶν,"
+    },
+    {
+      "v": "1:4",
+      "text": "εἰς κληρονομίαν ἄφθαρτον καὶ ἀμίαντον καὶ ἀμάραντον, τετηρημένην ἐν οὐρανοῖς εἰς ὑμᾶς,"
+    },
+    {
+      "v": "1:5",
+      "text": "τοὺς ἐν δυνάμει θεοῦ φρουρουμένους διὰ πίστεως εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ."
+    },
+    {
+      "v": "1:6",
+      "text": "Ἐν ᾧ ἀγαλλιᾶσθε, ὀλίγον ἄρτι, εἰ δέον ἐστίν, λυπηθέντες ἐν ποικίλοις πειρασμοῖς,"
+    },
+    {
+      "v": "1:7",
+      "text": "ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολὺ τιμιώτερον χρυσίου τοῦ ἀπολλυμένου, διὰ πυρὸς δὲ δοκιμαζομένου, εὑρεθῇ εἰς ἔπαινον καὶ τιμὴν καὶ εἰς δόξαν ἐν ἀποκαλύψει Ἰησοῦ χριστοῦ·"
+    },
+    {
+      "v": "1:8",
+      "text": "ὃν οὐκ εἰδότες ἀγαπᾶτε, εἰς ὃν ἄρτι μὴ ὁρῶντες, πιστεύοντες δέ, ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ,"
+    },
+    {
+      "v": "1:9",
+      "text": "κομιζόμενοι τὸ τέλος τῆς πίστεως ὑμῶν, σωτηρίαν ψυχῶν."
+    },
+    {
+      "v": "1:10",
+      "text": "Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηρεύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες·"
+    },
+    {
+      "v": "1:11",
+      "text": "ἐρευνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα χριστοῦ, προμαρτυρόμενον τὰ εἰς χριστὸν παθήματα, καὶ τὰς μετὰ ταῦτα δόξας."
+    },
+    {
+      "v": "1:12",
+      "text": "Οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς, ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν πνεύματι ἁγίῳ ἀποσταλέντι ἀπ' οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι."
+    },
+    {
+      "v": "1:13",
+      "text": "Διὸ ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν, νήφοντες, τελείως ἐλπίσατε ἐπὶ τὴν φερομένην ὑμῖν χάριν ἐν ἀποκαλύψει Ἰησοῦ χριστοῦ·"
+    },
+    {
+      "v": "1:14",
+      "text": "ὡς τέκνα ὑπακοῆς, μὴ συσχηματιζόμενοι ταῖς πρότερον ἐν τῇ ἀγνοίᾳ ὑμῶν ἐπιθυμίαις,"
+    },
+    {
+      "v": "1:15",
+      "text": "ἀλλὰ κατὰ τὸν καλέσαντα ὑμᾶς ἅγιον καὶ αὐτοὶ ἅγιοι ἐν πάσῃ ἀναστροφῇ γενήθητε·"
+    },
+    {
+      "v": "1:16",
+      "text": "διότι γέγραπται, Ἅγιοι γίνεσθε, ὅτι ἐγὼ ἅγιός εἰμι."
+    },
+    {
+      "v": "1:17",
+      "text": "Καὶ εἰ πατέρα ἐπικαλεῖσθε τὸν ἀπροσωπολήπτως κρίνοντα κατὰ τὸ ἑκάστου ἔργον, ἐν φόβῳ τὸν τῆς παροικίας ὑμῶν χρόνον ἀναστράφητε·"
+    },
+    {
+      "v": "1:18",
+      "text": "εἰδότες ὅτι οὐ φθαρτοῖς, ἀργυρίῳ ἢ χρυσίῳ, ἐλυτρώθητε ἐκ τῆς ματαίας ὑμῶν ἀναστροφῆς πατροπαραδότου,"
+    },
+    {
+      "v": "1:19",
+      "text": "ἀλλὰ τιμίῳ αἵματι ὡς ἀμνοῦ ἀμώμου καὶ ἀσπίλου χριστοῦ,"
+    },
+    {
+      "v": "1:20",
+      "text": "προεγνωσμένου μὲν πρὸ καταβολῆς κόσμου, φανερωθέντος δὲ ἐπ' ἐσχάτων τῶν χρόνων δι' ὑμᾶς,"
+    },
+    {
+      "v": "1:21",
+      "text": "τοὺς δι' αὐτοῦ πιστεύοντας εἰς θεόν, τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν, καὶ δόξαν αὐτῷ δόντα, ὥστε τὴν πίστιν ὑμῶν καὶ ἐλπίδα εἶναι εἰς θεόν."
+    },
+    {
+      "v": "1:22",
+      "text": "Τὰς ψυχὰς ὑμῶν ἡγνικότες ἐν τῇ ὑπακοῇ τῆς ἀληθείας διὰ πνεύματος εἰς φιλαδελφίαν ἀνυπόκριτον, ἐκ καθαρᾶς καρδίας ἀλλήλους ἀγαπήσατε ἐκτενῶς·"
+    },
+    {
+      "v": "1:23",
+      "text": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς, ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος θεοῦ καὶ μένοντος εἰς τὸν αἰῶνα."
+    },
+    {
+      "v": "1:24",
+      "text": "Διότι, Πᾶσα σὰρξ ὡς χόρτος, καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου. Ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν·"
+    },
+    {
+      "v": "1:25",
+      "text": "τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα. Τοῦτο δέ ἐστιν τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς."
+    },
+    {
+      "v": "2:1",
+      "text": "Ἀποθέμενοι οὖν πᾶσαν κακίαν καὶ πάντα δόλον καὶ ὑποκρίσεις καὶ φθόνους καὶ πάσας καταλαλιάς,"
+    },
+    {
+      "v": "2:2",
+      "text": "ὡς ἀρτιγέννητα βρέφη, τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε,"
+    },
+    {
+      "v": "2:3",
+      "text": "εἴπερ ἐγεύσασθε ὅτι χρηστὸς ὁ κύριος·"
+    },
+    {
+      "v": "2:4",
+      "text": "πρὸς ὃν προσερχόμενοι, λίθον ζῶντα, ὑπὸ ἀνθρώπων μὲν ἀποδεδοκιμασμένον, παρὰ δὲ θεῷ ἐκλεκτόν, ἔντιμον,"
+    },
+    {
+      "v": "2:5",
+      "text": "καὶ αὐτοὶ ὡς λίθοι ζῶντες οἰκοδομεῖσθε οἶκος πνευματικός, ἱεράτευμα ἅγιον, ἀνενέγκαι πνευματικὰς θυσίας εὐπροσδέκτους τῷ θεῷ διὰ Ἰησοῦ χριστοῦ."
+    },
+    {
+      "v": "2:6",
+      "text": "Διότι περιέχει ἐν τῇ γραφῇ, Ἰδού, τίθημι ἐν Σιὼν λίθον ἀκρογωνιαῖον, ἐκλεκτόν, ἔντιμον· καὶ ὁ πιστεύων ἐπ' αὐτῷ οὐ μὴ καταισχυνθῇ."
+    },
+    {
+      "v": "2:7",
+      "text": "Ὑμῖν οὖν ἡ τιμὴ τοῖς πιστεύουσιν· ἀπειθοῦσιν δέ, Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας,"
+    },
+    {
+      "v": "2:8",
+      "text": "καί, Λίθος προσκόμματος καὶ πέτρα σκανδάλου· οἳ προσκόπτουσιν τῷ λόγῳ ἀπειθοῦντες· εἰς ὃ καὶ ἐτέθησαν."
+    },
+    {
+      "v": "2:9",
+      "text": "Ὑμεῖς δὲ γένος ἐκλεκτόν, βασίλειον ἱεράτευμα, ἔθνος ἅγιον, λαὸς εἰς περιποίησιν, ὅπως τὰς ἀρετὰς ἐξαγγείλητε τοῦ ἐκ σκότους ὑμᾶς καλέσαντος εἰς τὸ θαυμαστὸν αὐτοῦ φῶς·"
+    },
+    {
+      "v": "2:10",
+      "text": "οἱ ποτὲ οὐ λαός, νῦν δὲ λαὸς θεοῦ· οἱ οὐκ ἠλεημένοι, νῦν δὲ ἐλεηθέντες."
+    }
+  ],
+  "english": [
+    {
+      "v": "1:1",
+      "text": "Peter, an apostle of Jesus Christ, to God's chosen people, strangers scattered through Pontus, Galatia, Cappadocia, Asia, and Bithynia —"
+    },
+    {
+      "v": "1:2",
+      "text": "chosen, as God the Father knew beforehand, made holy by the Spirit, so that you might obey Jesus Christ and be sprinkled with his blood. Grace to you, and peace, in full measure."
+    },
+    {
+      "v": "1:3",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ. In his great mercy he has given us a new birth into a living hope, through the resurrection of Jesus Christ from the dead —"
+    },
+    {
+      "v": "1:4",
+      "text": "into an inheritance that can never spoil or stain or fade, kept in the heavens for you."
+    },
+    {
+      "v": "1:5",
+      "text": "God's own power is guarding you through your faith, for a salvation that is ready to be revealed at the last time."
+    },
+    {
+      "v": "1:6",
+      "text": "This is what you rejoice in, even if now, for a little while, you have had to suffer grief in all kinds of trials."
+    },
+    {
+      "v": "1:7",
+      "text": "They come so that your faith, tested and proved genuine — far more precious than gold, which perishes even though fire tests it — may be found worthy of praise and honour and glory on the day when Jesus Christ is revealed."
+    },
+    {
+      "v": "1:8",
+      "text": "You have never seen him, and you love him. You cannot see him now, yet you believe in him — and you rejoice with a joy beyond words, full of glory,"
+    },
+    {
+      "v": "1:9",
+      "text": "because you are receiving the goal of your faith: the salvation of your souls."
+    },
+    {
+      "v": "1:10",
+      "text": "The prophets searched and enquired about this salvation — the prophets who foretold the grace that was coming to you."
+    },
+    {
+      "v": "1:11",
+      "text": "They asked who and when the Spirit of Christ in them was pointing to, when it testified beforehand to the sufferings Christ would go through, and to the glories that would follow."
+    },
+    {
+      "v": "1:12",
+      "text": "It was revealed to them that they were serving not themselves but you, in all the things that have now been announced to you by those who brought you the gospel, through the Holy Spirit sent from heaven — things that even the angels long to look into."
+    },
+    {
+      "v": "1:13",
+      "text": "So pull yourselves together; keep a clear head; set your hope completely on the grace that is being brought to you when Jesus Christ is revealed."
+    },
+    {
+      "v": "1:14",
+      "text": "Like obedient children, do not go on shaping yourselves by the desires you had before, in the days when you did not know any better."
+    },
+    {
+      "v": "1:15",
+      "text": "The One who called you is holy — so be holy yourselves in everything you do,"
+    },
+    {
+      "v": "1:16",
+      "text": "because it is written: \"You shall be holy, for I am holy.\""
+    },
+    {
+      "v": "1:17",
+      "text": "And since you call him Father — the One who judges each person's work without favourites — live out the time of your stay here in reverent fear,"
+    },
+    {
+      "v": "1:18",
+      "text": "knowing what it cost to set you free from the empty way of life your fathers handed down to you. It was not something perishable, silver or gold,"
+    },
+    {
+      "v": "1:19",
+      "text": "but the precious blood of Christ, like that of a lamb without blemish and without spot."
+    },
+    {
+      "v": "1:20",
+      "text": "He was marked out before the world was founded, and revealed in these last times for your sake."
+    },
+    {
+      "v": "1:21",
+      "text": "Through him you believe in God, who raised him from the dead and gave him glory — and so your faith and your hope rest on God."
+    },
+    {
+      "v": "1:22",
+      "text": "You have purified your souls by obeying the truth through the Spirit, for a genuine love of the brothers and sisters. So love one another deeply, from a pure heart."
+    },
+    {
+      "v": "1:23",
+      "text": "You have been born again — not from a seed that perishes, but from one that does not: through the living word of God, which lasts for ever."
+    },
+    {
+      "v": "1:24",
+      "text": "Because: \"All flesh is like grass, and all human glory like the flower of grass. The grass withers, and its flower falls,"
+    },
+    {
+      "v": "1:25",
+      "text": "but the word of the Lord remains for ever.\" And that word is the good news that was preached to you."
+    },
+    {
+      "v": "2:1",
+      "text": "So put away all malice, all deceit, all hypocrisy and envy, and every kind of slander,"
+    },
+    {
+      "v": "2:2",
+      "text": "and like newborn babies, long for the pure milk of the word, so that by it you may grow,"
+    },
+    {
+      "v": "2:3",
+      "text": "since you have tasted that the Lord is good."
+    },
+    {
+      "v": "2:4",
+      "text": "Come to him, the living stone — rejected by human beings, but chosen and precious in God's sight —"
+    },
+    {
+      "v": "2:5",
+      "text": "and you too, like living stones, are being built into a spiritual house, a holy priesthood, to offer spiritual sacrifices that God accepts, through Jesus Christ."
+    },
+    {
+      "v": "2:6",
+      "text": "Because Scripture says: \"See, I am laying in Sion a cornerstone, chosen and precious; and whoever believes in him will not be put to shame.\""
+    },
+    {
+      "v": "2:7",
+      "text": "So the honour is yours, you who believe. But for those who disobey: \"The stone the builders rejected has become the head of the corner,\""
+    },
+    {
+      "v": "2:8",
+      "text": "and \"a stone to stumble over, a rock to trip on.\" They stumble because they disobey the word — and that is what they were appointed for."
+    },
+    {
+      "v": "2:9",
+      "text": "But you are a chosen race, a royal priesthood, a holy nation, a people God has claimed for his own, so that you may proclaim the mighty deeds of the One who called you out of darkness into his wonderful light —"
+    },
+    {
+      "v": "2:10",
+      "text": "you who once were no people at all, but now are God's people; who had received no mercy, but now have received mercy."
+    }
+  ],
+  "greek_source": "content/2026-08-05/readings.md",
+  "english_source": "content/2026-08-05/readings.md",
+  "status": "complete"
+}

@@ -1,0 +1,262 @@
+{
+  "id": "homily-43-1cor",
+  "slug": "homily-43-1cor",
+  "title": "Homily 43 on First Corinthians",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 43 on First Corinthians",
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "apostle-paul",
+  "scripture": [
+    "1 Corinthians 16:1-10"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 4177,
+  "reading_minutes": 21,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "1-corinthians"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "Περὶ δὲ τῆς λογίας τῆς εἰς τοὺς ἁγίους,",
+          "en": "<span class=\"sn\" data-s=\"1\">**1 Corinthians 16:1.**</span>"
+        },
+        {
+          "gr": "καθὼς διέταξα ταῖς Ἐκκλησίαις τῆς Γαλατίας, οὕτω καὶ ὑμεῖς ποιήσατε.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“Now concerning the collection for the saints: as I gave order to the churches of Galatia, so also do ye.”* [1 Corinthians 16:1]</span>"
+        },
+        {
+          "gr": "αʹ. Ἀπαρτίσας τὸν περὶ τῶν δογμάτων λόγον, καὶ μέλλων εἰς τὸν ἠθικώτερον ἐμβαίνειν, πάντα τὰ ἄλλα ἀφεὶς, ἐπὶ τὸ κεφάλαιον τῶν ἀγαθῶν χωρεῖ, περὶ ἐλεημοσύνης ποιούμενος λόγον. Ἀλλὰ περὶ τούτου μόνου διαλεχθεὶς, ἀπαλλάττεται· καίτοι γε οὐδαμοῦ τοῦτο ἐποίησεν, ἀλλὰ περὶ ἐλεημοσύνης, καὶ περὶ σωφροσύνης, καὶ περὶ πραότητος, καὶ περὶ μακροθυμίας, καὶ περὶ τῶν ἄλλων ἁπάντων διαλέγεται ἐν ταῖς ἄλλαις Ἐπιστολαῖς τελευτῶν. Τίνος οὖν ἕνεκεν ἐνταῦθα τοῦ ἠθικοῦ τοῦτο μόνον γυμνάζει τὸ μέρος; Ὅτι καὶ τῶν ἔμπροσθεν εἰρημένων τὰ πλείονα ἠθικώτερα ἦν, δι' ὧν τὸν πόρνον ἐκόλασε, δι' ὧν τοὺς ἔξω δικαζομένους ἐσωφρόνιζε, δι' ὧν τοὺς μεθύοντας καὶ γαστριζομένους ἐφόβησε, δι' ὧν τοὺς στασιάζοντας καὶ φιλονεικοῦντας καὶ φιλαρχοῦντας κατεδίκασε, δι' ὧν τοὺς ἀναξίως τοῖς μυστηρίοις προσιόντας τῇ ἀφορήτῳ δίκῃ ἐκείνῃ παρέδωκε, δι' ὧν περὶ ἀγάπης διελέχθη. ∆ιὰ δὴ τοῦτο, οὗ μάλιστα αὐτῷ ἔδει τῆς εἰς τοὺς ἁγίους ἐπικουρίας, τούτου μέμνηται μόνου.",
+          "en": "<span class=\"sn\" data-s=\"3\">Having finished his discussion of doctrine, and being about to turn to what belongs rather to conduct, Paul sets everything else aside and proceeds to the chief of good things, speaking about almsgiving.</span> <span class=\"sn\" data-s=\"4\">And he does not treat of morals in general: having dealt with this one matter alone, he stops there.</span> <span class=\"sn\" data-s=\"5\">This is plainly unlike what he does everywhere else; for in the other Epistles he treats of almsgiving, temperance, meekness, long-suffering, and all the rest together in his conclusions.</span> <span class=\"sn\" data-s=\"6\">Why then does he handle here only this one part of practical morality?</span> <span class=\"sn\" data-s=\"7\">Because the greater part of what he had said before was also of an ethical nature: I mean where he rebuked the fornicator; where he corrected those who go to law before Gentiles; where he terrified the drunkards and the gluttons; where he condemned the factious, the contentious, and those who loved to have the first place; where he handed over to that unbearable sentence those who approach the Mysteries unworthily; where he discoursed concerning love.</span> <span class=\"sn\" data-s=\"8\">For this reason, I say, the subject that pressed on him most — the help required for the saints — this alone he mentions.</span>"
+        },
+        {
+          "gr": "Καὶ θέα τὴν σύνεσιν· ὅτε αὐτοὺς περὶ ἀναστάσεως ἔπεισε, καὶ προθυμοτέρους ἐποίησε, τότε λοιπὸν καὶ περὶ \fτούτου διαλέγεται.",
+          "en": "<span class=\"sn\" data-s=\"9\">And observe his consideration for them.</span> <span class=\"sn\" data-s=\"10\">When he had persuaded them concerning the resurrection, and made them more earnest, then — and not before — he takes up this point as well.</span>"
+        },
+        {
+          "gr": "Καίτοι γε καὶ ὑπὲρ τούτων διελέχθη πρὸς αὐτοὺς ἔμπροσθεν, ὅτε ἔλεγεν· Εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν, μέγα, εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν; καὶ, Τίς φυτεύει ἀμπελῶνα, καὶ ἐκ τοῦ καρποῦ αὐτοῦ οὐκ ἐσθίει; Ἀλλ' ἐπειδὴ ᾔδει τοῦ κατορθώματος τὸ μέγεθος, οὐ παραιτεῖται καὶ τῷ τέλει τῆς Ἐπιστολῆς αὐτὸ προσθεῖναι.",
+          "en": "<span class=\"sn\" data-s=\"11\">It is true that he had spoken to them about these matters earlier, when he said, *“If we sowed unto you spiritual things, is it a great matter if we shall reap your carnal things?”* [1 Corinthians 9:11] and, *“Who plants a vineyard, and does not eat of its fruit?”* [1 Corinthians 9:7] But because he knew the greatness of this moral achievement, he does not refuse to add a fresh mention of it at the end of his letter.</span>"
+        },
+        {
+          "gr": "Λογίαν δὲ τὴν συλλογὴν καλεῖ, ἐκ προοιμίων εὐθέως κοῦφον τὸ πρᾶγμα ποιῶν· ὅταν γὰρ ἐξ ἁπάντων συνεισφέρηται, ἑκάστῳ κοῦφον γίνεται τὸ ἐπίταγμα.",
+          "en": "<span class=\"sn\" data-s=\"12\">Notice too that he calls the collection a *logeia*, a “contribution,” thereby from the very first word representing the thing as easy.</span> <span class=\"sn\" data-s=\"13\">For when a contribution is made by all together, the part charged to each becomes light.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The example of the Galatians",
+      "heading_sentence_index": 14,
+      "pairs": [
+        {
+          "gr": "Εἰπὼν δὲ περὶ τῆς συλλογῆς, οὐκ εὐθέως εἶπεν, ἕκαστος ὑμῶν παρ' ἑαυτῷ τιθέτω θησαυρίζων· καίτοι γε τὸ ἀκόλουθον τοῦτο ἦν· ἀλλὰ πρῶτον εἰπὼν, Καθὼς διέταξα ταῖς Ἐκκλησίαις τῆς Γαλατίας, τότε τοῦτο ἐπήγαγεν, εἰς ζῆλον αὐτοὺς τῇ διηγήσει τῶν ἑτέροις κατορθουμένων ἄγων, καὶ ἐν τάξει διηγήματος αὐτὸ θείς· ὃ καὶ Ῥωμαίοις ἐπιστέλλων ἐποίησε. Καὶ γὰρ ἐκείνοις δοκῶν διηγεῖσθαι τὴν πρόφασιν τῆς ἐπὶ τὰ Ἱεροσόλυμα ἀποδημίας, οὕτω τὸν περὶ ἐλεημοσύνης ἐμβάλλει λόγον, λέγων· Νυνὶ δὲ πορεύομαι εἰς Ἱεροσόλυμα διακονῶν τοῖς ἁγίοις. Εὐδόκησε γὰρ Μακεδονία καὶ Ἀχαΐα κοινωνίαν τινὰ ποιήσασθαι εἰς τοὺς πτωχοὺς τῶν ἁγίων. Ἀλλ' ἐκείνους μὲν διὰ Μακεδόνων καὶ Κορινθίων, τούτους δὲ διὰ Γαλατῶν προτρέπει. Καθὼς διέταξα γὰρ, φησὶ, ταῖς Ἐκκλησίαις τῆς Γαλατίας, οὕτω καὶ ὑμεῖς ποιήσατε. Καὶ γὰρ ᾐσχύνοντο λοιπὸν ἐλάττους Γαλατῶν φανῆναι. Καὶ οὐκ εἶπε, Παρῄνεσα καὶ συνεβούλευσα, ἀλλὰ, ∆ιέταξα, ὅπερ αὐθεντικώτερον. Καὶ οὐ παράγει μίαν πόλιν καὶ δύο καὶ τρεῖς, ἀλλ' ὁλόκληρον ἔθνος· ὅπερ καὶ ἐπὶ τῶν δογμάτων ποιεῖ, λέγων· Καθὼς καὶ ἐν πάσαις ταῖς Ἐκκλησίαις τῶν ἁγίων. Εἰ γὰρ πρὸς δογμάτων πίστιν τοῦτο ἰσχυρὸν, πολλῷ μᾶλλον πρὸς ἔργων μίμησιν.",
+          "en": "<span class=\"sn\" data-s=\"15\">But having spoken about the collection, he did not immediately say, “Let every one of you lay up in store by himself” — although that of course was the natural consequence.</span> <span class=\"sn\" data-s=\"16\">Instead, having first said, *“As I gave order to the churches of Galatia,”* he then added the rest, kindling their emulation by the account of what others had done well, and putting it in the form of a narrative.</span> <span class=\"sn\" data-s=\"17\">He did the same thing when writing to the Romans.</span> <span class=\"sn\" data-s=\"18\">To them also, while appearing merely to narrate the reason why he was going away to Jerusalem, he introduces on that occasion his discourse about almsgiving: *“But now I go unto Jerusalem, ministering unto the saints.*</span> <span class=\"sn\" data-s=\"19\">*For it has been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints.”* [Romans 15:25-26] The Romans he stirs up by mentioning the Macedonians and Corinthians; the Corinthians, by mentioning the Galatians.</span> <span class=\"sn\" data-s=\"20\">For he says, *“As I gave order to the churches of Galatia, so also do ye”* — since they would surely be ashamed ever afterwards to be found inferior to Galatians.</span> <span class=\"sn\" data-s=\"21\">And he does not say, “I advised” or “I counselled,” but, “I gave order” — which is more authoritative.</span> <span class=\"sn\" data-s=\"22\">Nor does he bring forward a single city, or two, or three, but an entire nation; just as he does in his doctrinal instructions, saying, *“As in all the churches of the saints.”* [cf. 1 Corinthians 14:33] For if this is powerful for the conviction of doctrines, much more is it powerful for the imitation of actions.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The Lord's day and the treasury at home",
+      "heading_sentence_index": 23,
+      "pairs": [
+        {
+          "gr": "Τί οὖν διέταξας, εἰπέ μοι;",
+          "en": "<span class=\"sn\" data-s=\"24\">**1 Corinthians 16:2.**</span>"
+        },
+        {
+          "gr": "Κατὰ μίαν σαββάτου, τουτέστι, Κυριακὴν, ἕκαστος ὑμῶν παρ' ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἂν εὐοδῶται.",
+          "en": "<span class=\"sn\" data-s=\"25\">What then, I ask, did you give order about?</span>"
+        },
+        {
+          "gr": "Ὅρα πῶς καὶ ἀπὸ τοῦ καιροῦ προτρέπει· καὶ γὰρ ἡ ἡμέρα ἱκανὴ ἦν ἀγαγεῖν εἰς ἐλεημοσύνην. Ἀναμνήσθητε γὰρ, φησὶ, τίνων ἐτύχετε ἐν τῇ ἡμέρᾳ ταύτῃ. Τὰ γὰρ ἀπόῤῥητα ἀγαθὰ, καὶ ἡ ῥίζα καὶ ἡ ἀρχὴ τῆς ζωῆς τῆς ἡμετέρας ἐν ταύτῃ γέγονεν. Οὐ ταύτῃ δὲ μόνον ἐπιτήδειος ὁ καιρὸς εἰς προθυμίαν φιλανθρωπίας, ἀλλ' ὅτι καὶ ἄνεσιν ἔχει καὶ πόνων ἀτέλειαν. Ψυχὴ γὰρ ἀφιεμένη μόχθων, εὐκολωτέρα καὶ ἐπιτηδειοτέρα πρὸς τὸ ἐλεεῖν γίνεται. Μετὰ δὲ τούτων καὶ τὸ μυστηρίων ἐν αὐτῇ κοινωνεῖν οὕτω φρικτῶν καὶ ἀθανάτων πολλὴν ἐντίθησι προθυμίαν. Ἐν αὐτῇ τοίνυν ἕκαστος ὑμῶν, οὐχ ἁπλῶς ὁ δεῖνα καὶ ὁ δεῖνα, ἀλλ' εἷς ἕκαστος, κἂν πένης ᾖ, κἂν πλούσιος, κἂν γυνὴ, κἂν ἀνὴρ, κἂν δοῦλος, κἂν ἐλεύθερος, παρ' ἑαυτῷ τιθέτω θησαυρίζων. Οὐκ εἶπεν, Εἰς τὴν ἐκκλησίαν φερέτω, ἵνα μὴ διὰ τὸ μικρὸν αἰσχύνωνται, ἀλλὰ ταῖς κατ' ὀλίγον συναγωγαῖς αὐξήσας τὴν εἰσφορὰν, τότε δεικνύτω ἐμοῦ παραγενομένου. Τέως δὲ παρὰ σαυτῷ τίθει, φησὶ, καὶ ποίησόν σου τὴν οἰκίαν ἐκκλησίαν, τὸ κιβώτιον γαζοφυλάκιον· γενοῦ φύλαξ χρημάτων ἱερῶν, αὐτοχειροτόνητος οἰκονόμος πενήτων. Ἡ φιλανθρωπία ταύτην σοι δίδωσι τὴν ἱερωσύνην.",
+          "en": "<span class=\"sn\" data-s=\"26\">*“On the first day of the week”* — that is, the Lord's day — *“let each one of you lay by him in store, as he may prosper.”* [1 Corinthians 16:2] Mark how he exhorts them even from the timing; for the day itself was enough to lead them to almsgiving.</span> <span class=\"sn\" data-s=\"27\">Therefore, he says, call to mind what you attained to on this day: how all the unutterable blessings, and that which is the root and the beginning of our life, took place on this day.</span> <span class=\"sn\" data-s=\"28\">But the season is convenient for a zealous benevolence not only in this respect, but also because it brings rest and immunity from toils — the soul, when released from labors, becomes readier and more apt to show pity.</span> <span class=\"sn\" data-s=\"29\">Moreover, partaking on that day in Mysteries so tremendous and immortal instills great zeal.</span> <span class=\"sn\" data-s=\"30\">On that day, accordingly, let *each one of you* — not merely this or that individual, but each one of you, whether poor or rich, woman or man, slave or free — lay by him in store.</span> <span class=\"sn\" data-s=\"31\">He did not say, “Let him bring it to the church,” lest they might feel ashamed because of the smallness of the sum; but having gradually swelled his contribution by small additions, let him then produce it, when I have come.</span> <span class=\"sn\" data-s=\"32\">For the present, lay it up, he says, at home, and make your house a church, your little box a treasury.</span> <span class=\"sn\" data-s=\"33\">Become a guardian of sacred wealth, a self-ordained steward of the poor.</span> <span class=\"sn\" data-s=\"34\">Your own benevolent mind assigns you this priesthood.</span>"
+        },
+        {
+          "gr": "Τούτου σύμβολόν ἐστι καὶ τὸ γαζοφυλάκιον νῦν. Ἀλλὰ τὸ μὲν σύμβολον μένει, τὸ δὲ ἔργον οὐδαμοῦ.",
+          "en": "<span class=\"sn\" data-s=\"35\">Of this treasury of ours, even now a sign remains — but the sign remains, while the thing itself is nowhere to be found.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Chrysostom defends speaking about almsgiving",
+      "heading_sentence_index": 36,
+      "pairs": [
+        {
+          "gr": "Καὶ οἶδα μὲν ὅτι πολλοὶ τῶν συνεδρευόντων πάλιν ἡμῖν ἐγκαλέσουσιν, ὅταν ὑπὲρ τούτων διαλεγώμεθα λέγοντες· Μὴ, παρακαλῶ, μὴ γίνου φορτικὸς καὶ ἐπαχθὴς τοῖς ἀκούουσιν· ἐπίτρεψον τῇ προαιρέσει, δὸς τῇ γνώμῃ τῶν ἀκουόντων· ὡς νῦν γε καταισχύνεις ἡμᾶς, ἐρυθριᾷν ποιεῖς· ἀλλ' οὐκ ἀνέχομαι τούτων τῶν λόγων. Οὐδὲ γὰρ Παῦλος ᾐσχύνετο ὑπὲρ τοιούτων συνεχῶς ἐνοχλῶν, καὶ προσαιτούντων φθεγγόμενος ῥήματα. Εἰ μὲν γὰρ τοῦτο ἔλεγον, ὅτι Ἐμοὶ δὸς καὶ εἰς τὴν ἐμὴν κατάθες οἰκίαν, ἴσως ἂν αἰσχύνης ἦν τὸ λεγόμενον· μᾶλλον δὲ οὐδὲ τότε· Οἱ γὰρ τῷ θυσιαστηρίῳ, φησὶ, προσεδρεύοντες, τῷ θυσιαστηρίῳ συμμερίζονται. βʹ. Πλὴν ἀλλ' ἴσως ἄν τις ἐπετίμησεν, ὡς ὑπὲρ ἑαυτοῦ ποιουμένῳ τὸν λόγον· νῦν δὲ ὑπὲρ τῶν δεομένων τὴν ἱκετηρίαν τίθημι, μᾶλλον δὲ οὐχ ὑπὲρ τῶν δεομένων, ἀλλ' ὑπὲρ ὑμῶν τῶν \fπαρεχόντων· διὸ καὶ παῤῥησιάζομαι. Ποία γὰρ αἰσχύνη εἰπεῖν, ∆ὸς τῷ Κυρίῳ πεινῶντι, ἔνδυσον αὐτὸν γυμνὸν περιιόντα, ὑπόδεξαι ξένον ὄντα; Ὁ ∆εσπότης σου οὐκ αἰσχύνεται ἐπὶ τῆς οἰκουμένης ταῦτα λέγων· Ἐπείνασα, καὶ οὐκ ἐδώκατέ μοι φαγεῖν· ὁ ἀνενδεὴς καὶ μηδενὸς χρῄζων· καὶ ἐγὼ αἰσχυνοῦμαι καὶ ὀκνήσω; Ἄπαγε· διαβολικῆς ἐπιβουλῆς αὕτη ἡ αἰσχύνη. Οὐ τοίνυν αἰσχυνθήσομαι, ἀλλὰ καὶ μετὰ παῤῥησίας ἐρῶ· ∆ότε τοῖς δεομένοις, καὶ μετὰ πλείονος, ἢ οἱ δεόμενοι, φωνῆς. Εἰ μὲν γὰρ ἔχει τις δεῖξαι καὶ ἐλέγξαι, ὅτι ταῦτα λέγοντες, πρὸς ἑαυτοὺς ὑμᾶς ἕλκομεν, καὶ προσχήματι τῶν πενήτων αὐτοὶ κερδαίνομεν, οὐκ αἰσχύνης ἄξια ταῦτα μόνον, ἀλλὰ καὶ μυρίων κεραυνῶν, καὶ οὐδὲ ζῇν ἄξιον τοὺς τὰ τοιαῦτα ποιοῦντας· εἰ δὲ τῇ τοῦ Θεοῦ χάριτι οὐδὲν ὑπὲρ ἑαυτῶν ἐνοχλοῦμεν, ἀλλ' ἀδάπανον ὑμῖν τὸ Εὐαγγέλιον ἐθήκαμεν, πονοῦντες μὲν οὐδαμῶς καθάπερ Παῦλος, τοῖς δὲ οἰκείοις ἀρκούμενοι, μετὰ παῤῥησίας πάσης ἐρῶ· ∆ότε τοῖς δεομένοις, καὶ οὐ παύσομαι τοῦτο λέγων, καὶ μὴ διδόντων ἔσομαι χαλεπὸς κατήγορος. Καὶ γὰρ εἰ στρατηγὸς ἤμην καὶ στρατιώτας εἶχον, οὐκ ἂν ᾐσχύνθην τοῖς στρατιώταις τροφὰς αἰτῶν. Σφόδρα γὰρ ἐρῶ τῆς σωτηρίας τῆς ὑμετέρας.",
+          "en": "<span class=\"sn\" data-s=\"37\">Now I am aware that many of this congregation will again find fault with me when I treat of these subjects, and will say: Do not, I beg you, do not be harsh and disagreeable to your audience.</span> <span class=\"sn\" data-s=\"38\">Make allowances for their disposition; give way to the mind of your hearers.</span> <span class=\"sn\" data-s=\"39\">For in this case you really do put us to shame; you make us blush.</span> <span class=\"sn\" data-s=\"40\">But I cannot endure such words, since Paul himself was not ashamed to be continually troublesome upon such points as these, and to speak words such as beggars use.</span> <span class=\"sn\" data-s=\"41\">I grant indeed that if I said, “Give it to me, and lay it up in my house,” there might perhaps be something to be ashamed of in what I said — though hardly even in that case; for we read that those who serve at the altar have their portion with the altar [1 Corinthians 9:13].</span> <span class=\"sn\" data-s=\"42\">Still, someone might perhaps find fault, as if I were framing an argument for my own interest.</span> <span class=\"sn\" data-s=\"43\">But as it is, it is for the poor that I make my supplication — indeed, not so much for the poor as for your sake who bestow the gift.</span> <span class=\"sn\" data-s=\"44\">That is why I am bold to speak out.</span> <span class=\"sn\" data-s=\"45\">For what shame is there in saying: Give to your Lord in His hunger; clothe Him as He goes about naked; receive Him as a stranger?</span> <span class=\"sn\" data-s=\"46\">Your Lord is not ashamed before the whole world to speak thus: *“I was hungry, and you gave Me nothing to eat”* [Matthew 25:42] — He who is free of all want and needs nothing.</span> <span class=\"sn\" data-s=\"47\">And am I to be ashamed and hesitate?</span> <span class=\"sn\" data-s=\"48\">Away with the thought.</span> <span class=\"sn\" data-s=\"49\">That shame belongs to the snare of the devil.</span> <span class=\"sn\" data-s=\"50\">I will not be ashamed, then, but will say, and say boldly: Give to the needy.</span> <span class=\"sn\" data-s=\"51\">I will say it with a louder voice than the needy themselves.</span> <span class=\"sn\" data-s=\"52\">It is true that if anyone could show and prove that in saying these things we are drawing you over to ourselves, and that under the pretence of the poor we are making gain for ourselves — such conduct would deserve, I do not say shame, but ten thousand thunderbolts; and life itself would be more than people behaving that way would deserve.</span> <span class=\"sn\" data-s=\"53\">But if, on the contrary, by the grace of God, we are in nothing troublesome to you on our own account, but have made the Gospel free of charge to you — laboring indeed in no way like Paul, yet being content with our own — then with all boldness of speech I will say: Give to the needy.</span> <span class=\"sn\" data-s=\"54\">Yes, and I will not leave off saying it, and of those who do not give I will be a severe accuser.</span> <span class=\"sn\" data-s=\"55\">For just so, if I were a general with soldiers under me, I would not feel ashamed to demand food for my men — for I vehemently set my heart upon your salvation.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"As he may prosper\": giving made easy",
+      "heading_sentence_index": 56,
+      "pairs": [
+        {
+          "gr": "Ἀλλ' ἵνα καὶ ἐνεργέστερος ὁ λόγος γένηται καὶ δραστήριος μᾶλλον, Παῦλον παραστάτην λαβὼν, μετ' ἐκείνου διαλέξομαι λέγων· Ἕκαστος ὑμῶν παρ' ἑαυτῷ τιθέτω, θησαυρίζων ὅ τι ἂν εὐοδῶται. Σκόπει γὰρ αὐτοῦ κἀντεῦθεν τὸ ἀνεπαχθές· οὐκ εἶπε, Τοσόνδε ἢ τοσόνδε, ἀλλ' Ὅ τι ἂν εὐοδῶται. εἴτε πολὺ, εἴτε ὀλίγον· καὶ οὐκ εἶπεν, Ὅ τι ἄν τις κερδάνῃ, ἀλλ', Ὅ τι ἂν εὐοδωθῇ, δεικνὺς ὅτι παρὰ τοῦ Θεοῦ ἡ χορηγία. Οὐ ταύτῃ δὲ μόνον, ἀλλὰ καὶ τῷ μὴ ἑνὶ χρόνῳ τὸ πᾶν κελεῦσαι καταβαλεῖν, ῥᾳδίαν ποιεῖ τὴν συμβουλήν· τῷ γὰρ κατὰ μικρὸν συλλέγεσθαι ἀνεπαίσθητος ἡ λειτουργία καὶ ἡ δαπάνη. ∆ιὰ δὴ τοῦτο οὐδὲ εὐθέως κελεύει εἰς μέσον ἀγαγεῖν, ἀλλὰ πολλὴν δίδωσι τὴν προθεσμίαν, καὶ τὴν αἰτίαν τιθείς φησιν· Ἵνα μὴ, ὅταν ἔλθω, τότε λογίαι γίνωνται. Τουτέστιν, Ἵνα μὴ ἐν τῷ καιρῷ τῆς εἰσφορᾶς, τότε ἀναγκάζησθε συλλέγειν. Καὶ τοῦτο δὲ οὐχ ὡς ἔτυχεν αὐτοὺς πάλιν προέτρεψεν· ἡ γὰρ προσδοκία Παύλου προθυμοτέρους αὐτοὺς ἐποίει.",
+          "en": "<span class=\"sn\" data-s=\"57\">But so that my argument may be both more forcible and more effective, I will take Paul for my comrade, and like him will discourse and say, *“Let each one of you lay by him in store, as he may prosper.”* Now observe how he avoids being burdensome.</span> <span class=\"sn\" data-s=\"58\">He did not say “so much” or “so much,” but, *“as he may prosper”* — whether much or little.</span> <span class=\"sn\" data-s=\"59\">Nor did he say, “whatever anyone may have gained,” but, *“as he may prosper,”* signifying that the supply comes from God.</span> <span class=\"sn\" data-s=\"60\">And not only that, but by not commanding them to deposit it all at once, he makes his counsel easy: since gathering little by little keeps one from even perceiving the burden and the cost.</span> <span class=\"sn\" data-s=\"61\">Here you also see the reason why he did not command them to produce it immediately, but gave them a long space of time.</span> <span class=\"sn\" data-s=\"62\">And adding the cause of this, he says, *“that there be no gatherings when I come”* [1 Corinthians 16:2] — which means: so that you may not, when the season for paying in the contributions has arrived, be compelled just then to collect them.</span> <span class=\"sn\" data-s=\"63\">And this too encouraged them again in no ordinary degree: the expectation of Paul was sure to make them more earnest.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Sending the gift: no room for suspicion",
+      "heading_sentence_index": 64,
+      "pairs": [
+        {
+          "gr": "Ὅταν δὲ ἔλθω, οὓς ἐὰν δοκιμάσητε,",
+          "en": "<span class=\"sn\" data-s=\"65\">**1 Corinthians 16:3.**</span>"
+        },
+        {
+          "gr": "δι' ἐπιστολῶν τούτους πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἱερουσαλήμ.",
+          "en": "<span class=\"sn\" data-s=\"66\">*“And when I arrive, whomsoever you shall approve, them will I send with letters to carry your bounty to Jerusalem.”* [1 Corinthians 16:3]</span>"
+        },
+        {
+          "gr": "Οὐκ εἶπεν, Ὁ δεῖνα καὶ ὁ δεῖνα, ἀλλ', Οὓς ἐὰν ὑμεῖς δοκιμάσητε, οὓς ἐὰν ἕλησθε, ὥστε ἀνύποπτον ποιῆσαι τὴν λειτουργίαν. ∆ιὸ αὐτῶν ποιεῖται τὴν ψῆφον τῆς τῶν ἀποκομιζόντων αἱρέσεως. Οὐ γὰρ δήπου φησίν· Ἡ μὲν εἰσφορὰ ὑμῶν, ἡ δὲ ἐξουσία τῆς ἐκλογῆς τῶν ἀποκομιζόντων, οὐχ ὑμῶν. Εἶτα ἵνα μὴ αὐτοῖς ἀπολιμπάνεσθαι δόξῃ, τὰ γράμματα προστίθησι, λέγων· Οὓς ἐὰν δοκιμάσητε, δι' ἐπιστολῶν πέμψω. Ὡς ἂν εἰ ἔλεγεν, ὅτι Κἀγὼ συνέσομαι αὐτοῖς, καὶ κοινωνήσω τῆς λειτουργίας διὰ τῶν γραμμάτων. Καὶ οὐκ εἶπε, Τούτους πέμψω ἀπενεγκεῖν τὴν ἐλεημοσύνην ὑμῶν, ἀλλὰ, Τὴν χάριν ὑμῶν, ἵνα δείξῃ μεγάλα ἐργαζομένους, ἵνα δείξῃ αὐτοὺς κερδαίνοντας. Ἀλλαχοῦ δὲ καὶ εὐλογίαν καὶ κοινωνίαν καλεῖ· τὸ μὲν, ἵνα μὴ ῥᾳθυμοτέρους ποιήσῃ, τὸ δὲ, ἵνα μὴ ἐπάρῃ· οὐδαμοῦ μέντοι γε ἐλεημοσύνην ὠνόμασεν.",
+          "en": "<span class=\"sn\" data-s=\"67\">He did not say, “this person and that,” but, *“whomsoever you shall approve,”* whomsoever you shall choose — thus freeing his ministry from suspicion.</span> <span class=\"sn\" data-s=\"68\">That is why he leaves to them the right of voting in the choice of those who are to convey it.</span> <span class=\"sn\" data-s=\"69\">He is far from saying, “The payment is yours, but the privilege of selecting those who carry it is not yours.”</span> <span class=\"sn\" data-s=\"70\">Next, so that they might not think him altogether absent, he adds his letters, saying, *“Whomsoever you approve, I will send with letters.”* As if he had said: I too will be with them and share in the ministry, through my letters.</span> <span class=\"sn\" data-s=\"71\">And he did not say, “These I will send to bear your alms,” but, *“your bounty”* — to signify that they were doing great deeds, to mark that they themselves were the gainers.</span> <span class=\"sn\" data-s=\"72\">Elsewhere he calls it both a “blessing” and a “distribution” [2 Corinthians 9:5-13]: the one, so as not to make them less active; the other, so as not to puff them up.</span> <span class=\"sn\" data-s=\"73\">But in no case has he called it “alms.”</span>"
+        },
+        {
+          "gr": "Ἐὰν δὲ ᾖ ἄξιον",
+          "en": "<span class=\"sn\" data-s=\"74\">**1 Corinthians 16:4.**</span>"
+        },
+        {
+          "gr": "τοῦ κἀμὲ πορεύεσθαι, σὺν ἐμοὶ πορεύσονται.",
+          "en": "<span class=\"sn\" data-s=\"75\">*“And if it be meet for me to go also, they shall go with me.”* [1 Corinthians 16:4]</span>"
+        },
+        {
+          "gr": "Ἐνταῦθα πάλιν εἰς δαψίλειαν αὐτοὺς προτρέπει. Ἐὰν γὰρ τοσοῦτον ᾖ, φησὶν, ὡς καὶ τῆς ἐμῆς δεῖσθαι παρουσίας, οὐδὲ τοῦτο παραιτήσομαι. Ἀλλ' εὐθέως μὲν τοῦτο οὐκ ἐπηγγείλατο, οὐδὲ εἶπεν, Ἐπειδὰν παραγένωμαι, ἐγὼ ἀποκομίζω· οὐδὲ γὰρ ἂν οὕτως αὐτὸ ηὔξησεν, εἰ ἐξ ἀρχῆς αὐτὸ τέθεικεν· ὕστερον μέντοι καλῶς καὶ εὐκαίρως αὐτὸ προστίθησι. ∆ιὰ δὴ τοῦτο οὐκ εὐθέως ὑπέσχετο, οὔτε καθάπαξ αὐτὸ ἀπεσιώπησεν, ἀλλ' εἰπὼν, ὅτι Πέμψω, τότε καὶ ἑαυτὸν προστίθησι. Καὶ ἐνταῦθα δὲ πάλιν κυρίους αὐτοὺς ἐποίησεν ἐν τῷ εἰπεῖν· Ἐὰν ᾖ ἄξιον τοῦ κἀμὲ πορεύεσθαι· τοῦτο δὲ ἐπ' ἐκείνοις ἔκειτο, τὸ πολὺ ποιῆσαι τὸ συλλεγόμενον, καὶ τοσοῦτον, ὡς δυσωπῆσαι καὶ αὐτὸν ἀναστῆναι.",
+          "en": "<span class=\"sn\" data-s=\"76\">Here again he exhorts them to liberality.</span> <span class=\"sn\" data-s=\"77\">As if to say: if the sum is so great as to require my presence as well, I will not decline even that.</span> <span class=\"sn\" data-s=\"78\">But he did not promise this from the first, nor say, “When I have come, I will carry it.”</span> <span class=\"sn\" data-s=\"79\">For it would not have counted for so much if he had set it down that way from the beginning.</span> <span class=\"sn\" data-s=\"80\">Afterwards, however, he adds it — well and seasonably.</span> <span class=\"sn\" data-s=\"81\">Here, then, you have the reason why he neither promised immediately nor kept altogether silent about it: having said, “I will send,” then at length he adds himself as well.</span> <span class=\"sn\" data-s=\"82\">And here too again he leaves it to their own decision, in saying, *“If it be meet for me to go also”* — whereas this rested with them: namely, to make their collection large, so large as to affect his plans and cause him to make the journey in person.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Paul's travel plans, a proof of love",
+      "heading_sentence_index": 83,
+      "pairs": [
+        {
+          "gr": "Ἐλεύσομαι δὲ πρὸς ὑμᾶς,",
+          "en": "<span class=\"sn\" data-s=\"84\">**1 Corinthians 16:5.**</span>"
+        },
+        {
+          "gr": "φησὶν, ὅταν Μακεδονίαν διέλθω. Εἶπε καὶ ἀνωτέρω τοῦτο, ἀλλὰ τότε μὲν μετὰ θυμοῦ· προσέθηκε γοῦν· Καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων, ἀλλὰ \fτὴν δύναμιν· ἐνταῦθα δὲ προσηνέστερον, ἵνα καὶ ποθήσωσιν αὐτοῦ τὴν παρουσίαν. Εἶτα, ἵνα μὴ λέγωσι· Τί οὖν Μακεδόνας ἡμῶν προτιμᾷς; οὐκ εἶπεν, Ἐπειδὰν ἀπέλθω, ἀλλ', Ἐπειδὰν διέλθω Μακεδονίαν. Μακεδονίαν γὰρ διελεύσομαι.",
+          "en": "<span class=\"sn\" data-s=\"85\">*“But I will come to you,”* he says, *“when I shall have passed through Macedonia.”* [1 Corinthians 16:5] He had said this earlier as well — but then with anger; at least he added, *“And I will know, not the speech of those who are puffed up, but the power”* [1 Corinthians 4:19].</span> <span class=\"sn\" data-s=\"86\">Here, however, he says it more mildly, so that they might even long for his coming.</span> <span class=\"sn\" data-s=\"87\">Then, so they might not ask, “Why do you honor the Macedonians above us?” he did not say, “When I depart,” but, *“When I shall have passed through Macedonia”* — and indeed, *“I do pass through Macedonia.”*</span>"
+        },
+        {
+          "gr": "Πρὸς ὑμᾶς δὲ τυχὸν",
+          "en": "<span class=\"sn\" data-s=\"88\">**1 Corinthians 16:6.**</span>"
+        },
+        {
+          "gr": "Παραμενῶ, ἢ καὶ παραχειμάσω. Οὐδὲ γὰρ ὁδοῦ βούλομαι ποιήσασθαι πάρεργον ὑμᾶς, ἀλλ' ἐνδιατρίψαι καὶ παραμεῖναι. Ὅτε γὰρ ταῦτα ἐπέστελλεν, ἐν Ἐφέσῳ ἦν, χειμῶνος ὄντος. Λέγει τοίνυν, ὅτι Ἕως Πεντηκοστῆς ἐν Ἐφέσῳ ἐπιμενῶ· μετὰ δὲ ταῦτα ἀπελεύσομαι εἰς Μακεδονίαν, καὶ διελθὼν αὐτὴν, ἥξω πρὸς ὑμᾶς τοῦ θέρους· πολλάκις δὲ καὶ τὸν χειμῶνα πρὸς ὑμᾶς ποιήσω. γʹ. Τίνος δὲ ἕνεκεν εἶπε, Τυχὸν, καὶ οὐκ ἀπεφήνατο; Ὅτι οὐ πάντα προῄδει Παῦλος, καὶ συμφερόντως. ∆ιὰ τοῦτο οὐδὲ ἁπλῶς ἀποφαίνεται, ἵνα, κἂν μὴ γένηται, ἔχῃ καταφυγὴν, τότε ἀδιορίστως προειπεῖν, καὶ τὴν τοῦ Πνεύματος ἐξουσίαν ἄγουσαν αὐτὸν, ὅπουπερ ἐβούλετο, οὐκ ἔνθα αὐτὸς ἐπεθύμει· ὃ καὶ ἐν τῇ δευτέρᾳ τίθησιν Ἐπιστολῇ, τῆς μελλήσεως ἕνεκεν ἀπολογούμενος, καὶ λέγων· Ἢ ἃ βουλεύομαι, κατὰ σάρκα βουλεύομαι, ἵνα ᾖ παρ' ἐμοὶ τὸ ναὶ ναὶ, καὶ τὸ οὒ οὔ.",
+          "en": "<span class=\"sn\" data-s=\"89\">*“But with you it may be that I shall abide, or even winter.”* [1 Corinthians 16:6] For I do not at all wish merely to take you on my way, but to continue among you and spend some time.</span> <span class=\"sn\" data-s=\"90\">When he wrote this letter he was in Ephesus, and it was winter — as you may know from his saying, *“I will tarry at Ephesus until Pentecost”* [1 Corinthians 16:8].</span> <span class=\"sn\" data-s=\"91\">But after this, he means, I shall go away to Macedonia, and after passing through it I will be with you in the summer — and perhaps I shall even spend the winter with you.</span> <span class=\"sn\" data-s=\"92\">And why did he say “perhaps,” and not affirm it positively?</span> <span class=\"sn\" data-s=\"93\">Because Paul did not foreknow all things — for good reasons.</span> <span class=\"sn\" data-s=\"94\">Therefore he does not affirm it absolutely, so that if it did not come to pass, he might have something to fall back on: first, his previous mention of it having been indefinite; and next, the power of the Spirit leading him wherever It willed, not where he himself desired.</span> <span class=\"sn\" data-s=\"95\">He expresses this also in the second Epistle, when excusing himself on account of his delay: *“Or the things which I purpose, do I purpose according to the flesh, that with me there should be the yea yea and the nay nay?”* [2 Corinthians 1:17]</span>"
+        },
+        {
+          "gr": "Ἵνα ὑμεῖς με προπέμψητε, οὗ ἐὰν πορεύωμαι. Καὶ τοῦτο ἀγάπης καὶ φιλοστοργίας πολλῆς.",
+          "en": "<span class=\"sn\" data-s=\"96\">*“That you may set me forward on my journey wherever I go.”* [1 Corinthians 16:6] This too is a mark of love, and of great strength of affection.</span>"
+        },
+        {
+          "gr": "Οὐ θέλω γὰρ",
+          "en": "<span class=\"sn\" data-s=\"97\">**1 Corinthians 16:7.**</span>"
+        },
+        {
+          "gr": "ἄρτι ὑμᾶς ἐν παρόδῳ ἰδεῖν· ἐλπίζω γάρ τινα χρόνον ἐπιμεῖναι πρὸς ὑμᾶς, ἐὰν ὁ Κύριος ἐπιτρέψῃ.",
+          "en": "<span class=\"sn\" data-s=\"98\">*“For I do not wish to see you now by the way; for I hope to tarry awhile with you, if the Lord permit.”* [1 Corinthians 16:7]</span>"
+        },
+        {
+          "gr": "Ταῦτα δὲ ἔλεγεν, ὁμοῦ μὲν τὴν ἀγάπην ἐνδεικνύμενος, ὁμοῦ δὲ τοὺς ἁμαρτάνοντας φοβῶν, οὐ μὴν ἐκκεκαλυμμένως, ἀλλὰ προσχήματι φιλίας.",
+          "en": "<span class=\"sn\" data-s=\"99\">Now these things he said both to signify his love, and also to terrify the sinners — not openly, however, but under an outward demonstration of friendship.</span>"
+        },
+        {
+          "gr": "Ἐπιμενῶ δὲ ἐν Ἐφέσῳ",
+          "en": "<span class=\"sn\" data-s=\"100\">**1 Corinthians 16:8.**</span>"
+        },
+        {
+          "gr": "ἕως τῆς Πεντηκοστῆς.",
+          "en": "<span class=\"sn\" data-s=\"101\">*“But I will tarry at Ephesus until Pentecost.”* [1 Corinthians 16:8]</span>"
+        },
+        {
+          "gr": "Εἰκότως ἀκριβῶς αὐτοῖς ἅπαντα λέγει, καθάπερ φίλοις δηλῶν. Καὶ γὰρ τοῦτο φιλίας, τὸ τὴν αἰτίαν εἰπεῖν, δι' ἣν οὐ παρεγένετο, δι' ἣν μέλλει, καὶ ποῦ διατρίβει.",
+          "en": "<span class=\"sn\" data-s=\"102\">As we should expect, he tells them everything exactly, informing them as friends.</span> <span class=\"sn\" data-s=\"103\">For this too is a mark of friendship: to say the reason why he was not with them, why he delayed, and where he was staying.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "A great door, and many adversaries",
+      "heading_sentence_index": 104,
+      "pairs": [
+        {
+          "gr": "Θύρα γάρ μοι ἀνέῳγε",
+          "en": "<span class=\"sn\" data-s=\"105\">**1 Corinthians 16:9.**</span>"
+        },
+        {
+          "gr": "μεγάλη καὶ ἐνεργὴς, καὶ ἀντικείμενοι πολλοί.",
+          "en": "<span class=\"sn\" data-s=\"106\">*“For a great door and effectual is opened unto me, and there are many adversaries.”* [1 Corinthians 16:9]</span>"
+        },
+        {
+          "gr": "Καὶ εἰ μεγάλη, πῶς ἀντικείμενοι; ∆ι' αὐτὸ μὲν τοῦτο οἱ ἀντικείμενοι πολλοὶ, ἐπειδὴ μεγάλη ἡ πίστις, ἐπειδὴ μεγάλη καὶ εὐρεῖα ἡ εἴσοδος. Τί δέ ἐστιν, Θύρα μεγάλη; Πολλοί εἰσιν οἱ παρεσκευασμένοι τὴν πίστιν δέξασθαι, πολλοὶ ἕτοιμοι προσελθεῖν καὶ ἐπιστρέψαι· εὐρύχωρός μοι ἡ εἴσοδος, ἀκμαζούσης λοιπὸν τῆς τῶν προσιόντων διανοίας εἰς τὴν τῆς πίστεως ὑπακοήν. ∆ιὰ τοῦτο σφοδρῶς ὁ διάβολος ἔπνει, ἐπειδὴ πολλοὺς ἑώρα ἀφισταμένους αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"107\">Now if the door was great, how could there be adversaries?</span> <span class=\"sn\" data-s=\"108\">Why, it was on this very account that the adversaries were many — because men's faith was great, because the entrance was great and wide.</span> <span class=\"sn\" data-s=\"109\">But what does “a great door” mean?</span> <span class=\"sn\" data-s=\"110\">That there are many prepared to receive the faith, many ready to approach and be converted.</span> <span class=\"sn\" data-s=\"111\">There is a spacious entrance for me, things having now come to the point that the mind of those approaching is at its prime for the obedience of the faith.</span> <span class=\"sn\" data-s=\"112\">On this account the blast of the devil's breath was vehement, because he saw many turning away from him.</span>"
+        },
+        {
+          "gr": "∆ιὸ δὴ καὶ ἀμφοτέρων ἕνεκεν μεῖναι ἐχρῆν, καὶ ἐπειδὴ μέγα τὸ κέρδος, καὶ ὅτι πολὺς ὁ ἀγών.",
+          "en": "<span class=\"sn\" data-s=\"113\">You see, then, that on both accounts it was necessary for him to stay: both because the gain was abundant, and because the struggle was great.</span>"
+        },
+        {
+          "gr": "Καὶ τούτῳ δὲ αὐτοὺς παρεθάῤῥυνε τῷ εἰπεῖν, ὅτι πανταχοῦ λοιπὸν ὁ λόγος ἐνεργεῖται, καὶ βλαστάνει ῥᾳδίως. Εἰ δὲ πολλοὶ οἱ ἐπιβουλεύοντες, καὶ τοῦτο σημεῖον τῆς τοῦ Εὐαγγελίου προκοπῆς. Οὐδέποτε γὰρ ὁ πονηρὸς δαίμων ἐκεῖνος ἀγριαίνει, ἀλλ' ἢ ὅταν πολλὰ τῶν σκευῶν αὐτοῦ ἁρπαζόμενα ἴδῃ.",
+          "en": "<span class=\"sn\" data-s=\"114\">And herewith he also cheered them up — namely, by saying that from now on the word works everywhere and springs up readily.</span> <span class=\"sn\" data-s=\"115\">And if there are many who plot against it, this too is a sign of the advance of the Gospel.</span> <span class=\"sn\" data-s=\"116\">For at no time does that evil demon grow fierce, except when he sees his goods being plundered abundantly [cf.</span> <span class=\"sn\" data-s=\"117\">Matthew 12:29].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Do not shrink from the struggle: suffering and reward",
+      "heading_sentence_index": 118,
+      "pairs": [
+        {
+          "gr": "Καὶ ἡμεῖς τοίνυν, ὅταν τι μέγα καὶ γενναῖον ἐργάσασθαι βουληθῶμεν, μὴ τοῦτο σκοπῶμεν, ὅτι πολὺν ἔχει πόνον, ἀλλ' εἰς τὸ κέρδος βλέπωμεν. Ὅρα γοῦν καὶ Παῦλον οὐ διὰ τοῦτο ὀκνοῦντα, οὐ διὰ τοῦτο ἀναδυόμενον, ἐπειδὴ ἀντικείμενοι πολλοὶ, ἀλλ', ἐπειδὴ μεγάλη ἦν ἡ θύρα, ἐπικείμενον καὶ παραμένοντα. Καὶ γὰρ, ὅπερ ἔφην, σημεῖον τοῦτο ἦν τοῦ γυμνοῦσθαι τὸν διάβολον. Οὐδὲ γὰρ ἔστι, μικρὰ καὶ φαῦλα πράξαντας, παροξῦναι τὸ πονηρὸν θηρίον ἐκεῖνο. Ὥστε ὅταν ἴδῃς ἄνδρα δίκαιον μεγάλα κατορθοῦντα, καὶ μυρία πάσχοντα δεινὰ, μὴ θαυμάσῃς. Τοὐναντίον γὰρ ἔδει θαυμάζειν, εἰ πολλὰς λαμβάνων ὁ διάβολος πληγὰς, ἔμελλεν ἡσυχάζειν καὶ πράως φέρειν τὰ τραύματα. Οὐδὲ γὰρ, εἰ ὄφις κεντούμενος συνεχῶς ἀγριαίνοι καὶ ἐφάλλοιτο τῷ κεντοῦντι, θαυμάζειν χρή. Καὶ γὰρ ὄφεως παντὸς χαλεπώτερον ἕρπει ὁ διάβολος πᾶσιν ἐπιπηδῶν, καὶ ὥσπερ σκορπίος τὸ κέντρον ἄρας. διανίσταται. Μὴ δὴ τοῦτο ὑμᾶς θορυβείτω· καὶ γὰρ τὸν ἐκ πολέμου καὶ νίκης καὶ σφαγῆς ἐπανιόντα ἀνάγκη καὶ ᾑμάχθαι, πολλάκις δὲ καὶ τραύματα ἔχειν. Καὶ σὺ τοίνυν ὅταν ἴδῃς τινὰ ἐλεημοσύνας ποιοῦντα, καὶ ἄλλα μυρία ἐργαζόμενον ἀγαθὰ, καὶ ταύτῃ συγκόπτοντα τοῦ διαβόλου τὴν δύναμιν, εἶτα πειρασμοῖς περιπεσόντα καὶ κινδύνοις, μὴ διὰ τοῦτο θορυβηθῇς· διὰ γὰρ τοῦτο περιέπεσε πειρασμοῖς, ἐπειδὴ σφόδρα ἔπληξε τὸν διάβολον.",
+          "en": "<span class=\"sn\" data-s=\"119\">Let us then, when we desire to accomplish anything great and noble, not regard this — the greatness of the labor it brings — but let us rather look to the gain.</span> <span class=\"sn\" data-s=\"120\">Mark Paul, for instance: not lingering, not shrinking back because there were many adversaries, but pressing on and persevering because there was a great door.</span> <span class=\"sn\" data-s=\"121\">Yes, and as I was saying, this was a sign that the devil was being stripped; for it is not, depend on it, by little and mean achievements that men provoke that evil monster to wrath.</span> <span class=\"sn\" data-s=\"122\">And so when you see a righteous man performing great and excellent deeds, yet suffering innumerable ills, do not marvel.</span> <span class=\"sn\" data-s=\"123\">On the contrary, one might well marvel if the devil, receiving so many blows, were to keep quiet and bear the wounds meekly — just as you would not be surprised if a serpent, continually goaded, grew fierce and sprang upon the person goading it.</span> <span class=\"sn\" data-s=\"124\">Now no serpent steals upon you so fierce as the devil, leaping up against all and raising himself upright like a scorpion with its sting raised.</span> <span class=\"sn\" data-s=\"125\">Do not let this disturb you; for of course the man who returns from war and victory and slaughter must be bloody, and oftentimes must have received wounds himself.</span> <span class=\"sn\" data-s=\"126\">So then, for your part, when you see someone doing alms and performing numberless other good works — and so curtailing the power of the devil — and then falling into temptations and perils, do not be troubled at it.</span> <span class=\"sn\" data-s=\"127\">This is the very reason he fell into temptations: because he mightily smote the devil.</span>"
+        },
+        {
+          "gr": "Καὶ πῶς ὁ Θεὸς συνεχώρησε, φησίν; Ἵνα μᾶλλον στεφανωθῇ, ἵνα \fπλείονα πληγὴν λάβῃ ἐκεῖνος. Ὅταν γὰρ μετὰ τὸ ἀγαθὰ ποιεῖν καὶ δεινὰ πάσχων εὐχαριστῇ διαπαντὸς, πλήττεται ὁ διάβολος. Μέγα μὲν γὰρ, καὶ ἐξ οὐρίας φερομένων τῶν πραγμάτων, καὶ ἐλεεῖν καὶ ἀρετῆς ἀντέχεσθαι· πολλῷ δὲ μεῖζον τὸ δεινὰ πάσχοντα, μὴ ἀφίστασθαι τῆς καλῆς ταύτης ἐργασίας. Οὗτός ἐστιν ὁ διὰ τὸν Θεὸν μάλιστα ταῦτα ποιῶν. Ὥστε κἂν κινδυνεύωμεν, ἀγαπητοὶ, κἂν ὁτιοῦν πάσχωμεν, μετὰ πλείονος ἐχώμεθα τῆς προθυμίας τῶν ὑπὲρ ἀρετῆς πόνων. Οὐδὲ γὰρ οὗτος ὁ τῆς ἀντιδόσεως καιρός.",
+          "en": "<span class=\"sn\" data-s=\"128\">“And how did God permit it?” you will say.</span> <span class=\"sn\" data-s=\"129\">So that he might be crowned more signally; so that the other might receive a severer wound.</span> <span class=\"sn\" data-s=\"130\">For when a man, after conferring benefits, suffers — and suffers grievously — and yet continually gives thanks, it is a blow to the devil.</span> <span class=\"sn\" data-s=\"131\">For it is a great thing, even when our affairs are flowing on prosperously, to show mercy and to hold fast to virtue; but it is far greater, in grievous calamity, not to desist from this noble occupation.</span> <span class=\"sn\" data-s=\"132\">Such a man may most truly be said to do it for God's sake.</span> <span class=\"sn\" data-s=\"133\">So then, though we be in peril, beloved, though we suffer ever so greatly, let us apply ourselves with the greater zeal to our labors for virtue's sake.</span> <span class=\"sn\" data-s=\"134\">For this is not at all the season for retribution.</span>"
+        },
+        {
+          "gr": "Μὴ τοίνυν ἐνταῦθα ἀπαιτῶμεν τοὺς στεφάνους, ἵνα μὴ ἐν τῷ καιρῷ τῶν στεφάνων ἐλαττώσωμεν ἡμῶν τὴν ἀμοιβήν. Καθάπερ γὰρ ἐπὶ τῶν τεχνιτῶν οἱ μὲν ἑαυτοὺς τρέφοντες καὶ ἐργαζόμενοι, μείζονα τὸν μισθὸν λαμβάνουσιν, οἱ δὲ παρὰ τοῖς μισθωσαμένοις τρεφόμενοι, ὑποτέμνονται τοῦ μισθοῦ οὐ μικρὸν μέρος· οὕτω καὶ ἐπὶ τῶν ἁγίων ὁ μὲν μυρία ποιῶν ἀγαθὰ καὶ μυρία πάσχων κακὰ, ἀκέραιον ἔχει τὸν μισθὸν, καὶ πολὺ πλείονα τὴν ἀμοιβὴν, οὐχ ὑπὲρ τῶν ἀγαθῶν ὧν ἐποίησε μόνον, ἀλλὰ καὶ ὑπὲρ τῶν κακῶν ὧν ἔπαθεν· ὁ δὲ ἀνέσεως ἐνταῦθα ἀπολαύων καὶ τρυφῆς, οὐχ οὕτως ἔχει λαμπροὺς τοὺς στεφάνους ἐκεῖ. Μὴ τοίνυν ἐνταῦθα ζητῶμεν τὴν ἀντίδοσιν, ἀλλὰ τότε μάλιστα χαίρωμεν, ὅταν κατορθοῦντες πάσχωμεν κακῶς. Οὐ γὰρ τὸν ἐκ τῶν κατορθωμάτων μόνον, ἀλλὰ καὶ τὸν τῶν πειρασμῶν μισθὸν ἡμῖν ὁ Θεὸς ἐκεῖ ταμιεύεται.",
+          "en": "<span class=\"sn\" data-s=\"135\">Let us not, then, ask for our crowns here, lest when the crowns come in their season we diminish our recompense.</span> <span class=\"sn\" data-s=\"136\">For as with craftsmen: those who support themselves while they work receive higher pay, while those who take their maintenance from their employers are cut short by no small part of the wages.</span> <span class=\"sn\" data-s=\"137\">So it is also with the saints: he who does immense good and suffers extreme evil has his reward unimpaired, and a far more abundant recompense — not only for the good things he has done, but also for the evil he has suffered.</span> <span class=\"sn\" data-s=\"138\">But he who enjoys rest and luxury here does not have such bright crowns there.</span> <span class=\"sn\" data-s=\"139\">Let us not, then, seek our recompense here.</span> <span class=\"sn\" data-s=\"140\">Rather, of all times let us rejoice most when, doing well, we suffer ill.</span> <span class=\"sn\" data-s=\"141\">For God has in store for us in that world not only the reward of our good deeds, but that of our temptations also.</span>"
+        },
+        {
+          "gr": "δʹ. Ἵνα δὲ καὶ σαφέστερον ὃ λέγω γένηται, ἔστωσαν δύο πλούσιοι ἐλεήμονες, καὶ διδότωσαν πένησιν· εἶτα ὁ μὲν ἐπὶ τῷ πλούτῳ μενέτω, καὶ πάσης εὐημερίας ἀπολαυέτω· ὁ δὲ εἰς πενίαν πιπτέτω καὶ νόσους καὶ συμφορὰς, καὶ χάριν ἐχέτω τῷ Θεῷ. Τούτων τοίνυν ἀπελθόντων ἐκεῖ, τίς μείζονα λήψεται τὸν μισθόν; οὐκ εὔδηλον ὅτι ὁ νοσῶν καὶ ταλαιπωρούμενος, ὅτι καὶ εὖ ποιῶν καὶ πάσχων κακῶς οὐδὲν ἔπαθεν ἀνθρώπινον; Παντί που δῆλον. Καὶ γὰρ οὗτός ἐστιν ὁ ἀνδριὰς ὁ ἀδαμάντινος, οὗτος ὁ εὐγνώμων οἰκέτης. Εἰ δὲ οὐ δι' ἐλπίδα βασιλείας δεῖ τι ποιεῖν ἀγαθὸν, ἀλλὰ διὰ τὸ τῷ Θεῷ δοκοῦν, ὃ πάσης βασιλείας μεῖζόν ἐστι· τίνος ἄξιός ἐστιν ὁ διὰ τὸ μὴ λαβεῖν ἐνταῦθα τὴν ἀντίδοσιν ἀργότερος περὶ τὴν ἀρετὴν γινόμενος;",
+          "en": "<span class=\"sn\" data-s=\"142\">But to explain myself more clearly: suppose two rich and merciful men, and let them give to the poor.</span> <span class=\"sn\" data-s=\"143\">Then let one continue in his riches and enjoy all prosperity; let the other fall into poverty, diseases, and calamities, and give God thanks.</span> <span class=\"sn\" data-s=\"144\">Now when these two have departed into the other world, which will receive the greater reward?</span> <span class=\"sn\" data-s=\"145\">Is it not quite plain that it will be the one who was sick and in adversity — seeing that, though he did well and suffered ill, he did not give way to human weakness?</span> <span class=\"sn\" data-s=\"146\">I suppose this is plain to everyone.</span> <span class=\"sn\" data-s=\"147\">And in truth, this is the adamantine statue, this is the considerate servant [cf.</span> <span class=\"sn\" data-s=\"148\">Matthew 25:21].</span> <span class=\"sn\" data-s=\"149\">But if we ought not to do anything good for the hope of the kingdom, but because it so pleases God — which is more than any kingdom — what does he deserve who, because he does not receive his recompense here, has grown more remiss concerning virtue?</span>"
+        },
+        {
+          "gr": "Μὴ τοίνυν θορυβώμεθα, ὅταν ἴδωμεν, ὅτι ὁ δεῖνα χήρας καλῶν, καὶ δοχὰς συνεχεῖς ἐργαζόμενος, ἀπώλεσε τὴν οἰκίαν ἐμπρησθεῖσαν, ἢ ἑτέραν τινὰ τοιαύτην ὑπέμεινε συμφοράν· καὶ γὰρ διὰ τοῦτο λήψεται τὸν μισθόν· ἐπεὶ καὶ ὁ Ἰὼβ οὐχ οὕτως ἐπὶ ταῖς ἐλεημοσύναις ἐθαυμάζετο, ὡς ἐφ' οἷς ἔπαθε μετὰ ταῦτα. ∆ιὰ τοῦτο καὶ οἱ φίλοι ἐξευτελίζονται οἱ τούτου, καὶ οὐδενὸς ἄξιοι λόγου νομίζονται εἶναι, ὅτι τὰς παρούσας ἐζήτουν ἀντιδόσεις, καὶ ἀπὸ τούτων τοῦ δικαίου κατεψηφίζοντο. Μὴ τοίνυν ἐνταῦθα ζητῶμεν τὴν ἀμοιβὴν, πένητες καὶ πτωχοὶ γενόμενοι. Καὶ γὰρ ἐσχάτης τοῦτο εὐτελείας, οὐρανοῦ προκειμένου, καὶ τῶν ὑπὲρ τὸν οὐρανὸν, τὰ ἐνταῦθα περισκοπεῖν. Μὴ δὴ οὕτω ποιῶμεν· ἀλλ' ὅπερ ἂν ἐπέλθῃ τῶν ἀδοκήτων ἐπιταγμάτων, ἡμεῖς ἐχώμεθα τοῦ Θεοῦ διηνεκῶς, καὶ πειθώμεθα τῷ μακαρίῳ Παύλῳ,",
+          "en": "<span class=\"sn\" data-s=\"150\">Let us not, then, be troubled when we see that such a one — who entertained widows and made continual feasts — lost his house by fire, or sustained some other such disaster.</span> <span class=\"sn\" data-s=\"151\">Yes, for this very thing he shall receive his reward.</span> <span class=\"sn\" data-s=\"152\">For even Job was not so much admired for his almsdeeds as for the sufferings that came afterwards.</span> <span class=\"sn\" data-s=\"153\">For this reason his friends also are little esteemed and counted as nothing: because they sought the recompenses of the present world, and with a view to this passed sentence against the just man.</span> <span class=\"sn\" data-s=\"154\">Let us not, then, seek our return here; let us not become poor and needy — since surely it is extreme meanness, when heaven is set before us, and things above the heaven, to keep looking round at the things that are here.</span> <span class=\"sn\" data-s=\"155\">Let us by no means do so; but whatever unexpected things come upon us, let us hold fast the commands of God continually, and obey the blessed Paul.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The little chest for the poor at home",
+      "heading_sentence_index": 156,
+      "pairs": [
+        {
+          "gr": "καὶ κιβώτιον πενήτων ποιῶμεν ἐπὶ τῆς οἰκίας, καὶ παρὰ τὸν τόπον, ὃν ἕστηκας εὐχόμενος, ἐκεῖ κείσθω, καὶ ὁσάκις ἂν εἰσέλθῃς εὔξασθαι, κατάθες πρῶτον τὴν ἐλεημοσύνην, καὶ τότε ἀνάπεμπε εὐχήν· καὶ ὥσπερ οὐκ ἂν ἕλοιο χερσὶν ἀνίπτοις εὔξασθαι οὕτω μηδὲ ἐλεημοσύνης χωρίς. Καὶ γὰρ τοῦ Εὐαγγέλιον κρέμασθαι παρὰ τὴν κλίνην οὐκ ἔλαττον τὸ ἐλεημοσύνην κεῖσθαι. Εὐαγγέλιον μὲν γὰρ ἐὰν κρεμάσῃς μηδὲν ποιῶν, οὐδὲν τοσοῦτον ὠφεληθήσῃ· τοῦτο δὲ ἔχων τὸ κιβώτιον, ὅπλον ἔχεις κατὰ τοῦ διαβόλου, τὴν εὐχὴν ὑπόπτερον ποιεῖς, ἁγίαν κατασκευάζεις τὴν οἰκίαν, τροφὰς ἔνδον ἔχων ἀποκειμένας τοῦ βασιλέως. Παρὰ τοῦτο καὶ ἡ κλίνη κείσθω τὸ κιβώτιον, καὶ ἀφαντασίαστος ἔσται ἡ νύξ· μόνον μηδὲν ἐξ ἀδικίας ἐκεῖ βαλλέσθω. Ἐλεημοσύνη γὰρ τὸ πρᾶγμά ἐστιν· ἐλεημοσύνην δὲ ἀπὸ ὠμότητος οὐκ ἔνι βλαστῆσαί ποτε.",
+          "en": "<span class=\"sn\" data-s=\"157\">And let us make a little chest for the poor at home.</span> <span class=\"sn\" data-s=\"158\">Let it be placed near the spot where you stand to pray; and as often as you enter in to pray, first deposit your alms, and then send up your prayer.</span> <span class=\"sn\" data-s=\"159\">And just as you would not wish to pray with unwashed hands, so neither do so without alms.</span> <span class=\"sn\" data-s=\"160\">For not even the Gospel hanging by our bed is more important than that alms should be laid up by you; since if you hang up the Gospel and do nothing, it will do you no such great good.</span> <span class=\"sn\" data-s=\"161\">But if you have this little coffer, you have a defense against the devil, you give wings to your prayer, you make your house holy, having meat for the King [cf.</span> <span class=\"sn\" data-s=\"162\">Matthew 25:34-35] laid up there in store.</span> <span class=\"sn\" data-s=\"163\">And for this reason let the little coffer be placed near the bed as well, and the night will not be troubled with fantasies.</span> <span class=\"sn\" data-s=\"164\">Only let nothing be cast into it that is the fruit of injustice.</span> <span class=\"sn\" data-s=\"165\">For this thing is charity, and it cannot be that charity should ever spring out of hardheartedness.</span>"
+        },
+        {
+          "gr": "Βούλεσθε καὶ τὰς ἀφορμὰς, ὅθεν δεῖ καταβάλλειν, εἴπω, ὥστε καὶ ταύτῃ ποιῆσαι εὔκολον τὴν τοιαύτην φοράν; Ὁ χειροτέχνης, οἷον ὁ ὑποδηματοῤῥάφος, ἢ ὁ σκυτοτόμος, ἢ ὁ χαλκοτύπος, ἢ ἕτερος ὁστισοῦν δημιουργὸς, ἐπειδὰν πωλήσῃ τι τῶν ἀπὸ τῆς τέχνης, ἀπαρχέσθω τῆς τιμῆς τῷ Θεῷ, καταβαλλέτω μικρὸν μέρος αὐτόθι, καὶ μεριζέσθω πρὸς τὸν Θεὸν ἐξ ἐλάττονος μοίρας. Οὐδὲ γὰρ μέγα τι αἰτῶ, ἀλλὰ τοσοῦτον ὅσον Ἰουδαίων οἱ νήπιοι, καὶ μυρίων γέμοντες κακῶν, τοσοῦτον οἱ τὸν οὐρανὸν προσδοκῶντες ἡμεῖς βάλλωμεν. Ταῦτα δὲ οὐ νομοθετῶν, οὐδὲ κωλύων τὸ πλέον λέγω, ἀλλ' ἀξιῶν μὴ ἔλαττον τῆς δεκάτης μοίρας καταθεῖναι. Τοῦτο δὲ μὴ πωλῶν μόνον, ἀλλὰ καὶ ἀγοράζων ποίει. Τοῦτον καὶ οἱ τοὺς ἀγροὺς κεκτημένοι τηρείτωσαν τὸν νόμον ἐν ταῖς προσόδοις· τοῦτον πάντες οἱ τοὺς δικαίους συλλέγοντες πόρους. Πρὸς γὰρ τοὺς τόκους ἀπαιτοῦντας οὐδείς μοι λόγος, οὐδὲ πρὸς στρατιώτας διασείοντας ἄλλους, καὶ πραγματευομένους ἀλλοτρίας συμφοράς· οὐδὲν γὰρ ἐκεῖθεν βούλεται δέχεσθαι ὁ Θεός· ἀλλὰ πρὸς τοὺς ἐκ δικαίων πόνων συλλέγοντας τὰ ὄντα, ταῦτα λέγω.",
+          "en": "<span class=\"sn\" data-s=\"166\">Would you like me to mention also the resources out of which you should make your deposits, so as in this respect also to make this kind of contribution easy?</span> <span class=\"sn\" data-s=\"167\">The craftsman, for instance — the sandal-maker, or the leather-cutter, or the brass-founder, or any other artisan: when he sells some article of his trade, let him give the first-fruits of its price to God.</span> <span class=\"sn\" data-s=\"168\">Let him cast in a small portion here, and assign something to God out of his portion, even if it is rather scanty.</span> <span class=\"sn\" data-s=\"169\">For I am not asking any great thing: but as much as the childish ones among the Jews give — full as they are of innumerable evils — just so much let us cast in, we who look forward to heaven.</span> <span class=\"sn\" data-s=\"170\">And I say this not as laying down a law, nor as forbidding more, but as recommending a deposit of not less than a tenth part.</span> <span class=\"sn\" data-s=\"171\">And practice this not only in selling, but also in buying and in receiving payment.</span> <span class=\"sn\" data-s=\"172\">Let those who possess land observe this rule in regard to their rents as well; indeed, let it be a law for all who gather their incomes in an honest way.</span> <span class=\"sn\" data-s=\"173\">For with those who demand usury I have no concern, nor with soldiers who do violence to others and turn their neighbors' calamities to their own advantage — since from that quarter God will accept nothing.</span> <span class=\"sn\" data-s=\"174\">These things I say to those who gather their substance by righteous labor.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ἐὰν ἐν τοιαύτῃ συνηθείᾳ καταστήσωμεν ἑαυτοὺς, ὑπὸ τοῦ συνειδότος κεντούμεθα λοιπὸν, ἄν ποτε τοῦτον ἀπολίπωμεν τὸν νόμον, καὶ οὐδὲ βαρὺ λοιπὸν τὸ πρᾶγμα ἡγησόμεθα, καὶ κατὰ μικρὸν ἐπὶ τὰ μείζονα ἥξομεν, καὶ μελετήσαντες χρημάτων καταφρονεῖν, καὶ τὴν ῥίζαν τῶν κακῶν ἀνασπάσαντες, τόν τε ἐνταῦθα μετὰ ἀδείας βιωσόμεθα βίον, καὶ τῆς μελλούσης τευξόμεθα ζωῆς· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν, καὶ τὰ ἑξῆς.",
+          "en": "<span class=\"sn\" data-s=\"175\">Yes, and if we establish ourselves in this kind of habit, our conscience stings us ever afterwards whenever we omit this rule; and after a while we shall not even think it a hard thing; and by degrees we shall arrive at the greater things, and by practicing how to despise wealth, and by pulling up the root of evils, we shall both pass the present life in peace and obtain the life to come — which may it be the portion of us all to attain, through the grace and loving-kindness of our Lord Jesus Christ, with whom to the Father, together with the Holy Spirit, be glory, power, and honor, now and always, and unto the ages of ages.</span> <span class=\"sn\" data-s=\"176\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

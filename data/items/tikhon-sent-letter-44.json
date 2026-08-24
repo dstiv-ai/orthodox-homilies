@@ -1,0 +1,47 @@
+{
+  "id": "tikhon-sent-letter-44",
+  "slug": "tikhon-sent-letter-44",
+  "title": "Letter 44 — Seek Souls, Not the Things of Men",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 44,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 109,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 44 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "44"
+  ],
+  "sections": [
+    {
+      "heading": "Counsel for a shepherd of Christ's flock",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">Father John, beloved brother in Christ!</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">I have received two letters from you; for both I give thanks.</span> <span class=\"sn\" data-s=\"3\">I send you, according to your desire, my counsel.</span> <span class=\"sn\" data-s=\"4\">Read it and consider, and act thus; but more still, read books yourself, and from them learn both to shepherd yourself and the people entrusted to you by God; and pray to God diligently, that God Himself may instruct you to shepherd Christ's flock.</span> <span class=\"sn\" data-s=\"5\">Moreover remember this: seek men, and not the things of men — that is, seek the salvation of souls, and not money, and riches, and honour.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"6\">Be saved in Christ, and pray to God for me, a sinner.</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ref": "1 Corinthians 16:4-12",
+  "book": "1Cor",
+  "from": [
+    16,
+    4
+  ],
+  "to": [
+    16,
+    12
+  ],
+  "slug": "1-corinthians-16-4-12",
+  "greek": [
+    {
+      "v": "16:4",
+      "text": "ἐὰν δὲ ᾖ ἄξιον τοῦ κἀμὲ πορεύεσθαι, σὺν ἐμοὶ πορεύσονται."
+    },
+    {
+      "v": "16:5",
+      "text": "Ἐλεύσομαι δὲ πρὸς ὑμᾶς, ὅταν Μακεδονίαν διέλθω· Μακεδονίαν γὰρ διέρχομαι·"
+    },
+    {
+      "v": "16:6",
+      "text": "πρὸς ὑμᾶς δὲ τυχὸν παραμενῶ, ἢ καὶ παραχειμάσω, ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι."
+    },
+    {
+      "v": "16:7",
+      "text": "Οὐ θέλω γὰρ ὑμᾶς ἄρτι ἐν παρόδῳ ἰδεῖν· ἐλπίζω δὲ χρόνον τινὰ ἐπιμεῖναι πρὸς ὑμᾶς, ἐὰν ὁ κύριος ἐπιτρέπῃ."
+    },
+    {
+      "v": "16:8",
+      "text": "Ἐπιμενῶ δὲ ἐν Ἐφέσῳ ἕως τῆς Πεντηκοστῆς·"
+    },
+    {
+      "v": "16:9",
+      "text": "θύρα γάρ μοι ἀνέῳγεν μεγάλη καὶ ἐνεργής, καὶ ἀντικείμενοι πολλοί."
+    },
+    {
+      "v": "16:10",
+      "text": "Ἐὰν δὲ ἔλθῃ Τιμόθεος, βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς· τὸ γὰρ ἔργον κυρίου ἐργάζεται ὡς καὶ ἐγώ."
+    },
+    {
+      "v": "16:11",
+      "text": "Μή τις οὖν αὐτὸν ἐξουθενήσῃ· προπέμψατε δὲ αὐτὸν ἐν εἰρήνῃ, ἵνα ἔλθῃ πρός με· ἐκδέχομαι γὰρ αὐτὸν μετὰ τῶν ἀδελφῶν."
+    },
+    {
+      "v": "16:12",
+      "text": "Περὶ δὲ Ἀπολλὼ τοῦ ἀδελφοῦ, πολλὰ παρεκάλεσα αὐτὸν ἵνα ἔλθῃ πρὸς ὑμᾶς μετὰ τῶν ἀδελφῶν· καὶ πάντως οὐκ ἦν θέλημα ἵνα νῦν ἔλθῃ, ἐλεύσεται δὲ ὅταν εὐκαιρήσῃ."
+    }
+  ],
+  "english": [
+    {
+      "v": "16:4",
+      "text": "Brothers and sisters: and if it is fitting for me to go as well, they will travel with me."
+    },
+    {
+      "v": "16:5",
+      "text": "I will come to you when I have passed through Macedonia — for I am only passing through Macedonia."
+    },
+    {
+      "v": "16:6",
+      "text": "But with you I may stay a while, or even spend the winter, so that you can send me on my way wherever I go."
+    },
+    {
+      "v": "16:7",
+      "text": "I do not want to see you now just in passing; I hope to stay with you for some time, if the Lord permits."
+    },
+    {
+      "v": "16:8",
+      "text": "I will stay on in Ephesus until Pentecost,"
+    },
+    {
+      "v": "16:9",
+      "text": "for a great and effective door has opened to me — and there are many opponents."
+    },
+    {
+      "v": "16:10",
+      "text": "If Timothy comes, see that he is among you without fear, for he is doing the work of the Lord, as I am."
+    },
+    {
+      "v": "16:11",
+      "text": "So let no one look down on him. Send him on his way in peace, so that he may come to me — I am expecting him with the brothers."
+    },
+    {
+      "v": "16:12",
+      "text": "As for our brother Apollos: I urged him strongly to come to you with the brothers, but it was not at all his will to come now. He will come when he has the opportunity."
+    }
+  ],
+  "greek_source": "content/2026-08-05/readings.md",
+  "english_source": "content/2026-08-05/readings.md",
+  "status": "complete"
+}

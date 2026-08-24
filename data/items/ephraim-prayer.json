@@ -1,0 +1,98 @@
+{
+  "id": "ephraim-prayer",
+  "slug": "ephraim-prayer",
+  "title": "Prayer to the Panagia",
+  "father": "St Ephraim the Syrian",
+  "collection": null,
+  "source_ref": null,
+  "category": "spiritual-topics",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "ephraim",
+  "scripture": [],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 211,
+  "reading_minutes": 1,
+  "attribution_note": null,
+  "path": [
+    "spiritual",
+    "prayer",
+    "st-ephraim-the-syrian"
+  ],
+  "sections": [
+    {
+      "heading": "Ἡ καθαροτάτη | The most pure one",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "Παναγία Δέσποινα Θεοτόκε, ἡ μόνη καθαροτάτη καὶ ψυχὴν καὶ σῶμα,",
+          "en": "<span class=\"sn\" data-s=\"1\">All-holy Lady Theotokos: you alone are most pure in soul and in body;</span>"
+        },
+        {
+          "gr": "ἡ μόνη πάσης ἐπέκεινα καθαρότητος καὶ σωφροσύνης καὶ παρθενίας,",
+          "en": "<span class=\"sn\" data-s=\"2\">you alone stand beyond all purity, all chastity, all virginity;</span>"
+        },
+        {
+          "gr": "ἡ μόνη κατοικητήριον ὅλη γενομένη τῆς ὅλης χάριτος τοῦ παναγίου Πνεύματος,",
+          "en": "<span class=\"sn\" data-s=\"3\">you alone became, whole and entire, the dwelling-place of the whole grace of the all-holy Spirit —</span>"
+        },
+        {
+          "gr": "κἀντεῦθεν καὶ αὐτὰς τὰς ἀΰλους Δυνάμεις ἀσυγκρίτως ὑπερβαλοῦσα τῇ καθαρότητι καὶ τῷ ἁγιασμῷ τῆς ψυχῆς καὶ τοῦ σώματος,",
+          "en": "<span class=\"sn\" data-s=\"4\">and so you surpassed beyond all comparison even the bodiless angelic Powers themselves, in the purity and holiness of your soul and body.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ἡ δέησις | The petition",
+      "heading_sentence_index": 5,
+      "pairs": [
+        {
+          "gr": "ἔπιδε ἐπ' ἐμὲ τὸν ἐναγῆ καὶ ἀκάθαρτον καὶ ῥερυπωμένον καὶ ψυχὴν καὶ σῶμα τῷ μολυσμῷ τῆς ἐμπαθοῦς καὶ ἐνηδόνου ζωῆς μου·",
+          "en": "<span class=\"sn\" data-s=\"6\">Look upon me: guilty, unclean, my soul and body alike stained with the filth of my passionate, pleasure-chasing life.</span>"
+        },
+        {
+          "gr": "κάθαρόν μου τὴν ἐμπαθῆ διάνοιαν·",
+          "en": "<span class=\"sn\" data-s=\"7\">Cleanse my passion-driven mind.</span>"
+        },
+        {
+          "gr": "ἅγνισόν μου καὶ διόρθωσόν μου τοὺς πεπλανημένους καὶ τετυφλωμένους λογισμούς·",
+          "en": "<span class=\"sn\" data-s=\"8\">Purify and straighten my wandering, blinded thoughts.</span>"
+        },
+        {
+          "gr": "ῥύθμισον καὶ παιδαγώγησόν μου τὰς αἰσθήσεις·",
+          "en": "<span class=\"sn\" data-s=\"9\">Bring my senses to order and train them.</span>"
+        },
+        {
+          "gr": "ἐλευθέρωσόν με τῆς τυραννούσης κακίστης καὶ αἰσχρᾶς συνηθείας τῶν ἀκαθάρτων προλήψεων καὶ παθῶν·",
+          "en": "<span class=\"sn\" data-s=\"10\">Free me from the tyranny of that worst and ugliest habit — the unclean assumptions and passions that rule me.</span>"
+        },
+        {
+          "gr": "στῆσόν μου πᾶσαν τὴν κατ' ἐνέργειαν ἁμαρτίαν, καὶ δώρησαι νῆψιν καὶ διάκρισιν τῷ ἐσκοτισμένῳ καὶ ταλαιπώρῳ μου νῷ πρὸς διόρθωσιν τῶν οἰκείων σφαλμάτων τε καὶ πτωμάτων,",
+          "en": "<span class=\"sn\" data-s=\"11\">Stop every sin I commit in act, and give my darkened, wretched mind watchfulness and discernment, so that I may correct my own faults and falls.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ἡ δοξολογία | The doxology",
+      "heading_sentence_index": 12,
+      "pairs": [
+        {
+          "gr": "ἵνα τοῦ σκότους τῆς ἁμαρτίας ἀπαλλαγεὶς καταξιωθῶ δοξάζειν καὶ ὑμνεῖν σε ἐν παρρησίᾳ τὴν μόνην ἀληθινὴν Μητέρα τοῦ ἀληθινοῦ φωτὸς Χριστοῦ τοῦ Θεοῦ ἡμῶν·",
+          "en": "<span class=\"sn\" data-s=\"13\">So that, set free from the darkness of sin, I may be counted worthy to glorify you and praise you freely — you, the only true Mother of the true Light, Christ our God.</span>"
+        },
+        {
+          "gr": "ὅτι μόνη σὺν αὐτῷ καὶ δι' αὐτὸν εὐλογημένη καὶ δεδοξασμένη ὑπάρχεις ὑπὸ πάσης τῆς ἀοράτου καὶ ὁρατῆς κτίσεως, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+          "en": "<span class=\"sn\" data-s=\"14\">For you alone, with Him and because of Him, are blessed and glorified by all creation, invisible and visible, now and for ever, and to the ages of ages.</span>"
+        },
+        {
+          "gr": "Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"15\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

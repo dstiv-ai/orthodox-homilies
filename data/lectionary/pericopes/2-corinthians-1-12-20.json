@@ -1,0 +1,92 @@
+{
+  "ref": "2 Corinthians 1:12-20",
+  "book": "2Cor",
+  "from": [
+    1,
+    12
+  ],
+  "to": [
+    1,
+    20
+  ],
+  "slug": "2-corinthians-1-12-20",
+  "greek": [
+    {
+      "v": "1:12",
+      "text": "Ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστίν, τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν, ὅτι ἐν ἁπλότητι καὶ εἰλικρινείᾳ θεοῦ, οὐκ ἐν σοφίᾳ σαρκικῇ ἀλλ' ἐν χάριτι θεοῦ, ἀνεστράφημεν ἐν τῷ κόσμῳ, περισσοτέρως δὲ πρὸς ὑμᾶς."
+    },
+    {
+      "v": "1:13",
+      "text": "Οὐ γὰρ ἄλλα γράφομεν ὑμῖν, ἀλλ' ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε, ἐλπίζω δὲ ὅτι καὶ ἕως τέλους ἐπιγνώσεσθε·"
+    },
+    {
+      "v": "1:14",
+      "text": "καθὼς καὶ ἐπέγνωτε ἡμᾶς ἀπὸ μέρους, ὅτι καύχημα ὑμῶν ἐσμέν, καθάπερ καὶ ὑμεῖς ἡμῶν, ἐν τῇ ἡμέρᾳ τοῦ κυρίου Ἰησοῦ."
+    },
+    {
+      "v": "1:15",
+      "text": "Καὶ ταύτῃ τῇ πεποιθήσει ἐβουλόμην ἐλθεῖν πρὸς ὑμᾶς τὸ πρότερον, ἵνα δευτέραν χάριν ἔχητε·"
+    },
+    {
+      "v": "1:16",
+      "text": "καὶ δι' ὑμῶν διελθεῖν εἰς Μακεδονίαν, καὶ πάλιν ἀπὸ Μακεδονίας ἐλθεῖν πρὸς ὑμᾶς, καὶ ὑφ' ὑμῶν προπεμφθῆναι εἰς τὴν Ἰουδαίαν."
+    },
+    {
+      "v": "1:17",
+      "text": "Τοῦτο οὖν βουλευόμενος, μήτι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην; Ἢ ἃ βουλεύομαι, κατὰ σάρκα βουλεύομαι, ἵνα ᾖ παρ' ἐμοὶ τὸ Ναί, ναὶ καὶ τὸ Οὔ, οὔ;"
+    },
+    {
+      "v": "1:18",
+      "text": "Πιστὸς δὲ ὁ θεός, ὅτι ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς οὐκ ἐγένετο Ναὶ καὶ οὔ."
+    },
+    {
+      "v": "1:19",
+      "text": "Ὁ γὰρ τοῦ θεοῦ υἱὸς Ἰησοῦς χριστὸς ὁ ἐν ὑμῖν δι' ἡμῶν κηρυχθείς, δι' ἐμοῦ καὶ Σιλουανοῦ καὶ Τιμοθέου, οὐκ ἐγένετο Ναὶ καὶ Οὔ, ἀλλὰ Ναὶ ἐν αὐτῷ γέγονεν."
+    },
+    {
+      "v": "1:20",
+      "text": "Ὅσαι γὰρ ἐπαγγελίαι θεοῦ, ἐν αὐτῷ τὸ Ναί, καὶ ἐν αὐτῷ τὸ Ἀμήν, τῷ θεῷ πρὸς δόξαν δι' ἡμῶν."
+    }
+  ],
+  "english": [
+    {
+      "v": "1:12",
+      "text": "Brothers and sisters: this is our boast — the testimony of our conscience — that we conducted ourselves in the world in the simplicity and sincerity of God, not in fleshly wisdom but in the grace of God, and all the more toward you."
+    },
+    {
+      "v": "1:13",
+      "text": "For we write you nothing other than what you read and also recognise — and I hope you will recognise it fully to the end,"
+    },
+    {
+      "v": "1:14",
+      "text": "just as you have recognised us in part: that we are your boast, just as you are ours, in the day of the Lord Jesus."
+    },
+    {
+      "v": "1:15",
+      "text": "And in this confidence I intended to come to you first, so that you might have a second grace —"
+    },
+    {
+      "v": "1:16",
+      "text": "to pass through you into Macedonia, and to come back to you again from Macedonia, and to be sent on by you to Judaea."
+    },
+    {
+      "v": "1:17",
+      "text": "So when I was planning this, was I being fickle? Or do I make my plans in a fleshly way, so that with me it is \"Yes, yes\" and \"No, no\" at the same time?"
+    },
+    {
+      "v": "1:18",
+      "text": "But as God is faithful, our word to you has not been \"Yes\" and \"No.\""
+    },
+    {
+      "v": "1:19",
+      "text": "For the Son of God, Jesus Christ, who was preached among you through us — through me and Silvanus and Timothy — was not \"Yes\" and \"No\"; in him it is always \"Yes.\""
+    },
+    {
+      "v": "1:20",
+      "text": "For all the promises of God find their \"Yes\" in him; and that is why through him the \"Amen\" is spoken, to the glory of God through us."
+    }
+  ],
+  "greek_source": "content/2026-08-07/readings.md",
+  "english_source": "content/2026-08-07/readings.md",
+  "status": "complete"
+}

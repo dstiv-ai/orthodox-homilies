@@ -1,0 +1,142 @@
+{
+  "ref": "Romans 1:1-7, 13-17",
+  "book": "Rom",
+  "from": [
+    1,
+    1
+  ],
+  "to": [
+    1,
+    17
+  ],
+  "slug": "romans-1-1-7-13-17",
+  "greek": [
+    {
+      "v": "1:1",
+      "text": "Παῦλος, δοῦλος Ἰησοῦ χριστοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ,"
+    },
+    {
+      "v": "1:2",
+      "text": "ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις,"
+    },
+    {
+      "v": "1:3",
+      "text": "περὶ τοῦ υἱοῦ αὐτοῦ, τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα,"
+    },
+    {
+      "v": "1:4",
+      "text": "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει, κατὰ πνεῦμα ἁγιωσύνης, ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν,"
+    },
+    {
+      "v": "1:5",
+      "text": "δι’ οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν, ὑπὲρ τοῦ ὀνόματος αὐτοῦ,"
+    },
+    {
+      "v": "1:6",
+      "text": "ἐν οἷς ἐστὲ καὶ ὑμεῖς, κλητοὶ Ἰησοῦ χριστοῦ·"
+    },
+    {
+      "v": "1:7",
+      "text": "πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ, κλητοῖς ἁγίοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ χριστοῦ."
+    },
+    {
+      "v": "1:13",
+      "text": "Οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς- καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο- ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑμῖν, καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν."
+    },
+    {
+      "v": "1:14",
+      "text": "Ἕλλησίν τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰμί·"
+    },
+    {
+      "v": "1:15",
+      "text": "οὕτως τὸ κατ’ ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν Ῥώμῃ εὐαγγελίσασθαι."
+    },
+    {
+      "v": "1:16",
+      "text": "Οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον τοῦ χριστοῦ· δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι."
+    },
+    {
+      "v": "1:17",
+      "text": "Δικαιοσύνη γὰρ θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν, καθὼς γέγραπται, Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται."
+    }
+  ],
+  "english": [
+    {
+      "v": "1:1",
+      "text": "Paul, a servant of Jesus Christ, called as an apostle, set apart for the gospel of God —"
+    },
+    {
+      "v": "1:2",
+      "text": "the gospel he promised beforehand through his prophets in the holy scriptures,"
+    },
+    {
+      "v": "1:3",
+      "text": "concerning his Son, who was born of David's line according to the flesh,"
+    },
+    {
+      "v": "1:4",
+      "text": "and who was appointed Son of God in power, according to the Spirit of holiness, by the resurrection of the dead: Jesus Christ our Lord,"
+    },
+    {
+      "v": "1:5",
+      "text": "through whom we have received grace and apostleship, to bring about the obedience of faith among all the nations, for the sake of his name,"
+    },
+    {
+      "v": "1:6",
+      "text": "among whom you also are, called to belong to Jesus Christ —"
+    },
+    {
+      "v": "1:7",
+      "text": "to all in Rome who are loved by God, called as his holy people: grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "v": "1:13",
+      "text": "I do not want you to be unaware, brothers and sisters, that I have often intended to come to you — and have been prevented until now — so that I might have some fruit among you as well, as I have among the other nations."
+    },
+    {
+      "v": "1:14",
+      "text": "I am in debt both to Greeks and to those who speak no Greek, both to the wise and to the simple."
+    },
+    {
+      "v": "1:15",
+      "text": "So for my part I am eager to preach the gospel to you in Rome as well."
+    },
+    {
+      "v": "1:16",
+      "text": "For I am not ashamed of the gospel of Christ. It is the power of God for salvation to everyone who believes — to the Jew first, and also to the Greek."
+    },
+    {
+      "v": "1:17",
+      "text": "For in it the righteousness of God is revealed from faith to faith, as it is written: \"The righteous shall live by faith.\""
+    }
+  ],
+  "greek_source": "work/byztxt/ROM.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "1:1",
+      "note": "No 'Brothers and sisters:' incipit. The Greek already opens as a letter heading (Παῦλος, δοῦλος…), the way Luke 9:51 already opens with its own time-phrase and drops 'At that time'."
+    },
+    {
+      "v": "1:4",
+      "note": "ὁρισθέντος can be 'appointed' or 'declared'. ἐν δυνάμει may modify the appointment or the sonship ('Son of God in power'). κατὰ πνεῦμα ἁγιωσύνης is a Hebraism: Holy Spirit, or the holiness of Jesus' own spirit, over against κατὰ σάρκα in v. 3. I have kept the words in the Greek order and not smoothed the theology."
+    },
+    {
+      "v": "1:5",
+      "note": "εἰς ὑπακοὴν πίστεως is an ambiguous genitive: obedience that consists in faith, or obedience that faith produces. Rendered as 'the obedience of faith' to keep both readings open."
+    },
+    {
+      "v": "1:14",
+      "note": "βαρβάροις is 'non-Greek-speakers', not 'savages'. Unpacked as 'those who speak no Greek'."
+    },
+    {
+      "v": "1:16",
+      "note": "Byzantine has τὸ εὐαγγέλιον τοῦ χριστοῦ, 'the gospel of Christ'. Many modern editions omit τοῦ χριστοῦ."
+    },
+    {
+      "v": "1:17",
+      "note": "ἐκ πίστεως εἰς πίστιν is opaque — from start to finish by faith, or from God's faithfulness to human faith. Kept as 'from faith to faith'. δικαιοσύνη θεοῦ may be God's own righteousness or the righteousness he gives; I have not chosen."
+    }
+  ]
+}

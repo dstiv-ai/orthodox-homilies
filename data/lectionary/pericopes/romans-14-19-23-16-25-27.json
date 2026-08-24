@@ -1,0 +1,19 @@
+{
+  "ref": "Romans 14:19-23, 16:25-27",
+  "book": "Rom",
+  "from": [
+    14,
+    19
+  ],
+  "to": [
+    16,
+    27
+  ],
+  "slug": "romans-14-19-23-16-25-27",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "missing verse ROM 16:25"
+}

@@ -1,0 +1,108 @@
+{
+  "ref": "Matthew 19:16-26",
+  "book": "Matt",
+  "from": [
+    19,
+    16
+  ],
+  "to": [
+    19,
+    26
+  ],
+  "slug": "matthew-19-16-26",
+  "greek": [
+    {
+      "v": "19:16",
+      "text": "Καὶ ἰδού, εἷς προσελθὼν εἶπεν αὐτῷ, Διδάσκαλε ἀγαθέ, τί ἀγαθὸν ποιήσω, ἵνα ἔχω ζωὴν αἰώνιον;"
+    },
+    {
+      "v": "19:17",
+      "text": "Ὁ δὲ εἶπεν αὐτῷ, Τί με λέγεις ἀγαθόν; Οὐδεὶς ἀγαθός, εἰ μὴ εἷς, ὁ θεός. Εἰ δὲ θέλεις εἰσελθεῖν εἰς τὴν ζωήν, τήρησον τὰς ἐντολάς."
+    },
+    {
+      "v": "19:18",
+      "text": "Λέγει αὐτῷ, Ποίας; Ὁ δὲ Ἰησοῦς εἶπεν, Τὸ Οὐ φονεύσεις· οὐ μοιχεύσεις· οὐ κλέψεις· οὐ ψευδομαρτυρήσεις·"
+    },
+    {
+      "v": "19:19",
+      "text": "τίμα τὸν πατέρα καὶ τὴν μητέρα· καί, ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+    },
+    {
+      "v": "19:20",
+      "text": "Λέγει αὐτῷ ὁ νεανίσκος, Πάντα ταῦτα ἐφυλαξάμην ἐκ νεότητός μου· τί ἔτι ὑστερῶ;"
+    },
+    {
+      "v": "19:21",
+      "text": "Ἔφη αὐτῷ ὁ Ἰησοῦς, Εἰ θέλεις τέλειος εἶναι, ὕπαγε, πώλησόν σου τὰ ὑπάρχοντα καὶ δὸς πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ· καὶ δεῦρο, ἀκολούθει μοι."
+    },
+    {
+      "v": "19:22",
+      "text": "Ἀκούσας δὲ ὁ νεανίσκος τὸν λόγον ἀπῆλθεν λυπούμενος· ἦν γὰρ ἔχων κτήματα πολλά."
+    },
+    {
+      "v": "19:23",
+      "text": "Ὁ δὲ Ἰησοῦς εἶπεν τοῖς μαθηταῖς αὐτοῦ, Ἀμὴν λέγω ὑμῖν ὅτι δυσκόλως πλούσιος εἰσελεύσεται εἰς τὴν βασιλείαν τῶν οὐρανῶν."
+    },
+    {
+      "v": "19:24",
+      "text": "Πάλιν δὲ λέγω ὑμῖν, εὐκοπώτερόν ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος διελθεῖν, ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν."
+    },
+    {
+      "v": "19:25",
+      "text": "Ἀκούσαντες δὲ οἱ μαθηταὶ αὐτοῦ ἐξεπλήσσοντο σφόδρα, λέγοντες, Τίς ἄρα δύναται σωθῆναι;"
+    },
+    {
+      "v": "19:26",
+      "text": "Ἐμβλέψας δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς, Παρὰ ἀνθρώποις τοῦτο ἀδύνατόν ἐστιν, παρὰ δὲ θεῷ πάντα δυνατά."
+    }
+  ],
+  "english": [
+    {
+      "v": "19:16",
+      "text": "Just then a man came up to Jesus and asked, \"Teacher, what good thing must I do to have eternal life?\""
+    },
+    {
+      "v": "19:17",
+      "text": "\"Why do you ask me about what is good?\" Jesus said. \"No one is good but God alone. But if you want to enter into life, keep the commandments.\""
+    },
+    {
+      "v": "19:18",
+      "text": "\"Which ones?\" the man asked. Jesus said, \"Do not murder; do not commit adultery; do not steal; do not give false testimony;"
+    },
+    {
+      "v": "19:19",
+      "text": "honor your father and your mother; and love your neighbor as yourself.\""
+    },
+    {
+      "v": "19:20",
+      "text": "The young man said to him, \"I have kept all these since I was young. What do I still lack?\""
+    },
+    {
+      "v": "19:21",
+      "text": "Jesus told him, \"If you want to be perfect, go, sell what you own, and give the money to the poor, and you will have treasure in heaven. Then come, follow me.\""
+    },
+    {
+      "v": "19:22",
+      "text": "When the young man heard this, he went away sad, because he owned a great deal of property."
+    },
+    {
+      "v": "19:23",
+      "text": "Then Jesus said to his disciples, \"Truly I tell you, it is hard for a rich person to enter the kingdom of heaven."
+    },
+    {
+      "v": "19:24",
+      "text": "And I tell you again, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.\""
+    },
+    {
+      "v": "19:25",
+      "text": "When the disciples heard this, they were completely astonished. \"Then who can be saved?\" they asked."
+    },
+    {
+      "v": "19:26",
+      "text": "Jesus looked straight at them and said, \"For people this is impossible — but for God, all things are possible.\""
+    }
+  ],
+  "greek_source": "content/2026-08-23/readings.md",
+  "english_source": "content/2026-08-23/readings.md",
+  "status": "complete"
+}

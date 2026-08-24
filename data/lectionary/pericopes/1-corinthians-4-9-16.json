@@ -1,0 +1,84 @@
+{
+  "ref": "1 Corinthians 4:9-16",
+  "book": "1Cor",
+  "from": [
+    4,
+    9
+  ],
+  "to": [
+    4,
+    16
+  ],
+  "slug": "1-corinthians-4-9-16",
+  "greek": [
+    {
+      "v": "4:9",
+      "text": "Δοκῶ γὰρ ὅτι ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους· ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ, καὶ ἀγγέλοις, καὶ ἀνθρώποις."
+    },
+    {
+      "v": "4:10",
+      "text": "Ἡμεῖς μωροὶ διὰ χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι."
+    },
+    {
+      "v": "4:11",
+      "text": "Ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν, καὶ διψῶμεν, καὶ γυμνητεύομεν, καὶ κολαφιζόμεθα, καὶ ἀστατοῦμεν,"
+    },
+    {
+      "v": "4:12",
+      "text": "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν· διωκόμενοι ἀνεχόμεθα·"
+    },
+    {
+      "v": "4:13",
+      "text": "βλασφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι."
+    },
+    {
+      "v": "4:14",
+      "text": "Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλ' ὡς τέκνα μου ἀγαπητὰ νουθετῶ."
+    },
+    {
+      "v": "4:15",
+      "text": "Ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν χριστῷ, ἀλλ' οὐ πολλοὺς πατέρας· ἐν γὰρ χριστῷ Ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα."
+    },
+    {
+      "v": "4:16",
+      "text": "Παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε."
+    }
+  ],
+  "english": [
+    {
+      "v": "4:9",
+      "text": "Brothers and sisters: it seems to me that God has put us apostles on show at the very end of the procession, like men under sentence of death. We have been made a spectacle for the whole world to watch — for angels and for human beings alike."
+    },
+    {
+      "v": "4:10",
+      "text": "We are fools for Christ's sake; you are so wise in Christ. We are weak; you are strong. You are honoured; we are treated as nobodies."
+    },
+    {
+      "v": "4:11",
+      "text": "Right up to this present hour we go hungry and thirsty, we are poorly clothed, we are knocked about, and we have no settled home."
+    },
+    {
+      "v": "4:12",
+      "text": "We wear ourselves out working with our own hands. When people abuse us, we bless them. When they persecute us, we put up with it."
+    },
+    {
+      "v": "4:13",
+      "text": "When they slander us, we answer kindly. We have become the scrapings of the world, the muck everyone wipes off — right up to this moment."
+    },
+    {
+      "v": "4:14",
+      "text": "I am not writing this to shame you, but to warn you as my own dear children."
+    },
+    {
+      "v": "4:15",
+      "text": "Because even if you had ten thousand guardians in Christ, you do not have many fathers. It was I who became your father in Christ Jesus, through the gospel."
+    },
+    {
+      "v": "4:16",
+      "text": "So I am asking you: follow my example."
+    }
+  ],
+  "greek_source": "content/2026-08-09/readings.md",
+  "english_source": "content/2026-08-09/readings.md",
+  "status": "complete"
+}

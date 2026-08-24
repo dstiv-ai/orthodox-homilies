@@ -1,0 +1,92 @@
+{
+  "ref": "Luke 9:51-56, 10:22-24",
+  "book": "Luke",
+  "from": [
+    9,
+    51
+  ],
+  "to": [
+    10,
+    24
+  ],
+  "slug": "luke-9-51-56-10-22-24",
+  "greek": [
+    {
+      "v": "9:51",
+      "text": "Ἐγένετο δὲ ἐν τῷ συμπληροῦσθαι τὰς ἡμέρας τῆς ἀναλήψεως αὐτοῦ, καὶ αὐτὸς τὸ πρόσωπον αὐτοῦ ἐστήριξεν τοῦ πορεύεσθαι εἰς Ἱερουσαλήμ,"
+    },
+    {
+      "v": "9:52",
+      "text": "καὶ ἀπέστειλεν ἀγγέλους πρὸ προσώπου αὐτοῦ· καὶ πορευθέντες εἰσῆλθον εἰς κώμην Σαμαρειτῶν, ὥστε ἑτοιμάσαι αὐτῷ."
+    },
+    {
+      "v": "9:53",
+      "text": "Καὶ οὐκ ἐδέξαντο αὐτόν, ὅτι τὸ πρόσωπον αὐτοῦ ἦν πορευόμενον εἰς Ἱερουσαλήμ."
+    },
+    {
+      "v": "9:54",
+      "text": "Ἰδόντες δὲ οἱ μαθηταὶ αὐτοῦ Ἰάκωβος καὶ Ἰωάννης εἶπον, Κύριε, θέλεις εἴπωμεν πῦρ καταβῆναι ἀπὸ τοῦ οὐρανοῦ, καὶ ἀναλῶσαι αὐτούς, ὡς καὶ Ἠλίας ἐποίησεν;"
+    },
+    {
+      "v": "9:55",
+      "text": "Στραφεὶς δὲ ἐπετίμησεν αὐτοῖς, καὶ εἶπεν, Οὐκ οἴδατε οἵου πνεύματός ἐστε ὑμεῖς·"
+    },
+    {
+      "v": "9:56",
+      "text": "ὁ γὰρ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθεν ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι. Καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην."
+    },
+    {
+      "v": "10:22",
+      "text": "Καὶ στραφεὶς πρὸς τοὺς μαθητὰς εἶπεν, Πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου· καὶ οὐδεὶς γινώσκει τίς ἐστιν ὁ υἱός, εἰ μὴ ὁ πατήρ, καὶ τίς ἐστιν ὁ πατήρ, εἰ μὴ ὁ υἱός, καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι."
+    },
+    {
+      "v": "10:23",
+      "text": "Καὶ στραφεὶς πρὸς τοὺς μαθητὰς κατ’ ἰδίαν εἶπεν, Μακάριοι οἱ ὀφθαλμοὶ οἱ βλέποντες ἃ βλέπετε."
+    },
+    {
+      "v": "10:24",
+      "text": "Λέγω γὰρ ὑμῖν ὅτι πολλοὶ προφῆται καὶ βασιλεῖς ἠθέλησαν ἰδεῖν ἃ ὑμεῖς βλέπετε, καὶ οὐκ εἶδον· καὶ ἀκοῦσαι ἃ ἀκούετε, καὶ οὐκ ἤκουσαν."
+    }
+  ],
+  "english": [
+    {
+      "v": "9:51",
+      "text": "When the time drew near for Jesus to be taken up to heaven, he set his face firmly toward Jerusalem."
+    },
+    {
+      "v": "9:52",
+      "text": "He sent messengers on ahead of him. They went into a Samaritan village to get things ready for him."
+    },
+    {
+      "v": "9:53",
+      "text": "But the people there would not welcome him, because he was set on going to Jerusalem."
+    },
+    {
+      "v": "9:54",
+      "text": "When the disciples James and John saw this, they said, \"Lord, do you want us to call down fire from heaven to burn them up, the way Elijah did?\""
+    },
+    {
+      "v": "9:55",
+      "text": "But Jesus turned and rebuked them. \"You do not know what kind of spirit you are made of,\" he said."
+    },
+    {
+      "v": "9:56",
+      "text": "\"The Son of Man did not come to destroy people's lives, but to save them.\" And they went on to another village."
+    },
+    {
+      "v": "10:22",
+      "text": "He turned toward the disciples and said: \"My Father has handed over all things to me. No one knows who the Son is except the Father, and no one knows who the Father is except the Son — and anyone the Son chooses to reveal him to.\""
+    },
+    {
+      "v": "10:23",
+      "text": "Then he turned privately to his disciples and said, \"How blessed are the eyes that see what you see!"
+    },
+    {
+      "v": "10:24",
+      "text": "I tell you, many prophets and kings longed to see what you see, and did not see it; and to hear what you hear, and did not hear it.\""
+    }
+  ],
+  "greek_source": "content/2026-08-16/readings.md",
+  "english_source": "content/2026-08-16/readings.md",
+  "status": "complete"
+}

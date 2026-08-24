@@ -1,0 +1,387 @@
+{
+  "id": "kosmas-aitolos-life",
+  "slug": "kosmas-aitolos-life",
+  "title": "The Life and Martyrdom of St Kosmas of Aitolia",
+  "father": "St Nikodemos the Hagiorite",
+  "collection": "The Life of St Kosmas of Aitolia",
+  "source_ref": null,
+  "category": "lives-of-saints",
+  "feast": null,
+  "saint_key": "kosmas-aitolos",
+  "cover_key": "kosmas-aitolos",
+  "scripture": [],
+  "chapter": 1,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 5611,
+  "reading_minutes": 28,
+  "attribution_note": "Translated for this edition from the Greek of St Nikodemos the Hagiorite's Life and Martyrdom of St Kosmas, written for his New Martyrologion (first edition Venice 1799; Nikodemos died in 1809, so the text is public domain), as reprinted at 24 August in The Great Synaxaristes of the Orthodox Church, whose editors state that they took it from the New Martyrologion and corrected only its phrasing. The eleven notes on places and names at the end are those modern editors', not Nikodemos's, and are translated with credit. Kosmas was hanged in 1779 near Berat in what is now Albania. A WARNING ABOUT ONE SECTION: the section headed 'Jews of Ioannina accuse him of being sent by the Russians' carries language about Jews that is hostile and, in two places, openly hateful — it calls them a 'Christ-hating race' and 'God-killers', and it credits them with plotting the saint's death. That is what the Greek of 1799 says, and it is left here as it stands rather than quietly softened, because a translation that tidies its source is not a translation. It is set down as a record of how the text reads, not as anything the Church teaches or this library endorses. The deicide charge it repeats has been explicitly repudiated in modern Christian teaching. Read that section knowing this.",
+  "path": [
+    "saints",
+    "lives",
+    "kosmas-aitolos",
+    "1"
+  ],
+  "sections": [
+    {
+      "heading": "He is born at Mega Dendron and goes to school on Athos",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "ΚΟΣΜΑΣ ὁ Ἅγιος Ἱερομάρτυς καὶ Ἰσαπόστολος, ὁ ἀληθῶς ἄνθρωπος τοῦ Θεοῦ, διδάσκαλος καὶ κήρυξ τοῦ θείου Εὐαγγελίου κατήγετο ἀπὸ τὸ μικρὸν χωρίον τῆς Αἰτωλίας τὸ ὀνομαζόμενον Μέγα Δένδρον. Ἦτο υἱὸς γονέων εὐσεβῶν, παρὰ τῶν ὁποίων ἀνετράφη καὶ ἐξεπαιδεύθη εἰς τὰ γράμματα ἐν νουθεσίᾳ Κυρίου, κατὰ τὸν θεῖον Ἀπόστολον. Ὅταν δὲ ἦλθεν εἰς ἡλικίαν περίπου εἴκοσιν ἐτῶν, ἤρχισε νὰ διδάσκεται ἀπὸ τὸν Ἱεροδιάκονον Ἀνανίαν, τὸν καλούμενον Δερβισᾶνον. Ἐπειδὴ ὅμως κατὰ τοὺς χρόνους ἐκείνους ἤρχισε νὰ ἀκμάζῃ καὶ νὰ φημίζεται μεγάλως καὶ τὸ σχολεῖον τοῦ Βατοπαιδίου εἰς τὸ Ἅγιον Ὄρος, μετέβη ἐκεῖ, ἵνα φοιτήσῃ εἰς τοῦτο μὲ ἄλλους ἀρκετοὺς συμπατριώτας του. Ἐκεῖ συνεπλήρωσε τὴν μάθησιν ὑπὸ διδάσκαλον τὸν Παναγιώτην Παλαμᾶν. Μετὰ δὲ ταῦτα ἐδιδάχθη καὶ τὴν Λογικὴν ἀπὸ τὸν ἐκ Μετσόβου διδάσκαλον Νικόλαον Τζαρτζούλιον, ὅστις ἦτο ἐκεῖ σχολάρχης μετὰ τὸν σοφώτατον Εὐγένιον.",
+          "en": "Kosmas the holy hieromartyr — a priest who died for Christ — and Equal-to-the-Apostles, a true man of God, teacher and preacher of the holy Gospel, came from the small village in Aitolia called Mega Dendron. He was the son of devout parents. They brought him up and taught him his letters in the Lord's instruction, as the holy Apostle says. [Ephesians 6:4] When he came to about twenty years of age, he began to take lessons from the hierodeacon Ananias — a deacon who is also a monk — who was called Dervisanos. In those years the school of Vatopedi on the Holy Mountain of Athos was beginning to flourish and to be widely spoken of. So he went there, to study at that school with a good number of other men from his own country. There he finished his learning under the teacher Panagiotis Palamas. After that he was also taught Logic by the teacher Nikolaos Tzartzoulios of Metsovo, who was head of the school there after the most learned Eugenios."
+        }
+      ]
+    },
+    {
+      "heading": "Konstas becomes the monk Kosmas and is made a priest at Philotheou",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ἦτο δὲ οὗτος ὁ Ἱερομάρτυς Κοσμᾶς ἀκόμη τότε λαϊκός, καλούνος Κώνστας. Ἀλλὰ ἂν καὶ τὸ σχῆμα τῶν λαϊκῶν ἔφερεν, ἐφαίνετο σεμνός, ὡς νὰ ἔφερε τὸ μοναχικὸν σχῆμα καὶ κατὰ πάντα τρόπον ἠγωνίζετο καὶ ἤσκει ἑαυτὸν ἕως τῆς τελειότητος. Ἐπειδὴ δὲ κακῇ τῇ τύχῃ ἡ σχολὴ ἐκείνη ἠρημώθη, ἀναχωρησάντων τῶν διδασκάλων, τότε καὶ ὁ καλὸς καὶ ἐνάρετος Κώνστας μετέβη εἰς τὴν Ἱερὰν Μονὴν τοῦ Φιλοθέου. Ἐκεῖ κατὰ πρῶτον ἐκάρη Μοναχὸς λαβὼν τὸ ὄνομα Κοσμᾶς, ὑπετάγη δὲ εἰς τὴν ἄσκησιν καὶ τοὺς βαρυτάτους κόπους τῆς μοναχικῆς πολιτείας μετὰ πάσης προθυμίας. Μετὰ δὲ ταῦτα, ἐχούσης τῆς Μονῆς ταύτης τὴν ἀνάγκην ἐφημερίου, ὑπακούσας εἰς τὴν σφοδρὰν προτροπὴν τῶν πατέρων καὶ τὰς παρακλήσεις αὐτῶν, ἐχειροτονήθη ἱερομόναχος. Ἐξ ἀρχῆς δὲ ὁ μακάριος οὗτος ἀνήρ, καὶ ἔτι κοσμικὸς ὤν, πόθον εἶχε πολὺν νὰ ὠφελήσῃ τοὺς ἀδελφοὺς Χριστιανοὺς μὲ ἐκεῖνα τὰ ὁποῖα ἐδιδάχθη καὶ ἔμαθε. Διὸ πολλάκις ἔλεγεν, ὅτι οἱ ἀδελφοί μας Χριστιανοὶ μεγάλην ἔχουσιν ἀνάγκην ἀπὸ λόγον Θεοῦ. Καὶ ὅτι χρέος βαρύτατον ἔχουν ἐκεῖνοι, οἵτινες σπουδάζουν, νὰ μὴ προστρέχουν εἰς τὰ παλάτια τῶν ἀρχόντων καὶ τὰς αὐλὰς τῶν μεγιστάνων διὰ νὰ ἀποκτήσωσι πλοῦτον καὶ ἀξιώματα, ἀλλὰ πρωτίστως νὰ διδάσκωσι τὰς χριστιανικὰς ἀληθείας εἰς τοὺς ἁπλοϊκοὺς ἀνθρώπους, οἵτινες ζῶσιν εἰς τὴν ἀπαιδευσίαν καὶ τὴν ἄγνοιαν, διὰ νὰ ἀποκτήσουν οὕτω μισθὸν οὐράνιον καὶ ἀμάραντον δόξαν.",
+          "en": "This hieromartyr Kosmas was still a layman then, called Konstas. But even though he wore a layman's dress, he appeared as modest as if he already wore a monk's habit. In every way he struggled and trained himself toward perfection. Then, by an unhappy turn, that school was left empty, because the teachers had gone away. So the good and virtuous Konstas went to the holy monastery of Philotheou. There they first cut his hair in the monastic tonsure and gave him the name Kosmas. He submitted himself to the discipline and the heaviest labours of the monastic life with all eagerness. After that, because this monastery needed a priest for the daily services, he obeyed the fathers' strong urging and their pleas, and was ordained a hieromonk — a monk who is also a priest. From the beginning this blessed man, even while he was still in the world, had a great longing to help his Christian brothers with what he had been taught and had learned. So he would often say that our Christian brothers have a great need of the word of God. And that those who study have a very heavy duty: not to run to the palaces of the powerful and the courts of the great in order to gain wealth and honours, but first of all to teach the Christian truths to simple people, who live without schooling and in ignorance — and so to gain a heavenly reward and a glory that does not fade."
+        }
+      ]
+    },
+    {
+      "heading": "He opens the Scriptures, then goes to Constantinople for leave to preach",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ἀλλὰ ἂν καὶ ὁ μακάριος Κοσμᾶς τοιαῦτα ἐπόθει καὶ ζῆλος πολὺς ἐθέρμαινε τὴν ἱερὰν αὐτοῦ καρδίαν, ἵνα ὠφελήσῃ τοὺς πολλούς, ὅμως, συλλογιζόμενος τὸ πόσον εἶναι μέγα καὶ δύσκολον τὸ ἔργον τοῦ Ἀποστολικοῦ κηρύγματος, ὡς ταπεινόφρων καὶ μέτριος δὲν ἐτόλμησε μόνος νὰ ἀναλάβῃ τὸ τοιοῦτον βαρύτατον ἔργον χωρὶς νὰ ἔχῃ τὴν συγκατάθεσιν τῆς θείας βουλήσεως. Ὅθεν, θέλων νὰ δοκιμάσῃ ἂν εἶναι τοῦτο θέλημα Θεοῦ, ἤνοιξε τὴν Θείαν Γραφήν. Καί, ὢ τοῦ θαύματος! Εὗρεν εὐθὺς ἐνώπιόν του τὸν λόγον τοῦ Ἀποστόλου, λέγοντος· «Μηδεὶς τὸ ἑαυτοῦ ζητείτω, ἀλλὰ καὶ τὸ τοῦ ἑτέρου ἕκαστος» (Α’ Κορ. ι’ 24). Ἤτοι ἄς μὴ ζητῇ τις μόνον τὸ ἰδικόν του συμφέρον, ἀλλὰ καὶ τὸ συμφέρον τοῦ ἀδελφοῦ του. Φωτισθεὶς ὅθεν ἐκ τούτου καὶ ἀποκαλύψας τὸν σκοπόν του καὶ πρὸς τοὺς ἄλλους πνευματικοὺς πατέρας καὶ λαβὼν παρ’ αὐτῶν συγχώρησιν, ἀνεχώρησεν εἰς Κωνσταντινούπολιν, ἵνα συναντήσῃ ἐκεῖ καὶ τὸν αὐτάδελφόν του διδάσκαλον Χρύσανθον. Οὗτος ἐδίδαξεν εἰς τὸν μακάριον Κοσμᾶν καὶ ὀλίγην ρητορικὴν τέχνην, ἵνα ὁμιλῇ μὲ ποιάν τινα μέθοδον. Ἀποκαλύψας ὅθεν τὸν λογισμόν του καὶ εἰς τοὺς ἐκεῖ εὐλαβεστάτους Ἀρχιερεῖς καὶ διδασκάλους καὶ εὑρὼν πάντας αὐτοὺς παρακινοῦντας τοῦτον συμφώνως πρὸς τὸ θεῖον τοῦτο ἔργον, ἔλαβεν ἔγγραφον πρὸς τοῦτο ἄδειαν παρὰ τοῦ τότε πατριαρχεύοντος Σεραφεὶμ τοῦ ἐκ Δελβίνου.",
+          "en": "But although the blessed Kosmas longed for such things, and a great zeal warmed his holy heart to help the many, he thought how great and how hard the work of apostolic preaching is. Being humble and measured, he did not dare take up so heavy a work on his own, without the consent of the divine will. So, wanting to test whether this was the will of God, he opened the Holy Scripture. And — O the wonder! — he found at once before him the word of the Apostle, saying: \"Let no one seek his own, but each one also the other's.\" [1 Corinthians 10:24] That is: let a man not seek only his own good, but also the good of his brother. Enlightened by this, he laid his purpose before the other spiritual fathers as well, and received their leave. He set out for Constantinople, to meet there his own brother, the teacher Chrysanthos. This man also taught the blessed Kosmas a little of the art of speaking, so that he might talk with some method. He then laid his thought before the most devout bishops and teachers there as well, and found them all urging him with one voice toward this holy work. He received written leave for it from the patriarch of that time, Seraphim of Delvino."
+        }
+      ]
+    },
+    {
+      "heading": "He preaches from Constantinople to Nafpaktos, then returns to Athos in 1775",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Οὕτως ὁ μακάριος οὗτος Ἱερομάρτυς Κοσμᾶς ἤρχισε νὰ κηρύττῃ τὸ Εὐαγγέλιον τῆς Βασιλείας τῶν Οὐρανῶν κατ’ ἀρχὴν μὲν εἰς τὰς ἐκκλησίας καὶ τὰ χωρία τῆς Κωνσταντινουπόλεως, ἐκεῖθεν δὲ μετέβη εἰς Ναύπακτον, Βραχῶρι, Μεσολόγγιον καὶ ἄλλους τόπους καὶ πάλιν ἐπέστρεψεν εἰς Κωνσταντινούπολιν. Ὅπου καὶ συμβουλευθεὶς τὸν τότε Πατριάρχην Σωφρόνιον καὶ λαβὼν παρ’ αὐτοῦ νέαν ἄδειαν καὶ εὐλογίαν ἤρχισε καὶ πάλιν νὰ κηρύττῃ τὸν λόγον τοῦ Εὐαγγελίου μὲ περισσοτέραν θερμότητα καὶ ζῆλον. Περιελθών, ὅθεν, ἅπαντα σχεδὸν τὰ Δουκάνησα [1] καὶ διδάξας τοὺς Χριστιανοὺς νὰ μετανοοῦν καὶ νὰ πράττουν ἔργα ἄξια τῆς μετανοίας, ἐπέστρεψεν ἐκεῖθεν εἰς τὸ Ἅγιον Ὄρος. Ἦτο δὲ τότε τὸ ἔτος 1775. Ἀφοῦ δὲ περιῆλθεν ὅλας τὰς ἐκεῖ Μονὰς καὶ Σκήτας καὶ ἐδίδαξε τοὺς εἰς αὐτὰς ἀσκουμένους πατέρας, παρέμεινεν ἐκεῖ ὀλίγον καιρὸν ἀναγιγνώσκων τὰ θεῖα βιβλία.",
+          "en": "In this way the blessed hieromartyr Kosmas began to preach the Gospel of the Kingdom of Heaven. At first he preached in the churches and villages of Constantinople. From there he went on to Nafpaktos, Vrachori, Missolonghi and other places, and then returned again to Constantinople. There he also took counsel with the patriarch of that time, Sophronios, and received from him a new leave and blessing. He began once more to preach the word of the Gospel with still more warmth and zeal. So he went round almost all the Doukanesa [1] and taught the Christians to repent and to do works worthy of repentance. From there he returned to the Holy Mountain. It was then the year 1775. After he had gone round all the monasteries and sketes there — the smaller monastic settlements — and had taught the fathers who were struggling in them, he stayed there a short time, reading the holy books."
+        }
+      ]
+    },
+    {
+      "heading": "He leaves Athos and preaches through Macedonia as far as Kephalonia",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Μὴ δυνάμενος δὲ ὁ Ἅγιος νὰ παραμείνῃ περισσότερον ἐξ αἰτίας τῆς ἀγάπης, ἥτις ἐθέρμαινε τὴν καρδίαν του διὰ τὴν ὠφέλειαν τῶν Χριστιανῶν, καθὼς πολλάκις ὁ ἴδιος ἔλεγε τοῦτο εἰς τοὺς πατέρας, ἀνεχώρησεν ἀπὸ τὸ Ἅγιον Ὄρος καὶ ἐκκινήσας ἀπὸ τὰ ἔξω τοῦ Ὄρους χωρία, ἔφθασε κηρύττων εἰς τὴν Θεσσαλονίκην, τὴν Βέροιαν καὶ εἰς ὁλόκληρον σχεδὸν τὴν Μακεδονίαν. Ἐπροχώρησε δὲ ἕως τὰ μέρη τῆς Χειμάρρας, τῆς Ἀκαρνανίας, τῆς Αἰτωλίας καὶ ἕως καὶ αὐτῆς τῆς Ἄρτης καὶ τῆς Πρεβέζης. Ἐκεῖθεν δὲ ἔπλευσεν εἰς τὴν Ἁγίαν Μαύραν [2] καὶ εἰς τὴν Κεφαλληνίαν. Ὁπόθεν δὲ καὶ ἂν διήρχετο ἢ ὅπου μετέβαινεν, ἐγίνετο μεγάλη σύναξις τῶν Χριστιανῶν, οἵτινες ἤκουον μετὰ κατανύξεως καὶ εὐλαβείας τὴν χάριν καὶ τὴν γλυκύτητα τῶν λόγων του καὶ ἀκολούθως ἐγένετο συνομιλία, ἐκ τῆς ὁποίας ἐπήρχετο μεγάλη ἡ ὠφέλεια τῶν ψυχῶν.",
+          "en": "But the saint could not stay longer, because of the love that warmed his heart for the help of the Christians — as he himself often said to the fathers. He left the Holy Mountain. Setting out from the villages outside the Mountain, he came preaching to Thessaloniki, to Veria, and to almost the whole of Macedonia. He went on as far as the parts of Himarra, of Akarnania, of Aitolia, and even as far as Arta itself and Preveza. From there he sailed to Hagia Maura [2] and to Kephalonia. Wherever he passed, or wherever he went, a great gathering of Christians would form. They heard with a stirred heart and with reverence the grace and the sweetness of his words. Afterwards there was conversation, from which great benefit came to their souls."
+        }
+      ]
+    },
+    {
+      "heading": "His teaching is as simple as the fishermen's",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ἦτο δὲ ἡ διδασκαλία αὐτοῦ, καθὼς ἡμεῖς αὐτήκοοι ἐγενόμεθα, ἁπλουστάτη, ὡς ἐκείνη τῶν ἁλιέων· ἦτο γαλήνιος καὶ ἥσυχος καὶ ἐφαινετο πλήρης τῆς χάριτος, τῆς ἱλαρότητος καὶ τῆς ἐνθέου γλυκύτητος τοῦ Ἁγίου Πνεύματος. Μάλιστα δὲ εἰς τὴν Κεφαλληνίαν μέγαν καρπὸν ψυχικῆς ὠφελείας ἀπέδωσεν ὁ ἱερὸς οὗτος διδάσκαλος μὲ τὸν σπόρον τῆς θείας διδασκαλίας του. Ἀλλὰ καὶ ὁ Θεός, ὁ τὰ πάντα κυβερνῶν καὶ οἰκονομῶν, συνήργει ἄνωθεν καὶ ἐβεβαίωνε τοὺς λόγους τοῦ Ἁγίου Ἱερομάρτυρος καὶ Ἰσαποστόλου Κοσμᾶ, μὲ τὰ ἀκόλουθα σημεῖα καὶ θαύματα, καθὼς ἄλλοτε διὰ τῶν τοιούτων θαυμάτων ἐβεβαίου τὸ κήρυγμα τῶν θείων αὐτοῦ Ἀποστόλων.",
+          "en": "And his teaching, as we ourselves heard it with our own ears, was of the simplest kind, like that of the fishermen. It was calm and quiet. It seemed full of the grace, the gladness, and the God-given sweetness of the Holy Spirit. Above all on Kephalonia this holy teacher yielded a great harvest of benefit to souls, with the seed of his divine teaching. But God also, who governs and orders all things, worked with him from above, and confirmed the words of the holy hieromartyr and Equal-to-the-Apostles Kosmas with the following signs and wonders — just as once, by such wonders, he confirmed the preaching of his holy Apostles."
+        }
+      ]
+    },
+    {
+      "heading": "A tailor, a paralytic, and a deaf nobleman are healed on Kephalonia",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Οὕτω εἰς τὴν νῆσον ταύτην ἔζη πτωχός τις ράπτης, ὅστις εἶχε τὴν δεξιάν του χεῖρα ἀπὸ χρόνων πολλῶν ἀκίνητον καὶ ἄχρηστον. Οὗτος ὅθεν, καταφυγὼν εἰς τὸν Ἅγιον, παρεκάλει νὰ τὸν ἰατρεύσῃ. Ὁ Ἅγιος τότε παρεκίνησεν αὐτὸν νὰ προστρέξῃ μὲ εὐλάβειαν εἰς τὴν διδασκαλίαν του καὶ ὁ Θεὸς θέλει τὸν εὐσπλαχνισθῆ. Ὑπήκουσεν ὁ πτωχὸς ράπτης καὶ ἀφοῦ ἤκουσεν εὐλαβῶς τῆς διδασκαλίας αὐτοῦ, ὢ τοῦ θαύματος! τὴν ἑπομένην ἡμέραν ἰατρεύθη τελείως.",
+          "en": "So on this island there lived a poor tailor, whose right hand had for many years been motionless and useless. This man took refuge with the saint and begged him to heal him. The saint then urged him to come with reverence to his teaching, and God would have mercy on him. The poor tailor obeyed. After he had listened with reverence to his teaching — O the wonder! — the next day he was completely healed."
+        },
+        {
+          "gr": "Ἄλλος πάλιν παράλυτος, μαθὼν τοῦτο τὸ παράδοξον, παρεκάλει καὶ τὸν μετέφερον ἐπὶ τῆς κλίνης του, κατὰ τὴν ὥραν τῆς διδασκαλίας τοῦ Ἁγίου. Καὶ οὗτος, ὢ τοῦ θαύματος! μετ’ ὀλίγας ἡμέρας ἰάθη τελείως καὶ ἐδόξαζε τὸν Θεὸν καὶ ηὐχαρίστει τὸν Ἅγιον.",
+          "en": "Another man, a paralytic, heard of this strange thing. He begged, and they carried him on his bed at the hour of the saint's teaching. And he too — O the wonder! — after a few days was completely healed. He glorified God and thanked the saint."
+        },
+        {
+          "gr": "Εἰς τὸ κάστρον τῆς Ἄσσου διέμενεν εἷς εὐγενής, ὅστις εἶχε δεινὴν ἀσθένειαν τῶν ὤτων καὶ ἐπὶ πολλοὺς χρόνους ἦτο τελείως κωφός. Οὗτος μεταβαίνων μὲ εὐλάβειαν καὶ πίστιν ἐκεῖ ὅπου ἐδίδασκεν ὁ Ἅγιος, ἤρχισεν εὐθὺς νὰ ἀκούῃ, ἰαθεὶς τελείως.",
+          "en": "In the fortress of Assos there lived a nobleman who had a terrible illness of the ears, and for many years had been completely deaf. This man, going with reverence and faith to the place where the saint was teaching, began at once to hear, being completely healed."
+        }
+      ]
+    },
+    {
+      "heading": "A dry well at Kouronos fills, and he plants a wooden Cross wherever he speaks",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Εἰς τὴν Κεφαλληνίαν ὑπάρχει χωρίον ὀνομαζόμενον Κουρουνός. Ἐκ τοῦ χωρίου τούτου διερχόμενος ὁ Ἅγιος ἐν καιρῷ θέρους, ἐδίψασε καὶ ἐζήτησεν ὕδωρ διὰ νὰ πίῃ ἀπὸ ἕν ξηροπήγαδον. Οἱ ἄνθρωποι εἶπον εἰς τὸν Ἅγιον ὅτι δὲν ἦτο εὔκολον, διότι τὸ ξηροπήγαδον δὲν εἶχεν ὕδωρ. Ἀλλὰ διὰ νὰ κάμουν ὑπακοήν, ἀνέσυραν ἀπὸ τὸ βάθος τοῦ πηγαδίου ὕδωρ γεμᾶτον λάσπην. Καὶ εὐθὺς ὡς ὁ Ἅγιος ἔφερε τοῦτο εἰς τὸ στόμα του καὶ ἔπιεν ὀλίγον, εὐθὺς τὸ ξηροπήγαδον τοῦτο παραδόξως ἀνέβλυσεν ὕδωρ καθαρὸν καὶ ἄφθονον καὶ ἔκτοτε εἶναι πάντοτε πλῆρες καθ’ ὅλον τὸν χρόνον καὶ ἰαματικὸν διὰ ἀσθενείας.",
+          "en": "On Kephalonia there is a village called Kouronos. Passing through this village in summer, the saint grew thirsty and asked for water to drink from a dry well. The people told the saint that it was not easy, because the dry well had no water. But to obey him, they drew up from the depth of the well water full of mud. And as soon as the saint brought this to his mouth and drank a little, at once this dry well strangely gushed with clean and abundant water. From then on it is always full throughout the year, and healing for illnesses."
+        },
+        {
+          "gr": "Ἐξ αἰτίας τοῦ πλήθους τοῦ λαοῦ, τὸ ὁποῖον συνηθροίζετο κατὰ τὰς διδασκαλίας τοῦ Ἁγίου, οὐδεμία Ἐκκλησία ἐχώρει καὶ οὕτω ἐξ ἀνάγκης ἐδίδασκεν εἰς τὰς πεδιάδας. Εἰς τὸν τόπον λοιπὸν ὅπου ἔμελλε νὰ διδάξῃ, ἔλεγε πρῶτον καὶ κατεσκεύαζαν ἕνα μεγάλον ξύλινον Σταυρόν. Κατόπιν ἀκουμβοῦσεν ἐπὶ τοῦ στηθέντος Σταυροῦ τὸ σκαμνίον, τὸ ὁποῖον, ὡς λέγουσιν, κατεσκεύασε δι’ αὐτόν, ὡς θρονίον, ὁ Κούρτ πασᾶς, ἐπὶ τοῦ ὁποίου ἀνερχόμενος ἐδίδασκεν. Καὶ μετὰ τὸ πέρας τῆς διδασκαλίας τὸ μὲν σκαμνίον διέλυε καὶ τὸ ἔφερε μεθ’ ἑαυτοῦ, ὅπου καὶ ἂν μετέβαινεν, ὁ δὲ Σταυρὸς ἔμενεν ἐκεῖ εἰς παντοτεινὴν ἐνθύμησιν τοῦ κηρύγματός του. Καὶ εἰς τοὺς τόπους, ὅπου ἦσαν στημένοι οἱ Σταυροί, ὁ Θεὸς ἐνήργει πολλὰ θαύματα. Οὕτω εἰς τὸ μέσον τῆς ἀγορᾶς τοῦ Ἀργοστολίου, πόλεως τῆς Κεφαλληνίας, ὅπου ὁ Ἅγιος ἔστησεν ἕνα τοιοῦτον Σταυρόν, ἀνέβλυσεν ὕδωρ θαυμάσιον καὶ ἄφθονον, τὸ ὁποῖον ἐξακολουθεῖ νὰ φαίνεται ἕως τὴν σήμερον, χωρὶς ποτὲ νὰ ὀλιγοστεύῃ.",
+          "en": "Because of the crowd of people that gathered at the saint's teachings, no church could hold them. So of necessity he taught in the open fields. At the place, then, where he was about to teach, he would first give the word, and they would make a great wooden Cross. Then he would rest against the Cross that had been set up the stool which, they say, Kurt Pasha had made for him as a raised seat. He would climb up on it and teach. When the teaching was over he would take the stool apart and carry it with him wherever he went. But the Cross remained there as a lasting reminder of his preaching. And in the places where the Crosses stood, God worked many wonders. So in the middle of the marketplace of Argostoli, a city of Kephalonia, where the saint set up such a Cross, there gushed forth wonderful and abundant water, which continues to be seen to this day, never growing less."
+        }
+      ]
+    },
+    {
+      "heading": "Kephalonians row him to Zakynthos; Corfu asks him to leave for Albania",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ἀπὸ τῆς Κεφαλληνίας ὁ Ἅγιος ἔπλευσεν εἰς τὴν Ζάκυνθον, συνοδευόμενος ἀπο δέκα καΐκια, πλήρη εὐλαβῶν Κεφαλλήνων. Καὶ ἀφοῦ ἐδίδαξεν ἐκεῖ ἕως ὀλίγον, δὲν ηὐτύχησεν ὁ εὐλογημένος. Ὅθεν ἐπέστρεψε πάλιν εἰς τὴν Κεφαλληνίαν καὶ ἐκεῖθεν μετέβη εἰς Κορυφούς [3], ὅπου ἐδεξιώθησαν αὐτὸν πανδήμως καὶ μάλιστα ὁ ἡγεμών. Ἐπειδὴ ὅμως πλῆθος πολὺ συνηθροίσθη ἐκ τῶν χωρίων, ἵνα ἀκούσῃ τὴν διδασκαλίαν τοῦ Ἁγίου, οἱ τῆς πόλεως προεστῶτες, τὸν φθόνον φοβούμενοι, παρεκάλεσαν τὸν Ἅγιον νὰ ἀναχωρήσῃ τὸ ταχύτερον.",
+          "en": "From Kephalonia the saint sailed to Zakynthos, accompanied by ten caiques — small boats — full of devout Kephalonians. And after he had taught there a little, the blessed man did not fare well. So he returned again to Kephalonia, and from there went to Koryphous [3], where they received him with a public welcome, and the governor most of all. But because a great crowd gathered from the villages to hear the saint's teaching, the leading men of the city, fearing envy, asked the saint to leave as quickly as possible."
+        },
+        {
+          "gr": "Καὶ οὕτω ὁ ἐνάρετος καὶ εὐλογημένος Ἅγιος Κοσμᾶς, ἵνα μὴ γίνῃ αἴτιος σκανδάλων καὶ ταραχῶν, ἀναχωρήσας ἐκεῖθεν μετέβη εἰς τὸ ἀντίκρυ τῆς Κερκύρας μέρος τῆς Στερεᾶς, ἤτοι τῆς Ἀλβανίας, ὀνομαζόμενον Ἅγιοι Σαράντα. Ἐκεῖ ἐδίδασκε τοὺς Χριστιανοὺς περιπατῶν καὶ διερχόμενος ἀπὸ τὰς βαρβάρους ἐκείνας ἐπαρχίας, ὅπου ἐκινδύνευε νὰ ἀπολεσθῇ τελείως ἡ εὐσέβεια καὶ ἡ χριστιανικὴ ζωὴ ἕνεκα τῆς ἀμαθείας, εἰς τὴν ὁποίαν εὑρίσκοντο οἱ ἐκεῖ Χριστιανοί, ἀλλὰ καὶ ἀπὸ τὰ πολλὰ κακὰ τὰ ὁποῖα εἶχον καταπνίξει τούτους, ἤτοι φόνους, κλοπὰς καὶ ἄλλας μυρίας παρανομίας, τόσον ὥστε παρ’ ὀλίγον νὰ ἦσαν χειρότεροι κατὰ τὰς κακίας καὶ τὰ ἁμαρτήματα ἀπὸ τοὺς ἀσεβεῖς.",
+          "en": "And so the virtuous and blessed Saint Kosmas, so as not to become a cause of scandals and disturbances, left there and went to the part of the mainland opposite Corfu, that is, of Albania, called Agioi Saranta, the Forty Saints. There he taught the Christians, walking and passing through those wild provinces, where piety and the Christian life were in danger of being completely lost because of the ignorance in which the Christians there found themselves, and also because of the many evils that had drowned them — murders, thefts and countless other lawless acts — so that they were all but worse in vices and sins than the godless."
+        }
+      ]
+    },
+    {
+      "heading": "He tames robbers in Albania and founds schools",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Καὶ εἰς τούτων τῶν Χριστιανῶν τὰς διεφθαρμένας καὶ ἐξηγριωμένας καρδίας ἐμφυτεύσας τὸν σπόρον τοῦ θείου λόγου ὁ ἱερὸς Κοσμᾶς, κατώρθωσε, συνεργούσης τῆς θείας χάριτος, νὰ ἐπιτύχῃ καρπὸν ἀγλαόν. Διότι τοὺς ἀγρίους αὐτοὺς ἡμέρευσε, τοὺς λῃστὰς κατεπράϋνε, τοὺς ἀσπλάγχνους καὶ ἀνελεήμονας ἀνέδειξεν εὐσπλάγχνους καὶ ἐλεήμονας, τοὺς ἀνευλαβεῖς μετέφερεν εἰς τὴν εὐσέβειαν, τοὺς ἀμαθεῖς καὶ ἀγροίκους ἐμόρφωσεν εἰς τὰ θεῖα γράμματα καὶ ἐνουθέτησε νὰ προσέρχωνται εἰς τὰς ἱερὰς Ἀκολουθίας καὶ ἅπαντας ἐν γένει τοὺς ἁμαρτωλοὺς ἐπέστρεψεν εἰς βαθεῖαν μετάνοιαν καὶ τελειοποίησιν, εἰς σημεῖον ὥστε ἅπαντες οἱ Χριστιανοὶ ἔλεγον, ὅτι εἰς τὸν καιρόν των ἀνεφάνη εἷς νέος Ἀπόστολος.",
+          "en": "And into the corrupted and savage hearts of these Christians the holy Kosmas planted the seed of the divine word. With the help of divine grace, he succeeded in winning a bright harvest. For he tamed these wild men. He softened the robbers. He made the hard-hearted and merciless into merciful and compassionate men. He turned the irreverent to piety. He formed the unlearned and rustic in the holy letters, and advised them to come to the sacred services. In general he turned all the sinners to deep repentance and to a completed life. All the Christians said that in their time a new Apostle had appeared."
+        },
+        {
+          "gr": "Παντοῦ δὲ ὁπόθεν διῆλθεν ἵδρυσε σχολεῖα διὰ τοῦ μέσου τῆς διδασκαλίας αὐτοῦ, τόσον ἀνώτερα ὅσον καὶ κοινά, ἵνα φοιτοῦν εἰς αὐτὰ τὰ παιδία καὶ μανθάνουν δωρεὰν τὰ ἱερὰ γράμματα καὶ ἐκ τούτων νὰ ἑδραιώνωνται εἰς τὴν πίστιν καὶ τὴν εὐσέβειαν, ὡς καὶ νὰ καθοδηγοῦνται εἰς τὴν ἐνάρετον ζωὴν καὶ πολιτείαν. Κατέπεισε δὲ τοὺς πλουσίους καὶ ἠγόρασαν ὑπὲρ τὰς τέσσαρας χιλιάδας χαλκίνας κολυμβήθρας καὶ ἀφιέρωσε ταύτας εἰς τὰς Ἐκκλησίας εἰς μνημόσυνόν των, ἵνα βαπτίζωνται κατὰ τὸν τύπον τοῦ Μυστηρίου τὰ παιδιὰ τῶν Χριστιανῶν. Ὁμοίως κατέπεισε τοὺς ἔχοντας τὰ μέσα καὶ ἠγόρασαν βιβλία Πατερικὰ καὶ τοιαῦτα μὲ χριστιανικὰς διδασκαλίας, κομβοσχοίνια, μικροὺς σταυρούς, καλύμματα τῆς κεφαλῆς καὶ κτένια, ἐκ τῶν ὁποίων τὰ μὲν βιβλία διένειμεν εἰς ἐκείνους, οἵτινες ἐπεθύμουν τὴν μάθησιν, τὰ δὲ καλύμματα, ὑπὲρ τὰς τεσσαράκοντα χιλιάδας, εἰς τὰς γυναῖκας, ἵνα σκεπάζουν τὴν κεφαλήν των καὶ τὰ κτένια εἰς ἐκείνους, οἵτινες ὑπέσχοντο νὰ ἀφήσουν τὸ γένειον καὶ νὰ διάγωσι βίον ἐνάρετον καὶ χριστιανικόν. Τὰ δὲ κομβοσχοίνια καὶ σταυρίδια διένειμεν εἰς τὸν πολὺν λαὸν διὰ νὰ συγχωρῶσι τοὺς ἀγοράσαντας.",
+          "en": "And everywhere he passed he founded schools by means of his teaching, both higher schools and common ones, so that the children might go to them and learn the holy letters free of charge, and from these be established in the faith and in piety, and also be guided into a virtuous life and way of living. He also persuaded the rich, and they bought more than four thousand bronze baptismal fonts. He dedicated these to the churches in the donors' memory, so that the children of the Christians might be baptized according to the form of the Mystery. Likewise he persuaded those who had the means, and they bought books of the Fathers and books with Christian teachings, prayer-ropes, little crosses, coverings for the head, and combs. Of these, the books he distributed to those who desired learning; the coverings — more than forty thousand — to the women, so that they might cover their heads; and the combs to those who promised to let the beard grow and to live a virtuous and Christian life. The prayer-ropes and little crosses he distributed to the common people, so that they might forgive those who had bought them."
+        }
+      ]
+    },
+    {
+      "heading": "Forty priests travel with him; the crowds keep vigil and eat on the road",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Εἶχε δὲ ὁ Ἅγιος μεθ’ ἑαυτοῦ τεσσαράκοντα ἕως πεντήκοντα Ἱερεῖς, οἵτινες ἠκολούθουν αὐτὸν καὶ ὅταν ἔφθανεν εἴς τινα τόπον παρήγγελλε κατὰ πρῶτον εἰς τοὺς Χριστιανοὺς νὰ ἐξομολογηθοῦν, νὰ νηστεύουν καὶ νὰ τελοῦν ἀγρυπνίαν μὲ μεγάλην λαμπρότητα καὶ φωτοχυσίαν. Διότι εἶχεν ἐπίτηδες κατεσκευασμένα ξύλινα μανουάλια, χωροῦντα ἕκαστον ἑκατὸν κηρία καὶ κατόπιν διένειμε δωρεὰν εἰς ἅπαντας κηρία. Μεθ’ ὅ παρήγγελλεν εἰς τοὺς Ἱερεῖς καὶ ἀνεγίγνωσκον τὸ Ἅγιον Εὐχέλαιον καὶ ἐχρίοντο πάντες οἱ Χριστιανοί, εἰς τὸ τέλος δὲ ἔκαμνε διδασκαλίαν. Ἐπειδὴ δὲ ἠκολούθουν τὸν Ἅγιον λαὸς πολύς, ἕως καὶ δύο καὶ τρεῖς χιλιάδες ψυχῶν, ἐπρόσταζεν ἀφ’ ἑσπέρας καὶ ἡτοίμαζον σάκκους πλήρεις ἄρτου καὶ μεγάλας χύτρας μὲ ἐβρασμένον σῖτον καὶ μετέφερον ταῦτα εἰς τὸν δρόμον, ὁπόθεν ἤθελε διέλθει τὸ πλῆθος τῶν ἀνθρώπων καὶ ἐκεῖθεν ἔτρωγον πάντες καὶ συνεχώρουν ζῶντας καὶ τεθνεῶτας. Ἐνήργησε δὲ ὁ Θεὸς διὰ τοῦ Ἁγίου αὐτοῦ Ἱερομάρτυρος καὶ Ἰσαποστόλου Κοσμᾶ, καὶ ἐκεῖ εἰς τὴν Ἀλβανίαν, καθὼς καὶ εἰς ἄλλους τόπους, τοιαῦτα θαυμάσια.",
+          "en": "And the saint had with him forty to fifty priests, who followed him. When he arrived at a place he first told the Christians to confess, to fast, and to keep an all-night vigil with great splendour and a great pouring-out of light. For he had wooden candlestands made on purpose, each holding a hundred candles, and afterwards he distributed candles free to all. After this he told the priests, and they read the holy Unction — the anointing of the sick — and all the Christians were anointed. At the end he gave a teaching. And because a great people followed the saint, as many as two and three thousand souls, he would order in the evening that they prepare sacks full of bread and great pots of boiled wheat. They would carry these to the road by which the crowd of people would pass, and from there all would eat, and they would forgive the living and the dead. And God worked through this holy hieromartyr and Equal-to-the-Apostles Kosmas, there in Albania as well, just as in other places, such wonders as these."
+        }
+      ]
+    },
+    {
+      "heading": "An officer is thrown from his horse; blessed water heals a sick man of Kavaja",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Τοῦρκός τις ἀξιωματικός, παρακινούμενος ὑπὸ Ἑβραίων ἢ ὁμοφύλων του, ἢ ὑπὸ τοῦ διαβόλου, τόσον μῖσος ἠσθάνθη κατὰ τοῦ Ἁγίου, ὥστε μίαν ἡμέραν ἵππευσε τὸν ἵππον του καὶ ἔτρεχεν ἵνα προλάβῃ τὸν Ἅγιον καὶ τὸν κακοποιήσῃ. Ἀλλὰ ὁ ἵππος καλπάζων ἔρριψε τοῦτον χαμαί, ἐξ οὗ καὶ συνετρίβη ὁ δεξιός του πούς. Ἐπιστρέψας δὲ κακὴν κακῶς εἰς τὴν οἰκίαν του, εὗρε τὸν υἱόν του νεκρόν. Μετανοήσας ὅθεν πικρῶς ἔγραψεν ἐπιστολὴν εἰς τὸν Ἅγιον εἰς τὴν ὁποίαν ὡμολόγει τὸ σφάλμα του καὶ ἐζήτει παρ’ αὐτοῦ συγχώρησιν.",
+          "en": "A certain Turkish officer, stirred up by Jews or by men of his own people, or by the devil, felt such hatred against the saint that one day he mounted his horse and rode to overtake the saint and do him harm. But the horse, galloping, threw him to the ground, and from this his right foot was shattered. Returning in a wretched state to his house, he found his son dead. So, repenting bitterly, he wrote a letter to the saint in which he confessed his fault and asked his forgiveness."
+        },
+        {
+          "gr": "Οἱ πρῶτοι ἀγάδες τῶν Φιλιατῶν, ἐκ τῆς μεγάλης φήμης τοῦ Ἁγίου ὑποκινούμενοι, μετέβησαν ἵνα ἴδουν αὐτὸν καὶ ἀκούσουν τὴν διδασκαλίαν του. Ἐπειδὴ δὲ ἦτο καιρὸς τοῦ θέρους, ἐκοιμήθησαν ἔξω εἰς τὸν κάμπον. Καὶ περὶ τὸ μεσονύκτιον εἶδον φῶς λαμπρότατον, οὐράνιον, ὡς νέφος, τὸ ὁποῖον ἐσκέπασε τὸν τόπον ἐκεῖνον ὅπου ἐκάθητο ὁ Ἅγιος, σημεῖον τὸ ὁποῖον διηγήθησαν εἰς τοὺς Χριστιανούς. Ὅθεν τὸ πρωῒ ἐζήτησαν ἀπὸ τὸν Ἅγιον νὰ δώσῃ εἰς αὐτοὺς τὴν εὐχήν του ἀπὸ τὴν καρδίαν του καὶ ὄχι μόνον ἀπὸ τὰ χείλη του.",
+          "en": "The leading agas of Filiates — the local Turkish notables — moved by the saint's great fame, went to see him and hear his teaching. And because it was summer, they slept outside in the plain. Around midnight they saw a most brilliant heavenly light, like a cloud, which covered the place where the saint was sitting — a sign which they told to the Christians. So in the morning they asked the saint to give them his blessing from his heart, and not only from his lips."
+        },
+        {
+          "gr": "Ἄλλος Τοῦρκος ἀξιωματικὸς ἐκ Καβαΐας [4] ὑπέφερεν ἀπὸ δεινὴν ἀσθένειαν, ἐκ τῆς ὁποίας δὲν ἠδύνατο νὰ οὐρήσῃ. Οὗτος μαθὼν τὰ ὑπὸ τοῦ Ἁγίου τελούμενα θαυμάσια ἔστειλε πρὸς αὐτὸν τὸν ὑπηρέτην του, παοακαλῶν ὅπως ὁ Ἅγιος τὸν ἐπισκεφθῇ, ἵνα, τῇ τούτου μεσιτείᾳ ὁ Θεὸς τὸν ἰατρεύσῃ.",
+          "en": "Another Turkish officer from Kavaja [4] suffered from a terrible illness, from which he could not pass water. This man, learning of the wonders performed by the saint, sent his servant to him, begging that the saint visit him, so that by his intercession God might heal him."
+        },
+        {
+          "gr": "Ἀλλ’ ὁ Ἅγιος δὲν ἠθέλησε νὰ μεταβῇ, ὀνομάζων ἑαυτὸν ἁμαρτωλόν. Ὁ Τοῦρκος ὅμως καὶ πάλιν ἀπέστειλε τὸν ὑπηρέτην του μὲ ἕν ἀγγεῖον πλῆρες ὕδατος, παρακαλῶν τὸν Ἅγιον νὰ εὐλογήσῃ τὸ ὕδωρ. Τότε ὁ Ἅγιος, βλέπων τὴν μεγάλην τοῦ Τούρκου εὐλάβειαν, διεμήνυσεν εἰς αὐτὸν νὰ ὑπακούσῃ εἰς δύο συμβουλάς του: Νὰ μὴ πίνῃ ρακὶ καὶ νὰ διανείμῃ τὸ δέκατον τοῦ πλούτου του εἰς τοὺς πτωχούς. Ἀφοῦ δὲ ὁ Τοῦρκος ὑπεσχέθη ὅτι θὰ πράξῃ ταῦτα, ὁ Ἅγιος ηὐλόγησε τὸ ὕδωρ, τὸ ὁποῖον πίνων ὁ ἀσθενῶν ἰατρεύθη τελείως εἰς τέσσαρας ἡμέρας. Ὅθεν ἔκτοτε ἔκαμνε μεγάλας ἐλεημοσύνας εἰς τοὺς πτωχούς.",
+          "en": "But the saint did not wish to go, calling himself a sinner. The Turk, however, sent his servant again with a vessel full of water, asking the saint to bless the water. Then the saint, seeing the Turk's great reverence, sent word to him to obey two pieces of advice: not to drink raki, and to give a tenth of his wealth to the poor. And when the Turk promised that he would do these things, the saint blessed the water. Drinking it, the sick man was completely healed in four days. So from then on he made great gifts of alms to the poor."
+        }
+      ]
+    },
+    {
+      "heading": "A Turk pulls up the Cross at Lykourisi and is thrown to the ground",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Πρὸς τὸ Φανάρι εἰς τόπον λεγόμενον Λυκουρίσι [5] ὁ Τοῦρκος ἐξουσιαστὴς ἰδὼν τὸν Σταυρόν, τὸν ὁποῖον ἀφῆκεν ἐκεῖ ὁ Ἅγιος, ὅταν ἐδίδαξεν, ὡς προείπομεν, ἀνέσυρεν αὐτὸν καὶ τὸν μετέφερεν εἰς τὴν οἰκίαν του μὲ σκοπὸν νὰ ὑποστηλώσῃ τὸν ξύλινον σκελετὸν τῆς κλίνης του, ποὺ εἶχεν εἰς τὸ φυλάκιον τοῦ ἀγροῦ του. Ἀλλ’ εὐθὺς ὡς ἀνέσυρε τὸν Σταυρόν, ὢ τοῦ θαύματος! Ἐγένετο ὡσὰν φοβερὸς σεισμὸς καὶ ὁ ἐξουσιαστής, μὴ δυνάμενος σταθῇ εἰς τοὺς πόδας του, ἔπεσε κατὰ γῆς κυλιόμενος ἐπὶ ὥραν πολλήν, ἀφρίζων καὶ τρίζων τοὺς ὀδόντας ὡς δαιμονιζόμενος. Μετὰ δὲ ὥραν πολλὴν ἀνεσηκώθη ἀπὸ δύο Τούρκους ἐκεῖθεν διερχομένους, καὶ ἀφοῦ συνῆλθεν ἠννόησεν, ὅτι τοῦτο τὸ σημεῖον ἦτο ὀργὴ θεοῦ διὰ τὴν ἀφροσύνην του νὰ ἐκριζώσῃ τὸν Σταυρόν. Εὐθὺς τότε μετέβη μόνος του καὶ ἐστερέωσε καὶ πάλιν τὸν Τίμιον Σταυρὸν εἰς τὸν τόπον ὅπου εὑρίσκετο πρότερον, καθ’ ἑκάστην δὲ μετέβαινε καὶ ἠσπάζετο αὐτὸν μὲ βαθεῖαν εὐλάβειαν. Ὅταν δὲ ἀργότερον ὁ Ἅγιος διῆλθε καὶ πάλιν ἐκεῖθεν, ἔτρεξεν οὗτος ὁ Τοῦρκος καὶ προσεκύνησεν αὐτόν, διηγούμενος δὲ τὸ θαῦμα παρουσίᾳ πάντων ἐζήτει ταπεινῶς συγχώρησιν.",
+          "en": "Toward Phanari, at a place called Lykourisi [5], the Turkish ruler, seeing the Cross which the saint had left there when he taught, as we said before, pulled it up and carried it to his house. He meant to use it to prop up the wooden frame of his bed, which he had in the watch-hut of his field. But as soon as he pulled up the Cross — O the wonder! — there came something like a fearful earthquake. The ruler, unable to stand on his feet, fell to the ground, rolling for a long time, foaming and grinding his teeth like a man possessed. After a long time he was lifted up by two Turks passing that way. When he came to himself he understood that this sign was the wrath of God for his folly in uprooting the Cross. At once then he went himself and set the Precious Cross firm again in the place where it had been before. Every day he would go and kiss it with deep reverence. And when later the saint passed that way again, this Turk ran and bowed before him. Telling the wonder in the presence of all, he asked humbly for forgiveness."
+        }
+      ]
+    },
+    {
+      "heading": "A rich woman of Koritsa will not take the gold from her child's head",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ὁ Ἅγιος ἤλεγχε τὰς γυναῖκας ἐκείνας ποὺ φέρουν στολίδια καὶ ἐπιτηδεύονται εἰς τὸ νὰ ἐπιδεικνύωνται, σὺν τῷ χρόνῳ δὲ κατέπεισε ταύτας διὰ τῶν διδασκαλιῶν του νὰ ἀπορρίψουν ταῦτα καὶ νὰ σωφρονοῦν, τόσον ὥστε μερικαὶ ἐξ αὐτῶν ἐφόρουν πλέον μελανὰ ἐνδύματα. Ὅμως γυνή τις πλουσία εἰς τὴν Κόριτζαν [6] εἶχε παιδίον τοῦ ὁποίου τὴν κεφαλὴν ἐστόλιζε μὲ πολλὰ φλωριὰ καὶ ἄλλα περιττὰ κοσμήματα. Τὴν γυναῖκα ταύτην πολλάκις συνεβούλευσεν ὁ Ἅγιος νὰ διαμοιράσῃ ταῦτα εἰς τὰ πτωχὰ παιδία, ἐὰν θέλῃ νὰ ζήσῃ τὸ τέκνον της.",
+          "en": "The saint used to rebuke those women who wear ornaments and make it their business to show themselves off. In time, by his teachings, he persuaded them to throw these off and to live modestly, so much so that some of them now wore black clothes. But a certain rich woman in Koritsa [6] had a child whose head she adorned with many gold coins and other needless ornaments. This woman the saint often advised to divide these among the poor children, if she wanted her child to live."
+        },
+        {
+          "gr": "Ἀλλ’ ἐκείνη δὲν ὑπήκουσεν εἰς τὴν τοιαύτην συμβουλήν, ὅτε ὁ Ἅγιος εἶπεν εἰς αὐτήν, ὅτι ἐὰν δὲν παύσῃ νὰ στολίζῃ τὸ τέκνον της μὲ αὐτὰ τὰ περιττὰ καὶ ἀνόητα πράγματα θέλει στερηθῆ τοῦτο ταχέως. Καὶ ἐπειδὴ καὶ εἰς τὴν τοιαύτην συμβουλὴν ἐκείνη δὲν συνεμορφώθη, τὴν ἑπομένην ἡμέραν εὗρε τὸ τέκνον της νεκρὸν εἰς τὴν κλίνην του. Καὶ τότε ἐγνώρισεν, ὅτι διὰ τὴν ἀπείθειάν της ὁ Θεὸς τὴν ἐτιμώρησεν.",
+          "en": "But she did not obey this advice. Then the saint said to her that if she did not stop adorning her child with these needless and foolish things, she would soon be deprived of him. And because she did not conform even to this advice, the next day she found her child dead in his bed. And then she knew that for her disobedience God had punished her."
+        }
+      ]
+    },
+    {
+      "heading": "Those who trade or bake on Sunday are punished",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ἐκεῖ ὁπόθεν διήρχετο ὁ Ἅγιος ἐδίδασκε τοὺς Χριστιανοὺς νὰ μὴ κάμνουν ἐμπόριον τὴν Κυριακήν, οὔτε, ἄλλας ἐργασίας, ἀλλὰ νὰ προσέρχωνται προθύμως εἰς τὰς Ἐκκλησίας διὰ νὰ ἀκούουν τὰς ἱερὰς Ἀκολουθίας καὶ τοὺς θείους λόγους. Πλὴν ὅμως πολλοί, παρακούσαντες εἰς τὴν τοιαύτην τοῦ Ἁγίου συμβουλήν, ἐτιμωρήθησαν παρὰ Θεοῦ μὲ διαφόρους τιμωρίας. Οὕτω, εἰς τόπον λεγόμενον Χαλκιάδες, ἕως μιᾶς ὥρας ἀπόστασιν ἀπὸ τῆς Ἄρτης, πραγματευτής τις, ὅστις παρήκουσε καὶ ἐτόλμησε νὰ ἐμπορευθῇ Κυριακήν, ἔπαθε τὴν χεῖρά του, ἥτις ἐξηράνθη καὶ ἔμεινε παράλυτος. Σπεύσας δὲ πρὸς τὸν Ἅγιον καὶ ζητήσας συγχώρησιν διὰ τὴν ἁμαρτίαν, ἔτυχε ταύτης καὶ μετ’ ὀλίγας ἡμέρας ἡ χείρ του ἰατρεύθη.",
+          "en": "Wherever the saint passed he taught the Christians not to trade on Sunday, nor to do other work, but to come willingly to the churches to hear the sacred services and the divine words. Yet many, disobeying this advice of the saint, were punished by God with various punishments. So, at a place called Chalkiades, as much as one hour's distance from Arta, a merchant who disobeyed and dared to trade on Sunday suffered in his hand, which withered and remained paralyzed. He hurried to the saint and asked forgiveness for the sin, obtained it, and after a few days his hand was healed."
+        },
+        {
+          "gr": "Ὁμοίως καὶ εἰς τὴν Πάργαν καταστηματάρχης τις, θελήσας νὰ πωλήσῃ μερικὸν ἐμπόρευμα τὴν Κυριακήν, ἔπαθε παράλυσιν τῆς χειρός του, ἀφοῦ δὲ ὡμολόγησε τὴν ἁμαρτίαν του ἐνώπιον τοῦ Ἁγίου, εἶδε τὴν ποθουμένην τῆς χειρός του ἴασιν.",
+          "en": "Likewise in Parga a shopkeeper, wanting to sell some merchandise on Sunday, suffered paralysis of his hand. After he confessed his sin before the saint, he saw the longed-for healing of his hand."
+        },
+        {
+          "gr": "Εἰς τὸ Ξηρόμερον μία γυνὴ ἐζύμωσε τὴν Κυριακήν. Ἀφοῦ δὲ ἐξήγαγεν ἀπο τὸν φοῦρνόν της ἐψημένους τοὺς ἄρτους εἶδε τούτους ἐρυθρούς, ὡσὰν νὰ τοὺς εἶχε ζυμώσει μὲ αἷμα. Ὅθεν προσδραμοῦσα εἰς τὸν Ἅγιον καὶ πεσοῦσα πρὸ τῶν ποδῶν αὐτοῦ ἔλαβε τὴν συγχώρησιν, καὶ ἔκτοτε δὲν εἰργάζετο πλέον ἡμέραν Κυριακήν. Εἰς ἄλλα δὲ μέρη, ὅπου δὲν ἐδόθη ὁ πρέπων σεβασμὸς εἰς τὴν τοιαύτην ἐντολὴν τοῦ Ἁγίου, πολλὰ σημεῖα ἐγένοντο. Καὶ βοῦς ἔθανε τινὸς παρακούσαντος καὶ ἡμίονος ἄλλου τινὸς καὶ ἕτερος ἐδαιμονίσθη, ἄλλος δὲ εὗρε τὸ τέκνὸν του νεκρόν.",
+          "en": "In Xeromero a woman kneaded dough on Sunday. And when she took the baked loaves from her oven she saw them red, as if she had kneaded them with blood. So she ran to the saint and fell at his feet and received forgiveness, and from then on she no longer worked on a Sunday. And in other parts, where the proper respect was not given to this command of the saint, many signs took place. An ox of one who had disobeyed died, and a mule of another. Another man was possessed by a demon, and another found his child dead."
+        }
+      ]
+    },
+    {
+      "heading": "Grass grows in the water he had washed with; he says he will shed his blood",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Εἰς χωρίον τῆς Καστοριᾶς, ὀνομαζόμενον Σέλτζα, μία γυνή, τρέφουσα εὐλάβειαν πρὸς τὸν Ἅγιον, ἔλαβε τὸ ὕδωρ διὰ τοῦ ὁποίου ἔνιψέ ποτε τὸ πρόσωπόν του ὁ Ἅγιος καὶ διεφύλαξεν αὐτὸ ἐντὸς ὑαλίνου δοχείου. Καὶ ὢ τοῦ θαύματος! Ἐπ’ αὐτοῦ τοῦ ὕδατος ἐφύτρωσεν ἕν χόρτον μὲ δύο μόνον φύλλα, τὸ ὁποῖον ηὐξήθη καὶ ἡπλώθη εἰς ὅλην τὴν ἐπιφάνειαν τοῦ ὕδατος τούτου, χωρὶς νὰ ἔχῃ ρίζαν. Καὶ τὸ χρῶμα αὐτοῦ οὐδόλως ἤλλαξεν, ἀλλ’ ἔμεινε δροσερὸν ἐπὶ ἕνα ὁλόκληρον χρόνον, πάντες δὲ ὅσοι τὸ ἔβλεπον, ἐθαύμαζον. Καὶ τὸ ὕδωρ πολλοὺς ἀσθενεῖς ἐθεράπευσεν, ὅπως ἔλεγεν ἡ γυνὴ αὕτη.",
+          "en": "In a village of Kastoria called Seltza, a woman who held the saint in reverence took the water with which the saint had once washed his face, and kept it in a glass vessel. And — O the wonder! — upon this water there grew a plant with only two leaves, which increased and spread over the whole surface of this water, without having a root. And its colour did not change at all, but it stayed fresh for a whole year, and all who saw it marveled. And the water healed many sick people, as this woman used to say."
+        },
+        {
+          "gr": "Τοιαῦτα καὶ ἄλλα πάμπολλα θαυμάσια ἐνήργησε ὁ Θεὸς διὰ τοῦ Ἁγίου αὐτοῦ Ἱερομάρτυρος καὶ Ἰσαποστόλου Κοσμᾶ ὅστις κατὰ τοὺς τότε καιροὺς τῆς ζοφερᾶς τοῦ Ἔθνους δουλείας περιώδευεν ἁπανταχοῦ τῆς Ἑλλάδος στηρίζων τοὺς Χριστιανοὺς εἰς τὴν Ὀρθόδοξον πίστιν, ὥστε καὶ ἡ ἰδέα τῆς ἐλευθέρας πατρίδος νὰ ἀναθερμαίνεται. Ἔλεγε δὲ πολλάκις ὁ Ἅγιος εἰς τὰς διδασκαλίας του, ὅτι προσεκλήθη διὰ τὸ κήρυγμα τοῦ Εὐαγγελίου ἀπὸ τὸν ἴδιον τὸν Κύριον ἡμῶν Ἰησοῦν Χριστὸν καὶ ὅτι διὰ τὴν ἀγάπην του πρὸς αὐτὸν μέλλει νὰ χύσῃ τὸ αἷμά του. Ἡ δὲ πρόρρησίς του αὕτη ἐπραγματοποιήθη ὡς ἀκολούθως.",
+          "en": "Such wonders, and a great many others, God worked through this holy hieromartyr and Equal-to-the-Apostles Kosmas, who in those times of the nation's dark slavery went about everywhere in Greece, strengthening the Christians in the Orthodox faith, so that the thought of a free homeland was warmed again as well. And the saint often said in his teachings that he had been called to the preaching of the Gospel by our Lord Jesus Christ himself, and that for his love toward him he was going to shed his blood. And this prediction of his was fulfilled as follows."
+        }
+      ]
+    },
+    {
+      "heading": "Jews of Ioannina accuse him of being sent by the Russians",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ὁ ἀποστολικὸς οὗτος διδάσκαλος ποτὲ δὲν ἤνοιξε τὸ στόμα αὐτοῦ διὰ νὰ εἴπῃ λόγον ἐναντίον τῶν Ἑβραίων, οὔτε εἰς τὴν Θεσσαλονίκην, οὔτε εἰς τὴν Καστοριάν, οὔτε εἰς τὰ Ἰωάννινα οὔτε εἰς ἄλλον τόπον ὅπου ἦσαν Ἑβραῖοι, μόνον δὲ τοὺς Χριστιανοὺς ἐδίδασκε νὰ πολιτεύωνται ὡς Χριστιανοί, νὰ καλλιεργοῦν τὰς κατὰ Χριστὸν ἀρετάς, νὰ φυλάττουν πρὸ παντὸς τὴν ἀλήθειαν καὶ νὰ ἔχουν ἐμπιστοσύνην εἰς τοὺς ἡγήτορας τοὺς ὁποίους ἔδωκεν ὁ Θεός. Καθὼς καὶ αὐτοὶ οἱ Ἀλβανοὶ παρακολουθοῦντες τὰς διδαχάς του ἔξω εἰς τὰς πεδιάδας ὅπου ἐδίδασκε, τὸν ἤκουον νὰ λέγῃ ταῦτα καὶ τὸν ἐκήρυττον ὡς ἄνθρωπον τοῦ Θεοῦ, τόσον ὥστε καὶ αὐτὸς ὁ Κοὺρτ πασᾶς, ἀκούων τῆς καλῆς τοῦ Ἁγίου φήμης, ἐπρόσταξε καὶ ἦλθεν ὁ Ἅγιος ἐνώπιόν του. Τόσον δὲ ἤρεσεν εἰς τὸν πασᾶν ἡ ὁμιλία τοῦ Ἁγίου, ὥστε καὶ τὸ θρονίον ἐκεῖνο, ὡς προείπομεν, ἐδώρησεν εἰς τὸν Ἅγιον, διὰ νὰ ἀνέρχεται ὑψηλὰ καὶ ἀπὸ ὕψους νὰ διδάσκῃ καὶ ἐνέδυσε τοῦτο μὲ βαρὺ βελούδινον ὕφασμα.",
+          "en": "This apostolic teacher never opened his mouth to say a word against the Jews, neither in Thessaloniki, nor in Kastoria, nor in Ioannina, nor in any other place where there were Jews. He only taught the Christians to live as Christians, to cultivate the virtues that belong to Christ, to keep the truth above all, and to have trust in the rulers whom God has given. The Albanians themselves, following his teachings out in the fields where he taught, heard him say these things and proclaimed him a man of God — so much so that Kurt Pasha himself, hearing of the saint's good fame, ordered that the saint come before him. And so much did the saint's speech please the pasha that he gave the saint that raised seat, as we said before, so that he might climb up high and teach from a height. He also clothed it with a heavy velvet cloth."
+        },
+        {
+          "gr": "Ὅμως τὸ μισόχριστον γένος τῶν Ἑβραίων, καθὼς εἰς τοὺς παρελθόντας καιροὺς ἔδειξε πάντοτε πᾶσαν κακίαν κατὰ τῶν Χριστιανῶν, οὕτω καὶ τώρα, δὲν ἠνείχοντο νὰ κηρύττεται ἡ πίστις καὶ τὸ θεῖον Εὐαγγέλιον τοῦ Ἰησοῦ Χριστοῦ, καί τινες Ἑβραῖοι τῶν Ἰωαννίνων εἶπον εἰς τὸν πασᾶν, ὅτι ὁ ἱερὸς οὗτος Κοσμᾶς ἦτο ἀπεσταλμένος ἀπὸ τοὺς Μοσκόβους [7] διὰ νὰ πείσῃ τοὺς ὑποδούλους Ἕλληνας νὰ φεύγουν εἰς τὴν Μοσκοβίαν [8]. Ἀλλὰ ἡ θεία Πρόνοια διεφύλαξε τότε τὸν Ἅγιον ἀπὸ τὴν ἐπικίνδυνον ταύτην ἐπιβουλήν, ὅμως μεγάλη χρηματικὴ ζημία ἐγένετο εἰς τοὺς Χριστιανους. Ἐκ τοῦ γεγονότος τούτου ὅθεν ὁ ἱερὸς Κοσμᾶς ἤρχισε νὰ στηλιτεύῃ τὴν πονηρίαν καὶ τὸ ἀδιάλλακτον μῖσος τῶν Ἑβραίων κατὰ τῶν Χριστιανῶν. Καὶ ἐπειδὴ ἀπεδείχθη ὅτι ἡ κατηγορία αὕτη ἦτο πλαστὴ καὶ συκοφαντία, μετέβη καὶ πάλιν ὁ Ἅγιος εἰς Ἰωάννινα.",
+          "en": "But the Christ-hating race of the Jews, just as in times past they had always shown every malice against the Christians, so now too they could not bear that the faith and the divine Gospel of Jesus Christ should be preached. And some Jews of Ioannina said to the pasha that this holy Kosmas had been sent by the Moscovs [7] to persuade the enslaved Greeks to flee to Moscovia [8]. But divine Providence then kept the saint from this dangerous plot. Yet a great money-loss fell upon the Christians. From this event, then, the holy Kosmas began to denounce the cunning and the implacable hatred of the Jews against the Christians. And since it was proved that this charge was fabricated and a slander, the saint went again to Ioannina."
+        },
+        {
+          "gr": "Καὶ κατὰ πρῶτον ἔπεισε τοὺς Χριστιανοὺς νὰ μεταφέρουν τὴν λαϊκὴν ἀγορὰν ἀπὸ τῆς Κυριακῆς εἰς τὸ Σάββατον, πρᾶγμα ὅπερ ἐπροξένησεν εἰς τοὺς Ἑβραίους μεγάλην ζημίαν. Κατόπιν ἐκήρυξε τούτους ὡς φανεροὺς ἐχθροὺς τῶν Χριστιανῶν καὶ ὅτι εἶναι ἕτοιμοι ἀνὰ πᾶσαν στιγμὴν νὰ προξενήσουν κάθε κακὸν εἰς αὐτούς.",
+          "en": "And first he persuaded the Christians to move the popular market from Sunday to Saturday, a thing which caused the Jews a great loss. Then he proclaimed them open enemies of the Christians, and that they were ready at every moment to do them every harm."
+        },
+        {
+          "gr": "Θέλων δὲ ὁ Ἅγιος νὰ ἀφήσουν οἱ Χριστιανοὶ τὴν συνήθειαν νὰ φέρουν εἰς τὴν κεφαλήν των τὰς μακρὰς φούντας καὶ ἄλλα διάφορα ἐξαρτήματα τῆς ἐνδυμασίας, τὰ ὁποῖα ἠγόραζον ἀπὸ τοὺς Ἑβραίους, συνεβούλευεν αὐτοὺς ὅτι εἶναι ἀκάθαρτοι καὶ ὅτι ἐκ τούτου οἱ θεοκτόνοι μολύνουσι ταῦτα, ἵνα μολύνωνται καὶ οἱ Χριστιανοὶ καὶ νὰ μὴ ἀγοράζωσι πλέον ταῦτα ἀπὸ τοὺς Ἑβραίους. Ὅθεν ἐκεῖνοι, μὴ ὑποφέροντες πλέον νὰ ἀκούουν τὸν Ἅγιον ἐλέγχοντα αὐτούς, μετέβησαν εἰς τὸν Κοὺρτ πασᾶν καὶ ἔδωσαν εἰς αὐτὸν πολλὰ χρυσᾶ νομίσματα, διὰ νὰ ἐξαφανίσῃ τὸν Ἅγιον. Ὁ δὲ Κοὺρτ πασᾶς, ἀφοῦ συνεβουλεύθη μετὰ τοῦ χότζα του, ἀπεφάσισε νὰ θανατώσῃ δι’ αὐτοῦ τὸν ἱερὸν Κοσμᾶν, μὲ τοιοῦτον τρόπον.",
+          "en": "And because the saint wanted the Christians to leave the custom of wearing on their heads the long tassels and various other attachments of dress, which they used to buy from the Jews, he advised them that these things are unclean, and that by this the God-killers defile them so that the Christians too may be defiled, and that they should no longer buy these from the Jews. So those men, no longer able to bear hearing the saint rebuke them, went to Kurt Pasha and gave him many gold coins, to make the saint disappear. And Kurt Pasha, after taking counsel with his hodja — his Muslim cleric — decided to put the holy Kosmas to death through him, in the following way."
+        }
+      ]
+    },
+    {
+      "heading": "At Kolikontasi he walks of his own will to the hodja",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Συνήθειαν εἶχεν ὁ Ἅγιος Ἱερομάρτυς Κοσμᾶς, ὅπου καὶ ἂν μετέβαινε διὰ νὰ διδάξῃ, νὰ λαμβάνῃ πρῶτον τὴν ἄδειαν ἀπὸ τὸν Ἀρχιερέα τοῦ τόπου ἤ ἀπὸ τοὺς ἐπιτροπεύοντας αὐτόν. Συγχρόνως ἔστελλε Χριστιανοὺς νὰ λαμβάνουν τὴν ἄδειαν καὶ ἀπὸ τοὺς ἐξουσιαστὰς τοῦ τόπου· οὕτως ὁ Ἅγιος ἐκήρυττεν ἀνεμποδίστως. Μεταβάς, ὅθεν, εἰς ἕν χωρίον τῆς Ἀλβανίας, λεγόμενον Κολικόντασι, ἔλαβε τὴν πρέπουσαν ἄδειαν παρὰ τοῦ Ἀρχιερέως τοῦ τόπου. Ἀναζητῶν δὲ καὶ τοὺς ἐξουσιαστάς, ἔμαθεν ὅτι ὁ Κοὺρτ πασᾶς ὥριζε τοὺς τόπους ἐκείνους καὶ ὅτι διέμενεν εἴς τι ἐκεῖ πλησίον χωρίον ὀνομαζόμενον Μπεράτι [9]. Πληροφορηθεὶς συγχρόνως ὅτι καὶ ὁ χότζας τοῦ αὐτοῦ πασᾶ διέμενεν ἐκεῖ πλησίον, ἀπέστειλε Χριστιανόν τινα καὶ ἔλαβε τὴν ἄδειαν καὶ ἐκήρυξε. Πλὴν ὅμως δὲν ἔμενεν εὐχαριστημένος, ἀλλ’ ἠθέλησε νὰ μεταβῇ μόνος του εἰς τὸν χότζαν, ἵνα λάβῃ τὴν συγκατάθεσιν, διὰ τὸ ἀσφαλέστερον. Οἱ Χριστιανοὶ τότε πρὸς στιγμὴν τὸν ἠμπόδισαν, λέγοντες εἰς τὸν Ἅγιον, ὅτι ποτὲ ἄλλοτε δὲν ἔπραξε τοιοῦτόν τι, νὰ ὑπάγῃ δηλαδὴ εἰς τοὺς Ἀγαρηνοὺς ἐξουσιαστὰς αὐτοπροσώπως, ἵνα τύχῃ τῆς ἀδείας τοῦ κηρύγματος. Ὅμως δὲν ἠδυνήθησαν νὰ τὸν ἐμποδίσουν.",
+          "en": "The holy hieromartyr Kosmas had a custom, wherever he went to teach, of first taking leave from the bishop of the place, or from those who stood in his place. At the same time he would send Christians to take leave also from the rulers of the place. In this way the saint preached without hindrance. Going, then, to a village of Albania called Kolikontasi, he received the proper leave from the bishop of the place. Seeking the rulers as well, he learned that Kurt Pasha governed those places, and that he was staying in a nearby village called Berat [9]. Learning at the same time that the hodja of the same pasha was staying nearby, he sent a certain Christian and received the leave, and preached. Yet he was not satisfied. He wanted to go himself to the hodja, to receive his consent, for greater safety. The Christians then for a moment held him back, saying to the saint that he had never done such a thing before — that is, to go in person to the Hagarene rulers, the Muslims, to obtain leave to preach. But they could not stop him."
+        },
+        {
+          "gr": "Συμβουλεύων δὲ οὗτος ὁ ἔνθερμος τοῦ Χριστοῦ Μάρτυς νὰ μὴ ἐξετάζουν ἐκεῖνοι περισσότερον, παρέλαβε μεθ’ ἑαυτοῦ τέσσαρας Μοναχοὺς καὶ ἕνα Ἱερέα, ὡς διερμηνέα, καὶ μετέβη εἰς συνάντησιν τοῦ χότζα. Ὁ χότζας τότε ὑπεκρίθη, ὅτι εἶχεν ἔγγραφον διαταγὴν ἀπὸ τὸν Κοὺρτ πασᾶν, ὅστις τὸν ἐξουσιάζει, νὰ ἀποστείλῃ τὸν Ἅγιον εἰς τὸν πασᾶν, διὰ νὰ συνομιλήσουν μεταξύ των.",
+          "en": "And this fervent martyr of Christ, advising them not to examine the matter further, took with him four monks and one priest as interpreter, and went to meet the hodja. The hodja then pretended that he had a written order from Kurt Pasha, who had authority over him, to send the saint to the pasha, so that they might speak with one another."
+        },
+        {
+          "gr": "Εὐθὺς τότε ἐπρόσταξε τοὺς ἀνθρώπους του νὰ μὴ ἀφήσουν αὐτὸν νὰ ἐξέλθῃ τῆς αὐλῆς του, ἕως ὅτου τὸν ἀποστείλῃ εἰς τὸν πασᾶν. Τότε ὁ εὐλογημένος διδάσκαλος τοῦ θείου λόγου ἠννόησεν ὅτι μέλλουν νὰ τὸν θανατώσουν. Ὅθεν ἐδόξασε καὶ ηὐχαρίστησε τὸν Δεσπότην Ἰησοῦν Χριστόν, διότι ἠξίωσεν αὐτὸν νὰ περατώσῃ τὸν δρόμον τοῦ Ἀποστολικοῦ κηρύγματος μὲ μαρτυρικὸν θάνατον. Κατόπιν, στραφεὶς πρὸς τοὺς Μοναχούς, οἵτινες συνώδευον αὐτόν, εἶπεν ἐκεῖνο τὸ ψαλμικόν· «Διήλθομεν διὰ πυρὸς καὶ ὕδατος καὶ ἐξήγαγεν ἡμᾶς εἰς ἀναψυχήν». Καθ’ ὅλην δὲ τὴν νύκτα ἐκείνην ἐδοξολόγει τὸν Κύριον ψάλλων, χωρὶς νὰ δείξῃ παντάπασι σημεῖον λύπης διὰ τὴν μέλλουσαν στέρησιν τῆς ζωῆς αὐτοῦ, φαινόμενος μάλιστα χαριέστατος, ὡσὰν νὰ ἡτοιμάζετο νὰ μεταβῇ εἰς χαρμόσυνον καὶ πανηγυρικὴν τελετήν.",
+          "en": "At once then he ordered his men not to let him leave his courtyard, until he should send him to the pasha. Then the blessed teacher of the divine word understood that they were going to put him to death. So he glorified and thanked the Master Jesus Christ, because he had counted him worthy to finish the course of apostolic preaching with a martyr's death. Then, turning to the monks who accompanied him, he said that psalm-word: \"We went through fire and water, and he brought us out into refreshment.\" [Psalm 65:12 LXX] And through that whole night he glorified the Lord, singing, without showing any sign at all of grief at the coming loss of his life. He appeared, rather, most cheerful, as if he were getting ready to go to a joyful and festal ceremony."
+        }
+      ]
+    },
+    {
+      "heading": "He is hanged beside a river at sixty-five",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ὅταν δὲ ἐξημέρωσε, παρέλαβον τὸν Ἅγιον ἑπτὰ Ἀγαρηνοὶ δήμιοι, καὶ ἀνεβίβασαν αὐτὸν ἐπὶ ἵππου, ὑποκρινόμενοι, ὅτι θὰ ὁδηγήσουν δῆθεν τοῦτον εἰς τὸν Κοὺρτ πασᾶν. Ἀλλ’ ὡς ἀπεμακρύνθησαν περὶ τὰς δύο ὥρας ἀπόστασιν, ἔφερον αὐτὸν πλησίον ἑνὸς μεγάλου ποταμοῦ καὶ καταβιβάσαντες τὸν Ἅγιον Ἱερομάρτυρα Κοσμᾶν ἐκ τοῦ ἵππου ἀπεκάλυψαν εἰς αὐτὸν τὴν προσταγὴν τοῦ Κοὺρτ πασᾶ, νὰ τὸν θανατώσουν. Ὁ Ἅγιος τότε ἐδέχθη μετὰ χαρᾶς τὴν τοιαύτην κατ’ αὐτοῦ ἀπόφασιν καὶ κλίνας τὰ γόνατα προσηυχήθη εἰς τὸν Θεόν, εὐχαριστῶν καὶ δοξάζων, διότι διὰ τὴν πρὸς Αὐτὸν ἀγάπην του ἠξιώθη νὰ θυσιάσῃ τὴν ζωήν του, καθὼς ἡ ψυχή του διακαῶς ἐπεθύμει πάντοτε. Ἔπειτα, ἐγερθείς, ηὐλόγησε σταυροειδῶς τὰ τέσσαρα σημεῖα τοῦ ὁρίζοντος καὶ ηὐχήθη πάντας τοὺς Χριστιανοὺς τοὺς φυλάττοντας τὰς ἐντολάς του. Οἱ δὲ δήμιοι ἔσυραν αὐτὸν πλησίον ἑνὸς δένδρου καὶ ἐπεχείρησαν νὰ δέσουν τὰς χεῖράς του. Ὁ Ἅγιος ὅμως ἠμπόδισε τοὺς δημίους, εἰπὼν ὅτι δὲν μὲλλει νὰ ἀντισταθῇ ἀλλὰ νὰ κρατῇ ἐσταυρωμένας τὰς χεῖρας, ὡσὰν νὰ ἦσαν δεδεμέναι. Κατόπιν ἔγειρε τὴν ἱερὰν κεφαλήν του ἐπὶ τοῦ δένδρου καὶ οὕτως οἱ βάρβαροι ἔδεσαν τὸν λαιμὸν αὐτοῦ μὲ σχοινίον. Εὐθὺς δὲ ὡς ἔσφιξαν τοῦτο, τὸ θεῖον αὐτοῦ πνεῦμα ἀνῆλθε πρὸς τοὺς οὐρανούς. Οὕτως ὁ τρισμακάριος Κοσμᾶς, ὁ κοινωφελέστατος ἐκεῖνος ἀνὴρ καὶ τοῦ κόσμου κόσμος ὁ εὐκοσμότατος, ἠξιώθη νὰ λάβῃ διπλοῦς τοὺς στεφάνους τῆς ἀθανασίας παρὰ Κυρίου. Καὶ ὡς Ἰσαπόστολος καὶ ὡς Ἱερομάρτυς εἰς ἡλικίαν ἑξήκοντα πέντε ἐτῶν.",
+          "en": "When day broke, seven Hagarene executioners took the saint and set him on a horse, pretending that they would lead him, as they said, to Kurt Pasha. But when they had gone about two hours' distance, they brought him near a great river. Taking the holy hieromartyr Kosmas down from the horse they revealed to him Kurt Pasha's order, that they were to put him to death. The saint then received this sentence against him with joy. Kneeling he prayed to God, giving thanks and glory, because for his love toward Him he had been counted worthy to sacrifice his life, as his soul had always fervently desired. Then, standing up, he blessed with the sign of the Cross the four points of the horizon, and prayed for all the Christians who keep his commandments. The executioners dragged him near a tree and tried to bind his hands. But the saint stopped the executioners, saying that he was not going to resist, but would hold his hands crossed, as if they were bound. Then he laid his holy head against the tree, and so the barbarians bound his neck with a rope. And as soon as they tightened it, his divine spirit went up to the heavens. Thus the thrice-blessed Kosmas, that man of greatest public benefit, the world's most well-ordered ornament, was counted worthy to receive from the Lord a double crown of immortality: both as Equal-to-the-Apostles and as a hieromartyr, at the age of sixty-five."
+        }
+      ]
+    },
+    {
+      "heading": "After three days the relic is found standing upright in the water",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Γυμνώσαντες δὲ οἱ δήμιοι τὸ ἅγιον αὐτοῦ λείψανον, ἔσυραν τοῦτο πρὸς τὸν ποταμὸν καὶ ἀφοῦ ἔδεσαν μίαν βαρεῖαν πέτραν εἰς τὸν λαιμὸν ἔρριψαν ἐντὸς τοῦ ὕδατος. Οἱ δὲ Χριστιανοί, μαθόντες ταῦτα, ἔτρεξαν εὐθὺς διὰ νὰ ἀνασύρουν ἀπὸ τὸν ποταμὸν τὸ ἅγιον λείψανον. Ἀλλ’ ἂν καὶ ἠρεύνησαν μὲ δίκτυα καὶ μὲ ἄλλους τρόπους, δὲν ἠδυνήθησαν νὰ ἀνεύρουν τοῦτο. Πλὴν ὅμως, μετὰ τρεῖς ἡμέρας, Ἱερεύς τις εὐλαβής, παπᾶ-Μᾶρκος ὀνομαζόμενος, ἐφημέριος τοῦ Μοναστηρίου τῆς Ὑπεραγίας Θεοτόκου τῶν Εἰσοδίων τοῦ ὀνομαζομένου τῆς Ἀρδευούσης, κειμένου πλησίον τοῦ χωρίου Κολικόντασι, εἰσελθὼν εἰς λέμβον καὶ ποιήσας τὸ σημεῖον τοῦ σταυροῦ, ἔπλεεν εἰς τὸν ποταμόν, ἐρευνῶν. Καὶ μετ’ ὀλίγον, ὢ τοῦ θαύματος! εἶδε τὸ ἅγιον λείψανον, τὸ ὁποῖον ἔπλεεν ἐπάνω εἰς τὰ ὕδατα, ὄρθιον, ὡσὰν νὰ ἦτο ζωντανόν. Ὅθεν ἔσπευσεν ἐν τῷ ἅμᾳ, ἐνηγκαλίσθη τοῦτο καὶ τὸ ἀνέσυρεν. Εὐθὺς δὲ ὡς ἀνεσήκωσε τοῦτο, αἷμα πολὺ ἔρρευσεν ἀπὸ τὸ μελίρρυτον στόμα τοῦ Ἁγίου ἐντὸς τοῦ ποταμοῦ, ἐνδύσας δὲ τὸ σεπτὸν αὐτοῦ λείψανον μὲ τὸ ράσον του, μετέφερεν αὐτὸ εὐλαβῶς εἰς τὸ ὡς ἄνω Μοναστήριον τῆς Θεοτόκου καὶ ἐνεταφίασεν ἐντίμως ὄπισθεν τοῦ Ἁγίου Βήματος. Μετὰ δὲ τὴν τελευτὴν τοῦ Ἁγίου τούτου Νέου Ἱερομάρτυρος ταῦτα τὰ θαυμάσια ἠκολούθησαν.",
+          "en": "Then the executioners stripped his holy relic, dragged it to the river, and after tying a heavy stone to the neck threw it into the water. The Christians, learning of this, ran at once to draw the holy relic up from the river. But although they searched with nets and in other ways, they could not find it. Yet after three days a certain devout priest, called Papa-Markos, serving priest of the monastery of the Most Holy Theotokos — the Mother of God — of the Entrance, called the monastery of Ardevousa, which lies near the village of Kolikontasi, got into a boat and, making the sign of the Cross, sailed on the river, searching. And after a little — O the wonder! — he saw the holy relic, which was floating upon the waters, upright, as if it were alive. So he hurried at once, embraced it, and drew it up. And as soon as he lifted it, much blood flowed from the saint's honey-flowing mouth into the river. He clothed the revered relic in his own cassock, carried it devoutly to the aforementioned monastery of the Theotokos, and buried it with honour behind the Holy Bema, the sanctuary. After the end of this holy new hieromartyr, these wonders followed."
+        }
+      ]
+    },
+    {
+      "heading": "Kurt Pasha repents, and wonders follow at the grave",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ὁ Κοὺρτ πασᾶς μετενόησε βαθέως, διότι ἐξηπατήθη καὶ δι’ ἓν μάταιον κέρδος ἐθανάτωσε τὸν ἀθῷον τοῦτον καὶ εἰρηνικὸν ἄνθρωπον. Ὅθεν διεμήνυσεν εἰς τὸν χότζαν του νὰ ἐλευθερώσῃ τοὺς Μοναχούς, οἵτινες εἶχον συνοδεύσει τὸν Ἅγιον, τοὺς ὁποίους ἐκράτει πρὸς φύλαξιν, καὶ νὰ μεταβοῦν οὗτοι καὶ νὰ διαμένουν εἰς τό, ὡς ἐλέχθη, Μοναστήριον τῆς Θεοτόκου. Οὗτοι, πράγματι, μεταβάντες ἐκεῖ, εὗρον ἐνταφιασμένον τὸ ἅγιον λείψανον καὶ ἵνα λάβουν μεγαλυτέραν τὴν ἐντύπωσιν ἐκ τοῦ μαρτυρίου αὐτοῦ, ἐξέθαψαν τοῦτο, ὁμοῦ μετ’ ἄλλων Ἱερέων καὶ Χριστιανῶν. Καὶ τότε εἶδον τοῦτο τὸ θαυμάσιον. Ἂν καὶ τὸ ἅγιον λείψανον εὑρίσκετο ἐπὶ τρεῖς ἡμέρας ἐντὸς τῶν ὑδάτων τοῦ ποταμοῦ, καθὼς ὁ Ἰωνᾶς ἐντὸς τῆς κοιλίας τοῦ κήτους, ὅμως οὐδεμίαν ἀλλοίωσιν ἢ δυσοσμίαν εἶχεν, ἀλλ’ εὐωδίαζεν ὁλόκληρον καὶ ἐφαίνετο ὡσὰν νὰ ἐκοιμᾶτο. Καὶ ἀφοῦ ἠσπάσθησαν τοῦτο μὲ βαθεῖαν εὐλάβειαν, τὸ ἐνεταφίασαν πάλιν.",
+          "en": "Kurt Pasha repented deeply, because he had been deceived and for a vain gain had put this innocent and peaceful man to death. So he sent word to his hodja to free the monks who had accompanied the saint, whom he was holding in custody, and that they should go and stay at the aforementioned monastery of the Theotokos. These men, indeed, going there, found the holy relic buried. And in order to be more deeply struck by his martyrdom, they dug it up, together with other priests and Christians. And then they saw this wonder. Although the holy relic had been for three days in the waters of the river, like Jonah in the belly of the sea-monster, [cf. Jonah 2:1 LXX] yet it had no change or foul smell, but was fragrant throughout and appeared as if it were sleeping. And after they had kissed it with deep reverence, they buried it again."
+        },
+        {
+          "gr": "Ἐκείνην δὲ τὴν στιγμὴν ἔτυχε νὰ εὑρίσκεται ἐκεῖ δαιμονιζομένη τις γυνή, ἥτις ἀπὸ τόπους μακρινοὺς ἠκολούθει τὸν Ἅγιον ζῶντα, ποθοῦσα τὴν θεραπείαν της. Εὐθὺς δὲ ὡς εἶδεν ἀνοιγόμενον τὸν τάρον τοῦ Ἁγίου ἐταράχθη σφόδρα ἀπὸ τὸ δαιμόνιον, μετ’ ὀλίγον δὲ ἰατρεύθη τελείως, δοξάζουσα τὸν Θεὸν καὶ τὸν Ἅγιον.",
+          "en": "And at that very moment there happened to be there a possessed woman, who from far-off places had followed the saint while he was alive, longing for her healing. And as soon as she saw the saint's grave being opened she was violently shaken by the demon, and after a little she was completely healed, glorifying God and the saint."
+        },
+        {
+          "gr": "Ἀγαρηνός τις, ἐξ ἐκείνων οἵτινες ἐθανάτωσαν τὸν Ἅγιον, ἔλαβε τὸ ἐπανωκαλύμμαυχον αὐτοῦ καὶ ἐπιστρέψας εἰς τὸν χότζαν ἐτοποθέτησε τοῦτο ἐπὶ τῆς κεφαλῆς του, περιγελῶν τὸν Ἅγιον. Εὐθὺς δέ, δαιμονισθείς, ἀπέρριψε τὰ ἐνδύματά του καὶ ἔτρεχε γυμνός, φωνάζων ὅτι αὐτὸς ἐθανάτωσε τὸν ἀσκητήν. Τοῦτο μαθὼν ὁ πασᾶς ἐπρόσταξε καὶ τὸν ἔκλεισαν εἰς τὴν φυλακήν, ὅπου κακὴν κακῶς ἐτελεύτησεν.",
+          "en": "A certain Hagarene, one of those who had put the saint to death, took his monastic veil — the outer covering of his monk's hat — and, returning to the hodja, placed it on his own head, mocking the saint. And at once, being possessed, he threw off his clothes and ran naked, crying out that he had put the ascetic to death. The pasha, learning this, ordered that they shut him in prison, where he died in a wretched way."
+        },
+        {
+          "gr": "Ἀφοῦ ὁ Ἅγιος ἔκαμε τὴν τελευταίαν αὐτοῦ διδασκαλίαν εἰς τὸ ὡς ἄνω χωρίον Κολικόντασι, ἀφῆκεν ἐκεῖ, κατὰ τὴν συνήθειάν του, ἕνα Σταυρὸν ἑστημένον εἰς τὴν γῆν. Καὶ μετὰ τὴν τελευτὴν αὐτοῦ, οἱ Χριστιανοὶ ἔβλεπον καθ’ ἑκάστην νύκτα φῶς οὐράνιον, τὸ ὁποῖον ἔλαμπεν ἄνωθεν τοῦ Σταυροῦ. Ὅθεν, κατὰ τὴν ἡμέραν τῆς ἑορτῆς τῆς Ὑψώσεως τοῦ Τιμίου Σταυροῦ, μετέβησαν οἱ Ἱερεῖς μετὰ τοῦ πλήθους τῶν Χριστιανῶν καὶ παρέλαβον τὸν Σταυρὸν ἐκεῖνον, τὸν ὁποῖον λιτανεύσαντες μετ’ εὐλαβείας μετέφεραν καὶ ἔστησαν ὄπισθεν τοῦ ἁγίου Βήματος τῆς Ἐκκλησίας τοῦ Μοναστηρίου, πλησίον τοῦ τάφου τοῦ Ἁγίου εἰς παντοτεινὴν ἐνθύμησιν τοῦ θαύματος.",
+          "en": "After the saint had given his last teaching in the aforementioned village of Kolikontasi, he left there, according to his custom, a Cross set in the ground. And after his end, the Christians saw every night a heavenly light, which shone above the Cross. So, on the day of the feast of the Exaltation of the Precious Cross, the priests went with the crowd of the Christians and took that Cross, which they carried in procession with reverence and set up behind the holy Bema of the monastery's church, near the saint's grave, as a lasting reminder of the wonder."
+        }
+      ]
+    },
+    {
+      "heading": "Relics go out to many places; barren women are given children",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "Ὅταν δὲ οἱ μαθηταὶ αὐτοῦ ἔλαβον τὴν πλήρη ἐλευθερίαν ἀπὸ τὸν πασᾶν, ἔκαμαν ἀνακομιδὴν τοῦ ἱεροῦ λειψάνου τοῦ Ἁγίου [10] καί τινες ἐξ αὐτῶν παρέλαβον μέρη τούτου καὶ διεσκορπίσθησαν εἰς διαφόρους τόπους. Πολλοὶ τότε ἀσθενεῖς ἐκ τῶν τόπων αὐτῶν ἔλαβον τὴν ἴασιν τῶν ἀσθενειῶν των διὰ τῶν ἁγίων ἐκείνων λειψάνων. Δύο δὲ μαθηταὶ τοῦ Ἁγίου μεταβάντες εἰς τὴν νῆσον τῆς Ναξίας [Νάξου], ἵνα ἀναγγείλουν τὰ τοῦ μαρτυρίου αὐτοῦ εἰς τὸν ἐκεῖ σχολάρχην ἱεροδιδάσκαλον Χρύσανθον, τὸν αὐτάδελφον τοῦ Ἁγίου, ἔτυχε νὰ ἔχουν μεθ’ ἑαυτῶν ὀλίγας τρίχας ἀπὸ τὸ γένειον τοῦ Ἁγίου [11]. Τὰς ὁποίας μετ’ εὐλαβείας λαβοῦσα γυνή τις ἐκ τοῦ ὀνομαζομένου Νεοχωρίου, καὶ ἥτις ὑπέφερεν ἀπὸ βαρυτάτην θανατηφόρον ἀσθένειαν, ὤ τοῦ θαύματος! εὐθὺς ἠσθάνθη παράδοξον δύναμιν καὶ μετ’ ὀλίγον ἐπανῆλθε καὶ πάλιν τελείως ἡ ὑγεία της.",
+          "en": "And when his disciples received full freedom from the pasha, they made a translation of the saint's holy relic [10] — they moved his holy body — and some of them took parts of it and scattered to various places. Many sick people then from those places received the healing of their illnesses through those holy relics. And two disciples of the saint, going to the island of Naxia [Naxos], to announce the things of his martyrdom to the head of the school there, the teacher-priest Chrysanthos, the saint's own brother, happened to have with them a few hairs from the saint's beard [11]. These a woman from the place called Neochori, who was suffering from a most heavy, death-dealing illness, took with reverence, and — O the wonder! — at once she felt a strange power, and after a little her health returned to her completely."
+        },
+        {
+          "gr": "Ἀλλὰ καὶ πολλαὶ στεῖραι γυναῖκες λαμβάνουσαι ἐπὶ τεσσαράκοντα ἡμέρας χῶμα ἀπὸ τὸν τάφον τοῦ Ἁγίου μετ’ εὐλαβείας καὶ πίστεως ἐπιτυγχάνουν τῆς παρακλήσεως τοῦ νὰ γεννοῦν τέκνα, μὲ τὴν χάριν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ διὰ πρρεσβειῶν τοῦ Ἁγίου του Ἱερομάρτυρος καὶ Ἰσαποστόλου Κοσμᾶ, οὗ ταῖς πρεσβείαις ἀξιωθείημεν τῆς Βασιλείας τῶν οὐρανῶν. Ἀμήν.",
+          "en": "But also many barren women, taking for forty days earth from the saint's grave with reverence and faith, obtain the request of bearing children, by the grace of our Lord Jesus Christ and through the intercessions of his holy hieromartyr and Equal-to-the-Apostles Kosmas, by whose intercessions may we be counted worthy of the Kingdom of heaven. Amen."
+        }
+      ]
+    },
+    {
+      "heading": "Notes on places and names",
+      "heading_sentence_index": null,
+      "pairs": [
+        {
+          "gr": "=== \n    Ὑποσημειώσεις",
+          "en": "**Notes**"
+        },
+        {
+          "gr": "[1] Πιθανῶς τὰ Δωδεκάνησα ἢ τὰς Κυκλάδας, ὅπου ἐδίδασκεν ὁ ἀδελφός του.",
+          "en": "**[1]** Probably the Dodecanese or the Cyclades, where his brother used to teach."
+        },
+        {
+          "gr": "[2] Ἡ πόλις καὶ ἡ νῆσος Λευκάς.",
+          "en": "**[2]** The city and the island of Lefkas."
+        },
+        {
+          "gr": "[3] Κορυφοὶ καὶ Κορυφώ· ὀνομασία τῆς νήσου καὶ τῆς πόλεως Κερκύρας κατὰ τοὺς Βυζαντινοὺς χρόνους.",
+          "en": "**[3]** Koryphoi and Korypho: the name of the island and city of Corfu in Byzantine times."
+        },
+        {
+          "gr": "[4] Καβάϊα· πόλις τῆς Ἀλβανίας πλησίον τοῦ Δυρραχίου.",
+          "en": "**[4]** Kavaja: a city of Albania near Dyrrachium."
+        },
+        {
+          "gr": "[5] Λυκούρσιον· τοποθεσία τῆς Ἀλβανίας βορειοανατολικῶς τῆς πόλεως τῶν Ἁγίων Σαράντα.",
+          "en": "**[5]** Lykoursion: a locality of Albania northeast of the city of Agioi Saranta."
+        },
+        {
+          "gr": "[6] Πιθανῶς πρόκειται περὶ τῆς Κορυτσᾶς, πόλεως τῆς Β. Ἠπείρου.",
+          "en": "**[6]** This is probably Koritsa, a city of Northern Epiros."
+        },
+        {
+          "gr": "[7] Ρώσους.",
+          "en": "**[7]** Russians."
+        },
+        {
+          "gr": "[8] Ρωσίαν.",
+          "en": "**[8]** Russia."
+        },
+        {
+          "gr": "[9] Βεράτιον· κωμόπολις τῆς σημερινῆς Ἀλβανίας, εἰς τὴν ἐνδοχώραν τοῦ Αὐλῶνος, ὅπου καὶ πετρελαιοπηγαί.",
+          "en": "**[9]** Veration: a town of present-day Albania, in the hinterland of Avlon, where there are also oil wells."
+        },
+        {
+          "gr": "[10] Ἐν τῇ θέσει ταύτῃ, μετὰ τὴν ἀνακομιδὴν τοῦ ἱεροῦ λειψάνου τοῦ Ἁγίου, ἀνηγέρθη Ναὸς ἐπ’ ὀνόματι τούτου τιμώμενος, διὰ κοινῆς μὲν συνδρομῆς, πρωτοβουλίᾳ δὲ τοῦ Ἀλῆ πασᾶ τῶν Ἰωαννίννων, ὅστις ἐχάρισεν εἰς τὸν Ναὸν καὶ ἱκανὰς γαίας, διότι προεῖπεν εἰς αὐτὸν ὁ Ἅγιος τὴν μέλλουσαν δόξαν του καὶ προσδιώρισε καὶ τὸν καιρόν, καθ’ ὃν ἔμελλε νὰ δοξασθῇ, εἰς μίαν τριακονταετίαν, τὰ ὁποῖα εἶδεν ἐντελῶς πραγματοποιούμενα. Τὴν δὲ σεβασμίαν τοῦ Ἁγίου Κάραν λαβὼν ὁ ἴδιος ὁ Ἀλῆ καὶ καταθέσας εἰς χρυσαργυρᾶν θήκην, παρέδωκεν εἰς τὴν σύζυγον αὐτοῦ Βασιλικήν, ἥτις διετήρει αὐτὴν μετὰ τῶν ἄλλων ἱερῶν Εἰκόνων προσφέρουσα τὸ αὐτὸ σέβας· τὴν χρυσαργυροθήκην δὲ ἐκείνην ἀνοίξας ἡμέραν τινὰ ὁ πασᾶς, καὶ ἀσκαρδαμυκτὶ θεωρῶν τοῦ Ἁγίου τὴν Κάραν, παρόντων καὶ ἄλλων, εἶπε τὰ ἑξῆς· «Ὦ ἁγία Κεφαλή, ὅσα μοὶ εἶπες εἰς τὸ Τεπελένι ὅλα μοὶ τὰ ἔδωκεν ὁ Θεός· ἀληθῶς εἶσαι Ἅγιος καὶ παρὰ Θεοῦ ἀπεσταλμένος, λυποῦμαι δὲ πολὺ διότι δὲν ἐνεθυμήθην νὰ σὲ ἐρωτήσω τότε καὶ ποῖον τέλος θὰ λάβω». Τὸ δὲ περὶ τῆς προφητικῆς χάριτος ἣν εἶχε παρὰ Θεοῦ ὁ βιογραφούμενος Ἅγιος, ἐπισφραγίζεται καὶ ἐκ τούτου, ὅτι διερχόμενος ποτὲ τὰ ὄρη τῶν Καλαβρυτῶν χάριν τοῦ κηρύγματος, ἔστη καὶ εἶπε θεωρῶν αὐτά· «Εὐλογημένα τὰ ὄρη ταῦτα, ἅτινα θέλουν σώσει ἐντὸς ὀλίγου ἀπείρους ψυχάς». Προέλεγε δὲ οὕτω τὴν Ἐπανάστασιν, τοὺς ἐντεῦθεν καταδιωγμοὺς καὶ ὅτι ἔμελλον ἐκεῖ νὰ καταφύγωσι πληθὺς γυναικοπαίδων ὅπως σωθῶσι, τοῦθ’ ὅπερ καὶ ἐγένετο.",
+          "en": "**[10]** At this place, after the translation of the saint's holy relic, a church was raised in his name, by a common contribution, at the initiative of Ali Pasha of Ioannina, who also gave the church a good deal of land, because the saint had foretold to him his coming glory and had also named the time at which he was to be glorified — within a span of thirty years — which he saw completely fulfilled. And the saint's revered head Ali himself took and, placing it in a gold-and-silver reliquary, gave it to his wife Vasiliki, who kept it with the other holy icons, offering it the same reverence. And one day the pasha opened that gold-and-silver reliquary and, looking without blinking at the saint's head, with others present, said the following: \"O holy Head, whatever you told me at Tepeleni, God has given me all of it; truly you are a saint and sent by God, and I am very sorry that I did not remember to ask you then what end I would have as well.\" And as for the prophetic gift which the saint of this Life had from God, it is sealed also by this: that once, passing through the mountains of Kalavryta for the sake of his preaching, he stood and said, looking at them: \"Blessed are these mountains, which in a little while will save countless souls.\" He was thus foretelling the Revolution, the persecutions that came from it, and that a multitude of women and children would take refuge there to be saved — which also came to pass."
+        },
+        {
+          "gr": "[11] Τὰς τρίχας ταύτας, ὡς ὑποσημειοῖ ὁ Ὅσιος Νικόδημος ὁ Ἁγιορείτης, πιθανῶς οἱ μαθηταί του ἔλαβον πρὸ τῆς ἀνακομιδῆς τοῦ λειψάνου του, ὅταν τὸ ἐξέθαψαν διὰ νὰ τὸ ἀσπασθοῦν.",
+          "en": "**[11]** These hairs, as St Nikodemos the Hagiorite notes, his disciples probably took before the translation of his relic, when they dug it up in order to kiss it."
+        }
+      ]
+    }
+  ]
+}

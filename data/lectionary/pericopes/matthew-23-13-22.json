@@ -1,0 +1,100 @@
+{
+  "ref": "Matthew 23:13-22",
+  "book": "Matt",
+  "from": [
+    23,
+    13
+  ],
+  "to": [
+    23,
+    22
+  ],
+  "slug": "matthew-23-13-22",
+  "greek": [
+    {
+      "v": "23:13",
+      "text": "Οὐαὶ δὲ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι κατεσθίετε τὰς οἰκίας τῶν χηρῶν, καὶ προφάσει μακρὰ προσευχόμενοι· διὰ τοῦτο λήψεσθε περισσότερον κρίμα."
+    },
+    {
+      "v": "23:14",
+      "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι κλείετε τὴν βασιλείαν τῶν οὐρανῶν ἔμπροσθεν τῶν ἀνθρώπων· ὑμεῖς γὰρ οὐκ εἰσέρχεσθε, οὐδὲ τοὺς εἰσερχομένους ἀφίετε εἰσελθεῖν."
+    },
+    {
+      "v": "23:15",
+      "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι περιάγετε τὴν θάλασσαν καὶ τὴν ξηρὰν ποιῆσαι ἕνα προσήλυτον, καὶ ὅταν γένηται, ποιεῖτε αὐτὸν υἱὸν γεέννης διπλότερον ὑμῶν."
+    },
+    {
+      "v": "23:16",
+      "text": "Οὐαὶ ὑμῖν, ὁδηγοὶ τυφλοί, οἱ λέγοντες, Ὃς ἂν ὀμόσῃ ἐν τῷ ναῷ, οὐδέν ἐστιν· ὃς δ' ἂν ὀμόσῃ ἐν τῷ χρυσῷ τοῦ ναοῦ, ὀφείλει."
+    },
+    {
+      "v": "23:17",
+      "text": "Μωροὶ καὶ τυφλοί· τίς γὰρ μείζων ἐστίν, ὁ χρυσός, ἢ ὁ ναὸς ὁ ἁγιάζων τὸν χρυσόν;"
+    },
+    {
+      "v": "23:18",
+      "text": "Καί, Ὃς ἐὰν ὀμόσῃ ἐν τῷ θυσιαστηρίῳ, οὐδέν ἐστιν· ὃς δ' ἂν ὀμόσῃ ἐν τῷ δώρῳ τῷ ἐπάνω αὐτοῦ, ὀφείλει."
+    },
+    {
+      "v": "23:19",
+      "text": "Μωροὶ καὶ τυφλοί· τί γὰρ μεῖζον, τὸ δῶρον, ἢ τὸ θυσιαστήριον τὸ ἁγιάζον τὸ δῶρον;"
+    },
+    {
+      "v": "23:20",
+      "text": "Ὁ οὖν ὀμόσας ἐν τῷ θυσιαστηρίῳ ὀμνύει ἐν αὐτῷ καὶ ἐν πᾶσιν τοῖς ἐπάνω αὐτοῦ·"
+    },
+    {
+      "v": "23:21",
+      "text": "καὶ ὁ ὀμόσας ἐν τῷ ναῷ ὀμνύει ἐν αὐτῷ καὶ ἐν τῷ κατοικήσαντι αὐτόν·"
+    },
+    {
+      "v": "23:22",
+      "text": "καὶ ὁ ὀμόσας ἐν τῷ οὐρανῷ ὀμνύει ἐν τῷ θρόνῳ τοῦ θεοῦ καὶ ἐν τῷ καθημένῳ ἐπάνω αὐτοῦ."
+    }
+  ],
+  "english": [
+    {
+      "v": "23:13",
+      "text": "At that time the Lord said: \"Woe to you, scribes and Pharisees, hypocrites! You devour widows' houses, and for a show you make long prayers. For that you will receive a heavier judgment."
+    },
+    {
+      "v": "23:14",
+      "text": "Woe to you, scribes and Pharisees, hypocrites! You shut the kingdom of heaven in people's faces. You yourselves do not go in, and you will not let those who are going in enter either."
+    },
+    {
+      "v": "23:15",
+      "text": "Woe to you, scribes and Pharisees, hypocrites! You travel sea and land to make one convert — and when he becomes one, you make him twice as much a child of Gehenna as you are."
+    },
+    {
+      "v": "23:16",
+      "text": "Woe to you, blind guides, who say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound.'"
+    },
+    {
+      "v": "23:17",
+      "text": "Fools and blind men! Which is greater — the gold, or the temple that makes the gold holy?"
+    },
+    {
+      "v": "23:18",
+      "text": "And, 'If anyone swears by the altar, it means nothing; but if anyone swears by the gift on it, he is bound.'"
+    },
+    {
+      "v": "23:19",
+      "text": "Fools and blind men! Which is greater — the gift, or the altar that makes the gift holy?"
+    },
+    {
+      "v": "23:20",
+      "text": "So whoever swears by the altar swears by it and by everything on it."
+    },
+    {
+      "v": "23:21",
+      "text": "And whoever swears by the temple swears by it and by the One who dwells in it."
+    },
+    {
+      "v": "23:22",
+      "text": "And whoever swears by heaven swears by the throne of God and by the One who sits on it.\""
+    }
+  ],
+  "greek_source": "content/2026-08-10/readings.md",
+  "english_source": "content/2026-08-10/readings.md",
+  "status": "complete"
+}

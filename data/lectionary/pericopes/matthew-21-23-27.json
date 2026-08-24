@@ -1,0 +1,60 @@
+{
+  "ref": "Matthew 21:23-27",
+  "book": "Matt",
+  "from": [
+    21,
+    23
+  ],
+  "to": [
+    21,
+    27
+  ],
+  "slug": "matthew-21-23-27",
+  "greek": [
+    {
+      "v": "21:23",
+      "text": "Καὶ ἐλθόντι αὐτῷ εἰς τὸ ἱερόν, προσῆλθον αὐτῷ διδάσκοντι οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ, λέγοντες, Ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς; Καὶ τίς σοι ἔδωκεν τὴν ἐξουσίαν ταύτην;"
+    },
+    {
+      "v": "21:24",
+      "text": "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς, Ἐρωτήσω ὑμᾶς κἀγὼ λόγον ἕνα, ὃν ἐὰν εἴπητέ μοι, κἀγὼ ὑμῖν ἐρῶ ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
+    },
+    {
+      "v": "21:25",
+      "text": "Τὸ βάπτισμα Ἰωάννου πόθεν ἦν; Ἐξ οὐρανοῦ ἢ ἐξ ἀνθρώπων; Οἱ δὲ διελογίζοντο παρ' ἑαυτοῖς, λέγοντες, Ἐὰν εἴπωμεν, Ἐξ οὐρανοῦ, ἐρεῖ ἡμῖν, Διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ;"
+    },
+    {
+      "v": "21:26",
+      "text": "Ἐὰν δὲ εἴπωμεν, Ἐξ ἀνθρώπων, φοβούμεθα τὸν ὄχλον· πάντες γὰρ ἔχουσιν τὸν Ἰωάννην ὡς προφήτην."
+    },
+    {
+      "v": "21:27",
+      "text": "Καὶ ἀποκριθέντες τῷ Ἰησοῦ εἶπον, Οὐκ οἴδαμεν. Ἔφη αὐτοῖς καὶ αὐτός, Οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
+    }
+  ],
+  "english": [
+    {
+      "v": "21:23",
+      "text": "At that time, when Jesus had come into the temple, the chief priests and the elders of the people came up to him while he was teaching and said: \"By what authority are you doing these things? And who gave you this authority?\""
+    },
+    {
+      "v": "21:24",
+      "text": "Jesus answered them: \"I will ask you one question too. If you answer me, I will tell you by what authority I do these things."
+    },
+    {
+      "v": "21:25",
+      "text": "The baptism of John — where was it from? From heaven, or from men?\" And they reasoned among themselves, saying: \"If we say, 'From heaven,' he will say to us, 'Then why didn't you believe him?'"
+    },
+    {
+      "v": "21:26",
+      "text": "But if we say, 'From men,' we are afraid of the crowd — for everyone holds John to be a prophet.\""
+    },
+    {
+      "v": "21:27",
+      "text": "And they answered Jesus and said: \"We do not know.\" And he said to them: \"Neither will I tell you by what authority I do these things.\""
+    }
+  ],
+  "greek_source": "content/2026-08-04/readings.md",
+  "english_source": "content/2026-08-04/readings.md",
+  "status": "complete"
+}

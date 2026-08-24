@@ -1,0 +1,52 @@
+{
+  "ref": "Matthew 21:43-46",
+  "book": "Matt",
+  "from": [
+    21,
+    43
+  ],
+  "to": [
+    21,
+    46
+  ],
+  "slug": "matthew-21-43-46",
+  "greek": [
+    {
+      "v": "21:43",
+      "text": "Διὰ τοῦτο λέγω ὑμῖν ὅτι ἀρθήσεται ἀφ' ὑμῶν ἡ βασιλεία τοῦ θεοῦ, καὶ δοθήσεται ἔθνει ποιοῦντι τοὺς καρποὺς αὐτῆς."
+    },
+    {
+      "v": "21:44",
+      "text": "Καὶ ὁ πεσὼν ἐπὶ τὸν λίθον τοῦτον συνθλασθήσεται· ἐφ' ὃν δ' ἂν πέσῃ, λικμήσει αὐτόν."
+    },
+    {
+      "v": "21:45",
+      "text": "Καὶ ἀκούσαντες οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι τὰς παραβολὰς αὐτοῦ ἔγνωσαν ὅτι περὶ αὐτῶν λέγει."
+    },
+    {
+      "v": "21:46",
+      "text": "Καὶ ζητοῦντες αὐτὸν κρατῆσαι, ἐφοβήθησαν τοὺς ὄχλους, ἐπειδὴ ὡς προφήτην αὐτὸν εἶχον."
+    }
+  ],
+  "english": [
+    {
+      "v": "21:43",
+      "text": "At that time Jesus said to the chief priests and Pharisees: \"For this reason I tell you: the kingdom of God will be taken away from you and given to a nation producing its fruits."
+    },
+    {
+      "v": "21:44",
+      "text": "And the one who falls on this stone will be broken to pieces; but on whomever it falls, it will crush him.\""
+    },
+    {
+      "v": "21:45",
+      "text": "And when the chief priests and the Pharisees heard his parables, they knew he was speaking about them."
+    },
+    {
+      "v": "21:46",
+      "text": "And seeking to seize him, they feared the crowds, since the crowds held him to be a prophet."
+    }
+  ],
+  "greek_source": "content/2026-08-06/readings.md",
+  "english_source": "content/2026-08-06/readings.md",
+  "status": "complete"
+}

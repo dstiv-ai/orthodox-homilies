@@ -1,0 +1,106 @@
+{
+  "ref": "Matthew 5:33-41",
+  "book": "Matt",
+  "from": [
+    5,
+    33
+  ],
+  "to": [
+    5,
+    41
+  ],
+  "slug": "matthew-5-33-41",
+  "greek": [
+    {
+      "v": "5:33",
+      "text": "Πάλιν ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις, Οὐκ ἐπιορκήσεις, ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου·"
+    },
+    {
+      "v": "5:34",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν μὴ ὀμόσαι ὅλως· μήτε ἐν τῷ οὐρανῷ, ὅτι θρόνος ἐστὶν τοῦ θεοῦ·"
+    },
+    {
+      "v": "5:35",
+      "text": "μήτε ἐν τῇ γῇ, ὅτι ὑποπόδιόν ἐστιν τῶν ποδῶν αὐτοῦ· μήτε εἰς Ἱεροσόλυμα, ὅτι πόλις ἐστὶν τοῦ μεγάλου βασιλέως·"
+    },
+    {
+      "v": "5:36",
+      "text": "μήτε ἐν τῇ κεφαλῇ σου ὀμόσῃς, ὅτι οὐ δύνασαι μίαν τρίχα λευκὴν ἢ μέλαιναν ποιῆσαι."
+    },
+    {
+      "v": "5:37",
+      "text": "Ἔστω δὲ ὁ λόγος ὑμῶν, ναὶ ναί, οὒ οὔ· τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν."
+    },
+    {
+      "v": "5:38",
+      "text": "Ἠκούσατε ὅτι ἐρρέθη, Ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ, καὶ ὀδόντα ἀντὶ ὀδόντος·"
+    },
+    {
+      "v": "5:39",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ· ἀλλ’ ὅστις σε ῥαπίσει ἐπὶ τὴν δεξιὰν σιαγόνα, στρέψον αὐτῷ καὶ τὴν ἄλλην·"
+    },
+    {
+      "v": "5:40",
+      "text": "καὶ τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν, ἄφες αὐτῷ καὶ τὸ ἱμάτιον·"
+    },
+    {
+      "v": "5:41",
+      "text": "καὶ ὅστις σε ἀγγαρεύσει μίλιον ἕν, ὕπαγε μετ’ αὐτοῦ δύο."
+    }
+  ],
+  "english": [
+    {
+      "v": "5:33",
+      "text": "At that time the Lord said to his disciples: \"Again, you have heard that it was said to the people of old, 'You shall not swear falsely, but you shall keep the oaths you have made to the Lord.'"
+    },
+    {
+      "v": "5:34",
+      "text": "But I tell you not to swear at all: not by heaven, because it is God's throne;"
+    },
+    {
+      "v": "5:35",
+      "text": "not by the earth, because it is the footstool of his feet; not by Jerusalem, because it is the city of the great King."
+    },
+    {
+      "v": "5:36",
+      "text": "And do not swear by your head, because you cannot make a single hair white or black."
+    },
+    {
+      "v": "5:37",
+      "text": "Let your word be 'Yes, yes,' or 'No, no.' Anything more than this comes from the evil one."
+    },
+    {
+      "v": "5:38",
+      "text": "You have heard that it was said, 'An eye for an eye, and a tooth for a tooth.'"
+    },
+    {
+      "v": "5:39",
+      "text": "But I tell you not to resist the one who does you wrong. If anyone slaps you on the right cheek, turn the other to him as well."
+    },
+    {
+      "v": "5:40",
+      "text": "And if anyone wants to sue you and take your tunic, let him have your cloak as well."
+    },
+    {
+      "v": "5:41",
+      "text": "And if anyone forces you into service for one mile, go with him two.\""
+    }
+  ],
+  "greek_source": "work/byztxt/MAT.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "5:37",
+      "note": "ἐκ τοῦ πονηροῦ can be 'from the evil one' (personal) or 'from evil' (abstract). Matthew often uses ὁ πονηρός personally; I have taken it that way here."
+    },
+    {
+      "v": "5:39",
+      "note": "τῷ πονηρῷ here is more likely 'the one who does you wrong' than 'the Evil One', because the next clauses are a slap, a lawsuit, and a forced march. Same adjective as v. 37; different most natural sense."
+    },
+    {
+      "v": "5:41",
+      "note": "ἀγγαρεύσει is the Persian/Roman requisition of a courier or pack-animal: impressment into service, not a polite request. Unpacked as 'forces you into service'."
+    }
+  ]
+}

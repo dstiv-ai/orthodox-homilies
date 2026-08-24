@@ -1,0 +1,76 @@
+{
+  "ref": "Colossians 1:12-18",
+  "book": "Col",
+  "from": [
+    1,
+    12
+  ],
+  "to": [
+    1,
+    18
+  ],
+  "slug": "colossians-1-12-18",
+  "greek": [
+    {
+      "v": "1:12",
+      "text": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ἡμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,"
+    },
+    {
+      "v": "1:13",
+      "text": "ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους, καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,"
+    },
+    {
+      "v": "1:14",
+      "text": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν, τὴν ἄφεσιν τῶν ἁμαρτιῶν·"
+    },
+    {
+      "v": "1:15",
+      "text": "ὅς ἐστιν εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως·"
+    },
+    {
+      "v": "1:16",
+      "text": "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα, τὰ ἐν τοῖς οὐρανοῖς καὶ τὰ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι, εἴτε κυριότητες, εἴτε ἀρχαί, εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·"
+    },
+    {
+      "v": "1:17",
+      "text": "καὶ αὐτός ἐστιν πρὸ πάντων, καὶ τὰ πάντα ἐν αὐτῷ συνέστηκεν."
+    },
+    {
+      "v": "1:18",
+      "text": "Καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος, τῆς ἐκκλησίας· ὅς ἐστιν ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων·"
+    }
+  ],
+  "english": [
+    {
+      "v": "1:12",
+      "text": "Give thanks to the Father. He has made you fit to receive a share of what belongs to his holy people, in the kingdom of light."
+    },
+    {
+      "v": "1:13",
+      "text": "He has rescued us from the power of darkness, and brought us into the kingdom of the Son whom he loves."
+    },
+    {
+      "v": "1:14",
+      "text": "In his Son we are set free — that is, our sins are forgiven."
+    },
+    {
+      "v": "1:15",
+      "text": "Christ is the image of the unseen God. He is the firstborn over all creation, the one who is before everything else."
+    },
+    {
+      "v": "1:16",
+      "text": "For by him all things were created: everything in heaven and on earth, the visible and the invisible, whether thrones or lordships or rulers or authorities. All things were created through him and for him."
+    },
+    {
+      "v": "1:17",
+      "text": "He is before all things, and in him all things hold together."
+    },
+    {
+      "v": "1:18",
+      "text": "And he is the head of the body, the Church. He is the beginning, the firstborn from among the dead, so that in everything he alone might have the first place."
+    }
+  ],
+  "greek_source": "content/2026-08-16/readings.md",
+  "english_source": "content/2026-08-16/readings.md",
+  "status": "complete"
+}

@@ -1,0 +1,247 @@
+{
+  "note": "Provenance for every image in assets/icons/, sourced from Wikimedia Commons. Each entry names the local file, the Commons file page, the direct file URL, the artist/author where Commons records one, the licence, and one sentence on why the subject match is trustworthy. No AI-generated or invented images are used anywhere in this file.",
+  "andrew-the-fool": {
+    "local_path": "assets/icons/andrew-the-fool.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Святой_Блаженный_Андрей_Константинопольский._Фрагмент_иконы_XVI_века.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9._%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_XVI_%D0%B2%D0%B5%D0%BA%D0%B0.jpg",
+    "artist": "Unknown (anonymous Russian icon painter)",
+    "date": "16th century",
+    "licence": "Public domain (PD-old, no known author restrictions)",
+    "confidence_note": "File title and description read 'Holy Blessed Andrew of Constantinople — fragment of a 16th-century icon' (Святой Блаженный Андрей Константинопольский); 'Andrew of Constantinople' is this saint's standard alternate name (Andrew Salos, the Fool for Christ), and the sibling file in the same Commons category, 'Andrew of Constantinople.jpg', is a full vita icon explicitly captioned 'Icon \"Andrei the Fool-for-Christ, with his Life\", 16th c., State Russian Museum' — confirming the identification."
+  },
+  "john-chrysostom": {
+    "local_path": "assets/icons/john-chrysostom.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg",
+    "artist": "Anonymous Byzantine mosaicist",
+    "date": "late 9th / early 11th century (north tympanum mosaic programme, Hagia Sophia, Constantinople)",
+    "licence": "Public domain (PD-Art, PD-old-100-expired)",
+    "confidence_note": "The mosaic of St John Chrysostom in the north tympanum of Hagia Sophia, Constantinople — the definitive image of him. Two independent Commons categories confirm it: 'Mosaics of John Chrysostom' AND 'Northern tympanon mosaics (Hagia Sophia)'; a third, 'Omophorion', flags the vestment. Verified by eye against his iconographic type rather than by filename: bare head with a high balding domed forehead and no mitre, short thin dark slightly forked beard, white omophorion with dark red crosses over the shoulders, jewelled Gospel book in the left hand with the right hand blessing, gold ground with no architecture or landscape, and the Greek inscription ΙΩΑΝΝΗC down the left with Ο ΧΡΥCΟCΤΟΜΟC down the right. Native size 1230x1460, within range, so no resize was applied.",
+    "supersedes": "An earlier pass used File:Old Saint Mary's Church (Cincinnati, Ohio) - St. John Chrysostom icon.jpg. Rejected on review: despite the word 'icon' in the Commons filename it is a Western Latin Catholic devotional painting in a ceiling roundel — pointed two-peaked Latin mitre, Western shepherd's-crook crozier, a scroll reading 'MARIA' and a Latin roundel title 'S. JOHN CHRYSOSTUM' (misspelled), a long full beard instead of his short forked type, and oil-on-plaster rather than a written icon. The lesson recorded here: a Commons filename containing 'icon' is not evidence that a file IS an icon; judge by the depiction, description and categories."
+  },
+  "gregory-palamas": {
+    "local_path": "assets/icons/gregory-palamas.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gregor_Palamas_by_North_Greece_anonym_(15th_c.,_Pushkin_museum).jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gregor_Palamas_by_North_Greece_anonym_%2815th_c.%2C_Pushkin_museum%29.jpg",
+    "artist": "Anonymous painter, Northern Greece (Thessaloniki?), early 15th century",
+    "date": "early 15th century",
+    "licence": "Public domain (PD-Art / PD-old)",
+    "confidence_note": "File titled 'Gregor Palamas', held in the Pushkin Museum's collection of 15th-century Byzantine icons; Commons category 'Gregory Palamas in icons' confirms subject."
+  },
+  "john-of-damascus": {
+    "local_path": "assets/icons/john-of-damascus.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Icon_of_Saint_John_of_Damascus_-_Emmanouel_Tzanes.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Icon_of_Saint_John_of_Damascus_-_Emmanouel_Tzanes.jpg",
+    "artist": "Emmanouel Tzanes (Cretan School iconographer)",
+    "date": "17th century",
+    "licence": "Public domain (author died more than 70 years ago)",
+    "confidence_note": "File explicitly titled 'Icon of Saint John of Damascus', attributed to the named, historically documented Cretan iconographer Emmanouel Tzanes; Commons category 'John of Damascus in icons' confirms subject.",
+    "compromise_note": "Smallest file of the set at 360x811 — no larger clean single-portrait icon of this saint was found on Commons at time of search; used as-is, not upscaled."
+  },
+  "ephraim-the-syrian": {
+    "local_path": "assets/icons/ephraim-the-syrian.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:St._Ephrem_the_Syrian_icon_-_Syriac_Orthodox_Church_-_Jerusalem.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St._Ephrem_the_Syrian_icon_-_Syriac_Orthodox_Church_-_Jerusalem.jpg",
+    "artist": "Icon painted by Fr Shim'on Can; photographed by Wikimedia contributor 'Hogshine'",
+    "date": "photographed 2026-02-06",
+    "licence": "CC BY-SA 4.0",
+    "confidence_note": "Explicitly captioned 'An Icon of St. Ephrem the Syrian in the Jerusalem Syriac Orthodox Church' — a real, currently-venerated icon of exactly this saint, photographed in situ. Downsized locally from 2265x3509 to 1600x1032 with sips.",
+    "resized_from": "2265x3509"
+  },
+  "philaret-of-moscow": {
+    "local_path": "assets/icons/philaret-of-moscow.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Filaret_Moskiewski_fresk_Nowy_Neamt.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Filaret_Moskiewski_fresk_Nowy_Neamt.jpg",
+    "artist": "Fresco painter unrecorded; photographed by Wikimedia contributor 'Loraine'",
+    "date": "fresco photographed 2016-09-12",
+    "licence": "CC BY-SA 4.0",
+    "confidence_note": "A wall fresco of St Philaret of Moscow in the Church of the Dormition of the Mother of God at Noul Neamț monastery — the Commons description reads 'Fresk św. Filareta Moskiewskiego w cerkwi Zaśnięcia Matki Bożej w monasterze Nowy Neamț', and the file sits in the Commons category 'Philaret (Drozdov)'. This is a written icon in a working Orthodox monastery, following iconographic convention, not a naturalistic portrait.",
+    "processing_note": "Downsized from 1840x3264 to 902x1600 with sips, then the EXIF orientation flag (value 6) was baked into the pixels with PIL so the image renders upright in any client.",
+    "supersedes": "An earlier pass used File:Filaret (Drozdov) by Gau.jpg, an 1854 watercolour society portrait showing the Metropolitan seated in an armchair wearing imperial decorations. Rejected on review: it depicts him as a 19th-century imperial dignitary rather than as a saint, and its naturalistic style clashes with the Byzantine mosaics this site is built around."
+  },
+  "dormition-koimesis": {
+    "local_path": "assets/icons/dormition-koimesis.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Theofanus_uspenie.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Theofanus_uspenie.jpg",
+    "artist": "Theophanes the Greek (Byzantine-Russian master, c.1340-c.1410)",
+    "date": "1392",
+    "licence": "Public domain",
+    "confidence_note": "One of the most celebrated and canonical Koimesis (Dormition of the Theotokos) icons in Orthodox art history, painted by the named master Theophanes the Greek, now in the Tretyakov Gallery; the file page itself links to the Wikipedia article 'Dormition of the Theotokos', confirming the subject. Replaces the previous placeholder, which was a generic Panagia mosaic with no Dormition content at all."
+  },
+  "seven-sleepers-of-ephesus": {
+    "local_path": "assets/icons/seven-sleepers-of-ephesus.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Russian_Icon_of_the_Seven_Sleepers_of_Ephesos_with_Vine_Frame.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Russian_Icon_of_the_Seven_Sleepers_of_Ephesos_with_Vine_Frame.jpg",
+    "artist": "Unknown author",
+    "date": "19th-20th century",
+    "licence": "Public domain (author died more than 70 years ago)",
+    "confidence_note": "File explicitly titled 'Russian Icon of the Seven Sleepers of Ephesos with Vine Frame'; Commons category 'Icons of Seven Sleepers' confirms subject — this is the group of saints (Maximilian, Exacustodianus, Iamblichus, Martinian, Dionysius, Antoninus, Constantine) commemorated in the 4 August Synaxarion reading."
+  },
+  "isaakios-of-dalmatos": {
+    "local_path": "assets/icons/isaakios-of-dalmatos.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Isaac_of_Dalmatia.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Isaac_of_Dalmatia.jpg",
+    "artist": "Unknown",
+    "date": "unrecorded",
+    "licence": "Public domain",
+    "confidence_note": "File explicitly captioned 'St. Isaac of Dalmatia (orthodox icon)' — Isaakios of Dalmatos is one of the three saints (Dalmatos, Faustos, Isaakios) commemorated in the 3 August Synaxarion reading, and per this task's own fallback instruction, no icon depicting all three together, or of Dalmatos or Faustos individually, could be found on Wikimedia Commons — this icon of Isaakios alone was used as the closest available genuine match.",
+    "compromise_note": "COMPROMISE: depicts Isaakios of Dalmatos only, not Dalmatos or Faustos. Also the smallest file used (338x450) — no larger version was found. This was a deliberate, flagged substitution per the task's own instruction for this exact situation."
+  },
+  "eusignios-of-antioch": {
+    "local_path": "assets/icons/eusignios-of-antioch.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Illuminated_Manuscript_Miniature_of_Saint_Eusygnios_of_Antioch.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Illuminated_Manuscript_Miniature_of_Saint_Eusygnios_of_Antioch.jpg",
+    "artist": "Unknown Byzantine manuscript illuminator",
+    "date": "between 1322 and 1340",
+    "licence": "Public domain (PD-old, author died more than 70 years ago)",
+    "confidence_note": "A miniature from the Menologion of Despotes Demetrios (Oxford, Bodleian Library, MS. Gr. th. f. 1), a Byzantine pictorial calendar of saints from Thessaloniki. Commons category is explicitly 'Saint Eusignius of Antioch', and the red Greek inscription across the top of the miniature itself reads Ο ΑΓΙΟС ΕΥСΙΓΝΙΟС ('the Holy Eusignios'), confirming the subject beyond the filename. Depicts the martyrdom: a soldier-executioner with raised sword standing over an elderly bearded haloed figure kneeling in prayer on a gold ground — consistent with Eusignios' iconographic type as an old soldier-martyr beheaded at 110. Two-figure scene, but the haloed, inscribed saint is unambiguously the subject and occupies the lower-right, in clear view for a medallion crop centred on his face."
+  },
+  "dometios-the-persian": {
+    "local_path": "assets/icons/dometios-the-persian.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Menologion_of_Basil_031.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Menologion_of_Basil_031.jpg",
+    "artist": "Anonymous Byzantine manuscript illuminators (Constantinople)",
+    "date": "circa 985 AD (Menologion of Basil II, Vat. gr. 1613, f. 89)",
+    "licence": "Public domain (PD-old-100-expired, PD-Art)",
+    "confidence_note": "A miniature from the Menologion of Basil II (Vatican Library, Vat. gr. 1613), explicitly titled on Commons 'Martyr Dometius of Persia and Two Disciples' with the Russian description 'Мученичество св. Дометия Персиянина', and filed under Commons category 'Saint Dometius of Persia'; the Commons credit links directly to the Vatican Library's own digitisation of this exact folio. Depicts the stoning: two executioners with raised clubs on the left, and on the right the haloed, bearded Dometios shielding his two unhaloed disciples with his body — matching the historical account of his martyrdom with his two disciples under Julian the Apostate. The saint is the sole haloed, centrally-placed figure, distinguishing him clearly from the executioners and disciples for identification and cropping.",
+    "compromise_note": "This is a three-figure martyrdom scene rather than a solo portrait, since no single-figure icon of this minor saint could be found on Commons; no other candidate (an Athonite fresco, a Dionysiou Monastery fresco by Theophanes the Cretan) offered better resolution or a cleaner single-figure crop — both were smaller (~385px) and also depicted the stoning scene rather than a solo portrait. Dometios is the dominant, haloed, central-right figure, so the crop favours him."
+  },
+  "christ-walking-on-water": {
+    "local_path": "assets/icons/christ-walking-on-water.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Monreale_-_Peter_Saved_from_the_Waves.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monreale_-_Peter_Saved_from_the_Waves.jpg",
+    "artist": "Anonymous Byzantine-trained mosaicists (Norman-Sicilian court workshop)",
+    "date": "12th century (Monreale Cathedral, Sicily)",
+    "licence": "Public domain (CC-PD-Mark, PD-old)",
+    "confidence_note": "A wall mosaic in Monreale Cathedral depicting Matthew 14:22-33: Christ, haloed, grips the sinking Peter's hand amid stylised wave patterns, while the other apostles reach from the boat above; the Latin inscription across the top reads 'IHS SVP MARE AMBUL[AT] AT... PETRV[M] ALLEVAT' ('Jesus walked on the sea and lifted up Peter'). Commons categories 'Jesus Christ walking on water' and 'Cathedral (Monreale) - New Testament mosaics (miracles)' confirm the subject. Monreale's mosaic programme was executed by Greek-trained Byzantine mosaicists in the Byzantine idiom, the same tradition as Ravenna — matching this site's iconographic standard despite the cathedral's Latin/Norman patronage. Native size 736x1035 (portrait), no resize applied."
+  },
+  "apostle-paul": {
+    "local_path": "assets/icons/apostle-paul.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Paul_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena,_Italy.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Paul_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg",
+    "artist": "Anonymous Byzantine mosaicist; photographed by Wikimedia contributor Luca Sartoni",
+    "date": "6th century (Basilica of San Vitale, Ravenna); photographed 2014",
+    "licence": "CC BY-SA 2.0 (photograph of a PD-old 6th-century mosaic)",
+    "confidence_note": "A medallion bust portrait from the Byzantine mosaic programme of San Vitale, Ravenna, showing a balding, dark-bearded haloed figure against gold and blue, with the Latin inscription '...LVS' (the tail of PAVLVS) beside the halo. Commons category 'San Vitale (Ravenna) - Paul' confirms the identification, and the balding-head/forked-dark-beard type matches Paul's standard iconographic type (as distinct from Peter's white curly hair and beard, who appears in the companion medallion on the same wall). Single-figure medallion icon, per the task's requirement for a solo portrait of the Apostle. Native size 973x919, no resize applied."
+  },
+  "synaxis-of-the-apostles": {
+    "local_path": "assets/icons/synaxis-of-the-apostles.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Synaxis_of_the_Twelve_Apostles_by_Constantinople_master_(early_14th_c.,_Pushkin_museum).jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Synaxis_of_the_Twelve_Apostles_by_Constantinople_master_%28early_14th_c.%2C_Pushkin_museum%29.jpg",
+    "artist": "Anonymous Constantinopolitan icon painter",
+    "date": "early 14th century",
+    "licence": "Public domain (PD-old-100-expired, PD-Art)",
+    "confidence_note": "A gold-ground panel icon in the Pushkin Museum showing twelve haloed apostles grouped in two rows, with a Greek inscription running across the top reading 'Η ΣΥΝΑΞΙΣ ΤΩΝ ΔΩΔΕΚΑ ΑΠΟΣΤΟΛΩΝ...' ('The Synaxis of the Twelve Apostles...') followed by their names (Peter, Andrew, James, John, Philip, Bartholomew...) — the exact liturgical title and subject the task asked for, confirmed by text on the icon itself, not just the filename. Commons categories '14th-century icons of Byzantine Empire' and 'Synaxis of apostles' corroborate. Native size 1159x1345 (portrait), no resize applied.",
+    "compromise_note": "The panel is aged with visible paint loss and craquelure around the edges (an authentic period condition issue, not a scan defect); the group of figures is nonetheless clearly legible."
+  },
+  "prophet-elijah": {
+    "local_path": "assets/icons/prophet-elijah.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Icon_with_the_Prophet_Elijah._Early_17_C.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Icon_with_the_Prophet_Elijah._Early_17_C.jpg",
+    "artist": "Anonymous Greek icon painter; photographed by Wikimedia contributor Yair-haklai",
+    "date": "early 17th century (Byzantine and Christian Museum, Athens)",
+    "licence": "CC BY-SA 4.0 (photograph of a PD-old early-17th-century icon)",
+    "confidence_note": "A written icon showing Elijah seated in the wilderness cave in his fur-trimmed mantle, a raven bringing him food in the top-right corner (1 Kings 17:6), with the red-inscribed title 'Ο ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ' ('The Prophet Elijah') across the gold ground above his head. Commons file title 'Icon with the Prophet Elijah' and category 'Icons of Elijah in the desert' confirm the subject. Elijah's head and raised hand sit in the upper-middle third of the composition, well suited to a portrait-card crop. Native size 1317x1775, no resize applied."
+  },
+  "myron-of-crete": {
+    "local_path": "assets/icons/myron-of-crete.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Myron_of_Krete_Icon.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Myron_of_Krete_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown Greek icon painter",
+    "date": "19th–20th century",
+    "licence": "Public domain (per Commons; age-expired icon)",
+    "confidence_note": "Commons file 'Myron of Krete Icon' — an enthroned bishop in polystavrion with Gospel and scroll; the Greek inscription across the top of the icon reads Ο ΑΓ(ΙΟΣ) ΜΥΡΩΝ, verified by eye. St Myron the Wonderworker, Bishop of Crete, is commemorated 8 August; he is the day's second-named saint (no genuine colour icon of the headline saint, Emilian of Cyzicus, exists on Commons — only a black-and-white 1903-1911 Zhitiya engraving, икона 12083)."
+  },
+  "apostle-matthias": {
+    "local_path": "assets/icons/apostle-matthias.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Matthias.PNG",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Saint_Matthias.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Workshop of Simone Martini",
+    "date": "circa 1317",
+    "licence": "Public domain (PD-Art, PD-old)",
+    "confidence_note": "Gold-ground panel inscribed S(AN)C(TU)S MATHYAS either side of the halo, verified by eye — the apostle holding the Gospel. Sienese workshop panel (c. 1317); Western, but a genuine medieval sacred image with the saint named in the paint itself. Commons holds no Orthodox icon of Matthias; the only Orthodox alternative is the b/w Zhitiya engraving икона 12091."
+  },
+  "laurence-of-rome": {
+    "local_path": "assets/icons/laurence-of-rome.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mosaic_showing_St._Lawrence;_Mausoleum_of_Galla_Placidia,_425-50;_Ravenna_(1).jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mosaic_showing_St._Lawrence%3B_Mausoleum_of_Galla_Placidia%2C_425-50%3B_Ravenna_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Anonymous 5th-century mosaicist (photo: Prof. Mortel)",
+    "date": "425–450 (mosaic); photo 2019",
+    "licence": "Photo CC BY 2.0 (Prof. Mortel); underlying 5th-century mosaic public domain",
+    "confidence_note": "The famous St Lawrence lunette mosaic in the Mausoleum of Galla Placidia, Ravenna (425–450) — the saint strides toward the gridiron of his martyrdom carrying the processional cross and open book; the flames are visible at lower left of the crop. One of the oldest surviving images of the saint. Photo credited on the credits page per CC BY 2.0."
+  },
+  "euplus-of-catania": {
+    "local_path": "assets/icons/euplus-of-catania.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Euplius_Fresco_from_Saint_Nicholas_Church_in_Melnik,_12th_-_13th_Century.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Saint_Euplius_Fresco_from_Saint_Nicholas_Church_in_Melnik%2C_12th_-_13th_Century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown fresco painter, St Nicholas Church, Melnik (Bulgaria)",
+    "date": "late 12th – early 13th century",
+    "licence": "Public domain (PD-old)",
+    "confidence_note": "Commons file titled 'Saint Euplius Fresco from Saint Nicholas Church in Melnik, 12th–13th Century' — a haloed young deacon-martyr's head. Melnik's St Nicholas church programme is documented; subject named in the file's source description. St Euplus, Archdeacon of Catania, is commemorated 11 August."
+  },
+  "photius-and-anicetus": {
+    "local_path": "assets/icons/photius-and-anicetus.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B8%D1%82%D0%B8%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85_(1903-1911)_-_%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0_12121_%D0%90%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%B8_%D0%A4%D0%BE%D1%82%D0%B8%D0%B9.png",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/%D0%96%D0%B8%D1%82%D0%B8%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85_%281903-1911%29_-_%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0_12121_%D0%90%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%B8_%D0%A4%D0%BE%D1%82%D0%B8%D0%B9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown engraver, Zhitiya Svyatykh (Moscow Synodal edition)",
+    "date": "before 1911",
+    "licence": "Public domain (published before 1911)",
+    "confidence_note": "Plate икона 12121 of the 1903–1911 Zhitiya Svyatykh; the Church Slavonic caption under the two standing martyrs reads 'Свↄтіи мученицы Аникита и Фотій', verified by eye. The series numbers plates month-day-index: 12121 = August 12, first plate — the martyrs' feast day. Black-and-white engraving — no colour icon of this pair exists on Commons."
+  },
+  "maximus-the-confessor": {
+    "local_path": "assets/icons/maximus-the-confessor.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Greek_Icon_of_Saint_Maximos_the_Confessor.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Greek_Icon_of_Saint_Maximos_the_Confessor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown Greek icon painter",
+    "date": "16th–17th century",
+    "licence": "Public domain (PD-Art, PD-old)",
+    "confidence_note": "Greek icon inscribed Ο ΑΓ(ΙΟΣ) ΜΑΞΙΜΟΣ Ο ΟΜΟΛΟΓΗΤΗΣ ('the Confessor') either side of the halo, verified by eye — the monk-theologian with long grey beard holding an inscribed scroll, his standard type. Commemorated 13 August (translation of his relics; Apodosis of the Transfiguration)."
+  },
+  "prophet-micah": {
+    "local_path": "assets/icons/prophet-micah.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Micah_(Annunciation_cathedral_in_Moscow).jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Micah_%28Annunciation_cathedral_in_Moscow%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown Moscow icon painter",
+    "date": "16th century",
+    "licence": "Public domain (PD-Art, PD-old)",
+    "confidence_note": "Detail of the Prophet Micah from the prophets' tier of the iconostasis of the Annunciation Cathedral, Moscow Kremlin (Commons title 'Micah (Annunciation cathedral in Moscow)'). The prophet Michaias is commemorated 14 August, the day's principal named saint alongside the Forefeast of the Dormition."
+  },
+  "mandylion": {
+    "local_path": "assets/icons/mandylion.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Christos_Acheiropoietos.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Christos_Acheiropoietos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Anonymous Novgorod icon painter",
+    "date": "circa 1100",
+    "licence": "Public domain (PD-Art, PD-old)",
+    "confidence_note": "The Novgorod 'Saviour Not-Made-by-Hands' (Spas Nerukotvorny, Christos Acheiropoietos, c. 1100, Tretyakov Gallery) — the definitive icon of the Holy Mandylion: the Lord's face on the cloth of Edessa, whose translation to Constantinople is the feast of 16 August."
+  },
+  "myron-of-cyzicus": {
+    "local_path": "assets/icons/myron-of-cyzicus.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Myron_of_Kyzikos_Fresco,_Gracanica._Kosovo.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Saint_Myron_of_Kyzikos_Fresco%2C_Gracanica._Kosovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Unknown Serbian fresco painter, Gračanica monastery",
+    "date": "1318",
+    "licence": "Public domain (PD-old; 14th-century fresco)",
+    "confidence_note": "Fresco of St Myron in Gračanica monastery (1318); the Slavonic inscription above the figure reads СТИ МИРОН, verified by eye. Commons title identifies him as Myron of Kyzikos, the martyr commemorated 17 August (distinct from Myron of Crete, 8 August — both icons are in this set, sourced from different files)."
+  },
+  "ladder-of-divine-ascent": {
+    "local_path": "assets/icons/ladder-of-divine-ascent.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ladder_of_Divine_Ascent_Sinai_12th_century.jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ladder_of_Divine_Ascent_Sinai_12th_century.jpg",
+    "artist": "Anonymous Byzantine iconographer",
+    "date": "12th century (Monastery of St Catherine, Sinai)",
+    "licence": "Public domain (faithful photographic reproduction of a two-dimensional work whose author died over 100 years ago)",
+    "why_this_subject": "The classic icon of St John Klimakos' Ladder: monks climb toward Christ while others are pulled off by their own passions — the received Orthodox image for self-will and private opinion, matching Fr Varnavas' talk on the hold our own opinion takes over us.",
+    "edits": "Thin white photographic border trimmed; resized to 1200px long edge. No generated or altered content."
+  },
+  "hospitality-of-abraham": {
+    "local_path": "assets/icons/hospitality-of-abraham.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hospitality_of_Abraham_(Zakynthos,_15th_c.,_Byzantine_museum).jpg",
+    "direct_file_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hospitality_of_Abraham_%28Zakynthos%2C_15th_c.%2C_Byzantine_museum%29.jpg",
+    "artist": "Anonymous Greek iconographer (Zakynthos)",
+    "date": "15th century (Byzantine Museum of Zakynthos)",
+    "licence": "Public domain (faithful photographic reproduction of a two-dimensional work whose author died over 100 years ago)",
+    "why_this_subject": "Abraham and Sarah receiving the three visitors at table — the Orthodox icon of hospitality, and the sense of the archontariki (the guest room where visitors are received and questions are asked).",
+    "edits": "Grey museum matte cropped away; resized to 1200px long edge. No generated or altered content."
+  }
+}

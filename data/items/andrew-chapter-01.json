@@ -1,0 +1,215 @@
+{
+  "id": "andrew-chapter-01",
+  "slug": "andrew-chapter-01",
+  "title": "The Prologue & Chapter One",
+  "father": null,
+  "collection": "The Life of St Andrew the Fool",
+  "source_ref": null,
+  "category": "lives-of-saints",
+  "feast": null,
+  "saint_key": "andrew-the-fool",
+  "cover_key": "andrew-the-fool",
+  "scripture": [],
+  "chapter": 1,
+  "has_greek": false,
+  "has_audio": true,
+  "audio": "artifact/audio/andrew-chapter-01.mp3",
+  "align": "artifact/audio/andrew-chapter-01.align.json",
+  "word_count": 1771,
+  "reading_minutes": 9,
+  "attribution_note": null,
+  "path": [
+    "saints",
+    "lives",
+    "andrew-the-fool",
+    "1"
+  ],
+  "sections": [
+    {
+      "heading": "Prologue",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">I am about to tell you the life of a man of great virtue.</span> <span class=\"sn\" data-s=\"2\">Gather yourselves, I beg you, and listen.</span> <span class=\"sn\" data-s=\"3\">What I have to say is a thing that drips honey — a fragrance and a sweetness past all wondering.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"4\">So, my children, make your hearts large and ready for the joy of it.</span> <span class=\"sn\" data-s=\"5\">Do that, I ask you, and I too will be carried further into the work I have taken up, and I will set before you this man's great deeds of the spirit.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"6\">This, then, is how the account begins, of how the wonderful man made his start.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The old table of contents, from the Vatican manuscript",
+      "heading_sentence_index": 7,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">*So that nothing of the old book should be lost, the titles by which the Vatican manuscript divides the Life are set down here after the short Prologue, each with the number of the paragraph it stands at.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"9\">The vision — 4 · The insolence of the young men — 16 · The women of the streets — 20</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"10\">The miser — 23 · What he knew beforehand about the boy — 25 · The violent storm — 27</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"11\">Caught up into heaven — 37 · How the devil changes shape — 43</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"12\">Epiphanios and the philosophers — 46 · Epiphanios, and meeting the devil — 48</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"13\">The dish of food — 51 · What he knew beforehand about the eunuch — 57</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"14\">The servants of Epiphanios — 65 · The waggon — 69 · How he was scorched by the heat — 70</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"15\">How the gates were opened — 71 · Meeting the devil — 78 · The young thief — 80</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"16\">The vision of the rich man — 82 · The Church — 90</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"17\">What he knew beforehand about the saints — 96 · His request that the dying should stop — 98</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"18\">The robber — 100 · The monk — 106 · The young man — 114 · The woman — 129</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"19\">The fire — 136 · The vision of Saint David — 141 · The tight-fisted man — 145</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"20\">The young man Raphael — 149 · The man who sinned on holy Sunday — 155</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"21\">The sinner — 187 · The vision of Saint Akakios — 200</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"22\">**The vision of the All-Holy Mother of God at Blachernae — 203**</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"23\">The thoroughly wicked rich man — 205 · Here begins the time of pain — 212</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"24\">The question about Holy Wisdom — 221 · The saint's last conversation with Epiphanios — 245</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Chapter One — Andrew's service, and the vision",
+      "heading_sentence_index": 25,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"26\">*Andrew's servitude and his willingness to learn.*</span> <span class=\"sn\" data-s=\"27\">*The occasion of a holier life.*</span> <span class=\"sn\" data-s=\"28\">*The vision.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"29\">**2.** In the reign of Leo the Great, the emperor who loved Christ, there was a man in Constantinople named Theognostos.</span> <span class=\"sn\" data-s=\"30\">The devout emperor had honoured him with the rank of protospatharios — a senior title at the imperial court — and in the end he was made a general in the eastern provinces.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"31\">This man already owned many household servants, and he bought others as well.</span> <span class=\"sn\" data-s=\"32\">One of those he bought was the man our poor pen is now hurrying to praise.</span> <span class=\"sn\" data-s=\"33\">He was a Scythian by birth.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"34\">From the day his master bought him, along with the rest, he showed himself more teachable than any of them.</span> <span class=\"sn\" data-s=\"35\">He was also strikingly good-looking, so much so that his master was thoroughly pleased with him, kept him where he could see him, and used him for whatever he needed.</span> <span class=\"sn\" data-s=\"36\">Without wasting any time, Theognostos sent him to be taught the sacred Scriptures — though he could not yet even speak Greek.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"37\">The boy had a clear, sober mind, and he quickly learned everything his teacher put in front of him of the things of God.</span> <span class=\"sn\" data-s=\"38\">He learned the language of the place as well — Greek, I mean — so fast that his teacher was astonished at how quickly he understood.</span> <span class=\"sn\" data-s=\"39\">In time he became the finest of the notaries; and when he was taken away from the schoolroom, he served his master as his secretary.</span> <span class=\"sn\" data-s=\"40\">From then on the boy waited on his master with such care and such eagerness that he came to be loved — by his master, by his mistress, and by everyone else in the household.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"41\">**3.** Theognostos showed him more and more kindness, taking a particular interest in him and giving him his own cast-off clothes, so that people who saw Andrew would remark that the servant went better dressed than his master.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"42\">He was constantly at church too — truly, you could not satisfy him.</span> <span class=\"sn\" data-s=\"43\">He loved to read the accounts of what the holy martyrs had suffered, and still more the lives of the men who had carried God within them.</span> <span class=\"sn\" data-s=\"44\">He loved them so much that his heart caught fire with a bright longing for them, and he could not help being stirred to imitate them.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"45\">So he set his own beginning to a good way of life, and this is how he first began to serve God.</span> <span class=\"sn\" data-s=\"46\">One night he got out of bed, in imitation of the saints, to pray at midnight.</span> <span class=\"sn\" data-s=\"47\">The cunning demon, seeing the young man's fine start and grudging it, came up and began hammering at the doors of the room he was living in with a terrifying crash.</span> <span class=\"sn\" data-s=\"48\">The young man was seized with fear, left off his prayer, hurried back into bed and hid himself under his goat's-hair blankets.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"49\">**4.** Fear gave way to the deepest sleep, and there the blessed man saw this.</span> <span class=\"sn\" data-s=\"50\">He was in a theatre.</span> <span class=\"sn\" data-s=\"51\">On one side of it stood a vast crowd of Ethiopians, an unbearable gathering; on the other, a crowd of men in white, dignified and holy to look at.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"52\">The two sides were arguing with each other about a race and a wrestling match.</span> <span class=\"sn\" data-s=\"53\">The Ethiopians had a huge Moor with them, and they were demanding of the company in white: *Who is going to run and wrestle against this man of ours?* No one had ever stood up to him, they said — though he had grappled with a great many, since the beginning of the world.</span> <span class=\"sn\" data-s=\"54\">He was, in fact, the commander of a thousand in that great legion of Satan.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"55\">While they were boasting like this, and Andrew stood there listening, and the men in white were at a loss, a young man of great beauty came down from above.</span> <span class=\"sn\" data-s=\"56\">He held three crowns in his hand.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"57\">The first was covered in flowers and worked in pure royal gold.</span> <span class=\"sn\" data-s=\"58\">The second had priceless stones and pearls set all round it and on both sides, flashing like stars.</span> <span class=\"sn\" data-s=\"59\">The third was larger than the other two: it was woven out of every kind of bloom — roses, lilies, plants and branches from the paradise of God — so that it could never wither, and it carried a fragrance no human mind could describe.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"60\">**5.** Seeing all this, Andrew ached with longing, turning over how on earth he might get even one of those crowns.</span> <span class=\"sn\" data-s=\"61\">He went up to the beautiful young man and said: *As you hope to have Christ — tell me, are these for sale?*</span> <span class=\"sn\" data-s=\"62\">*I dare say I can afford them.*</span> <span class=\"sn\" data-s=\"63\">*Only bear with me a moment: I will go and tell my master, and he will give you as much gold as you want, and you can take it.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"64\">The young man smiled at him and said: *Believe me, my friend, if you brought me all the gold in the world I would not hand over one of these flowers — not to you, not to anybody else, and certainly not to the man you call your master.*</span> <span class=\"sn\" data-s=\"65\">*These do not belong to this empty world, as you supposed.*</span> <span class=\"sn\" data-s=\"66\">*They are treasures of heaven, the crowns of Christ, and they are set on the heads of those who strike down those Moors.*</span> <span class=\"sn\" data-s=\"67\">*If you want, not one of them but all three — go and wrestle that soot-black Ethiopian.*</span> <span class=\"sn\" data-s=\"68\">*Beat him, and you will carry off not only these but as many more as you like, and far more beautiful ones, from my hand.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"69\">At those words Andrew took heart, and said to him: *Believe me, I will do what you say.*</span> <span class=\"sn\" data-s=\"70\">*Only teach me his tricks.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"71\">The young man said: *Do you really not know this?*</span> <span class=\"sn\" data-s=\"72\">*The Ethiopians are all bluster and no courage — rotten through and don't have the strength.*</span> <span class=\"sn\" data-s=\"73\">*Don't let the sheer size of him alarm you: he is as soft as a garden vegetable, rotten and powerless.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"74\">He said this and a good deal more to rub courage into the young man, like oil into a wrestler.</span> <span class=\"sn\" data-s=\"75\">Then the beautiful young man took hold of him as though wrestling with him, and showed him how to stand against the Ethiopian.</span> <span class=\"sn\" data-s=\"76\">At the end he said into his ear: *When he lifts you off your feet and swings you round — and I know he will — don't panic.*</span> <span class=\"sn\" data-s=\"77\">*Lock yourself against him in the shape of a cross, and you will see the glory of God.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"78\">**6.** So the blessed man went out into the middle to wrestle, and stood facing the Ethiopian, and called out at the top of his voice: *Come on then, you soot-black, miserable, useless thing — let the two of us wrestle.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"79\">The Ethiopian heard it and came at a run, snorting and blustering, seized Andrew and swung him round and round for a horrible long time — so that the Ethiopians clapped for joy and the men in white groaned.</span> <span class=\"sn\" data-s=\"80\">They thought the Moor would dash him to the ground and knock the eyes out of his head.</span> <span class=\"sn\" data-s=\"81\">But as he was being swung, Andrew locked himself against him in the shape of a cross and threw him to the ground.</span> <span class=\"sn\" data-s=\"82\">The demon's skull happened to strike a rock; he went straight down and never made another sound.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"83\">Then a great burst of applause went up from the men in white, and the sweetest joy; they caught the blessed man up high on their open palms, and every one of them kissed him and anointed him with the fragrant oils of the Spirit.</span> <span class=\"sn\" data-s=\"84\">All those Moors were scattered and slunk off in deep disgrace.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"85\">The beautiful young man made him a present of the spotless crowns, and Andrew was overjoyed to wear them, for an overwhelming fragrance came off them.</span> <span class=\"sn\" data-s=\"86\">Then he embraced him and said:</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"87\">*Go, and go well.*</span> <span class=\"sn\" data-s=\"88\">*From this moment you are one of us — my friend, and my dearest brother.*</span> <span class=\"sn\" data-s=\"89\">*So run the good race stripped for it.*</span> <span class=\"sn\" data-s=\"90\">*Become a fool for my sake.*</span> <span class=\"sn\" data-s=\"91\">*And on the day of my kingdom you will sit as master of many good things.*</span>"
+        }
+      ]
+    }
+  ]
+}

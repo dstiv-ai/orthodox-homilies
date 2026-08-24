@@ -1,0 +1,260 @@
+{
+  "id": "homily-86-john",
+  "slug": "homily-86-john",
+  "title": "Homily 86 on the Gospel of John",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 86 on John",
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "christ-gospel",
+  "scripture": [
+    "John 20:10-24"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 3653,
+  "reading_minutes": 18,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "john"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ Π ʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**John 20:10-11.**</span>"
+        },
+        {
+          "gr": "Ἀπῆλθον οὖν πάλιν πρὸς ἑαυτοὺς οἱ μαθηταί· Μαρία δὲ εἱστήκει πρὸς τὸ μνημεῖον κλαίουσα ἔξω.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“Then the disciples went away again to their own home.*</span> <span class=\"sn\" data-s=\"3\">*But Mary stood outside the tomb, weeping.”* [John 20:10-11]</span>"
+        },
+        {
+          "gr": "αʹ. Περιπαθές πως τὸ γυναικεῖον γένος, καὶ πρὸς οἶκτον ἐπιῤῥεπέστερον. Τοῦτο δὲ εἶπον, ἵνα μὴ θαυμάσῃς τί δήποτε Μαρία μὲν πικρῶς ἐθρήνει τῷ τάφῳ, Πέτρος δὲ οὐδὲν τοιοῦτον ἔπαθεν. Οἱ μὲν γὰρ μαθηταὶ, φησὶν, ἀπῆλθον πρὸς ἑαυτοὺς, ἡ δὲ εἱστήκει δακρύουσα. Καὶ γὰρ ἡ φύσις εὐέμπτωτος, καὶ τὸν περὶ ἀναστάσεως οὐδέπω σαφῶς ᾔδει λόγον· καθάπερ ἐκεῖνοι τὰ ὀθόνια θεασάμενοι καὶ πιστεύσαντες, ἀπῆλθον πρὸς ἑαυτοὺς ἐκπληττόμενοι. Καὶ τίνος ἕνεκεν οὐκ εὐθέως ἦλθον εἰς τὴν Γαλιλαίαν, καθάπερ αὐτοῖς συντέτακτο πρὸ τοῦ πάθους; Ἀνέμενον τοὺς λοιποὺς ἴσως· καὶ ἄλλως δὲ, ἔτι ἐν ἀκμαζούσῃ ἦσαν ἐκπλήξει. Οὗτοι μὲν οὖν ἀπῆλθον· ἐκείνη δὲ εἱστήκει πρὸς τῷ τόπῳ. Μέγα γὰρ, ὅπερ ἔφην, πρὸς παραμυθίαν καὶ μνῆμα φαινόμενον. Ὁρᾷς γοῦν αὐτὴν, ὥστε πλέον ἀναπαύεσθαι, καὶ παρακύπτουσαν, καὶ βουλομένην τὸν τόπον ἰδεῖν ἔνθα τὸ σῶμα ἔκειτο; ∆ιὰ δὴ τοῦτο καὶ τῆς πολλῆς ταύτης σπουδῆς μισθὸν ἔλαβεν οὐ μικρόν. Ὃ γὰρ οὐκ εἶδον οἱ μαθηταὶ, τοῦτο εἶδεν ἡ γυνὴ πρώτη, καθημένους ἀγγέλους, τὸν μὲν πρὸς ποδῶν, τὸν δὲ πρὸς κεφαλῆς ἐν λευκοῖς· καὶ τὸ σχῆμα φαιδρότητος πολλῆς γέμον καὶ χαρᾶς. Ἐπειδὴ γὰρ οὐκ ἦν ὑψηλὴ τῆς γυναικὸς ἡ διάνοια, ὡς ἀπὸ τῶν σουδαρίων ὑποδέξασθαι τὴν ἀνάστασιν, γίνεταί τι πλέον, καὶ ἀγγέλους θεωρεῖ καθημένους ἐν φαιδρῷ τῷ σχήματι, ὥστε αὐτὴν ἀναστῆσαι τέως τοῦ πάθους ἐντεῦθεν καὶ παραμυθήσασθαι. Ἀλλ' οὐδὲν αὐτῇ περὶ ἀναστάσεως λέγουσιν· ἀλλ' ἠρέμα προβιβάζεται τῷ δόγματι τούτῳ. Εἶδεν ὄψεις φαιδρὰς, καὶ μᾶλλον ἢ κατὰ τὴν συν ήθειαν· εἶδε σχῆμα λαμπρόν· ἤκουσε συμπαθοῦς φωνῆς. Τί γάρ φησι;",
+          "en": "<span class=\"sn\" data-s=\"4\">There is something deeply tender about the female sex; it is more inclined to pity.</span> <span class=\"sn\" data-s=\"5\">I say this so that you will not be surprised that Mary wept bitterly at the tomb while Peter was in no way affected in the same manner.</span> <span class=\"sn\" data-s=\"6\">*“The disciples,”* it says, *“went away to their own home”*; but she stood there shedding tears.</span> <span class=\"sn\" data-s=\"7\">Her nature was the weaker one, and she did not yet have an accurate grasp of the account of the Resurrection.</span> <span class=\"sn\" data-s=\"8\">The disciples, on the other hand, had seen the linen cloths and believed, and went back to their homes in amazement.</span> <span class=\"sn\" data-s=\"9\">And why did they not set off immediately for Galilee, as they had been commanded before the Passion?</span> <span class=\"sn\" data-s=\"10\">Perhaps they were waiting for the others; and besides, they were still at the very height of their astonishment.</span> <span class=\"sn\" data-s=\"11\">So those men went their way; but she remained at the spot — for, as I said, even the sight of the tomb brought her considerable comfort.</span> <span class=\"sn\" data-s=\"12\">At any rate you can see her, to ease her grief even a little, stooping down and wanting to look again at the place where the body had lain.</span> <span class=\"sn\" data-s=\"13\">And for this great eagerness of hers she received no small reward.</span> <span class=\"sn\" data-s=\"14\">What the disciples did not see, the woman saw first: angels sitting, one at the feet and one at the head, clothed in white — even their clothing full of radiance and joy.</span> <span class=\"sn\" data-s=\"15\">Since the woman's mind was not yet raised high enough to accept the Resurrection on the evidence of the linen cloths alone, something more happens: she sees something more — angels sitting in shining garments — so as to lift her for a while out of her passionate grief and to console her.</span> <span class=\"sn\" data-s=\"16\">They said nothing to her about the Resurrection, yet she is gently led forward towards that teaching.</span> <span class=\"sn\" data-s=\"17\">She saw faces that were bright and out of the ordinary; she saw shining garments; she heard a voice full of sympathy.</span> <span class=\"sn\" data-s=\"18\">For what does the angel say?</span>"
+        },
+        {
+          "gr": "Γύναι, τί κλαίεις;",
+          "en": "<span class=\"sn\" data-s=\"19\">*“Woman, why are you weeping?”* [John 20:13]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Led gently towards the Resurrection",
+      "heading_sentence_index": 20,
+      "pairs": [
+        {
+          "gr": "∆ιὰ δὲ τούτων ἁπάντων, ὥσπερ θύρας ἀνοιγομένης, κατὰ μικρὸν εἰς τὸν περὶ ἀναστάσεως ἤγετο λόγον. Καὶ ὁ τρόπος δὲ τῆς καθέδρας αὐτῶν εἰς ἐρώτησιν αὐτὴν ἦγε· καὶ γὰρ ἐνέφαινον, ὅτι ᾔδεσαν τὸ γεγονός. ∆ιὰ τοῦτο οὐδὲ ὁμοῦ κάθηνται, ἀλλὰ διεστηκότες ἀλλήλων. Ἐπειδὴ γὰρ οὐκ εἰκὸς αὐτὴν τολμῆσαι ἁπλῶς πυθέσθαι, καὶ τῇ ἐρωτήσει καὶ τῷ τρόπῳ τῆς καθέδρας ἄγουσιν αὐτὴν ἐπὶ διάλεξιν. Τί οὖν αὕτη; Θερμῶς ἅμα καὶ φιλοστόργως·",
+          "en": "<span class=\"sn\" data-s=\"21\">All these circumstances, as though a door were being opened for her, led her little by little towards knowing about the Resurrection.</span> <span class=\"sn\" data-s=\"22\">Even the way the angels were sitting invited her to question them, for it showed that they knew what had happened.</span> <span class=\"sn\" data-s=\"23\">That is why they were not sitting together, but apart from one another.</span> <span class=\"sn\" data-s=\"24\">Since it was unlikely that she would dare to question them straightaway, they draw her into conversation both by questioning her and by the way they are seated.</span> <span class=\"sn\" data-s=\"25\">And what does she say?</span> <span class=\"sn\" data-s=\"26\">She speaks with great warmth and affection:</span>"
+        },
+        {
+          "gr": "Ἦραν τὸν Κύριόν μου, καὶ οὐκ οἶδα ποῦ τεθείκασιν αὐτόν.",
+          "en": "<span class=\"sn\" data-s=\"27\">*“They have taken away my Lord, and I do not know where they have laid him.”*</span>"
+        },
+        {
+          "gr": "Τί φῄς; οὐδέπω οὐδὲν περὶ ἀναστάσεως οἶδας, ἀλλ' ἔτι θέσιν φαντάζῃ; Ὁρᾷς πῶς οὐδέπω ὑψηλὸν κατεδέξατο δόγμα;",
+          "en": "<span class=\"sn\" data-s=\"28\">What are you saying?</span> <span class=\"sn\" data-s=\"29\">Do you still know nothing about the Resurrection?</span> <span class=\"sn\" data-s=\"30\">Are you still imagining things about his being *laid* somewhere?</span> <span class=\"sn\" data-s=\"31\">Do you see that she had not yet taken in the sublime teaching?</span>"
+        },
+        {
+          "gr": "Καὶ ταῦτα εἰποῦσα, ἐστράφη εἰς τὰ ὀπίσω.",
+          "en": "<span class=\"sn\" data-s=\"32\">*“And when she had said this, she turned around.”* [John 20:14]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "She turns around: Christ appears behind her",
+      "heading_sentence_index": 33,
+      "pairs": [
+        {
+          "gr": "Καὶ ποία αὕτη ἀκολουθία, πρὸς ἐκείνους διαλεγομένην, καὶ μηδέπω μηδὲν ἀκούσασαν παρ' αὐτῶν, στραφῆναι εἰς τὰ ὀπίσω; Ἐμοὶ δοκεῖ, ταῦτα λεγούσης αὐτῆς, ἄφνω φανεὶς ὁ Χριστὸς ὄπισθεν αὐτῆς ἐκπλῆξαι τοὺς ἀγγέλους, κἀκείνους θεασαμένους τὸν ∆εσπότην, καὶ τῷ σχήματι, καὶ τῷ βλέμματι, καὶ τῷ κινήματι εὐθέως ἐμφῆναι, ὅτι τὸν Κύριον εἶδον· καὶ τοῦτο τὴν γυναῖκα ἐπέστρεψε, καὶ εἰς τὰ ὀπίσω στραφῆναι ἐποίησεν. Ἐκείνοις μὲν οὖν οὕτως ἐφάνη· τῇ γυναικὶ δὲ οὐχ οὕτως, ὥστε αὐτὴν μὴ ἐκ πρώτης ἐκπλῆξαι τῆς ὄψεως, ἀλλ' ἐν εὐτελεστέρῳ καὶ κοινῷ τῷ σχήματι. Καὶ δῆλον ἐξ ὧν καὶ κηπουρὸν αὐτὸν εἶναι ἐνόμιζε. Τὴν δὲ οὕτω ταπεινὴν οὐκ ἔδει ἀθρόον ἐπὶ τὰ ὑψηλὰ ἀγαγεῖν, ἀλλ' ἠρέμα. Πάλιν οὖν αὐτὴν ἐρωτᾷ·",
+          "en": "<span class=\"sn\" data-s=\"34\">What is the connection here?</span> <span class=\"sn\" data-s=\"35\">Why would she, having spoken to the angels and not yet having heard anything from them, turn around?</span> <span class=\"sn\" data-s=\"36\">I think that while she was speaking, Christ suddenly appeared behind her, and the angels were struck with awe.</span> <span class=\"sn\" data-s=\"37\">Having seen their Ruler, they immediately showed by their bearing, their expression and their movement that they saw the Lord; and this caught the woman's attention and made her turn around.</span> <span class=\"sn\" data-s=\"38\">To them, then, he appeared in this way, but not so to the woman — in order not to frighten her at first sight.</span> <span class=\"sn\" data-s=\"39\">He appeared in a humbler, ordinary form, as is clear from her supposing that he was the gardener.</span> <span class=\"sn\" data-s=\"40\">It was fitting to lead a mind as lowly as hers to high things not all at once, but gently.</span> <span class=\"sn\" data-s=\"41\">So he in turn asks her:</span>"
+        },
+        {
+          "gr": "Γύναι, τί κλαίεις; τίνα ζητεῖς;",
+          "en": "<span class=\"sn\" data-s=\"42\">*“Woman, why are you weeping?*</span> <span class=\"sn\" data-s=\"43\">*Whom are you seeking?”* [John 20:15]</span>"
+        },
+        {
+          "gr": "Τοῦτο ἐνέφηνεν εἰδέναι αὐτὸν, ὃ βούλεται ἐρωτῆσαι, καὶ εἰς ἀπόκρισιν ἤγαγε. Τοῦτο οὖν καὶ ἡ γυνὴ συνιεῖσα, οὐκ ἔτι τὸ ὄνομα τοῦ Ἰησοῦ λέγει, ἀλλ' ὡς εἰδότος τοῦ ἐρωτῶντος περὶ οὗ πυνθάνεται, φησίν·",
+          "en": "<span class=\"sn\" data-s=\"44\">This showed that he knew what she wanted to ask, and it led her to answer.</span> <span class=\"sn\" data-s=\"45\">The woman, taking it that her questioner knew what she was asking about, does not mention the name of Jesus again, but replies:</span>"
+        },
+        {
+          "gr": "Εἰ σὺ ἐβάστασας αὐτὸν, εἰπέ μοι ποῦ ἔθηκας, κἀγὼ αὐτὸν ἀρῶ.",
+          "en": "<span class=\"sn\" data-s=\"46\">*“Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”*</span>"
+        },
+        {
+          "gr": "Πάλιν θέσιν καὶ ἄρσιν, καὶ τὸ βαστάσαι, ὡς περὶ νεκροῦ διαλεγομένη, φησίν. Ὃ δὲ ἐμφαίνει, τοῦτό ἐστιν· Εἰ διὰ τὸν φόβον τῶν Ἰουδαίων ἤρατε αὐτὸν ἐντεῦθεν, εἴπατέ μοι, καὶ ἐγὼ λήψομαι αὐτόν. Πολλὴ ἡ εὔνοια καὶ φιλοστοργία τῆς γυναικός· ὑψηλὸν δὲ οὐδὲν οὐδέπω παρ' αὐτῇ.",
+          "en": "<span class=\"sn\" data-s=\"47\">Again she speaks of laying down, carrying and taking away, as though she were talking about a corpse.</span> <span class=\"sn\" data-s=\"48\">But her meaning is this: *If you have carried him away for fear of the Jews, tell me, and I will take him.* Great is the woman's kindness and loving affection; but as yet there is nothing lofty in her thinking.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Mary\": recognised by the Voice, not the face",
+      "heading_sentence_index": 49,
+      "pairs": [
+        {
+          "gr": "∆ιὰ τοῦτο λοιπὸν προτίθησιν αὐτῇ τοῦτο, οὐ δι' ὄψεως, ἀλλὰ διὰ φωνῆς. Ὥσπερ γὰρ τοῖς Ἰουδαίοις ποτὲ μὲν ἐγνωρίζετο, ποτὲ δὲ ἄδηλος ἦν καὶ παρών· οὕτω καὶ φθεγγόμενος, ἡνίκα ἐβούλετο, τότε γνώριμον ἑαυτὸν ἐποίει. Καὶ γὰρ ὅτε τοῖς Ἰουδαίοις ἔλεγε, Τίνα ζητεῖτε; οὐ τὴν ὄψιν, οὐ τὴν φωνὴν ἐπέγνωσαν, ἕως ἠθέλησεν· ὃ δὴ καὶ ἐνταῦθα συνέβη. Καὶ τὸ ὄνομα αὐτῆς μόνον ἐκάλεσεν, ὀνειδίζων καὶ καθαπτόμενος, ὅτι ταῦτα περὶ τοῦ ζῶντος ἐφαντάζετο.",
+          "en": "<span class=\"sn\" data-s=\"50\">That is why he now sets the matter before her not by sight but by his Voice.</span> <span class=\"sn\" data-s=\"51\">Just as he was at one time recognised by the Jews and at another time went unnoticed though standing among them, so too in speaking: when he chose, then he made himself known.</span> <span class=\"sn\" data-s=\"52\">It was the same when he said to the Jews, *“Whom do you seek?”* — they knew neither his face nor his voice until he chose.</span> <span class=\"sn\" data-s=\"53\">And so it was here.</span> <span class=\"sn\" data-s=\"54\">He spoke only her name, reproaching and correcting her for entertaining such fancies about One who was alive.</span>"
+        },
+        {
+          "gr": "Πῶς δὲ, Στραφεῖσα λέγει, εἴ γε πρὸς αὐτὴν διελέγετο; Ἐμοὶ δοκεῖ εἰποῦσαν αὐτὴν τὸ, Ποῦ τεθείκατε αὐτὸν, στραφῆναι πρὸς τοὺς ἀγγέλους ὡς ἐρωτῶσαν, τί ἐξεπλάγησαν· εἶτα τὸν Χριστὸν καλέσαντα αὐτὴν ἐπιστρέψαι πρὸς ἑαυτὸν ἀπ' ἐκείνων, καὶ διὰ τῆς φωνῆς δῆλον ἑαυτὸν ποιῆσαι. Ὅτε γὰρ ἐκάλεσεν αὐτὴν, Μαρία, τότε αὐτὸν ἐπέγνω. Οὕτως οὐκ ὄψεως ἦν, ἀλλὰ φωνῆς ἡ ἐπίγνωσις.",
+          "en": "<span class=\"sn\" data-s=\"55\">But how was it that *“she turned herself”* [John 20:16] and spoke, if he was already speaking to her?</span> <span class=\"sn\" data-s=\"56\">It seems to me that after saying *“where have you laid him?”* she turned back to the angels to ask why they were astonished — and that then Christ, by calling her by name, turned her away from them to himself, and revealed himself by his Voice.</span> <span class=\"sn\" data-s=\"57\">For when he called her *“Mary”*, then she knew him.</span> <span class=\"sn\" data-s=\"58\">So the recognition came not from his appearance but from his Voice.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ λέγοιεν, Πόθεν δῆλον, ὅτι οἱ ἄγγελοι ἐξεπλάγησαν, καὶ διὰ τοῦτο ἐπεστράφη ἡ γυνή; καὶ ἐνταῦθα ἐροῦσι, Πόθεν δῆλον, ὅτι ἥψατο αὐτοῦ, καὶ προσέπεσεν; Ἀλλ' ὥσπερ τοῦτο δῆλον ἀπὸ τοῦ εἰπεῖν, Μή μου ἅπτου· οὕτω κἀκεῖνο, ἀπὸ τοῦ εἰπεῖν, ὅτι ἐστράφη.",
+          "en": "<span class=\"sn\" data-s=\"59\">And if anyone asks, *“How is it clear that the angels were awestruck, and that this is why the woman turned?”* — such a person might as well ask in this same passage, *“How is it clear that she would have touched him and fallen at his feet?”* Just as that is clear from his saying *“Do not touch me”*, so the other is clear from its saying that *“she turned herself.”*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Do not touch me\": I have not yet ascended",
+      "heading_sentence_index": 60,
+      "pairs": [
+        {
+          "gr": "Τίνος δὲ ἕνεκεν εἶπε,",
+          "en": "<span class=\"sn\" data-s=\"61\">But why did he say,</span>"
+        },
+        {
+          "gr": "Μή μου ἅπτου;",
+          "en": "<span class=\"sn\" data-s=\"62\">*“Do not touch me”?* [John 20:17]</span>"
+        },
+        {
+          "gr": "Τινές φασιν, ὅτι χάριν αἰτεῖ πνευματικὴν, ἀκούσασα μετὰ τῶν μαθητῶν λέγοντος· Ἐὰν πορευθῶ πρὸς τὸν Πατέρα, ἐρωτήσω αὐτὸν, καὶ δώσει ὑμῖν ἄλλον Παράκλητον. βʹ. Καὶ πῶς ἡ μὴ παροῦσα μετὰ τῶν μαθητῶν, ταῦτα ἤκουσε; Ἄλλως δὲ, καὶ πόῤῥω τῆς διανοίας ταύτης ἡ τοιαύτη φαντασία. Πῶς δὲ αἰτεῖ, οὐδέπω πρὸς τὸν Πατέρα ἀπελθόντος; Τί οὖν; ∆οκεῖ μοι βούλεσθαι αὐτὴν ἔτι συνεῖναι αὐτῷ, ὥσπερ τότε, καὶ ἀπὸ τῆς χαρᾶς μηδὲν ἐννοῆσαι μέγα, εἰ καὶ πολλῷ βελτίων ἐγεγόνει κατὰ σάρκα. Ταύτης γοῦν ἀπάγων αὐτὴν τῆς ἐννοίας, καὶ τοῦ μετὰ πολλῆς αὐτῷ ἀδείας διαλέγεσθαι (οὐδὲ γὰρ τοῖς μαθηταῖς φαίνεται λοιπὸν ἐπιχωριάζων ὁμοίως), ἀνάγει αὐτῆς τὴν διάνοιαν, ὥστε αἰδεσιμώτερον αὐτῷ προσέχειν. Τὸ μὲν οὖν εἰπεῖν, Μὴ πρόσιθί μοι, καθάπερ καὶ πρότερον· οὐ γὰρ ἐν τοῖς αὐτοῖς τὰ πράγματα, οὐδὲ ὁμοίως μέλλω συνεῖναι λοιπὸν ὑμῖν· πρόσαντες ἦν καὶ κόμπον ἔχον· τὸ δὲ εἰπεῖν,",
+          "en": "<span class=\"sn\" data-s=\"63\">Some claim that she was asking for spiritual grace, because she had heard him say to the disciples, *“If I go to the Father, I will ask him, and he will give you another Comforter.”* [John 14:3, 16] But how could she have heard this, when she was not present with the disciples?</span> <span class=\"sn\" data-s=\"64\">Besides, such a notion is far from the meaning here.</span> <span class=\"sn\" data-s=\"65\">And how could she ask for it, when he had not yet gone to the Father?</span> <span class=\"sn\" data-s=\"66\">What, then, is the sense?</span> <span class=\"sn\" data-s=\"67\">I think she wished to go on conversing with him as she had before, and that in her joy she perceived nothing greater in him, even though in the flesh he had now become far more excellent.</span> <span class=\"sn\" data-s=\"68\">So, to lead her away from this idea and to make her address him with much greater awe — for from now on he does not appear so familiar even with the disciples as before — he raises her thoughts, so that she will give him more reverent heed.</span> <span class=\"sn\" data-s=\"69\">To have said, *“Do not come near me as you did before, for things are not as they were, and I will no longer be with you in the same way,”* would have sounded harsh and grandiose.</span> <span class=\"sn\" data-s=\"70\">But the words,</span>"
+        },
+        {
+          "gr": "Οὔπω ἀναβέβηκα πρὸς τὸν Πατέρα,",
+          "en": "<span class=\"sn\" data-s=\"71\">*“I have not yet ascended to the Father,”*</span>"
+        },
+        {
+          "gr": "εἰ καὶ ἀνεπαχθὲς, τὸ αὐτὸ δηλοῦντος ἦν. Εἰπὼν γὰρ, ὅτι Οὔπω ἀναβέβηκα, ἐμφαίνει, ὅτι ἐκεῖ σπεύδει καὶ ἐπείγεται· τὸν δὲ ἐκεῖ μέλλοντα ἀπιέναι, καὶ μηκέτι μετὰ ἀνθρώπων στρέφεσθαι, οὐκ ἔδει μετὰ τῆς αὐτῆς ὁρᾷν διανοίας ἧς καὶ πρὸ τούτου Καὶ ὅτι τοῦτό ἐστι, δηλοῖ τὸ ἑξῆς·",
+          "en": "<span class=\"sn\" data-s=\"72\">though not painful to hear, are the words of One saying the very same thing.</span> <span class=\"sn\" data-s=\"73\">By saying *“I have not yet ascended,”* he shows that he is hastening and pressing on to that place, and that it was not fitting for One about to depart there, and no longer to converse with human beings, to be regarded with the same feelings as before.</span> <span class=\"sn\" data-s=\"74\">And what follows shows that this is the case:</span>"
+        },
+        {
+          "gr": "Πορεύου, εἰπὲ τοῖς ἀδελφοῖς, ὅτι πορεύομαι πρὸς τὸν Πατέρα μου καὶ Πατέρα ὑμῶν, καὶ Θεόν μου καὶ Θεὸν ὑμῶν.",
+          "en": "<span class=\"sn\" data-s=\"75\">*“Go and tell my brethren that I ascend to my Father and your Father, to my God and your God.”*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "My Father and your Father",
+      "heading_sentence_index": 76,
+      "pairs": [
+        {
+          "gr": "Καίτοι οὐκ ἔμελλε εὐθέως τοῦτο ποιεῖν, ἀλλὰ μετὰ τεσσαράκοντα ἡμέρας. Πῶς οὖν τοῦτό φησιν; Ἀναστῆσαι βουλόμενος αὐτῆς τὴν διάνοιαν, καὶ πεῖσαι, ὅτι εἰς τοὺς οὐρανοὺς ἀπέρχεται. Τὸ δὲ, Πατέρα μου καὶ Πατέρα ὑμῶν, καὶ Θεόν μου καὶ Θεὸν ὑμῶν, τῆς οἰκονομίας ἐστὶ, ἐπεὶ καὶ τὸ ἀναβῆναι τῆς σαρκός ἐστι. Πρὸς γὰρ τὴν οὐδὲν μέγα φανταζομένην ταῦτα φθέγγεται.",
+          "en": "<span class=\"sn\" data-s=\"77\">Yet he was not about to ascend immediately, but after forty days.</span> <span class=\"sn\" data-s=\"78\">How, then, does he say this?</span> <span class=\"sn\" data-s=\"79\">He speaks with a desire to raise their minds and to persuade them that he is departing into heaven.</span> <span class=\"sn\" data-s=\"80\">As for the words *“to my Father and your Father, to my God and your God”* — these belong to the Dispensation, since the ascending also belongs to his flesh.</span> <span class=\"sn\" data-s=\"81\">He speaks these words to someone who had no high thoughts of him.</span>"
+        },
+        {
+          "gr": "Ἑτέρως οὖν αὐτοῦ Πατὴρ, καὶ ἑτέρως ἡμῶν; Πάνυ μὲν οὖν. Εἰ γὰρ τῶν δικαίων ἑτέρως Θεὸς καὶ τῶν ἄλλων ἀνθρώπων, πολλῷ μᾶλλον τοῦ Υἱοῦ καὶ ἡμῶν. Ἐπειδὴ γὰρ εἶπεν, Εἰπὲ τοῖς ἀδελφοῖς, ἵνα μὴ ἀπὸ τούτου ἴσον τι φαντασθῶσι, δείκνυσι τὸ ἐνηλλαγμένον. Αὐτὸς μὲν γὰρ ἔμελλε καθιεῖσθαι ἐπὶ τοῦ θρόνου τοῦ πατρικοῦ, οὗτοι δὲ παρεστάναι. Ὥστε εἰ καὶ κατὰ τὴν οὐσίαν τὴν ἐν σαρκὶ ἀδελφὸς ἡμῶν ἐγένετο, ἀλλὰ τῇ τιμῇ πολὺ διενήνοχε, καὶ οὐδὲ ἔστιν εἰπεῖν ὅσον.",
+          "en": "<span class=\"sn\" data-s=\"82\">Is the Father, then, his in one way and ours in another?</span> <span class=\"sn\" data-s=\"83\">Most assuredly he is.</span> <span class=\"sn\" data-s=\"84\">For if he is God of the righteous in a different manner from that in which he is God of other people, how much more is this so in the case of the Son and of us.</span> <span class=\"sn\" data-s=\"85\">Because he had said *“say to the brethren,”* he showed the difference, so that they would not imagine any equality from this.</span> <span class=\"sn\" data-s=\"86\">He was about to sit on his Father's throne; they were to stand before it.</span> <span class=\"sn\" data-s=\"87\">So although in his existence according to the flesh he became our Brother, yet in honour he differed from us greatly — more than words can tell.</span>"
+        },
+        {
+          "gr": "Αὕτη μὲν οὖν ἀπέρχεται ταῦτα ἀπαγγέλλουσα τοῖς μαθηταῖς.",
+          "en": "<span class=\"sn\" data-s=\"88\">*“So she went away, bearing these tidings to the disciples.”* [John 20:18]</span>"
+        },
+        {
+          "gr": "Τοσοῦτόν ἐστι προσεδρία καὶ καρτερία καλόν.",
+          "en": "<span class=\"sn\" data-s=\"89\">What a great good perseverance and endurance are!</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The evening appearance: \"Peace be with you\"",
+      "heading_sentence_index": 90,
+      "pairs": [
+        {
+          "gr": "Ἐκεῖνοι δὲ πῶς λοιπὸν οὐκ ἤλγησαν μέλλοντος ἀπιέναι, οὐδὲ ἐφθέγξαντο οἷα καὶ πρότερον; Τότε μὲν οὖν ὡς τεθνηξομένου, τοῦτο ἔπασχον· νῦν δὲ, ἀναστάντος, τίνος ἕνεκεν ἔμελλον ἀλγεῖν; Ἀπήγγειλε δὲ καὶ τὴν ὄψιν καὶ τὰ ῥήματα, ἅπερ ἱκανὰ ἦν αὐτοὺς παραμυθήσασθαι.",
+          "en": "<span class=\"sn\" data-s=\"91\">Why is it that the disciples no longer grieved when he was about to depart, nor spoke as they had before?</span> <span class=\"sn\" data-s=\"92\">Back then they were affected as they were because they supposed he was about to die; but now that he had risen again, what reason did they have to grieve?</span> <span class=\"sn\" data-s=\"93\">Moreover, Mary reported his appearance and his words, which were enough to console them.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ οὖν εἰκὸς ἦν τοὺς μαθητὰς ταῦτα ἀκούοντας, ἢ διαπιστεῖν τῇ γυναικὶ, ἢ πιστεύσαντας ἀλγεῖν, ὅτι αὐτοὺς οὐ κατηξίωσε τῆς ὄψεως, καίτοι γε ἐπαγγειλάμενος ἐν τῇ Γαλιλαίᾳ αὐτοῖς φαίνεσθαι· ἵν' οὖν μὴ ταῦτα στρέφοντες ἀλύωσιν, οὐδὲ ἡμέραν μίαν ἀφῆκε διελθεῖν, ἀλλ' εἰς ἐπιθυμίαν αὐτοὺς ἀγαγὼν τῷ τε ἤδη εἰδέναι ἐγηγέρθαι αὐτὸν, τῷ τε παρὰ τῆς γυναικὸς ἀκοῦσαι, διψῶσιν αὐτοῖς ἰδεῖν καὶ περιφόβοις οὖσιν (ὃ καὶ αὐτὸ μάλιστα τὸν πόθον ἐποίει πλείονα), τότε ὀψίας γενομένης, ἐφίστατο, καὶ μετὰ πολλοῦ τοῦ θαύματος.",
+          "en": "<span class=\"sn\" data-s=\"94\">Now it was likely that the disciples, on hearing these things, would either not believe the woman, or, believing, would be hurt that he had not considered them worthy of the vision, even though he had promised to meet them in Galilee.</span> <span class=\"sn\" data-s=\"95\">So that they would not be thrown into confusion by dwelling on this, he did not let a single day pass.</span> <span class=\"sn\" data-s=\"96\">Having first brought them into a state of longing — through their knowing that he was risen and through what they heard from the woman — then, when they were thirsting to see him and were very much afraid (which itself made their yearning all the greater), he presented himself before them in the evening, and that in a most marvellous way.</span>"
+        },
+        {
+          "gr": "Καὶ τί δήποτε ἑσπέρας ἐφάνη; Ὅτι τότε μάλιστα εἰκὸς ἦν αὐτοὺς εἶναι περιδεεῖς. Ἀλλὰ τὸ θαυμαστὸν, πῶς φάντασμα αὐτὸν οὐκ ἐνόμισαν; καὶ γὰρ κεκλεισμένων εἰσῆλθε τῶν θυρῶν, καὶ ἀθρόον. Μάλιστα μὲν καὶ ἡ γυνὴ προλαβοῦσα πολλὴν τὴν πίστιν εἰργάσατο· ἄλλως δὲ, καὶ τρανὴν καὶ ἥμερον τὴν ὄψιν αὐτοῖς ἐπέδειξεν. Ἡμέρας δὲ οὐκ ἐπέστη μὲν, ὡς συλλεγῆναι ἅπαντας ὁμοῦ· πολλὴ γὰρ ἦν ἡ ἔκπληξις. Οὐδὲ γὰρ τὴν θύραν ἐπάταξεν, ἀλλ' ἀθρόον ἔστη μέσος, καὶ ἐπέδειξε τὴν πλευρὰν καὶ τὰς χεῖρας. Ἅμα δὲ καὶ τῇ φωνῇ κατεστόρεσε κυμαίνοντα τὸν λογισμὸν, εἰπών·",
+          "en": "<span class=\"sn\" data-s=\"97\">Why did he appear in the evening?</span> <span class=\"sn\" data-s=\"98\">Because that was when they were likely to be most fearful.</span> <span class=\"sn\" data-s=\"99\">But the marvel is this: why did they not take him for an apparition?</span> <span class=\"sn\" data-s=\"100\">For he entered when the doors were shut, and suddenly.</span> <span class=\"sn\" data-s=\"101\">The chief reason was that the woman had already sown great faith in them; besides that, he showed them a countenance clear and gentle.</span> <span class=\"sn\" data-s=\"102\">He did not come by day, so that they might all be gathered together.</span> <span class=\"sn\" data-s=\"103\">The amazement was great: he did not even knock at the door, but all at once stood in their midst and showed them his side and his hands.</span> <span class=\"sn\" data-s=\"104\">At the same time, by his Voice he calmed their tossing thoughts, saying:</span>"
+        },
+        {
+          "gr": "Εἰρήνη ὑμῖν·",
+          "en": "<span class=\"sn\" data-s=\"105\">*“Peace be with you.”* [John 20:19]</span>"
+        },
+        {
+          "gr": "τουτέστι, Μὴ θορυβεῖσθε· καὶ ῥήματος ἀναμνήσας, ὃ πρὸ τοῦ σταυροῦ πρὸς αὐτοὺς εἶπεν· Εἰρήνην τὴν ἐμὴν ἀφίημι ὑμῖν· καὶ πάλιν, Ἐν ἐμοὶ εἰρήνην ἔχετε, ἐν τῷ κόσμῳ θλίψιν ἕξετε.",
+          "en": "<span class=\"sn\" data-s=\"106\">That is, *Do not be troubled.* At the same time he reminded them of the word he had spoken to them before the Crucifixion: *“My peace I leave with you”* [John 14:27]; and again, *“In me you have peace, but in the world you will have tribulation.”* [John 16:33]</span>"
+        },
+        {
+          "gr": "Ἐχάρησαν δὲ οἱ μαθηταὶ ἰδόντες τὸν Κύριον.",
+          "en": "<span class=\"sn\" data-s=\"107\">*“Then the disciples were glad when they saw the Lord.”* [John 20:20]</span>"
+        },
+        {
+          "gr": "Ὁρᾷς ἐπὶ τῶν ἔργων τοὺς λόγους ἐκβαίνοντας; Ὃ γὰρ ἔλεγε πρὸ τοῦ σταυροῦ, ὅτι Πάλιν ὄψομαι ὑμᾶς, καὶ χαρήσεται ὑμῶν ἡ καρδία, καὶ τὴν χαρὰν ὑμῶν οὐδεὶς αἴρει ἀφ' ὑμῶν, τοῦτο νῦν ἔργῳ ἐπλήρωσεν. Ἅπαντα δὲ ταῦτα ἐνῆγεν αὐτοὺς εἰς πίστιν ἀκριβεστάτην. Ἐπειδὴ γὰρ πόλεμον ἄσπονδον εἶχον πρὸς Ἰουδαίους, συνεχῶς ἐπιλέγει τὸ, Εἰρήνη ὑμῖν, ἀντίῤῥοπον διδοὺς τοῦ πολέμου τὴν παραμυθίαν. γʹ. Τοῦτο γοῦν πρῶτον μετὰ τὴν ἀνάστασιν εἶπε τὸ ῥῆμα (διὸ καὶ Παῦλος πανταχοῦ φησι, Χάρις ὑμῖν καὶ εἰρήνη)· ταῖς δὲ γυναιξὶ χαρὰν εὐαγγελίζεται, διότι ἐν λύπαις τὸ γένος ἐκεῖνο ἦν, καὶ ταύτην ἐδέξατο πρώτην χαράν. Καταλλήλως μὲν οὖν τοῖς ἀνδράσι, διὰ τὸν πόλεμον, εἰρήνην· ταῖς δὲ γυναιξὶ, διὰ τὴν λύπην, εὐαγγελίζεται χαράν. Πάντα δὲ καταλύσας τὰ λυπηρὰ, ἐπιλέγει τὰ κατορθώματα τοῦ σταυροῦ· ταῦτα δὲ ἦν ἡ εἰρήνη. Ἐπεὶ οὖν ἅπαντα ἀνῄρηται τὰ κωλύματα, καὶ τὴν νίκην κατέστησε λαμπρὰν, καὶ κατώρθωται πάντα· εἶτα λοιπόν φησι·",
+          "en": "<span class=\"sn\" data-s=\"108\">Do you see his words issuing in deeds?</span> <span class=\"sn\" data-s=\"109\">What he had said before the Crucifixion — *“I will see you again, and your heart will rejoice, and no one takes your joy from you”* [John 16:22] — he now accomplished in deed.</span> <span class=\"sn\" data-s=\"110\">All these things led them to a most exact faith.</span> <span class=\"sn\" data-s=\"111\">Since they had a relentless war with the Jews, he kept repeating the *“Peace be with you,”* giving them consolation to counterbalance the war.</span> <span class=\"sn\" data-s=\"112\">This was the first word he spoke to them after the Resurrection — which is also why Paul continually says, *“Grace to you and peace.”* And to the women he brought good tidings of joy, because that sex was in sorrow, having received sorrow as its first curse.</span> <span class=\"sn\" data-s=\"113\">So he brings good tidings suited to each: to men, peace, because of their war; to women, joy, because of their sorrow.</span> <span class=\"sn\" data-s=\"114\">Then, having put away everything painful, he tells them of the triumphs of the Cross — and these were the peace.</span> <span class=\"sn\" data-s=\"115\">*Since every obstacle has been removed,* he says, *and I have made my victory glorious, and everything has been accomplished* — and then he goes on:</span>"
+        },
+        {
+          "gr": "Καθὼς ἀπέστειλέ με ὁ Πατὴρ, κἀγὼ πέμπω ὑμᾶς.",
+          "en": "<span class=\"sn\" data-s=\"116\">*“As the Father has sent me, so I send you.”* [John 20:21]</span>"
+        },
+        {
+          "gr": "Οὐδεμίαν ἔχετε δυσκολίαν ἀπό τε τῶν ἤδη γεγενημένων, ἀπό τε τῆς ἀξίας ἐμοῦ τοῦ πέμποντος. Ἐνταῦθα ἐπαίρει αὐτῶν τὴν ψυχὴν, καὶ δείκνυσι πολὺ τὸ ἀξιόπιστον, εἴ γε μέλλοιεν αὐτοῦ τὸ ἔργον ἀναδέχεσθαι. Καὶ οὐκέτι παράκλησις πρὸς τὸν Πατέρα γίνεται, ἀλλ' αὐθεντίᾳ δίδωσιν αὐτοῖς τὴν δύναμιν.",
+          "en": "<span class=\"sn\" data-s=\"117\">You face no difficulty, because of what has already come to pass and because of the dignity of the One who sends you.</span> <span class=\"sn\" data-s=\"118\">Here he lifts up their souls and shows them their great ground of confidence, since they were about to undertake his work.</span> <span class=\"sn\" data-s=\"119\">No longer does he appeal to the Father; with authority he himself bestows the power on them.</span> <span class=\"sn\" data-s=\"120\">For —</span>"
+        },
+        {
+          "gr": "Ἐνεφύσησε γὰρ, καὶ εἶπε· Λάβετε Πνεῦμα ἅγιον. Ὧν ἀφῆτε τὰς ἁμαρτίας, ἀφέωνται, καὶ ὧν κρατῆτε, κεκράτηνται.",
+          "en": "<span class=\"sn\" data-s=\"121\">*“He breathed on them and said, Receive the Holy Spirit.*</span> <span class=\"sn\" data-s=\"122\">*Whosesoever sins you forgive, they are forgiven them; whosesoever sins you retain, they are retained.”* [John 20:22-23]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Receive the Holy Spirit: one power of Father, Son and Spirit",
+      "heading_sentence_index": 123,
+      "pairs": [
+        {
+          "gr": "Καθάπερ γάρ τις βασιλεὺς ἄρχοντας ἀποστέλλων, ἐξουσίαν εἰς δεσμωτήριον καὶ ἐμβαλεῖν, καὶ ἀφιέναι δίδωσιν· οὕτω καὶ τούτους ἐκπέμπων, ταύτῃ περιβάλλει τῇ δυνάμει. Πῶς οὖν φησιν· Ἐὰν μὴ ἀπέλθω, ἐκεῖνος οὐ μὴ ἔλθῃ, καὶ δὴ τὸ Πνεῦμα δίδωσι; Τινὲς μέν φασιν, ὅτι οὐ τὸ Πνεῦμα ἔδωκεν, ἀλλ' ἐπιτηδείους αὐτοὺς πρὸς ὑποδοχὴν δι' ἐμφυσήματος κατέστησεν. Εἰ γὰρ ἄγγελον ἰδὼν ὁ ∆ανιὴλ ἐξέστη, τί τὴν ἀπόῤῥητον χάριν ἐκείνην δεχόμενοι οὐκ ἂν ἔπαθον, εἰ μὴ μαθητὰς αὐτοὺς πρότερον κατεσκεύασε; ∆ιὰ τοῦτο οὐκ εἶπε, φησὶν, Ἐλάβετε Πνεῦμα ἅγιον· ἀλλὰ, Λάβετε Πνεῦμα ἅγιον. Οὐκ ἂν δέ τις ἁμάρτοι καὶ τότε εἰληφέναι αὐτοὺς λέγων ἐξουσίαν τινὰ πνευματικὴν καὶ χάριν· ἀλλ' οὐχ ὥστε νεκροὺς ἐγείρειν καὶ δυνάμεις ποιεῖν, ἀλλ' ὥστε ἀφεῖναι ἁμαρτήματα· διάφορα γὰρ τὰ χαρίσματα τοῦ Πνεύματος. ∆ιὸ ἐπήγαγεν· Ὧν ἂν ἀφῆτε, ἀφέωνται, δεικνὺς ποῖον εἶδος ἐνεργείας δίδωσιν. Ἐκεῖ δὲ μετὰ τεσσαράκοντα ἡμέρας τὴν τῶν σημείων ἔλαβον ἐνέργειαν· διό φησι· Λήψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου Πνεύματος ἐφ' ὑμᾶς, καὶ ἔσεσθέ μοι μάρτυρες ἔν τε Ἱερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ· μάρτυρες δὲ διὰ τῶν σημείων ἐγίνοντο. Καὶ γὰρ ἄφατος ἡ τοῦ Πνεύματος χάρις καὶ πολυειδὴς ἡ δωρεά.",
+          "en": "<span class=\"sn\" data-s=\"124\">Just as a king sending out governors gives them power to throw into prison and to release from it, so Christ, in sending these men out, invests them with the same power.</span> <span class=\"sn\" data-s=\"125\">But how is it that he says, *“If I do not go away, he will not come”* [John 16:7] — and yet gives them the Spirit here?</span> <span class=\"sn\" data-s=\"126\">Some say that he did not give the Spirit at this point, but made them fit to receive it by breathing on them.</span> <span class=\"sn\" data-s=\"127\">For if Daniel was afraid when he saw an angel, what would these men not have suffered on receiving that unspeakable Gift, unless he had first prepared them?</span> <span class=\"sn\" data-s=\"128\">That is why he did not say *“You have received the Holy Spirit,”* but *“Receive the Holy Spirit.”* Yet one would not be wrong to say that they did also receive some spiritual power and grace then — not so as to raise the dead or work miracles, but so as to forgive sins.</span> <span class=\"sn\" data-s=\"129\">For the gifts of the Spirit are of different kinds; that is why he added, *“Whosesoever sins you forgive, they are forgiven them,”* showing what kind of power he was giving.</span> <span class=\"sn\" data-s=\"130\">In the other case, after forty days, they received the power of working miracles.</span> <span class=\"sn\" data-s=\"131\">That is why he says, *“You will receive power when the Holy Spirit has come upon you, and you will be my witnesses both in Jerusalem and in all Judea.”* [Acts 1:8] And witnesses they became by means of miracles — for unspeakable is the grace of the Spirit, and manifold the gift.</span>"
+        },
+        {
+          "gr": "Τοῦτο δὲ γίνεται, ἵνα μάθῃς, ὅτι Πατρὸς καὶ Υἱοῦ καὶ Πνεύματος ἁγίου μία ἡ δωρεὰ καὶ ἐξουσία. Ἃ γὰρ δοκεῖ ἰδιάζοντα εἶναι τοῦ Πατρὸς, ταῦτα καὶ τοῦ Υἱοῦ εἶναι φαίνεται, καὶ τοῦ ἁγίου Πνεύματος. Πῶς οὖν οὐδεὶς ἔρχεται πρὸς τὸν Υἱὸν, φησὶν, Ἐὰν μὴ ὁ Πατὴρ ἑλκύσῃ αὐτόν; Ἀλλὰτοῦτο δείκνυται τοῦ Υἱοῦ ὄν. Ἐγὼ γάρ εἰμι, φησὶν, ἡ ὁδός· οὐδεὶς ἔρχεται πρὸς τὸν Πατέρα, εἰ μὴ δι' ἐμοῦ. Ὅρα δὲ αὐτὸ καὶ τοῦ Πνεύματος ὄν. Οὐδεὶς γὰρ δύναται εἰπεῖν Κύριον Ἰησοῦν Χριστὸν, εἰ μὴ ἐν Πνεύματι ἁγίῳ. Καὶ πάλιν, τοὺς ἀποστόλους ποτὲ μὲν ὑπὸ τοῦ Πατρὸς, ποτὲ δὲ ὑπὸ τοῦ Υἱοῦ, ποτὲ δὲ ὑπὸ τοῦ ἁγίου Πνεύματος δεδόσθαι τῇ Ἐκκλησίᾳ, καὶ τὰς διαιρέσεις τῶν χαρισμάτων Πατρὸς καὶ Υἱοῦ καὶ ἁγίου Πνεύματος ὁρῶμεν οὔσας.",
+          "en": "<span class=\"sn\" data-s=\"132\">But all this takes place so that you may learn that the gift and the power of the Father, the Son and the Holy Spirit is one.</span> <span class=\"sn\" data-s=\"133\">Things that seem to belong peculiarly to the Father are seen to belong also to the Son and to the Holy Spirit.</span> <span class=\"sn\" data-s=\"134\">*“How then,”* someone asks, *“does no one come to the Son 'unless the Father draws him'?”* [John 6:44] Why, this very thing is shown to belong to the Son as well: *“I am the Way,”* he says;</span> <span class=\"sn\" data-s=\"135\">*“no one comes to the Father except through me.”* [John 14:6] And notice that it belongs to the Spirit too: *“No one can call Jesus Christ Lord except by the Holy Spirit.”* [1 Corinthians 12:3] Again, we see that the apostles were given to the Church at one time by the Father, at another by the Son, at another by the Holy Spirit; and that *“the varieties of gifts”* [1 Corinthians 12:4] belong to the Father, the Son and the Holy Spirit.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Honour the priests",
+      "heading_sentence_index": 136,
+      "pairs": [
+        {
+          "gr": "δʹ. Πάντα τοίνυν πράττωμεν ὥστε δύνασθαι τὸ Πνεῦμα τὸ ἅγιον ἔχειν παρ' ἑαυτοῖς, καὶ τοὺς ἐγκεχειρισμένους τὴν ἐνέργειαν μετὰ πολλῆς θεραπεύωμεν τῆς τιμῆς. Μεγάλη γὰρ ἡ τῶν ἱερέων ἀξία. Ὧν ἂν ἀφῆτε, φησὶν, ἀφέωνται αἱ ἁμαρτίαι. ∆ιὸ καὶ Παῦλος ἔλεγε· Πείθεσθε τοῖς ἡγουμένοις ὑμῶν καὶ ὑπείκετε, καὶ ὑπερεκπερισσοῦ ἡγεῖσθε αὐτοὺς ἐν τιμῇ. Σὺ μὲν γὰρ τὰ σαυτοῦ μεριμνᾷς· κἂν ταῦτα διάθῃ καλῶς, οὐδείς σοι τῶν ἄλλων ἔσται λόγος· ὁ δὲ ἱερεὺς, κἂν τὸν οἰκεῖον καλῶς οἰκονομήσῃ βίον, τὸν δὲ σὸν ἤτοι ἁπάντων τῶν περὶ αὐτὸν μὴ μετὰ ἀκριβείας ἐπιμελήσηται, μετὰ τῶν πονηρῶν εἰς τὴν γέενναν ἄπεισιν· καὶ πολλάκις ἀπὸ τῶν οἰκείων οὐ προδοθεὶς, ἀπὸ τῶν ὑμετέρων ἀπόλλυται, ἂν μὴ πάντα τὰ εἰς αὐτὸν ἥκοντα ἀπαρτίσῃ καλῶς. Εἰδότες οὖν τοῦ κινδύνου τὸ μέγεθος, πολλὴν ἀπονέμετε αὐτοῖς εὔνοιαν· ὃ καὶ Παῦλος ᾐνίξατο λέγων, ὅτι Ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑμῶν· καὶ οὐχ ἁπλῶς, ἀλλ' Ὡς λόγον ἀποδώσοντες.",
+          "en": "<span class=\"sn\" data-s=\"137\">Let us then do everything we can to have the Holy Spirit with us, and let us treat with great honour those into whose hands its working has been committed.</span> <span class=\"sn\" data-s=\"138\">For great is the dignity of the priests.</span> <span class=\"sn\" data-s=\"139\">*“Whosesoever sins,”* it says, *“you forgive, they are forgiven them.”* That is why Paul also says, *“Obey those who rule over you, and submit yourselves”* [Hebrews 13:17] — and hold them in the highest honour.</span> <span class=\"sn\" data-s=\"140\">You, after all, look after your own affairs, and if you manage them well, you render no account for anyone else.</span> <span class=\"sn\" data-s=\"141\">But the priest, even if he orders his own life rightly, will depart with the wicked into hell if he has not kept an anxious watch over yours — indeed, over the lives of all those around him.</span> <span class=\"sn\" data-s=\"142\">Often, though not betrayed by his own conduct, he perishes because of yours, if he has not properly fulfilled every part of his duty.</span> <span class=\"sn\" data-s=\"143\">Knowing, then, the greatness of the danger, give them a generous share of your goodwill — which Paul also implied when he said, *“For they watch over your souls”* — and not simply that, but *“as those who will give account.”* [Hebrews 13:17]</span>"
+        },
+        {
+          "gr": "∆ιὸ τῆς πολλῆς δεῖ θεραπείας αὐτοὺς ἀπολαύειν. Ἐὰν δὲ ἐπεμβαίνητε μετὰ τῶν ἄλλων αὐτοῖς καὶ ὑμεῖς, καὶ οὐδὲ τὰ ὑμέτερα καλῶς διακείσεται. Ἕως μὲν γὰρ ἐν εὐθυμίᾳ διάγει ὁ κυβερνήτης, ἐν ἀσφαλείᾳ ἔσται καὶ τὰ τῶν ἐπιβατῶν· ἂν δὲ, λοιδορουμένων ἐκείνων καὶ ἀπεχθῶς ἐχόντων πρὸς αὐτὸν, ταλαιπωρῆται, οὐδὲ ἀγρυπνεῖν ὁμοίως δύναται, οὔτε τὴν τέχνην διασώζειν, καὶ ἄκων μυρίοις αὐτοὺς περιβάλλει κακοῖς. Οὕτω καὶ ἱερεὺς, ἂν μὲν ἀπολαύῃ τῆς παρ' ὑμῶν τιμῆς, καὶ τὰ ὑμέτερα διαθεῖναι καλῶς δυνήσεται· ἂν δὲ ἀθυμίᾳ αὐτοὺς περιβάλλητε, τὰς χεῖρας ἐκλύσαντες εὐχειρώτους μεθ' ὑμῶν αὐτοὺς ποιήσετε τοῖς κύμασι, κἂν σφόδρα γενναῖοι ὦσιν.",
+          "en": "<span class=\"sn\" data-s=\"144\">They ought, therefore, to receive great consideration from you.</span> <span class=\"sn\" data-s=\"145\">But if you join the crowd in trampling on them, then your own affairs will not be in a good state either.</span> <span class=\"sn\" data-s=\"146\">As long as the helmsman keeps his courage, the crew too will be safe; but if he is worn down by their reviling and ill will towards him, he can no longer keep watch as well or keep hold of his skill, and without meaning to he throws them into ten thousand disasters.</span> <span class=\"sn\" data-s=\"147\">So it is with the priest as well: if he enjoys honour from you, he will be able to order your affairs well; but if you plunge them into despondency, you weaken their hands and make them — and yourselves along with them — easy prey for the waves, however courageous they may be.</span>"
+        },
+        {
+          "gr": "Ἐννόησον τί περὶ τῶν Ἰουδαίων φησὶν ὁ Χριστός· Ἐπὶ τῆς Μωϋσέως καθέδρας ἐκάθισαν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι. Πάντα οὖν, ὅσα λέγουσιν ὑμῖν ποιεῖν, ποιεῖτε. Νῦν δὲ οὐκ ἔστιν εἰπεῖν· Ἐπὶ τῆς Μωϋσέως καθέδρας ἐκάθισαν οἱ ἱερεῖς, ἀλλ', Ἐπὶ τῆς τοῦ Χριστοῦ. Τὴν γὰρ ἐκείνου διεδέξαντο διδασκαλίαν. ∆ιὸ καὶ Παῦλός φησιν· Ὑπὲρ Χριστοῦ πρεσβεύομεν, ὡς τοῦ Θεοῦ παρακαλοῦντος δι' ἡμῶν. Οὐχ ὁρᾶτε ἐπὶ τῶν ἔξωθεν ἀρχόντων ἅπαντας ὑποκύπτοντας, καὶ γένει βελτίους ὄντας πολλάκις καὶ βίῳ καὶ συνέσει τῶν δικαζόντων αὐτούς; Ἀλλ' ὅμως διὰ τὸν δεδωκότα οὐδὲν τούτων ἐννοοῦσιν, ἀλλ' αἰδοῦνται τὴν ψῆφον τοῦ βασιλεύοντος, κἂν ὁστισοῦν ὁ λαβὼν ᾖ τὴν ἀρχήν. Εἶτα ἂν ἄνθρωπος χειροτονήσῃ, τοσοῦτος φόβος· τοῦ δὲ Θεοῦ χειροτονοῦντος, καὶ ὑπερορῶμεν τὸν χειροτονούμενον, καὶ λοιδοροῦμεν, καὶ μυρίοις ὀνείδεσι πλύνομεν, καὶ τοὺς ἀδελφοὺς ἡμῶν κωλυθέντες κρίνειν, κατὰ τῶν ἱερέων τὴν γλῶσσαν ἀκονῶμεν. Καὶ ποῦ ταῦτα ἀπολογίας ἄξια, ὅταν τὴν μὲν ἐν τῷ ὀφθαλμῷ τῷ ἡμετέρῳ δοκὸν μὴ βλέπωμεν, τὸ δὲ κάρφος τοῦ ἑτέρου πικρῶς περιεργαζώμεθα; οὐκ οἶσθα ὅτι καὶ χαλεπώτερον σαυτῷ ποιεῖς τὸ δικαστήριον οὕτω δικάζων;",
+          "en": "<span class=\"sn\" data-s=\"148\">Consider what Christ says about the Jews: *“The scribes and the Pharisees sit on Moses' seat; therefore, whatever they tell you to do, do it.”* [Matthew 23:2-3] Now in our case we do not say *“the priests sit on Moses' seat,”* but on the seat of Christ; for they have received his teaching in succession.</span> <span class=\"sn\" data-s=\"149\">That is why Paul also says, *“We are ambassadors for Christ, as though God were making his appeal through us.”* [2 Corinthians 5:20] Do you not see that in the case of earthly rulers, everyone bows to them — often even people superior in family, in way of life and in intelligence to the men who judge them?</span> <span class=\"sn\" data-s=\"150\">Yet because of the one who appointed them, they take no account of any of this, but respect the decision of their governor, whoever he may be who holds rule over them.</span> <span class=\"sn\" data-s=\"151\">Is there such fear, then, when a man does the appointing, but when God appoints, do we despise the one appointed, abuse him, smear him with ten thousand reproaches — and though forbidden to judge our brethren, sharpen our tongues against our priests?</span> <span class=\"sn\" data-s=\"152\">How can this deserve any excuse, when we do not see the beam in our own eye but are bitterly over-curious about the mote in another's?</span> <span class=\"sn\" data-s=\"153\">Do you not know that by judging in this way you make your own judgement the harsher?</span>"
+        },
+        {
+          "gr": "Καὶ ταῦτα λέγω, οὐκ ἀποδεχόμενος τοὺς ἀναξίως τὴν ἱερωσύνην διοικοῦντας, ἀλλὰ καὶ σφόδρα ἐλεῶν καὶ δακρύων· οὐ μὴν διὰ τοῦτό φημι δίκαιον εἶναι παρὰ τῶν ἀρχομένων κρίνεσθαι, καὶ μάλιστα τῶν πάνυ ἀφελεστέρων. Κἂν γὰρ ὁ βίος αὐτῶν σφόδρα διαβεβλημένος ᾖ, σὺ δὲ, ἂν σαυτῷ προσέχῃς, οὐδὲν παραβλαβήσῃ εἰς τὰ ἐγκεχειρισμένα αὐτῷ παρὰ τοῦ Θεοῦ. Εἰ γὰρ δι' ὄνου φωνὴν ἀφεθῆναι ἐποίησε, καὶ διὰ μάντεως εὐλογίας πνευματικὰς ἐχαρίσατο, καὶ ἐν ἀλόγῳ στόματι καὶ ἐν ἀκαθάρτῳ γλώττῃ τοῦ Βαλαὰμ ἐνεργήσας διὰ τοὺς προσκεκρουκότας Ἰουδαίους· πολλῷ μᾶλλον δι' ὑμᾶς τοὺς εὐγνώμονας, εἰ καὶ σφόδρα φαῦλοί εἰσιν οἱ ἱερεῖς, τὰ αὐτοῦ πάντα ἐργάσεται, καὶ πέμψει τὸ Πνεῦμα τὸ ἅγιον. Οὐδὲ γὰρ ὁ καθαρὸς ἀπὸ τῆς οἰκείας ἐπισπᾶται αὐτὸ καθαρότητος· ἀλλὰ χάρις ἐστὶν ἡ τὸ πᾶν ἐργαζομένη. Πάντα γὰρ, φησὶ, δι' ὑμᾶς, εἴτε Παῦλος εἴτε Ἀπολλὼς, εἴτε Κηφᾶς. Ἃ γὰρ ἐγκεχείρισται ὁ ἱερεὺς, Θεοῦ μόνου ἐστὶ δωρεῖσθαι· καὶ ὅπουπερ ἂν ἡ ἀνθρωπίνη φθάσῃ φιλοσοφία, ἐλάττων τῆς χάριτος ἐκείνης φανεῖται.",
+          "en": "<span class=\"sn\" data-s=\"154\">I do not say this in approval of those who exercise their priesthood unworthily — I greatly pity them and weep for them — but I do not on that account allow that it is right for them to be judged by those over whom they are set.</span> <span class=\"sn\" data-s=\"155\">Even if their life is very much spoken against, you, if you keep watch over yourself, will not be harmed at all in respect of the things committed to them by God.</span> <span class=\"sn\" data-s=\"156\">For if God caused a voice to be uttered by a donkey, and bestowed spiritual blessings through a diviner — working through the foolish mouth and impure tongue of Balaam on behalf of the offending Jews — how much more, for the sake of you who are right-minded, will he accomplish all that is his, and send the Holy Spirit, even if the priests are exceedingly vile.</span> <span class=\"sn\" data-s=\"157\">Nor does the pure man draw down that Spirit by his own purity; it is grace that does everything.</span> <span class=\"sn\" data-s=\"158\">*“For all things are yours,”* it says, *“whether Paul, or Apollos, or Cephas.”* [1 Corinthians 3:22-23] The things placed in the hands of the priest, God alone can give; and however far human wisdom may reach, it will prove inferior to that grace.</span>"
+        },
+        {
+          "gr": "Καὶ ταῦτα λέγω, οὐχ ἵνα ῥᾳθύμως τὸν ἑαυτῶν βίον οἰκονομῶμεν, ἀλλ' ἵνα μὴ ῥᾳθυμούντων τινῶν τῶν προεστώτων, ὑμεῖς οἱ ἀρχόμενοι ἑαυτοῖς πολλάκις ἐπισωρεύητε τὰ κακά. Καὶ τί λέγω τοὺς ἱερεῖς; Οὔτε ἄγγελος, οὔτε ἀρχάγγελος ἐργάσασθαί τι δύναται εἰς τὰ δεδομένα παρὰ Θεοῦ· ἀλλὰ Πατὴρ καὶ Υἱὸς καὶ ἅγιον Πνεῦμα πάντα οἰκονομεῖ· ὁ δὲ ἱερεὺς τὴν ἑαυτοῦ δανείζει γλῶτταν, καὶ τὴν ἑαυτοῦ παρέχει χεῖρα. Καὶ γὰρ οὐδὲ δίκαιον ἦν διὰ τὴν ἑτέρου κακίαν εἰς τὰ σύμβολα τῆς σωτηρίας ἡμῶν τοὺς πίστει προσιόντας παραβλάπτεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"159\">I say this not so that we may live our own lives carelessly, but so that when some of those set over you live carelessly, you who are ruled may not keep heaping up evil for yourselves.</span> <span class=\"sn\" data-s=\"160\">But why do I speak of priests?</span> <span class=\"sn\" data-s=\"161\">Neither angel nor archangel can do anything with regard to what is given from God; the Father, the Son and the Holy Spirit dispense everything, while the priest lends his tongue and offers his hand.</span> <span class=\"sn\" data-s=\"162\">It would not be just for those who come in faith to the symbols of their salvation to be harmed through the wickedness of another.</span>"
+        },
+        {
+          "gr": "Ταῦτα οὖν ἅπαντα εἰδότες, καὶ τὸν Θεὸν φοβώμεθα, καὶ τοὺς ἱερέας αὐτοῦ ἐντίμως ἔχωμεν, πᾶσαν αὐτοῖς ἀπονέμοντες τιμήν· ἵνα καὶ ὑπὲρ τῶν οἰκείων κατορθωμάτων, καὶ ὑπὲρ τῆς εἰς ἐκείνους θεραπείας πολλὴν λάβωμεν παρὰ τοῦ Θεοῦ τὴν ἀμοιβὴν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, μεθ' οὗ τῷ Πατρὶ, ἅμα τῷ ἁγίῳ Πνεύματι, δόξα, κράτος, τιμὴ, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"163\">Knowing all these things, then, let us fear God and hold his priests in honour, paying them every reverence, so that both for our own good deeds and for the consideration shown to them, we may receive a great reward from God — through the grace and loving-kindness of our Lord Jesus Christ, with whom to the Father, together with the Holy Spirit, be glory, dominion and honour, now and always, and unto the ages of ages.</span> <span class=\"sn\" data-s=\"164\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

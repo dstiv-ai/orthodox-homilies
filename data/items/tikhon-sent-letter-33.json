@@ -1,0 +1,65 @@
+{
+  "id": "tikhon-sent-letter-33",
+  "slug": "tikhon-sent-letter-33",
+  "title": "Letter 33 — Mercy, and Not Sacrifice",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 33,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 312,
+  "reading_minutes": 2,
+  "attribution_note": "Letter 33 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "33"
+  ],
+  "sections": [
+    {
+      "heading": "A warm church, not a high one",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">*“Alexander Ivanovich, my benefactor!”*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">I thank you for your love.</span> <span class=\"sn\" data-s=\"3\">What I said to you concerning the church, I now explain in writing, and give this counsel: make the church not high, so that it may serve both for summer and for winter — that is, a warm church, with a stove.</span> <span class=\"sn\" data-s=\"4\">Take your example from the newly built cathedral church at Voronezh, and I do not advise you to raise it high.</span> <span class=\"sn\" data-s=\"5\">You will have less expense.</span> <span class=\"sn\" data-s=\"6\">The peasants will not be heavily burdened; and for those who come, and for the priest with the clergy, and for yourselves, it is quieter and more willing to stand in a warm church; and you yourselves may acknowledge this for the truth.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Living temples",
+      "heading_sentence_index": 7,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">And as for the boasters who wish to raise themselves up to the clouds, yet inhumanly flay the last skin from the peasants — do not listen to them, and do not imitate them.</span> <span class=\"sn\" data-s=\"9\">One day they will see that in so building churches they serve not the glory of God, but their own whims and vainglory; and churches raised high will help them nothing, when they see the peasants' tears poured out before the dread Judge Christ, and they will be terrified and come into confusion.</span> <span class=\"sn\" data-s=\"10\">For what profit is it to build temples, and to destroy living temples?</span> <span class=\"sn\" data-s=\"11\">To raise high walls, and leave the peasants half-naked, without food, salt and what is needful for life?</span> <span class=\"sn\" data-s=\"12\">This is tyranny, and not the worship of God!</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"13\">Christ says in the Gospel: *“I will have mercy, and not sacrifice”* [Matthew 9:13; 12:7].</span> <span class=\"sn\" data-s=\"14\">Consider what I write.</span> <span class=\"sn\" data-s=\"15\">Take long counsel, and think, and then build.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"16\">I counsel and write to you, in very truth, for your good.</span> <span class=\"sn\" data-s=\"17\">May God give you understanding and help.</span> <span class=\"sn\" data-s=\"18\">Commending you with all your household to Him, I remain your servant and well-wisher,</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"19\">Bishop Tikhon of Zadonsk.</span>"
+        }
+      ]
+    }
+  ]
+}

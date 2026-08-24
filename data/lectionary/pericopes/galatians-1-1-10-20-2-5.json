@@ -1,0 +1,19 @@
+{
+  "ref": "Galatians 1:1-10, 20-2:5",
+  "book": "Gal",
+  "from": [
+    1,
+    1
+  ],
+  "to": [
+    2,
+    5
+  ],
+  "slug": "galatians-1-1-10-20-2-5",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse range chunk '20-2:5' in 'Galatians 1:1-10, 20-2:5'"
+}

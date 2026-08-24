@@ -1,0 +1,63 @@
+{
+  "id": "tikhon-sent-letter-42",
+  "slug": "tikhon-sent-letter-42",
+  "title": "Letter 42 — Patience and Heavenly Consolation",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 42,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 283,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 42 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "42"
+  ],
+  "sections": [
+    {
+      "heading": "In your patience possess your souls",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">Remember that God saith unto them that would be saved: *“In your patience possess ye your souls.”* [Luke 21:19]</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">Read in the Apocalypse chapters 2 and 3, and chapter 7 from verse 9 unto the end of the chapter, and chapter 19, and chapter 20, and chapters 21 and 22.</span> <span class=\"sn\" data-s=\"3\">There is opened the blessedness of the higher life, and the joy, and the triumph, and the glory which is to be given unto the elect of God in the age to come.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Blessed is he that watcheth",
+      "heading_sentence_index": 4,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"5\">Christ saith: *“Behold, I come as a thief.*</span> <span class=\"sn\" data-s=\"6\">*Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.”* [Revelation 16:15] Endure all that may befall you, that in eternal life ye may receive refreshment.</span> <span class=\"sn\" data-s=\"7\">And for your parents pray diligently unto God, that He may have mercy on them.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "God leaves us not without consolation",
+      "heading_sentence_index": 8,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"9\">For the strengthening of your faint-heartedness I write that this week, in our monastery, one heard something, when he had lain down to sleep and at the very midnight had but just dozed off: namely, he heard such singing from above, over him, that his heart from joy and sweetness melted as wax; and as soon as the singing was ended, he awoke, and felt in his heart such joy and sweetness as remained with him for a time, and soon departed from him.</span> <span class=\"sn\" data-s=\"10\">And then there came upon him a great sorrow, that that joy had gone from him.</span> <span class=\"sn\" data-s=\"11\">Consider this yourselves, and make it known unto your brethren in Christ.</span> <span class=\"sn\" data-s=\"12\">God leaves us not even here without consolation.</span> <span class=\"sn\" data-s=\"13\">And how then shall He comfort us in the age to come!</span> <span class=\"sn\" data-s=\"14\">Therefore endure all things, and strive to please Christ in all.</span>"
+        }
+      ]
+    }
+  ]
+}

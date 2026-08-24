@@ -1,0 +1,85 @@
+{
+  "id": "tikhon-sent-letter-34",
+  "slug": "tikhon-sent-letter-34",
+  "title": "Letter 34 — Lest You Perish Where You Hope to Be Saved",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 34,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 149,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 34 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "34"
+  ],
+  "sections": [
+    {
+      "heading": "Seven counsels",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">My counsel:</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">I.</span> <span class=\"sn\" data-s=\"3\">Let all present a petition to the pastor, that he remove the unfit abbess.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"4\">II.</span> <span class=\"sn\" data-s=\"5\">Keep more to your cell, and pray to God, and do whatever work you can.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"6\">III.</span> <span class=\"sn\" data-s=\"7\">Look not at what people do, but learn a pious life from books.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">IV.</span> <span class=\"sn\" data-s=\"9\">Shut your ears and mouth and eyes, and open them only in church and in your cell alone.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"10\">V.</span> <span class=\"sn\" data-s=\"11\">Have friendship with no one, unless it be some pious friendship.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"12\">VI.</span> <span class=\"sn\" data-s=\"13\">Whatever is brought against you that is contrary, endure it all.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"14\">VII.</span> <span class=\"sn\" data-s=\"15\">If your mother seeks salvation, and not to please this world, then consider whether it is not better to go to your mother and live with her, when scandals appear in the monastery.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Guard yourself even in the monastery",
+      "heading_sentence_index": 16,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"17\">You see, nowadays even monasteries have become worse than worldly houses.</span> <span class=\"sn\" data-s=\"18\">Guard yourself, lest you perish where you hope to be saved.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"19\">Be saved.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"20\">Tikhon.</span>"
+        }
+      ]
+    }
+  ]
+}

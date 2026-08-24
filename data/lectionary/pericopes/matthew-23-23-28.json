@@ -1,0 +1,68 @@
+{
+  "ref": "Matthew 23:23-28",
+  "book": "Matt",
+  "from": [
+    23,
+    23
+  ],
+  "to": [
+    23,
+    28
+  ],
+  "slug": "matthew-23-23-28",
+  "greek": [
+    {
+      "v": "23:23",
+      "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ ἄνηθον καὶ τὸ κύμινον, καὶ ἀφήκατε τὰ βαρύτερα τοῦ νόμου, τὴν κρίσιν καὶ τὸν ἔλεον καὶ τὴν πίστιν· ταῦτα ἔδει ποιῆσαι, κἀκεῖνα μὴ ἀφιέναι."
+    },
+    {
+      "v": "23:24",
+      "text": "Ὁδηγοὶ τυφλοί, οἱ διϋλίζοντες τὸν κώνωπα, τὴν δὲ κάμηλον καταπίνοντες."
+    },
+    {
+      "v": "23:25",
+      "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου καὶ τῆς παροψίδος, ἔσωθεν δὲ γέμουσιν ἐξ ἁρπαγῆς καὶ ἀδικίας."
+    },
+    {
+      "v": "23:26",
+      "text": "Φαρισαῖε τυφλέ, καθάρισον πρῶτον τὸ ἐντὸς τοῦ ποτηρίου καὶ τῆς παροψίδος, ἵνα γένηται καὶ τὸ ἐκτὸς αὐτῶν καθαρόν."
+    },
+    {
+      "v": "23:27",
+      "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι παρομοιάζετε τάφοις κεκονιαμένοις, οἵτινες ἔξωθεν μὲν φαίνονται ὡραῖοι, ἔσωθεν δὲ γέμουσιν ὀστέων νεκρῶν καὶ πάσης ἀκαθαρσίας."
+    },
+    {
+      "v": "23:28",
+      "text": "Οὕτως καὶ ὑμεῖς ἔξωθεν μὲν φαίνεσθε τοῖς ἀνθρώποις δίκαιοι, ἔσωθεν δὲ μεστοί ἐστε ὑποκρίσεως καὶ ἀνομίας."
+    }
+  ],
+  "english": [
+    {
+      "v": "23:23",
+      "text": "At that time, the Lord said: \"Woe to you, scribes and Pharisees, hypocrites! You tithe your mint and dill and cumin, and you have let go of the weightier things of the law — justice and mercy and faith. These you should have done, without leaving the others undone."
+    },
+    {
+      "v": "23:24",
+      "text": "Blind guides! You strain out the gnat and swallow the camel."
+    },
+    {
+      "v": "23:25",
+      "text": "Woe to you, scribes and Pharisees, hypocrites! You clean the outside of the cup and the dish, but inside they are full of greed and injustice."
+    },
+    {
+      "v": "23:26",
+      "text": "Blind Pharisee! First clean the inside of the cup and the dish, so that the outside of them may become clean as well."
+    },
+    {
+      "v": "23:27",
+      "text": "Woe to you, scribes and Pharisees, hypocrites! You are like whitewashed tombs, which look beautiful on the outside but inside are full of dead men's bones and every kind of filth."
+    },
+    {
+      "v": "23:28",
+      "text": "It is the same with you: on the outside you look righteous to people, but inside you are full of hypocrisy and lawlessness.\""
+    }
+  ],
+  "greek_source": "content/2026-08-11/readings.md",
+  "english_source": "content/2026-08-11/readings.md",
+  "status": "complete"
+}

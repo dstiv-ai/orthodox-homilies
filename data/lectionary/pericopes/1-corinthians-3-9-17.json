@@ -1,0 +1,92 @@
+{
+  "ref": "1 Corinthians 3:9-17",
+  "book": "1Cor",
+  "from": [
+    3,
+    9
+  ],
+  "to": [
+    3,
+    17
+  ],
+  "slug": "1-corinthians-3-9-17",
+  "greek": [
+    {
+      "v": "3:9",
+      "text": "Θεοῦ γάρ ἐσμεν συνεργοί· θεοῦ γεώργιον, θεοῦ οἰκοδομή ἐστε."
+    },
+    {
+      "v": "3:10",
+      "text": "Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι, ὡς σοφὸς ἀρχιτέκτων θεμέλιον τέθεικα, ἄλλος δὲ ἐποικοδομεῖ. Ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ."
+    },
+    {
+      "v": "3:11",
+      "text": "Θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, ὅς ἐστιν Ἰησοῦς χριστός."
+    },
+    {
+      "v": "3:12",
+      "text": "Εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον τοῦτον χρυσόν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην,"
+    },
+    {
+      "v": "3:13",
+      "text": "ἑκάστου τὸ ἔργον φανερὸν γενήσεται· ἡ γὰρ ἡμέρα δηλώσει, ὅτι ἐν πυρὶ ἀποκαλύπτεται· καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ δοκιμάσει."
+    },
+    {
+      "v": "3:14",
+      "text": "Εἴ τινος τὸ ἔργον μένει ὃ ἐποικοδόμησεν, μισθὸν λήψεται."
+    },
+    {
+      "v": "3:15",
+      "text": "Εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται· αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός."
+    },
+    {
+      "v": "3:16",
+      "text": "Οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε, καὶ τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν;"
+    },
+    {
+      "v": "3:17",
+      "text": "Εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει, φθερεῖ τοῦτον ὁ θεός· ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς."
+    }
+  ],
+  "english": [
+    {
+      "v": "3:9",
+      "text": "Brothers and sisters: we are God's fellow workers, and you are God's field — God's building."
+    },
+    {
+      "v": "3:10",
+      "text": "By the grace God gave me, I laid a foundation like a skilled master builder, and someone else is building on it. But each one should be careful how he builds."
+    },
+    {
+      "v": "3:11",
+      "text": "Because no one can lay any other foundation than the one already laid — and that foundation is Jesus Christ."
+    },
+    {
+      "v": "3:12",
+      "text": "If anyone builds on this foundation with gold, silver, precious stones, wood, hay, or straw,"
+    },
+    {
+      "v": "3:13",
+      "text": "each person's work will be shown for what it is. The Day of judgement will make it plain, because that Day is revealed with fire — and the fire will test what each person's work is really made of."
+    },
+    {
+      "v": "3:14",
+      "text": "If what someone has built survives the fire, he will receive a reward."
+    },
+    {
+      "v": "3:15",
+      "text": "If his work burns up, he will suffer the loss — he himself will be saved, but only like a man escaping through flames."
+    },
+    {
+      "v": "3:16",
+      "text": "Don't you know that you are God's temple, and that God's Spirit lives in you?"
+    },
+    {
+      "v": "3:17",
+      "text": "If anyone destroys God's temple, God will destroy him. For God's temple is holy — and that temple is you."
+    }
+  ],
+  "greek_source": "content/2026-08-02/readings.md",
+  "english_source": "content/2026-08-02/readings.md",
+  "status": "complete"
+}

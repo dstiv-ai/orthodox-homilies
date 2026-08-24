@@ -1,0 +1,90 @@
+{
+  "ref": "Matthew 5:42-48",
+  "book": "Matt",
+  "from": [
+    5,
+    42
+  ],
+  "to": [
+    5,
+    48
+  ],
+  "slug": "matthew-5-42-48",
+  "greek": [
+    {
+      "v": "5:42",
+      "text": "Τῷ αἰτοῦντί σε δίδου· καὶ τὸν θέλοντα ἀπὸ σοῦ δανείσασθαι μὴ ἀποστραφῇς."
+    },
+    {
+      "v": "5:43",
+      "text": "Ἠκούσατε ὅτι ἐρρέθη, Ἀγαπήσεις τὸν πλησίον σου, καὶ μισήσεις τὸν ἐχθρόν σου·"
+    },
+    {
+      "v": "5:44",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν, Ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς, καλῶς ποιεῖτε τοῖς μισοῦσιν ὑμᾶς, καὶ προσεύχεσθε ὑπὲρ τῶν ἐπηρεαζόντων ὑμᾶς, καὶ διωκόντων ὑμᾶς·"
+    },
+    {
+      "v": "5:45",
+      "text": "ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν τοῖς οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθούς, καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους."
+    },
+    {
+      "v": "5:46",
+      "text": "Ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς, τίνα μισθὸν ἔχετε; Οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν;"
+    },
+    {
+      "v": "5:47",
+      "text": "Καὶ ἐὰν ἀσπάσησθε τοὺς φίλους ὑμῶν μόνον, τί περισσὸν ποιεῖτε; Οὐχὶ καὶ οἱ τελῶναι οὕτως ποιοῦσιν;"
+    },
+    {
+      "v": "5:48",
+      "text": "Ἔσεσθε οὖν ὑμεῖς τέλειοι, ὥσπερ ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς τέλειός ἐστιν."
+    }
+  ],
+  "english": [
+    {
+      "v": "5:42",
+      "text": "At that time the Lord said to his disciples: \"Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
+    },
+    {
+      "v": "5:43",
+      "text": "You have heard that it was said, 'You shall love your neighbour, and hate your enemy.'"
+    },
+    {
+      "v": "5:44",
+      "text": "But I tell you: love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,"
+    },
+    {
+      "v": "5:45",
+      "text": "so that you may be sons of your Father in the heavens. For he makes his sun rise on the evil and the good, and sends rain on the righteous and the unrighteous."
+    },
+    {
+      "v": "5:46",
+      "text": "If you love those who love you, what reward do you have? Do not even the tax collectors do the same?"
+    },
+    {
+      "v": "5:47",
+      "text": "And if you greet only your friends, what more are you doing than others? Do not even the tax collectors do that?"
+    },
+    {
+      "v": "5:48",
+      "text": "You, then, shall be perfect, as your Father in the heavens is perfect.\""
+    }
+  ],
+  "greek_source": "work/byztxt/MAT.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "5:44",
+      "note": "Byzantine is the long form: love / bless / do good / pray, with both ἐπηρεαζόντων ('those who mistreat you') and διωκόντων ('those who persecute you'). Many modern editions are much shorter. I have translated every clause that is in this Greek."
+    },
+    {
+      "v": "5:47",
+      "note": "Byzantine has τοὺς φίλους ὑμῶν, 'your friends', and οἱ τελῶναι, 'the tax collectors'. Some modern editions read τοὺς ἀδελφοὺς ὑμῶν ('your brothers') and οἱ ἐθνικοί ('the Gentiles')."
+    },
+    {
+      "v": "5:48",
+      "note": "τέλειοι is perfect / complete / whole — nothing missing. 'Perfect' is the conventional English and is what a congregation will hear; it can sound like flawlessness, which is more than the Greek has to mean."
+    }
+  ]
+}

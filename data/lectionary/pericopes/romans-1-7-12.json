@@ -1,0 +1,74 @@
+{
+  "ref": "Romans 1:7-12",
+  "book": "Rom",
+  "from": [
+    1,
+    7
+  ],
+  "to": [
+    1,
+    12
+  ],
+  "slug": "romans-1-7-12",
+  "greek": [
+    {
+      "v": "1:7",
+      "text": "πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ, κλητοῖς ἁγίοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ χριστοῦ."
+    },
+    {
+      "v": "1:8",
+      "text": "Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ Ἰησοῦ χριστοῦ ὑπὲρ πάντων ὑμῶν, ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ."
+    },
+    {
+      "v": "1:9",
+      "text": "Μάρτυς γάρ μού ἐστιν ὁ θεός, ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ, ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι,"
+    },
+    {
+      "v": "1:10",
+      "text": "πάντοτε ἐπὶ τῶν προσευχῶν μου δεόμενος, εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς."
+    },
+    {
+      "v": "1:11",
+      "text": "Ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικόν, εἰς τὸ στηριχθῆναι ὑμᾶς,"
+    },
+    {
+      "v": "1:12",
+      "text": "τοῦτο δέ ἐστιν, συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως ὑμῶν τε καὶ ἐμοῦ."
+    }
+  ],
+  "english": [
+    {
+      "v": "1:7",
+      "text": "Brothers and sisters: to all in Rome who are loved by God, called as his holy people: grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "v": "1:8",
+      "text": "First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed throughout the whole world."
+    },
+    {
+      "v": "1:9",
+      "text": "For God is my witness — the God I serve with my spirit in the gospel of his Son — that I never stop remembering you,"
+    },
+    {
+      "v": "1:10",
+      "text": "always asking in my prayers that somehow, at last, by God's will, I may succeed in coming to you."
+    },
+    {
+      "v": "1:11",
+      "text": "For I long to see you, so that I may share some spiritual gift with you, to strengthen you —"
+    },
+    {
+      "v": "1:12",
+      "text": "that is, that we may be encouraged together among you, by each other's faith, yours and mine."
+    }
+  ],
+  "greek_source": "work/byztxt/ROM.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "1:12",
+      "note": "συμπαρακληθῆναι is a packed verb: to be encouraged / comforted together, mutually. 'Encouraged together' is as close as English gets; the συμ- (together-with) is doing real work and is easy to lose."
+    }
+  ]
+}

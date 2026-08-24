@@ -1,0 +1,108 @@
+{
+  "ref": "1 Corinthians 9:2-12",
+  "book": "1Cor",
+  "from": [
+    9,
+    2
+  ],
+  "to": [
+    9,
+    12
+  ],
+  "slug": "1-corinthians-9-2-12",
+  "greek": [
+    {
+      "v": "9:2",
+      "text": "Εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι· ἡ γὰρ σφραγὶς τῆς ἐμῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ."
+    },
+    {
+      "v": "9:3",
+      "text": "Ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσιν αὕτη ἐστίν."
+    },
+    {
+      "v": "9:4",
+      "text": "Μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ πιεῖν;"
+    },
+    {
+      "v": "9:5",
+      "text": "Μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν, ὡς καὶ οἱ λοιποὶ ἀπόστολοι, καὶ οἱ ἀδελφοὶ τοῦ κυρίου, καὶ Κηφᾶς;"
+    },
+    {
+      "v": "9:6",
+      "text": "Ἢ μόνος ἐγὼ καὶ Βαρνάβας οὐκ ἔχομεν ἐξουσίαν τοῦ μὴ ἐργάζεσθαι;"
+    },
+    {
+      "v": "9:7",
+      "text": "Τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; Τίς φυτεύει ἀμπελῶνα, καὶ ἐκ τοῦ καρποῦ αὐτοῦ οὐκ ἐσθίει; Ἢ τίς ποιμαίνει ποίμνην, καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει;"
+    },
+    {
+      "v": "9:8",
+      "text": "Μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ; Ἢ οὐχὶ καὶ ὁ νόμος ταῦτα λέγει;"
+    },
+    {
+      "v": "9:9",
+      "text": "Ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται, Οὐ φιμώσεις βοῦν ἀλοῶντα. Μὴ τῶν βοῶν μέλει τῷ θεῷ;"
+    },
+    {
+      "v": "9:10",
+      "text": "Ἢ δι’ ἡμᾶς πάντως λέγει; Δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ἐπ’ ἐλπίδι ὀφείλει ὁ ἀροτριῶν ἀροτριᾷν, καὶ ὁ ἀλοῶν τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ’ ἐλπίδι."
+    },
+    {
+      "v": "9:11",
+      "text": "Εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν, μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν;"
+    },
+    {
+      "v": "9:12",
+      "text": "Εἰ ἄλλοι τῆς ἐξουσίας ὑμῶν μετέχουσιν, οὐ μᾶλλον ἡμεῖς; Ἀλλ’ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ, ἀλλὰ πάντα στέγομεν, ἵνα μὴ ἐγκοπήν τινα δῶμεν τῷ εὐαγγελίῳ τοῦ χριστοῦ."
+    }
+  ],
+  "english": [
+    {
+      "v": "9:2",
+      "text": "Brothers and sisters: even if I am not an apostle to others, surely I am to you. You yourselves are the seal, the proof, of my apostleship in the Lord."
+    },
+    {
+      "v": "9:3",
+      "text": "That is my answer to anyone who puts me on trial."
+    },
+    {
+      "v": "9:4",
+      "text": "Don't we have the right to food and drink?"
+    },
+    {
+      "v": "9:5",
+      "text": "Don't we have the right to take a believing wife along with us, as the other apostles do, and the Lord's brothers, and Peter?"
+    },
+    {
+      "v": "9:6",
+      "text": "Or is it only Barnabas and I who must work for a living?"
+    },
+    {
+      "v": "9:7",
+      "text": "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Who tends a flock and does not drink the milk?"
+    },
+    {
+      "v": "9:8",
+      "text": "Am I saying this merely as a human being? Doesn't the Law say the same thing?"
+    },
+    {
+      "v": "9:9",
+      "text": "For in the Law of Moses it is written: \"Do not muzzle an ox while it is treading out the grain.\" Is God really concerned about oxen?"
+    },
+    {
+      "v": "9:10",
+      "text": "Isn't he saying it for our sake? Of course it was written for us, because whoever ploughs should plough in hope, and whoever threshes should do it hoping to share in the crop."
+    },
+    {
+      "v": "9:11",
+      "text": "If we sowed spiritual things among you, is it so great a thing if we reap material support from you?"
+    },
+    {
+      "v": "9:12",
+      "text": "If others have this right of support from you, shouldn't we have it all the more? But we did not use this right. Instead, we put up with anything, so as not to put any stumbling-block in the way of the gospel of Christ."
+    }
+  ],
+  "greek_source": "content/2026-08-16/readings.md",
+  "english_source": "content/2026-08-16/readings.md",
+  "status": "complete"
+}

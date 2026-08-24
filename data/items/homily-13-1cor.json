@@ -1,0 +1,664 @@
+{
+  "id": "homily-13-1cor",
+  "slug": "homily-13-1cor",
+  "title": "Homily 13 on First Corinthians",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": null,
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "synaxis-of-the-apostles",
+  "scripture": [
+    "1 Corinthians 4:9-13"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 5466,
+  "reading_minutes": 27,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "1-corinthians"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ ΙΓʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**1 Corinthians 4:10.**</span>"
+        },
+        {
+          "gr": "Ἡμεῖς μωροὶ διὰ Χριστὸν (ἀναγκαῖον γὰρ ἐντεῦθεν πάλιν τὸν λόγον ἀναλαβεῖν), ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ·",
+          "en": "<span class=\"sn\" data-s=\"2\">*“We are fools for Christ's sake, but you are wise in Christ.*</span> <span class=\"sn\" data-s=\"3\">*We are weak, but you are strong.*</span> <span class=\"sn\" data-s=\"4\">*You are honoured, but we are dishonoured.”* [1 Corinthians 4:10]</span>"
+        },
+        {
+          "gr": "ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι.",
+          "en": "<span class=\"sn\" data-s=\"5\">*(We need to pick up the thread again from this point.)*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Paul's irony: you are kings, we are condemned men",
+      "heading_sentence_index": 6,
+      "pairs": [
+        {
+          "gr": "αʹ. Πολλῆς βαρύτητος τὸν λόγον ἐμπλήσας, ὃ πάσης κατηγορίας μείζονα εἶχε πληγὴν, τοῦτο ἐνταῦθα μεταχειρίζει μετὰ τῆς πρεπούσης αὐτῷ ἀξίας, καὶ εἰπὼν, ὅτι Χωρὶς ἡμῶν ἐβασιλεύσατε, καὶ ὅτι Ἡμᾶς ὁ Θεὸς ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους, διὰ τῶν ἑξῆς δείκνυσι, πῶς ἐπιθανάτιοι, λέγων·",
+          "en": "<span class=\"sn\" data-s=\"7\">Paul has just packed his argument with a severity that lands harder than any direct accusation.</span> <span class=\"sn\" data-s=\"8\">He has said, *“you have become kings without us”*, and *“God has put us apostles on display at the end of the procession, like men condemned to die.”* [1 Corinthians 4:8–9] Now he shows exactly what being “condemned to die” looks like in practice.</span>"
+        },
+        {
+          "gr": "Ἡμεῖς μωροὶ καὶ ἀσθενεῖς καὶ ἄτιμοι, καὶ πεινῶμεν καὶ διψῶμεν, καὶ γυμνητεύομεν, καὶ κολαφιζόμεθα, καὶ ἀστατοῦμεν, καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· ἅπερ ἦν δείγματα διδασκάλων καὶ ἀποστόλων γνησίων.",
+          "en": "<span class=\"sn\" data-s=\"9\">We are fools, he says, and weak, and despised; we go hungry and thirsty; we are poorly clothed; we are knocked about; we have nowhere settled to live; we wear ourselves out working with our own hands.</span> <span class=\"sn\" data-s=\"10\">Every one of those was a genuine mark of a real teacher and a real apostle.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἐκεῖνοι ἐπὶ τοῖς ἐναντίοις μέγα ἐφρόνουν, ἐπὶ σοφίᾳ, ἐπὶ δόξῃ, ἐπὶ πλούτῳ, ἐπὶ τῷ τιμᾶσθαι.",
+          "en": "<span class=\"sn\" data-s=\"11\">The men the Corinthians were admiring instead prided themselves on the exact opposite: cleverness, prestige, money, standing in the community.</span>"
+        },
+        {
+          "gr": "Βουλόμενος οὖν αὐτῶν καθελεῖν τὸν τῦφον, καὶ δεῖξαι ὅτι ἐπὶ τούτοις οὐ μόνον οὐ καλλωπίζεσθαι, ἀλλὰ καὶ αἰσχύνεσθαι δεῖ, πρῶτον μὲν αὐτοὺς κωμῳδεῖ λέγων· Χωρὶς ἡμῶν ἐβασιλεύσατε. Ἐγὼ μὲν γὰρ λέγω, φησὶν, ὅτι ὁ παρὼν καιρὸς οὐ τιμῆς οὐδὲ δόξης ἐστὶν, ὧν ὑμεῖς ἀπολαύετε, ἀλλὰ τοῦ διώκεσθαι καὶ ὑβρίζεσθαι, ἅπερ ἡμεῖς πάσχομεν. Εἰ δὲ οὐχ οὕτως ἔχει, ἀλλὰ τῶν ἀμοιβῶν ὁ καιρὸς οὗτος, ὡς ὁρῶ (τοῦτο δὲ εἰρωνευόμενος λέγει), ὑμεῖς μὲν οἱ μαθηταὶ καὶ ἐβασιλεύσατε λοιπόν· ἡμεῖς δὲ οἱ διδάσκαλοι καὶ ἀπόστολοι, καὶ πρὸ πάντων ὀφείλοντες λαβεῖν τὸν μισθὸν, οὐ μόνον ὑμῶν ἔσχατοι γεγόναμεν, ἀλλὰ καὶ ὡς ἐπιθανάτιοι, τουτέστι, κατάδικοι, διόλου ἐν ἀτιμίαις καὶ κινδύνοις καὶ λιμῷ διάγομεν, ὑβριζόμενοί τε ὡς μωροὶ καὶ ἐλαυνόμενοι καὶ τὰ ἀνήκεστα ὑπομένοντες.",
+          "en": "<span class=\"sn\" data-s=\"12\">So Paul wants to puncture their self-satisfaction and show them that in these matters they ought to be embarrassed rather than pleased with themselves.</span> <span class=\"sn\" data-s=\"13\">He starts by mocking them: *“you have become kings without us.”* It is as if he said: *In my judgement this is not a time for honour or prestige — the sort of thing you are enjoying — but a time for persecution and insult, which is what we are getting.*</span> <span class=\"sn\" data-s=\"14\">*But if I have that wrong; if this really is the time to collect the rewards — then as far as I can see* (and here he is being ironic) *you, the students, have done rather well for yourselves and become kings, while we, the teachers and apostles, who ought to be first in line for any reward, have not merely finished far behind you, but are living out our lives like men under a death sentence — condemned convicts — entirely in humiliation and danger and hunger, insulted as fools, driven from place to place, putting up with things nobody should have to put up with.*</span>"
+        },
+        {
+          "gr": "Ταῦτα δὲ ἔλεγεν, ἵνα καὶ αὐτοὺς ἐκ τούτων ποιήσῃ συνιδεῖν, ὅτι τὰ τῶν ἀποστόλων ὀφείλουσι ζηλοῦν, τοὺς κινδύνους καὶ τὰς ὕβρεις, οὐ τὰς τιμὰς καὶ τὰς δόξας· οὐ γὰρ ἐκεῖνα, ἀλλὰ ταῦτα ἀπαιτεῖ τὸ κήρυγμα.",
+          "en": "<span class=\"sn\" data-s=\"15\">He says this so that they will start to think about which part of the apostles' condition they should actually be competing for: the dangers and the indignities, not the honours and the glory.</span> <span class=\"sn\" data-s=\"16\">Those are what the Gospel asks for — not the others.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὕτω μὲν ἐξ εὐθείας οὐ λέγει, ὥστε μὴ φορτικὸς αὐτοῖς φανῆναι· ὡς δὲ αὐτῷ πρέπον ἦν, οὕτω μεταχειρίζει τὴν ἐπίπληξιν ταύτην.",
+          "en": "<span class=\"sn\" data-s=\"17\">But he does not say this to their faces directly, because he does not want to make himself unpleasant to them.</span> <span class=\"sn\" data-s=\"18\">Instead he takes up the rebuke in his own characteristic way.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ ἐξ εὐθείας εἰσήγαγε τὸν λόγον, οὕτως ἂν εἶπε· Πλανᾶσθε καὶ ἀπατᾶσθε, καὶ πολὺ τῆς ἀποστολικῆς νουθεσίας ἀφεστήκατε· τὸν γὰρ ἀπόστολον καὶ διάκονον τοῦ Χριστοῦ, μωρὸν εἶναι δοκεῖν χρὴ, καὶ ἐν θλίψει καὶ ἐν ἀδοξίᾳ διάγειν, ὅπερ ἐσμὲν ἡμεῖς· ὑμεῖς δὲ ἐν τοῖς ἐναντίοις.",
+          "en": "<span class=\"sn\" data-s=\"19\">If he had put it directly, he would have had to say something like: *You are in error, you have been taken in, and you have drifted a long way from the apostolic way of teaching.*</span> <span class=\"sn\" data-s=\"20\">*Every apostle and servant of Christ ought to be thought a fool and ought to live in hardship and dishonour — which is our situation — whereas yours is the opposite.*</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὕτως ἂν μᾶλλον καὶ προσέστη τὰ λεγόμενα αὐτοῖς, ὡς ἐγκώμια τῶν ἀποστόλων ἔχοντα, καὶ ἐκείνους ἂν θρασυτέρους εἰργάσατο, ὡς διαβαλλομένους ἐπὶ ῥᾳθυμίᾳ καὶ κενοδοξίᾳ καὶ τῷ τρυφᾷν.",
+          "en": "<span class=\"sn\" data-s=\"21\">Put like that, though, his words might have offended them more, because they would have contained nothing but praise of the apostles, and might have made them angrier still, since they were already being criticised for laziness, showing off and soft living.</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο τοῦτον μὲν τὸν τρόπον οὐ μεθοδεύει τὰ εἰρημένα, ἑτέρως δὲ, πληκτικώτερον μὲν, ἀνεπαχθέστερον δέ.",
+          "en": "<span class=\"sn\" data-s=\"22\">So he does not go that way.</span> <span class=\"sn\" data-s=\"23\">He goes another way — one that lands harder but gives less offence.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ οὕτω προάγει τὸν λόγον κατ' εἰρωνείαν, λέγων· Ὑμεῖς δὲ ἰσχυροὶ καὶ ἔνδοξοι. Ὡς εἰ μὴ τῇ εἰρωνείᾳ ἐκέχρητο, οὕτως ἂν εἶπεν· Οὐ δυνατὸν τὸν μὲν μωρὸν νομίζεσθαι, τὸν δὲ φρόνιμον, καὶ τὸν μὲν ἰσχυρὸν, τὸν δὲ ἀσθενῆ, τοῦ κηρύγματος μὴ ἀπαιτοῦντος θάτερα. Εἰ μὲν γὰρ ἐξῆν τοὺς μὲν τοῦτο εἶναι, τοὺς δὲ ἐκεῖνο, ἴσως εἶχέ τινα λόγον τὰ παρ' ὑμῶν λεγόμενα· νυνὶ δὲ οὐκ ἔνι, οὐ φρόνιμον εἶναι δοκεῖν, οὐκ ἔνδοξον, οὐκ ἀπηλλάχθαι κινδύνων. Εἰ δὲ μὴ, ἀνάγκη ὑμᾶς ἡμῶν προτετιμῆσθαι παρὰ τῷ Θεῷ, ὑμᾶς τοὺς μαθητὰς τῶν διδασκάλων καὶ μυρία παθόντων. Εἰ δὲ οὐδὲ τοῦτό τις ἂν εἴποι, λείπεται τὰ ἡμέτερα ὑμᾶς διώκειν.",
+          "en": "<span class=\"sn\" data-s=\"24\">That is why he carries on as he does, saying ironically, *“you are strong and honoured.”* Because had he not been using irony, what he actually means is this: *It is not possible for one person to be counted a fool and another wise, one weak and another strong.*</span> <span class=\"sn\" data-s=\"25\">*The Gospel requires the same of both.*</span> <span class=\"sn\" data-s=\"26\">*If it were simply in the nature of things that one man should be this and another that, there might be something in what you are claiming.*</span> <span class=\"sn\" data-s=\"27\">*But in fact none of us is permitted either to be counted clever, or to be honoured, or to be out of danger.*</span> <span class=\"sn\" data-s=\"28\">*And if it were otherwise, then it must follow that God prefers you to us — you the students ahead of us the teachers — and that after everything we have gone through.*</span> <span class=\"sn\" data-s=\"29\">*And if nobody could bring himself to say that, then the only thing left for you to do is to make our condition the thing you aim at.*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"To this very hour\"",
+      "heading_sentence_index": 30,
+      "pairs": [
+        {
+          "gr": "Καὶ μὴ μέ τις, φησὶν, οἰέσθω τὰ παρελθόντα λέγειν μόνον·",
+          "en": "<span class=\"sn\" data-s=\"31\">And let nobody think, he says, that I am only talking about the past:</span>"
+        },
+        {
+          "gr": "Μέχρι γὰρ τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνητεύομεν.",
+          "en": "<span class=\"sn\" data-s=\"32\">*“To this very hour we go hungry and thirsty, we are poorly clothed.”* [1 Corinthians 4:11]</span>"
+        },
+        {
+          "gr": "Ὁρᾷς ὅτι πάντα τὸν βίον τοιοῦτον εἶναι δεῖ τῶν Χριστιανῶν, οὐ μίαν ἡμέραν καὶ δευτέραν; Οὐδὲ γὰρ ἂν ἀθλητὴς τὴν μίαν μόνην νικήσας πάλην στεφανωθῇ, πάλιν στεφανοῦται καταπεσών.",
+          "en": "<span class=\"sn\" data-s=\"33\">Do you see that the whole of a Christian's life has to be like this — not just a day or two?</span> <span class=\"sn\" data-s=\"34\">An athlete who wins a single round does get his crown, but he does not get crowned again if he then goes down.</span>"
+        },
+        {
+          "gr": "Καὶ πεινῶμεν, πρὸς τοὺς τρυφῶντας· καὶ κολαφιζόμεθα, πρὸς τοὺς πεφυσιωμένους· καὶ ἀστατοῦμεν, πρὸς τοὺς ἀναπίπτοντας· καὶ γυμνητεύομεν, πρὸς τοὺς πλουτοῦντας·",
+          "en": "<span class=\"sn\" data-s=\"35\">Look at how each phrase is aimed.</span> <span class=\"sn\" data-s=\"36\">*“We go hungry”* — that is aimed at people living for their comfort.</span> <span class=\"sn\" data-s=\"37\">*“We are knocked about”* — aimed at people who are full of themselves.</span> <span class=\"sn\" data-s=\"38\">*“We have no settled home”* — because we are driven from place to place.</span> <span class=\"sn\" data-s=\"39\">*“We are poorly clothed”* — aimed at the rich.</span>"
+        },
+        {
+          "gr": "καὶ κοπιῶμεν, ἤδη πρὸς τοὺς ψευδαποστόλους τοὺς οὔτε ἐργάζεσθαι οὔτε κινδυνεύειν ἀνεχομένους, ἀλλὰ καρπουμένους αὐτούς.",
+          "en": "<span class=\"sn\" data-s=\"40\">*“And we labour, working with our own hands.”* [1 Corinthians 4:12] This one is aimed at the false apostles, who put up with neither hard work nor danger, and yet collect the proceeds.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐχ ἡμεῖς οὕτω, φησὶν, ἀλλὰ μετὰ τῶν ἔξωθεν κινδύνων καὶ ἑαυτοὺς κατατείνομεν τῇ διηνεκεῖ ἐργασίᾳ.",
+          "en": "<span class=\"sn\" data-s=\"41\">That is not us, he says.</span> <span class=\"sn\" data-s=\"42\">On top of the dangers coming at us from outside, we also drive ourselves to the limit with unending work.</span>"
+        },
+        {
+          "gr": "Καὶ τὸ δὴ μεῖζον, ὅτι οὐκ ἔχοι τις ἂν εἰπεῖν, ὅτι δυσχεραίνομεν ἐπὶ τούτοις, ἢ τοῖς διώκουσιν ἐγκαλοῦμεν· τοῖς γὰρ ἐναντίοις τοὺς ἐπηρεάζοντας ἀμειβόμεθα. Τὸ γὰρ μέγα τοῦτό ἐστιν, οὐ τὸ κακῶς παθεῖν· τοῦτο γὰρ πάντων κοινόν· ἀλλὰ τὸ πάσχοντας μὴ ἀλύειν μηδὲ δυσχεραίνειν.",
+          "en": "<span class=\"sn\" data-s=\"43\">And here is something more remarkable still: nobody can say we resent any of it, because what we give back to the people who treat us this way is the opposite.</span> <span class=\"sn\" data-s=\"44\">That is the real point — not that we suffer, since everybody suffers, but that we suffer without going under and without becoming bitter.</span>"
+        },
+        {
+          "gr": "βʹ. Ἡμεῖς δὲ οὐ μόνον οὐ δυσχεραίνομεν, ἀλλὰ καὶ ἀγαλλόμεθα. Καὶ τούτου τεκμήριον τὸ τοὺς ποιοῦντας κακῶς τοῖς ἐναντίοις ἀμείβεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"45\">Far from going under, we are overflowing with joy.</span> <span class=\"sn\" data-s=\"46\">And the proof of it is that we repay those who wrong us with the opposite of what they gave us.</span>"
+        },
+        {
+          "gr": "Ὅτι δὲ τοῦτο ἐποίουν, ἄκουσον τῶν ἑξῆς· Λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα, βλασφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, τουτέστι, μωροὶ διὰ Χριστόν. Ὁ γὰρ κακῶς παθὼν, καὶ μήτε ἀμυνόμενος μήτε ἀλγῶν, μωρὸς εἶναι δοκεῖ παρὰ τοῖς ἔξωθεν καὶ ἄτιμος καὶ ἀσθενής.",
+          "en": "<span class=\"sn\" data-s=\"47\">As for the fact that this is exactly what they did, listen to what comes next: *“When we are insulted, we bless.*</span> <span class=\"sn\" data-s=\"48\">*When we are persecuted, we endure it.*</span> <span class=\"sn\" data-s=\"49\">*When we are slandered, we answer kindly.*</span> <span class=\"sn\" data-s=\"50\">*We have become the scum of the world.”* [1 Corinthians 4:12–13] This is what *“fools for Christ's sake”* means.</span> <span class=\"sn\" data-s=\"51\">Anyone who is wronged and does not get his own back, and is not even upset about it, is written off as a fool by people outside the faith — and as dishonoured, and weak.</span>"
+        },
+        {
+          "gr": "Καὶ ἵνα μὴ φορτικώτερον τὸν λόγον ἐργάσηται, εἰς τὴν ἐκείνων πόλιν τὰ πάθη περιστήσας, τί φησι;",
+          "en": "<span class=\"sn\" data-s=\"52\">And notice: so as not to make his words harder to swallow by tying the sufferings he is describing to their particular city, what does he say?</span>"
+        },
+        {
+          "gr": "Περικαθάρματα, οὐ τῆς πόλεως ὑμῶν, ἀλλὰ τοῦ κόσμου ἐγενήθημεν· καὶ πάλιν, Πάντων περίψημα· οὐχ ὑμῶν μόνον, ἀλλὰ πάντων.",
+          "en": "<span class=\"sn\" data-s=\"53\">We have become the scum — not “of your city”, but *“of the world.”* And again, *“the refuse of all people”* — not of you alone, but of everyone.</span>"
+        },
+        {
+          "gr": "Ὥσπερ οὖν ὅταν περὶ τῆς τοῦ Χριστοῦ διαλέγηται κηδεμονίας, τὴν γῆν, τὸν οὐρανὸν, τὴν πᾶσαν κτίσιν ἀφεὶς, τὸν σταυρὸν ἐν μέσῳ τίθησιν· οὕτω καὶ ὅταν πρὸς ἑαυτὸν ἐπισπάσασθαι βουληθῇ, τὰ σημεῖα παραδραμὼν, τὰ πάθη λέγει τὰ δι' αὐτούς. Οὕτω καὶ ἡμῖν ἔθος, ὅταν ἀδικώμεθα παρά τινων καὶ καταφρονώμεθα, ἅπερ ὑπὲρ αὐτῶν ἐπάθομεν, ταῦτα φέρειν εἰς μέσον.",
+          "en": "<span class=\"sn\" data-s=\"54\">It is like the way he handles the providence of Christ: when he wants to show it, he passes over the earth, the sky and the whole of creation, and brings forward the Cross.</span> <span class=\"sn\" data-s=\"55\">In the same way, when he wants to draw the Corinthians to himself, he hurries past all his miracles and speaks instead of what he suffered on their account.</span> <span class=\"sn\" data-s=\"56\">And this is our own method too, when we have been injured and looked down on by someone: we bring up what we have endured for them.</span>"
+        },
+        {
+          "gr": "Πάντων περίψημα ἕως ἄρτι. Εὔτονον τὴν πληγὴν ἔδωκε πρὸς τῷ τέλει.",
+          "en": "<span class=\"sn\" data-s=\"57\">*“The refuse of all people, to this very hour.”* That phrase *of all people* is the vigorous blow he lands at the end.</span>"
+        },
+        {
+          "gr": "Πάντων δὲ, οὐ τῶν διωκόντων, φησὶν, ἀλλὰ τῶν δι' οὓς ταῦτα πάσχομεν· τουτέστι, Χάριν ἔχω πολλὴν αὐτοῖς. Βαρυθυμοῦντος τὸ ῥῆμα, οὐκ ἀλγοῦντος αὐτοῦ, ἀλλ' ἐκείνους πλῆξαι βουλομένου.",
+          "en": "<span class=\"sn\" data-s=\"58\">Not only of our persecutors, he says, but of the very people we are suffering for.</span> <span class=\"sn\" data-s=\"59\">*How much I owe them!* That is the expression of a man deeply concerned — not that he is in pain himself, but that he wants to make them feel it, that a man with countless grievances should still be sending them his greetings.</span>"
+        },
+        {
+          "gr": "Ὁ γὰρ μυρία ἔχων ἐγκαλεῖν, καὶ ἀσπάζεται. Διὰ τοῦτο καὶ ὁ Χριστὸς κελεύει πράως ἡμᾶς φέρειν τὰς ὕβρεις, ἵνα καὶ αὐτοὶ φιλοσοφῶμεν, κἀκείνους μᾶλλον ἐντρέπωμεν. Οὐ γὰρ οὕτως ὑβρίζων, ὡς σιγῶν τις, τοῦτο ἐργάζεται.",
+          "en": "<span class=\"sn\" data-s=\"60\">This is exactly why Christ told us to take insults gently: so that we might both train ourselves in a high standard of virtue and, at the same time, shame the other party more thoroughly.</span> <span class=\"sn\" data-s=\"61\">You do not achieve that effect nearly as well by hurling reproaches as you do by staying silent.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Not to shame you, but to warn you",
+      "heading_sentence_index": 62,
+      "pairs": [
+        {
+          "gr": "Εἶτ' ἐπειδὴ εἶδεν ἀφόρητον τὴν πληγὴν, ταχέως αὐτὴν ἐθεράπευσεν, εἰπών· Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλ' ὡς τέκνα μου ἀγαπητὰ νουθετῶ. Οὐχ ὡς καταισχύνων γὰρ ὑμᾶς, ταῦτα λέγω, φησίν.",
+          "en": "<span class=\"sn\" data-s=\"63\">Then, seeing that the blow was more than they could easily bear, he moves quickly to heal it: *“I am not writing these things to shame you, but to warn you as my dear children.”* [1 Corinthians 4:14] *It is not to humiliate you that I say these things*, he says.</span>"
+        },
+        {
+          "gr": "Ὅπερ ἐποίησε διὰ τῶν ῥημάτων, τοῦτό φησιν οὐ πεποιηκέναι· μᾶλλον δὲ πεποιηκέναι μέν φησιν, οὐ μὴν διανοίᾳ πονηρᾷ καὶ μισούσῃ·",
+          "en": "<span class=\"sn\" data-s=\"64\">The very thing he had in fact just done, he now says he has not done — or rather, he admits he has done it, but not out of malice or spite.</span>"
+        },
+        {
+          "gr": "ἐπεὶ καὶ ἀρίστη αὕτη ἡ θεραπεία, εἰπόντα τὸν λόγον προσθεῖναι τὴν ἀπὸ τῆς διανοίας ἀπολογίαν.",
+          "en": "<span class=\"sn\" data-s=\"65\">This is much the best way of soothing someone: say the thing you have to say, and then add the explanation of why you said it.</span>"
+        },
+        {
+          "gr": "Μὴ εἰπεῖν μὲν γὰρ οὐκ ἐνῆν, ἐπεὶ ἔμειναν ἂν ἀδιόρθωτοι· εἰπόντα δὲ ἀφεῖναι πάλιν τὴν πληγὴν ἀνίατον, χαλεπόν·",
+          "en": "<span class=\"sn\" data-s=\"66\">Not to speak at all was impossible, since they would have stayed uncorrected.</span> <span class=\"sn\" data-s=\"67\">On the other hand, having spoken, to walk away and leave the wound untreated would have been harsh.</span>"
+        },
+        {
+          "gr": "διόπερ μετὰ βαρύτητος ἀπολογεῖται. Τοῦτο γὰρ οὐ μόνον οὐκ ἐξαίρει τὴν τομὴν, ἀλλὰ καὶ ἐνδοτέρω ποιεῖ καταδῦναι, τῆς πληγῆς τὴν ἀλγηδόνα παραμυθούμενον ἅπασαν.",
+          "en": "<span class=\"sn\" data-s=\"68\">So alongside the severity he offers his apology — and far from blunting the knife, that actually lets it sink in deeper, while taking the sharpest edge off the pain.</span>"
+        },
+        {
+          "gr": "Ὁ γὰρ ἀκούσας, ὅτι οὐκ ὀνειδίζων, ἀλλ' ἀγαπῶν ταῦτα λέγει, μᾶλλον καταδέχεται τὴν διόρθωσιν.",
+          "en": "<span class=\"sn\" data-s=\"69\">When a man is told that what was said to him was said in love and not as an insult, he accepts the correction much more readily.</span>"
+        },
+        {
+          "gr": "Πολλὴ δὲ καὶ ἐνταῦθα ἡ βαρύτης καὶ ἡ ἐντροπή.",
+          "en": "<span class=\"sn\" data-s=\"70\">Even here, though, there is great severity and a strong appeal to their sense of shame.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ εἶπεν, ὡς διδάσκαλος, οὐδὲ ὡς ἀπόστολος, οὐδὲ ὡς μαθητὰς ἔχων, ὅπερ τῆς ἀξίας ἦν, ἀλλ', Ὡς τέκνα μου ἀγαπητὰ νουθετῶ· καὶ οὐχ ἁπλῶς τέκνα, ἀλλὰ ποθούμενα.",
+          "en": "<span class=\"sn\" data-s=\"71\">Notice that he does not say “as your master”, nor “as an apostle”, nor “since you are my students” — any of which would have fitted his standing with them perfectly well.</span> <span class=\"sn\" data-s=\"72\">He says, *as my dear children I am warning you.* And not simply “children”, but *children I have longed for*.</span>"
+        },
+        {
+          "gr": "Σύγγνωτέ μοι, φησί· καὶ εἴ τι φορτικὸν εἴρηται, ἐξ ἀγάπης ταῦτα γίνεται.",
+          "en": "<span class=\"sn\" data-s=\"73\">**Forgive me**, he is saying.</span> <span class=\"sn\" data-s=\"74\">If anything harsh has been said, all of it comes out of love.</span>"
+        },
+        {
+          "gr": "Καὶ οὐκ εἶπεν, Ἐπιτιμῶ, ἀλλὰ, Νουθετῶ.",
+          "en": "<span class=\"sn\" data-s=\"75\">And he does not say “I am rebuking you”, but “I am warning you.”</span>"
+        },
+        {
+          "gr": "Τίς δὲ οὐκ ἂν ἀνάσχοιτο πατρὸς ἀλγοῦντος, καὶ τὰ δέοντα συμβουλεύοντος; Διὰ τοῦτο οὐ πρότερον εἶπε τοῦτο, ἀλλ' ὅτε τὴν πληγὴν ἔδωκε.",
+          "en": "<span class=\"sn\" data-s=\"76\">Who would not put up with a father who is grieving and giving good advice?</span> <span class=\"sn\" data-s=\"77\">And that is why he did not say this earlier — he said it after he had landed the blow.</span>"
+        },
+        {
+          "gr": "Τί οὖν, ἀφειδοῦσιν ἡμῶν οἱ ἄλλοι διδάσκαλοι, φησίν;",
+          "en": "<span class=\"sn\" data-s=\"78\">“What then?” someone might say.</span> <span class=\"sn\" data-s=\"79\">“Don't our other teachers spare us?”</span>"
+        },
+        {
+          "gr": "Οὐ τοῦτο λέγω, ἀλλ' οὐχ οὕτω φείδονται.",
+          "en": "<span class=\"sn\" data-s=\"80\">I am not saying they do not.</span> <span class=\"sn\" data-s=\"81\">I am saying they do not carry their patience nearly so far.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ τοῦτο μὲν συντόμως οὐκ εἶπε, διὰ δὲ τῶν ἐπιτηδευμάτων καὶ τῶν ὀνομάτων αὐτὸ ἐνέφηνε, τὸν παιδαγωγὸν καὶ τὸν πατέρα θείς.",
+          "en": "<span class=\"sn\" data-s=\"82\">But Paul does not state this outright at once; he indicates it by the titles he chooses — **guardian** and **father**.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ten thousand guardians, but not many fathers",
+      "heading_sentence_index": 83,
+      "pairs": [
+        {
+          "gr": "Ἐὰν γὰρ, φησὶ, πολλοὺς παιδαγωγοὺς ἔχητε ἐν Χριστῷ, ἀλλ' οὐ πολλοὺς πατέρας.",
+          "en": "<span class=\"sn\" data-s=\"84\">*“For even if you had ten thousand guardians in Christ, you do not have many fathers.”* [1 Corinthians 4:15]</span>"
+        },
+        {
+          "gr": "Οὐ τὸ ἀξίωμα ἐμφαίνει ἐνταῦθα, ἀλλὰ τῆς ἀγάπης τὴν ὑπερβολήν.",
+          "en": "<span class=\"sn\" data-s=\"85\">He is not setting out his own importance here, but the sheer size of his love.</span> <span class=\"sn\" data-s=\"86\">(The word translated “guardian” is *paidagōgos*: in a Greek household, the trusted servant who walked a boy to school, sat with him, and kept him out of trouble — a real position of responsibility and real hard work, but not a father.)</span>"
+        },
+        {
+          "gr": "Καὶ οὐδὲ ἐκείνους ἔπληξε, τὸ, Ἐν Χριστῷ, προσθεὶς, ἀλλὰ καὶ παρεμυθήσατο αὐτοὺς, οὐχὶ κόλακας, ἀλλὰ παιδαγωγοὺς εἰπὼν τοὺς σπουδάζοντας καὶ ἀνεχομένους τῶν πόνων· καὶ τὴν ἑαυτοῦ κηδεμονίαν ἀπεδείξατο.",
+          "en": "<span class=\"sn\" data-s=\"87\">And notice that he does not wound the other teachers either, because he adds *in Christ*.</span> <span class=\"sn\" data-s=\"88\">In fact he soothes them: he describes the ones among them who were zealous and willing to work hard not as hangers-on but as guardians, while at the same time showing how anxiously he cares for the Corinthians himself.</span>"
+        },
+        {
+          "gr": "Διὸ οὐκ εἶπεν, Ἀλλ' οὐ πολλοὺς διδασκάλους, ἀλλ', Οὐ πατέρας.",
+          "en": "<span class=\"sn\" data-s=\"89\">This is why he did not say “you do not have many masters”, but “you do not have many fathers.”</span>"
+        },
+        {
+          "gr": "Οὕτως οὐκ ἀξίωμα θεῖναι ἐβούλετο, οὐδὲ, ὅτι πλείονα παρ' αὐτοῦ ὠφέληντο, διδάξαι· ἀλλὰ συγχωρήσας ἐκείνοις τὰ πολλὰ περὶ αὐτοὺς πεπονηκέναι (τοιοῦτον γὰρ ὁ παιδαγωγὸς), τὴν τῆς ἀγάπης ὑπερβολὴν ἑαυτῷ ταμιεύεται. Τοιοῦτον γὰρ ὁ πατήρ.",
+          "en": "<span class=\"sn\" data-s=\"90\">He was not the least bit interested in claiming a title of rank, or in arguing that they had received more benefit from him.</span> <span class=\"sn\" data-s=\"91\">He concedes to the others the enormous effort they had put in for the Corinthians — that is exactly what the word *guardian* carries — and keeps only the greater love for his own share, because that is what the word *father* carries.</span>"
+        },
+        {
+          "gr": "Καὶ οὐ λέγει μόνον, ὅτι Οὐδεὶς ὑμᾶς οὕτω φιλεῖ, ὅπερ ἀνεύθυνον ἦν, ἀλλὰ καὶ πρᾶγμα γεγονὸς εἰς μέσον ἄγει.",
+          "en": "<span class=\"sn\" data-s=\"92\">And he does not merely say “nobody loves you as much as I do”, which nobody could have argued with anyway.</span> <span class=\"sn\" data-s=\"93\">He brings forward an actual fact.</span>"
+        },
+        {
+          "gr": "Ποῖον δὴ τοῦτο;",
+          "en": "<span class=\"sn\" data-s=\"94\">What is it?</span>"
+        },
+        {
+          "gr": "Ἐν γὰρ Χριστῷ Ἰησοῦ διὰ τοῦ Εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα.",
+          "en": "<span class=\"sn\" data-s=\"95\">*“For in Christ Jesus I became your father through the gospel.”*</span>"
+        },
+        {
+          "gr": "Ἐν Χριστῷ Ἰησοῦ· οὐκ ἐμαυτῷ τοῦτο λογίζομαι, φησί. Πάλιν τοὺς ἑαυτοῖς ἐπιφημίζοντας τὴν διδασκαλίαν πλήττει.",
+          "en": "<span class=\"sn\" data-s=\"96\">*In Christ Jesus.* He does not credit this to himself.</span> <span class=\"sn\" data-s=\"97\">And again he strikes at the men who were attaching their own names to their teaching.</span>"
+        },
+        {
+          "gr": "Ὑμεῖς γάρ ἐστε, φησὶν, ἡ σφραγὶς τῆς ἐμῆς ἀποστολῆς· καὶ πάλιν, Ἐγὼ ἐφύτευσα· καὶ ἐνταῦθα, Ἐγὼ ἐγέννησα.",
+          "en": "<span class=\"sn\" data-s=\"98\">*Because you*, he says, *are the seal on my apostleship.* Elsewhere he says *I planted*; here he says *I fathered you*.</span>"
+        },
+        {
+          "gr": "Οὐκ εἶπε, Κατήγγειλα τὸν λόγον, ἀλλ', Ἐγὼ ἐγέννησα, τοῖς τῆς φύσεως ὀνόμασι κεχρημένος. Ἓν γὰρ ἐσπούδαζε, τὴν ἀγάπην ἐπιδείξασθαι, ἣν περὶ αὐτοὺς εἶχεν.",
+          "en": "<span class=\"sn\" data-s=\"99\">He did not say “I preached the word”, but “I fathered you” — deliberately reaching for the language of natural family, because his one concern at this moment is to show the love he has for them.</span>"
+        },
+        {
+          "gr": "Ἐκεῖνοι μὲν γὰρ παρ' ἐμοῦ δεξάμενοι ἐνήγαγον ὑμᾶς· τὸ δὲ εἶναι πιστοὺς, δι' ἐμοῦ γέγονεν.",
+          "en": "<span class=\"sn\" data-s=\"100\">*They* received you from me and led you on, he means; but that you are believers at all came about through me.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ εἶπεν, Ὡς τέκνα, ἵνα μὴ κολακείας εἶναι νομίσῃς τὸ ῥῆμα, παρίστησι καὶ τὸ πρᾶγμα.",
+          "en": "<span class=\"sn\" data-s=\"101\">And so, because he had said *as children*, and you might suppose the expression was just flattery, he produces the hard fact as well.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Imitate me\" — the portrait begins",
+      "heading_sentence_index": 102,
+      "pairs": [
+        {
+          "gr": "Παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε, καθὼς κἀγὼ Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"103\">*“I urge you, then: imitate me, as I also imitate Christ.”* [1 Corinthians 4:16; and see 1 Corinthians 11:1]</span>"
+        },
+        {
+          "gr": "Βαβαί! πόση τοῦ διδασκάλου ἡ παῤῥησία! πῶς ἀπηκριβωμένη ἡ εἰκὼν, ὅταν καὶ ἑτέρους ἐπὶ τοῦτο παρακαλῇ!",
+          "en": "<span class=\"sn\" data-s=\"104\">Extraordinary.</span> <span class=\"sn\" data-s=\"105\">What boldness in our teacher!</span> <span class=\"sn\" data-s=\"106\">How highly finished the portrait must be, if he can actually urge other people to copy it!</span>"
+        },
+        {
+          "gr": "Οὐκ ἐπαίρων δὲ ἑαυτὸν τοῦτο ποιεῖ, ἀλλὰ δεικνὺς εὔκολον οὖσαν τὴν ἀρετήν.",
+          "en": "<span class=\"sn\" data-s=\"107\">He does not say it to exalt himself, but to suggest that goodness is a manageable thing.</span>"
+        },
+        {
+          "gr": "γʹ. Μὴ γάρ μοι εἴπῃς, ὅτι Οὐ δύναμαί σε μιμήσασθαι· σὺ διδάσκαλος εἶ, καὶ μέγας. Οὐ γάρ ἐστι τοσοῦτον τὸ μέσον ἐμοῦ πρὸς ὑμᾶς, ὅσον τοῦ Χριστοῦ πρὸς ἐμέ· ἀλλ' ὅμως ἐμιμησάμην ἐκεῖνον ἐγώ.",
+          "en": "<span class=\"sn\" data-s=\"108\">It is as if he said: *Don't tell me “I can't imitate you — you are a teacher, and a great one.”*</span> <span class=\"sn\" data-s=\"109\">*The distance between me and you is not nearly as great as the distance between Christ and me.*</span> <span class=\"sn\" data-s=\"110\">*And I imitated him.*</span>"
+        },
+        {
+          "gr": "Ὅταν μὲν οὖν Ἐφεσίοις γράφῃ, οὐ τίθησι μέσον ἑαυτὸν, ἀλλ' εὐθὺς αὐτοὺς ἐκεῖ πάντας ἀπάγει, Γίνεσθε μιμηταὶ τοῦ Θεοῦ, λέγων· ἐνταῦθα δὲ, ἐπειδὴ πρὸς ἀσθενεῖς ἦν ὁ λόγος αὐτῷ, ἑαυτὸν παρενέβαλε.",
+          "en": "<span class=\"sn\" data-s=\"111\">By contrast, when he writes to the Ephesians he leaves himself out of it entirely and takes them all straight to the one point: *“Be imitators of God.”* [Ephesians 5:1] But here, because he is speaking to people who were weak, he puts himself in as a stepping stone.</span>"
+        },
+        {
+          "gr": "Καὶ ἄλλως δὲ δείκνυσιν, ὅτι ἔνι καὶ οὕτω τὸν Χριστὸν μιμήσασθαι. Ὁ γὰρ τὴν σφραγῖδα μιμησάμενος τὴν ἀπηκριβωμένην, τὸ ἀρχέτυπον ἐμιμήσατο.",
+          "en": "<span class=\"sn\" data-s=\"112\">And there is something more in it.</span> <span class=\"sn\" data-s=\"113\">He is showing that it is possible to imitate Christ even by this route.</span> <span class=\"sn\" data-s=\"114\">Because a man who copies the exact impression left by a seal is, in the end, copying the original that made it.</span>"
+        },
+        {
+          "gr": "Ἴδωμεν οὖν πῶς αὐτὸς ἐμιμήσατο τὸν Χριστόν. Ἡ γὰρ μίμησις αὕτη οὐ χρόνων δεῖται καὶ τέχνης, ἀλλὰ προαιρέσεως μόνης.",
+          "en": "<span class=\"sn\" data-s=\"115\">So let us look at how Paul followed Christ.</span> <span class=\"sn\" data-s=\"116\">This sort of imitation does not need years or special skill — only a settled decision.</span>"
+        },
+        {
+          "gr": "Εἰς ζωγράφου μὲν γὰρ εἰσελθόντες οὐ δυνησόμεθα μιμήσασθαι τὴν εἰκόνα, κἂν μυριάκις ἴδωμεν· τοῦτον δὲ καὶ ἐξ ἀκροάσεως μόνης ἔνι μιμήσασθαι.",
+          "en": "<span class=\"sn\" data-s=\"117\">If we walk into a painter's studio, we will not be able to reproduce the portrait, however many times we look at it.</span> <span class=\"sn\" data-s=\"118\">But to copy Paul, simply hearing about him is enough to make us able.</span>"
+        },
+        {
+          "gr": "Οὐκοῦν βούλεσθε τὸν πίνακα εἰς μέσον ἀγαγόντες, ὑπογράψωμεν ἐφ' ὑμῶν τὴν πολιτείαν τοῦ Παύλου; Προκείσθω τοίνυν ὁ πίναξ πολὺ λαμπρότερος ὢν τῶν βασιλικῶν εἰκόνων.",
+          "en": "<span class=\"sn\" data-s=\"119\">Shall we bring out the panel, then, and sketch Paul's way of life for you?</span> <span class=\"sn\" data-s=\"120\">Let it be brought out — a picture far brighter than any imperial portrait.</span>"
+        },
+        {
+          "gr": "Τὸ γὰρ ὑποκείμενον, οὐ σανίδες κεκολλημέναι οὐδὲ σινδόνες ἐπικείμεναι, ἀλλ' ἔργον Θεοῦ τὸ ὑποκείμενον· ψυχὴ γάρ ἐστι καὶ σῶμα.",
+          "en": "<span class=\"sn\" data-s=\"121\">Its material is not boards glued together, nor canvas stretched on a frame.</span> <span class=\"sn\" data-s=\"122\">Its material is the work of God: a soul and a body.</span>"
+        },
+        {
+          "gr": "Ψυχὴ Θεοῦ ἔργον, οὐκ ἀνθρώπων, καὶ σῶμα πάλιν ὁμοίως Ἐκροτήσατε ἐνταῦθα;",
+          "en": "<span class=\"sn\" data-s=\"123\">A soul, made by God and not by men; and a body likewise.</span> <span class=\"sn\" data-s=\"124\">Did I hear applause just then?</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐκ ἐνταῦθα τῶν κρότων ὁ καιρὸς, ἀλλ' ἐπὶ τῶν ἑξῆς καὶ τοῦ κροτῆσαι καὶ τοῦ ζηλῶσαι.",
+          "en": "<span class=\"sn\" data-s=\"125\">No — this is not the moment for applause.</span> <span class=\"sn\" data-s=\"126\">That comes with what follows; and it is what follows that is worth applauding, and worth copying too.</span>"
+        },
+        {
+          "gr": "Τέως γὰρ ἡ ὕλη ὑπόκειται κοινὴ πρὸς ἅπαντας οὖσα. Ψυχὴ γὰρ ψυχῆς οὐδὲν διαφέρει, καθὸ ψυχὴ, ἀλλ' ἡ προαίρεσις δείκνυσι τὴν διαφοράν.",
+          "en": "<span class=\"sn\" data-s=\"127\">So far all we have is the raw material, which absolutely everybody has, since one soul does not differ from another simply as a soul.</span> <span class=\"sn\" data-s=\"128\">It is the settled purpose of the heart that makes the difference.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ σῶμα σώματος, καθό ἐστι σῶμα, οὐδὲν διενήνοχεν, ἀλλ' ὅμοιόν ἐστι καὶ τὸ τοῦ Παύλου καὶ τῶν πολλῶν, οἱ δὲ κίνδυνοι φαιδρότερον ἐργάζονται τοῦτο ἐκείνου· οὕτω δὴ καὶ ἐπὶ ψυχῆς.",
+          "en": "<span class=\"sn\" data-s=\"129\">It is the same with the body: one body does not differ from another simply as a body, and Paul's body is like anyone's — it is only dangers that make one body more splendid than another.</span> <span class=\"sn\" data-s=\"130\">Exactly the same is true of the soul.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The portrait of Paul, limb by limb",
+      "heading_sentence_index": 131,
+      "pairs": [
+        {
+          "gr": "Ὑποκείσθω τοίνυν ὁ πίναξ ἡμῖν ἡ ψυχὴ Παύλου. Οὗτος ὁ πίναξ ἔκειτο πρώην ἠσβολωμένος, ἀραχνίων γέμων· οὐδὲν γὰρ βλασφημίας χεῖρον.",
+          "en": "<span class=\"sn\" data-s=\"132\">So let our panel be the soul of Paul.</span> <span class=\"sn\" data-s=\"133\">This panel was, until recently, lying under a film of soot and covered in cobwebs — for nothing is worse than blasphemy against God.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ δὲ ἦλθεν ὁ πάντα μετασκευάζων, καὶ εἶδεν οὐ παρὰ ῥᾳθυμίαν καὶ βλακείαν οὕτω διαγραφέντα, ἀλλὰ παρὰ ἀπειρίαν, καὶ τὸ μὴ ἔχειν τὰ ἄνθη τῆς εὐσεβείας (ζῆλον μὲν γὰρ εἶχε, τὰ δὲ χρώματα οὐ παρῆν· οὐ γὰρ κατ' ἐπίγνωσιν τὸν ζῆλον εἶχε)· δίδωσιν αὐτῷ τῆς ἀληθείας τὸ ἄνθος, τουτέστι, τὴν χάριν· καὶ ἀθρόον βασιλικὴν ἀπέδειξε τὴν εἰκόνα.",
+          "en": "<span class=\"sn\" data-s=\"134\">But then he came who transforms everything, and he saw that the lines had been drawn that way not through laziness or carelessness but through inexperience, because Paul did not have the colours of true reverence.</span> <span class=\"sn\" data-s=\"135\">He had plenty of zeal, but the colours were not there — his zeal was not matched by knowledge.</span> <span class=\"sn\" data-s=\"136\">So Christ gave him the tint of the truth, which is grace, and in a moment the imperial portrait stood out.</span>"
+        },
+        {
+          "gr": "Λαβὼν γὰρ τὰ χρώματα, καὶ μαθὼν ἅπερ ἠγνόει, οὐκ ἀνέμεινε χρόνον, ἀλλ' εὐθέως ἐφάνη τεχνίτης ἄριστος.",
+          "en": "<span class=\"sn\" data-s=\"137\">Having got the colours, and having learned what he did not know, Paul wasted no time: he turned out immediately to be a first-rate artist.</span>"
+        },
+        {
+          "gr": "Καὶ πρῶτον δείκνυσι τὴν κεφαλὴν βασιλικὴν, τὸν Χριστὸν κηρύττων· εἶτα καὶ τὸ λοιπὸν σῶμα, τὸ τῆς πολιτείας τῆς ἀκριβοῦς",
+          "en": "<span class=\"sn\" data-s=\"138\">First he paints the head of the king — that is, he preaches Christ; then the rest of the body — that is, the whole shape of a Christian life.</span>"
+        },
+        {
+          "gr": "Οἱ μὲν οὖν ζωγράφοι κατακλείσαντες ἑαυτοὺς, μετὰ πολλῆς τῆς ἀκριβείας καὶ ἡσυχίας ἅπαντα πράττουσιν, οὐδενὶ τὰς θύρας παρανοίγοντες·",
+          "en": "<span class=\"sn\" data-s=\"139\">Painters, as we know, shut themselves in and do all their work with great care and in quiet, letting nobody through the door.</span>"
+        },
+        {
+          "gr": "οὗτος δὲ ἐν μέσῳ τῆς οἰκουμένης τὸν πίνακα προθεὶς, πάντων ἐναντιουμένων, θορυβούντων, ταραττόντων, οὕτω; εἰργάζετο τὴν βασιλικὴν ταύτην εἰκόνα, καὶ οὐκ ἐκωλύετο.",
+          "en": "<span class=\"sn\" data-s=\"140\">This man set his panel up in full view of the world, in the middle of universal opposition, shouting and uproar — and under those conditions worked out that royal portrait, and nothing stopped him.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ἔλεγε· Θέατρον ἐγενήθημεν τῷ κόσμῳ, ἐν μέσῳ γῆς καὶ θαλάσσης, καὶ τοῦ οὐρανοῦ καὶ τῆς οἰκουμένης ἁπάσης, καὶ τοῦ κόσμου τοῦ τε αἰσθητοῦ τοῦ τε νοητοῦ, τὴν εἰκόνα ζωγραφῶν.",
+          "en": "<span class=\"sn\" data-s=\"141\">That is exactly why he said, *“We have become a spectacle to the world.”* [1 Corinthians 4:9] In the middle of land and sea and sky, of the whole inhabited earth, and of a world both material and invisible, he was drawing that portrait of his.</span>"
+        },
+        {
+          "gr": "Βούλεσθε καὶ τὰ λοιπὰ μέρη ταύτης ἰδεῖν, τὰ ἀπὸ τῆς κεφαλῆς κάτω; ἢ βούλεσθε κάτωθεν τὸν λόγον ἀναγάγωμεν;",
+          "en": "<span class=\"sn\" data-s=\"142\">Would you like to see the other parts of it as well, working down from the head?</span> <span class=\"sn\" data-s=\"143\">Or shall we start at the bottom and work up?</span>"
+        },
+        {
+          "gr": "Θέα τοίνυν ἀνδριάντα χρυσοῦν, μᾶλλον δὲ καὶ τούτου τιμιώτερον, καὶ οἷον ἐν οὐρανῷ ἑστάναι εἰκὸς, οὐ μολίβδῳ προσδεδεμένον, οὐδὲ ἑνὶ ἱδρυμένον χωρίῳ, ἀλλ' ἀπὸ Ἱερουσαλὴμ μέχρι τοῦ Ἰλλυρικοῦ τρέχοντα, καὶ εἰς Ἱσπανίαν ἀπιόντα, καὶ πανταχοῦ τῆς οἰκουμένης καθάπερ ὑπόπτερον φερόμενον. Τί γὰρ τῶν ποδῶν τούτων ὡραιότερον γένοιτ' ἂν, τῶν ἅπασαν ἐπελθόντων τὴν ὑφ' ἡλίῳ κειμένην γῆν; Ταύτην τὴν ὡραιότητα καὶ ὁ προφήτης ἄνωθεν κηρύττει λέγων· Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων εἰρήνην!",
+          "en": "<span class=\"sn\" data-s=\"144\">Then picture a statue of gold — or rather of something more precious than gold, the kind that could stand in heaven; not fixed down with lead, not stuck in one place, but rushing from Jerusalem as far as Illyricum [Romans 15:19] and setting out for Spain, and carried as if on wings over every part of the world.</span> <span class=\"sn\" data-s=\"145\">What could be more beautiful than those feet, which visited the whole earth under the sun?</span> <span class=\"sn\" data-s=\"146\">The prophet announced this same beauty long ago: *“How beautiful are the feet of those who bring the good news of peace!”* [Isaiah 52:7]</span>"
+        },
+        {
+          "gr": "Εἶδες πῶς καλοὶ οἱ πόδες; Θέλεις καὶ τὸ στῆθος ἰδεῖν; Δεῦρό σοι δείξω καὶ τοῦτο, καὶ πολλῷ λαμπρότερον ὄψει τῶν ποδῶν τούτων τῶν ὡραίων, καὶ αὐτῶν τῶν τοῦ παλαιοῦ νομοθέτου στέρνων.",
+          "en": "<span class=\"sn\" data-s=\"147\">You have seen how lovely the feet are.</span> <span class=\"sn\" data-s=\"148\">Would you like to see the chest as well?</span> <span class=\"sn\" data-s=\"149\">Come, let me show you that too, and you will find it far more magnificent than the feet — yes, more magnificent even than the chest of the ancient lawgiver.</span>"
+        },
+        {
+          "gr": "Μωϋσῆς μὲν γὰρ πλάκας ἐβάσταζε λιθίνας· οὗτος δὲ αὐτὸν ἔνδοθεν εἶχε τὸν Χριστὸν, αὐτὴν τὴν βασιλικὴν ἔφερεν εἰκόνα καὶ τοῦ ἱλαστηρίου·",
+          "en": "<span class=\"sn\" data-s=\"150\">Because Moses carried tablets of stone, whereas this man carried Christ himself inside him.</span> <span class=\"sn\" data-s=\"151\">What he bore was the actual image of the King.</span>"
+        },
+        {
+          "gr": "διὰ τοῦτο καὶ τῶν Χερουβὶμ σεμνότερος ἦν.",
+          "en": "<span class=\"sn\" data-s=\"152\">And that is why he was more awe-inspiring than the Mercy Seat and the Cherubim.</span> <span class=\"sn\" data-s=\"153\">(The Mercy Seat was the gold lid of the Ark, flanked by two carved Cherubim, from which God's voice was said to speak to Moses.)</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ τοιαύτη ἐφέρετο ἐκεῖθεν φωνὴ, οἵα ἐντεῦθεν, ἀλλ' ἐκεῖθεν μὲν τὰ πλείονα περὶ αἰσθητῶν διελέγετο, ἀπὸ δὲ τῆς Παύλου γλώττης περὶ τῶν ὑπὲρ τοὺς οὐρανοὺς πραγμάτων·",
+          "en": "<span class=\"sn\" data-s=\"154\">No such voice ever came from them as comes from here.</span> <span class=\"sn\" data-s=\"155\">What came from them spoke to human beings mainly about things you can see and touch; what came from Paul's tongue spoke about the things above the heavens.</span>"
+        },
+        {
+          "gr": "καὶ ἀπὸ μὲν τοῦ ἱλαστηρίου Ἰουδαίοις ἐχρημάτιζε μόνοις, ἐντεῦθεν δὲ τῇ οἰκουμένῃ πάσῃ·",
+          "en": "<span class=\"sn\" data-s=\"156\">Again, from the Mercy Seat it gave its answers to the Jewish people alone; from here it speaks to the whole world.</span>"
+        },
+        {
+          "gr": "κἀκεῖ μὲν διὰ ἀψύχων, ἐνταῦθα δὲ διὰ ψυχῆς ἐναρέτου.",
+          "en": "<span class=\"sn\" data-s=\"157\">And there it was through objects that had no life in them; here through a soul alive with virtue.</span>"
+        },
+        {
+          "gr": "δʹ. Τοῦτο καὶ οὐρανοῦ λαμπρότερον ἦν τὸ ἱλαστήριον, οὐ ποικιλίᾳ ἄστρων καταλαμπόμενον οὐδ' ἀκτῖσιν ἡλιακαῖς, ἀλλ' αὐτὸν τὸν ἥλιον τῆς δικαιοσύνης ἔχον ἐκεῖθεν ἀφιέντα τὰς ἀκτῖνας.",
+          "en": "<span class=\"sn\" data-s=\"158\">This Mercy Seat was brighter even than the sky — not shining with a scattering of stars, nor with rays from the sun, but with the Sun of righteousness himself, who was there and who sent his rays out from it.</span>"
+        },
+        {
+          "gr": "Καὶ τοῦτον μὲν τὸν οὐρανὸν νέφος ὑποδραμόν ποτε σκυθρωπότερον ἐργάζεται, τὸ δὲ στῆθος ἐκεῖνο οὐδεὶς ὑπέδραμέ ποτε χειμὼν τοιοῦτος·",
+          "en": "<span class=\"sn\" data-s=\"159\">And another thing: in this sky of ours, a cloud drifting across now and then makes it dark.</span>"
+        },
+        {
+          "gr": "μᾶλλον δὲ ὑπέδραμον μὲν πολλοὶ πολλάκις χειμῶνες, τὸ δὲ φῶς οὐκ ἐπεσκότισαν, ἀλλ' ἐν μέσῳ τῷ πειρασμῷ καὶ τοῖς κινδύνοις τὸ φῶς ἀπέλαμπε τοῦτο.",
+          "en": "<span class=\"sn\" data-s=\"160\">But that chest never had a storm sweep over it.</span> <span class=\"sn\" data-s=\"161\">Or rather — many storms swept over it, and often; but they never darkened the light.</span> <span class=\"sn\" data-s=\"162\">In the middle of the trials and the dangers, the light shone out.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ αὐτὸς ἅλυσιν περικείμενος ἐβόα· Ὁ λόγος τοῦ Θεοῦ οὐ δέδεται. Οὕτως ἀεὶ διὰ τῆς γλώττης ἐκείνης ἠφίει τὰς ἀκτῖνας· καὶ οὐ φόβος, οὐ κίνδυνος τὸ στῆθος ἐκεῖνο σκυθρωπὸν ἐποίει.",
+          "en": "<span class=\"sn\" data-s=\"163\">That is why Paul himself, chained up, kept exclaiming: *“the word of God is not chained.”* [2 Timothy 2:9] So it went on sending out its rays through that tongue continually, and no fear and no danger ever put that chest in shadow.</span>"
+        },
+        {
+          "gr": "Τάχα παρελαύνειν δοκεῖ τὸ στῆθος τοὺς πόδας· ἀλλὰ κἀκεῖνοι ὡς πόδες καλοὶ, καὶ τοῦτο ὡς στῆθος.",
+          "en": "<span class=\"sn\" data-s=\"164\">Perhaps the chest looks as though it outdoes the feet — but both are beautiful, the feet as feet, and this as a chest.</span>"
+        },
+        {
+          "gr": "Βούλει καὶ γαστέρα ἰδεῖν ὡραίαν; Ἄκουσον τί φησι περὶ αὐτῆς· Εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα. Καλὸν τὸ μὴ φαγεῖν κρέα, μηδὲ πιεῖν οἶνον, μηδὲ ἐν ᾧ ὁ ἀδελφός σου προσκόπτει ἢ σκανδαλίζεται ἢ ἀσθενεῖ. Τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασι. Τί ταύτης τῆς γαστρὸς γένοιτ' ἂν ὡραιότερον τῆς οὕτω πεπαιδευμένης ἠρεμεῖν, καὶ σωφροσύνην πᾶσαν δεδιδαγμένης, καὶ εἰδυίας καὶ πεινῇν καὶ λιμώττειν καὶ διψῇν;",
+          "en": "<span class=\"sn\" data-s=\"165\">Would you like to see the stomach too, with the particular beauty that belongs to it?</span> <span class=\"sn\" data-s=\"166\">Then listen to what he says about it: *“If food makes my brother fall, I will never eat meat again as long as the world lasts.”* [1 Corinthians 8:13] *“It is good not to eat meat or drink wine or do anything that makes your brother stumble.”* [Romans 14:21] *“Food is for the stomach and the stomach for food.”* [1 Corinthians 6:13] What could be more beautiful of its kind than a stomach trained like this to keep quiet — schooled in every kind of self-control, and knowing how to go hungry, how to be starved, and how to put up with thirst?</span>"
+        },
+        {
+          "gr": "Καθάπερ γὰρ ἵππος εὔτακτος χρυσῆν ἡνίαν λαβὼν, οὕτω καὶ αὕτη εὔρυθμα ἐβάδιζε τῆς φύσεως τὴν ἀνάγκην νικήσασα· ὁ γὰρ Χριστὸς ἐβάδιζεν ἐν αὐτῇ.",
+          "en": "<span class=\"sn\" data-s=\"167\">Like a well-schooled horse with a golden bridle, it walked at a measured pace, having defeated the demands of nature.</span> <span class=\"sn\" data-s=\"168\">Because it was Christ walking about inside it.</span>"
+        },
+        {
+          "gr": "Ταύτης δὲ οὕτω σωφρονούσης, εὔδηλον ὅτι καὶ ἡ ἄλλη πᾶσα κακία ἐλύετο.",
+          "en": "<span class=\"sn\" data-s=\"169\">And if this part was so disciplined, it is perfectly plain that the whole remaining body of vice had been done away with.</span>"
+        },
+        {
+          "gr": "Βούλει καὶ χεῖρας ἰδεῖν τὰς νῦν; ἢ βούλει τὴν προτέραν αὐτῶν πρότερον κακίαν θεάσασθαι;",
+          "en": "<span class=\"sn\" data-s=\"170\">Would you like to see the hands?</span> <span class=\"sn\" data-s=\"171\">The ones he has now — or would you rather look first at the wickedness they were capable of before?</span>"
+        },
+        {
+          "gr": "Εἰσερχόμενος οὗτος εἰς τὰς οἰκίας, ἔσυρε πρώην ἄνδρας καὶ γυναῖκας, οὐχὶ ἀνδρὸς χεῖρας, ἀλλὰ θηρίου τινὸς χαλεποῦ ἔχων.",
+          "en": "<span class=\"sn\" data-s=\"172\">*“Going into house after house, he dragged off men and women”* [Acts 8:3] — this very man — with hands that belonged not to a human being but to some savage animal.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ δὲ τὰ χρώματα τῆς ἀληθείας ἔλαβε καὶ τὴν πνευματικὴν ἐμπειρίαν, οὐκέτι ἀνδρὸς ἐγένοντο αἱ χεῖρες αὗται, ἀλλὰ πνευματικαὶ, καθ' ἑκάστην ἡμέραν δεσμούμεναι ἁλύσεσι·",
+          "en": "<span class=\"sn\" data-s=\"173\">But the moment he received the colours of the Truth and the experience of the Spirit, these were no longer a man's hands but hands of the Spirit, bound with chains day after day.</span>"
+        },
+        {
+          "gr": "καὶ ἔπληξαν μὲν οὐδένα ποτὲ, ἐπλήγησαν δὲ μυριάκις.",
+          "en": "<span class=\"sn\" data-s=\"174\">And they never struck anybody; they were struck countless times.</span>"
+        },
+        {
+          "gr": "Ἠδέσθη ποτὲ καὶ ἔχις ταύτας τὰς χεῖρας· οὐ γὰρ ἦσαν ἀνθρώπου χεῖρες λοιπόν· διὰ τοῦτο οὐδὲ καθήψατο αὐτῶν.",
+          "en": "<span class=\"sn\" data-s=\"175\">Once even a viper showed those hands respect [Acts 28:3–5] — because they were no longer the hands of a mere human being, and so it did not even take hold of them.</span>"
+        },
+        {
+          "gr": "Βούλει καὶ τὰ νῶτα ἰδεῖν τοῖς λοιποῖς ἐοικότα μέλεσιν; Ἄκουσον τί φησι καὶ περὶ αὐτῶν· Πεντάκις τεσσαράκοντα παρὰ μίαν ἔλαβον ὑπὸ Ἰουδαίων, τρὶς ἐῤῥαπίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα.",
+          "en": "<span class=\"sn\" data-s=\"176\">And would you like to see the back as well, since it matches the rest?</span> <span class=\"sn\" data-s=\"177\">Then hear what he says about that too: *“Five times I received from the Jews the forty lashes minus one.*</span> <span class=\"sn\" data-s=\"178\">*Three times I was beaten with rods.*</span> <span class=\"sn\" data-s=\"179\">*Once I was stoned.*</span> <span class=\"sn\" data-s=\"180\">*Three times I was shipwrecked.*</span> <span class=\"sn\" data-s=\"181\">*I spent a night and a day adrift on the open sea.”* [2 Corinthians 11:24–25]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "His clothing, and the crown worth wanting",
+      "heading_sentence_index": 182,
+      "pairs": [
+        {
+          "gr": "Ἀλλ' ἵνα μὴ καὶ ἡμεῖς εἰς βυθὸν ἄπειρον ἐμπεσόντες, πολλὰ περιενεχθῶμεν καθ' ἕκαστον αὐτοῦ τῶν μελῶν ἐπιόντες, δεῦρο ἀποστάντες τοῦ σώματος, ἕτερον κάλλος ἴδωμεν τὸ ἀπὸ τῶν ἱματίων, ὃ καὶ δαίμονες ᾐδέσθησαν·",
+          "en": "<span class=\"sn\" data-s=\"183\">But rather than fall into a bottomless deep ourselves and be carried further and further out, going over every one of his limbs in turn, let us leave the body and look at a different sort of beauty: the beauty that came from his clothing.</span>"
+        },
+        {
+          "gr": "διὸ καὶ αὐτοὶ ἔφευγον, καὶ νοσήματα ἐδραπέτευε.",
+          "en": "<span class=\"sn\" data-s=\"184\">Even demons treated it with respect — which is why they cleared off and diseases fled.</span>"
+        },
+        {
+          "gr": "Καὶ ὅπουπερ ἂν ἐφάνη Παῦλος, πάντα ὑπεχώρει καὶ ὑπεξίστατο, καθάπερ τοῦ τῆς οἰκουμένης ἀριστέως παραγενομένου.",
+          "en": "<span class=\"sn\" data-s=\"185\">Wherever Paul happened to appear, they all retreated and got out of the way, as though the champion of the whole world had shown up.</span>"
+        },
+        {
+          "gr": "Καὶ ὥσπερ οἱ πολλὰς λαβόντες ἐν πολέμῳ πληγὰς, κἂν ὅπλον ἴδωσι τοῦ πλήξαντος αὐτοὺς, πεφρίκασιν· οὕτω δὴ καὶ οἱ δαίμονες, σημικίνθια μόνον ὁρῶντες, ἐξίσταντο.",
+          "en": "<span class=\"sn\" data-s=\"186\">And just as men who have been wounded many times in war shudder at the sight of so much as a piece of their attacker's armour, so the demons were dumbfounded at the sight of nothing more than the cloths that had touched him. [Acts 19:12]</span>"
+        },
+        {
+          "gr": "Ποῦ νῦν εἰσιν οἱ πλουτοῦντες, καὶ μέγα φρονοῦντες ἐπὶ χρήμασι; ποῦ οἱ τὰ ἀξιώματα ἑαυτῶν ἀριθμοῦντες, καὶ τὰ ἱμάτια τὰ πολυτελῆ; Πρὸς ταῦτα παραβάλλοντες ἑαυτοὺς, πηλὸν ὄψονται καὶ βόρβορον τὰ ἑαυτῶν ἅπαντα.",
+          "en": "<span class=\"sn\" data-s=\"187\">Where are the rich now, and the people with grand ideas about money?</span> <span class=\"sn\" data-s=\"188\">Where are the ones counting up their titles and their expensive robes?</span> <span class=\"sn\" data-s=\"189\">Set beside these things, everything they own will look to them like clay and dirt.</span>"
+        },
+        {
+          "gr": "Καὶ τί λέγω ἱμάτια καὶ χρυσία;",
+          "en": "<span class=\"sn\" data-s=\"190\">And why do I even mention clothes and gold ornaments?</span>"
+        },
+        {
+          "gr": "Εἰ γάρ μοι τῆς οἰκουμένης ἔδωκέ τις κρατῆσαι πάσης, τὸν ὄνυχα μόνον Παύλου πάσης ἂν τῆς βασιλείας ἐκείνης ἰσχυρότερον εἶναι ἐνόμισα, πάσης τρυφῆς τὴν πενίαν, πάσης δόξης τὴν ἀδοξίαν, παντὸς πλούτου τὴν γύμνωσιν, πάσης ἀδείας τὸν κολαφισμὸν τῆς ἱερᾶς ἐκείνης κεφαλῆς, παντὸς διαδήματος τοὺς λίθους οὓς ἐδέξατο.",
+          "en": "<span class=\"sn\" data-s=\"191\">If somebody handed me the whole world to own, I would think a single fingernail of Paul's more powerful than all that dominion.</span> <span class=\"sn\" data-s=\"192\">I would rate his poverty above all luxury; his dishonour above all glory; his going without above all riches.</span> <span class=\"sn\" data-s=\"193\">I would not trade any amount of safety for the blows on that holy head, nor any crown for the stones he was made a target with.</span>"
+        },
+        {
+          "gr": "Τοῦτον ποθήσωμεν τὸν στέφανον, ἀγαπητοί· καὶ εἰ μὴ διωγμός ἐστι, τέως παρασκευάσωμεν ἑαυτούς.",
+          "en": "<span class=\"sn\" data-s=\"194\">This is the crown to long for, my friends.</span> <span class=\"sn\" data-s=\"195\">And if there is no persecution now, let us prepare ourselves in the meantime.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ οὗτος ἀπὸ διωγμῶν μόνων ἦν λαμπρὸς ὁ ἀνήρ· καὶ γὰρ ἔλεγεν· Ὑποπιέζω μου τὸ σῶμα· τοῦτο δὲ καὶ χωρὶς διωγμοῦ δυνατὸν κατορθοῦν.",
+          "en": "<span class=\"sn\" data-s=\"196\">Because the man we are speaking of was not made glorious by persecutions alone.</span> <span class=\"sn\" data-s=\"197\">He also said, *“I discipline my body and keep it under control.”* [1 Corinthians 9:27] Anyone can excel in that without persecutions.</span>"
+        },
+        {
+          "gr": "Καὶ τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθαι παρῄνει εἰς ἐπιθυμίας· καὶ πάλιν, Ἔχοντες διατροφὰς καὶ σκεπάσματα, τούτοις ἀρκεσθησόμεθα. Εἰς ταῦτα γὰρ διωγμῶν οὐ χρεία.",
+          "en": "<span class=\"sn\" data-s=\"198\">He also urged us *“not to make provision for the flesh, to gratify its desires.”* [Romans 13:14] And again, *“if we have food and covering, let us be content with that.”* [1 Timothy 6:8] For those purposes we have no need of persecutions at all.</span>"
+        },
+        {
+          "gr": "Καὶ τοὺς εὐπόρους δὲ ἐσωφρόνιζε, λέγων· Οἱ βουλόμενοι πλουτεῖν, ἐμπίπτουσιν εἰς πειρασμόν.",
+          "en": "<span class=\"sn\" data-s=\"199\">And he tried to moderate the wealthy too, saying, *“those who want to get rich fall into temptation.”* [1 Timothy 6:9]</span>"
+        },
+        {
+          "gr": "Ἐὰν οὖν καὶ ἡμεῖς οὕτως ἑαυτοὺς ἀσκήσωμεν, εἰς τὸν ἀγῶνα εἰσελθόντες στεφανωθησόμεθα, καὶ διωγμοῦ μὴ παρόντος, πολλὰ ὑπὲρ αὐτῶν ληψόμεθα τὰ βραβεῖα· ἐὰν δὲ λιπαίνωμεν τὸ σῶμα καὶ χοίρων βίον ζῶμεν, καὶ ἐν εἰρήνῃ πολλὰ ἁμαρτησόμεθα καὶ αἰσχύνην οἴσομεν.",
+          "en": "<span class=\"sn\" data-s=\"200\">So if we train ourselves in this way, then when we do step into the contest we shall be crowned; and even if no persecution is waiting for us, we shall receive many rewards for these things.</span> <span class=\"sn\" data-s=\"201\">But if we pamper the body and live the life of a pig, then even in peacetime we shall sin often, and carry the shame of it.</span>"
+        },
+        {
+          "gr": "Οὐχ ὁρᾷς πρὸς τίνας ἡμῖν ἡ πάλη; Πρὸς τὰς ἀσωμάτους δυνάμεις.",
+          "en": "<span class=\"sn\" data-s=\"202\">Do you not see who it is we are wrestling with?</span> <span class=\"sn\" data-s=\"203\">With powers that have no bodies.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν, σάρκες ὄντες, τούτων περιεσόμεθα;",
+          "en": "<span class=\"sn\" data-s=\"204\">How, then, are we — who are flesh — to get the better of them?</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ πρὸς ἀνθρώπους τις παλαίων, δεῖται σωφρόνως ἑστιᾶσθαι, πολλῷ μᾶλλον πρὸς δαίμονας.",
+          "en": "<span class=\"sn\" data-s=\"205\">If a man wrestling with other men needs to be careful about his diet, how much more the man wrestling with evil spirits?</span>"
+        },
+        {
+          "gr": "Ὅταν δὲ μετὰ τῆς πολυσαρκίας καὶ τῷ πλούτῳ ὦμεν προσδεδεμένοι, πόθεν κρατήσομεν τῶν ἀντιπάλων;",
+          "en": "<span class=\"sn\" data-s=\"206\">And when, on top of a well-fed body, we are also tied down to money, where is our victory over these opponents going to come from?</span>"
+        },
+        {
+          "gr": "Δεσμὸς γάρ ἐστιν ὁ πλοῦτος, δεσμὸς χαλεπὸς τοῖς οὐκ εἰδόσιν αὐτῷ χρῆσθαι, τύραννος ὠμὸς καὶ ἀπάνθρωπος, ἐπὶ λύμῃ τῶν δουλευόντων πάντα ἐπιτάττων.",
+          "en": "<span class=\"sn\" data-s=\"207\">Because wealth is a chain — a heavy chain — for people who do not know how to use it; a savage and inhuman tyrant, who issues all his orders as insults to the people serving him.</span>"
+        },
+        {
+          "gr": "Ἀλλ', ἐὰν θέλωμεν, τὴν πικρὰν ταύτην τυραννίδα ἀπὸ τοῦ θρόνου καταστρέψομεν, καὶ ἡμῖν εἴκειν ποιήσομεν, ἀλλ' οὐκ ἐπιτάττειν.",
+          "en": "<span class=\"sn\" data-s=\"208\">All the same, if we want to, we can pull this bitter tyranny off its throne and make it obey us instead of commanding us.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν τοῦτο ἔσται; Ὅταν εἰς πάντας τὸν πλοῦτον διανέμωμεν.",
+          "en": "<span class=\"sn\" data-s=\"209\">How?</span> <span class=\"sn\" data-s=\"210\">By distributing what we have to everybody.</span>"
+        },
+        {
+          "gr": "Ἕως μὲν γὰρ ἂν μόνος ᾖ πρὸς μόνους καθάπερ λῃστής τις ἐν ἐρημίᾳ, πάντα ἐργάζεται τὰ κακά· ὅταν δὲ εἰς μέσον αὐτὸν ἀγάγωμεν, οὐκέτι ἡμῶν κρατήσει, πάντοθεν αὐτὸν πάντων δεσμούντων.",
+          "en": "<span class=\"sn\" data-s=\"211\">Because as long as it stands against us one at a time, it works all its worst effects, like a bandit catching travellers alone in open country.</span> <span class=\"sn\" data-s=\"212\">But when we bring it out among other people, it will not master us any more — it will be held in chains on every side, by everybody.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Riches are not the sin; hoarding them is",
+      "heading_sentence_index": 213,
+      "pairs": [
+        {
+          "gr": "εʹ. Καὶ ταῦτα λέγω, οὐκ ἐπειδὴ ἁμαρτία τὰ χρήματα· τοῖς πτωχοῖς δὲ μὴ διανέμειν αὐτὰ, ἁμαρτία, καὶ κακῶς αὐτοῖς χρῆσθαι.",
+          "en": "<span class=\"sn\" data-s=\"214\">And I am not saying this because riches are a sin.</span> <span class=\"sn\" data-s=\"215\">The sin lies in not distributing them to the poor, and in using them wrongly.</span>"
+        },
+        {
+          "gr": "Οὐδὲν γὰρ ὁ Θεὸς κακὸν ἐποίησεν, ἀλλὰ πάντα καλὰ λίαν· ὥστε καὶ τὰ χρήματα καλὰ, ἀλλ' ἐὰν μὴ κρατῇ τῶν κεκτημένων, ἐὰν τὰς πενίας τῶν πλησίον λύῃ.",
+          "en": "<span class=\"sn\" data-s=\"216\">God made nothing evil; he made everything very good — so riches are good too, provided they do not master their owners, and provided the needs of our neighbours are met by them.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ φῶς ἐκεῖνο καλὸν τὸ μὴ ἀφανίζον σκότος, ἀλλὰ καὶ ἐπιτεῖνον, οὐδὲ πλοῦτον ἂν εἴποιμι τοῦτον τὸν οὐ λύοντα πενίαν, ἀλλ' αὔξοντα πενίαν.",
+          "en": "<span class=\"sn\" data-s=\"217\">We would not call light good if, instead of clearing away darkness, it made the darkness thicker.</span> <span class=\"sn\" data-s=\"218\">In the same way I would not call it wealth if, instead of doing away with poverty, it increased it.</span>"
+        },
+        {
+          "gr": "Ὁ γὰρ πλουτῶν οὐ ζητεῖ παρ' ἑτέρων λαμβάνειν, ἀλλ' ἑτέροις ἐπικουρεῖν· ὁ δὲ παρ' ἑτέρων ζητῶν λαβεῖν, οὐκέτι πλουτεῖ, ἀλλ' αὐτός ἐστιν ὁ πένης.",
+          "en": "<span class=\"sn\" data-s=\"219\">The genuinely rich man is not looking to take from others; he is looking to help others.</span> <span class=\"sn\" data-s=\"220\">And the man who is looking to receive from others is no longer rich — he is emphatically poor.</span>"
+        },
+        {
+          "gr": "Ὥστε οὐ τὰ χρήματα κακὸν, ἀλλ' ἡ πενιχρὰ διάνοια, ἡ τὸν πλοῦτον εἰς πενίαν ἄγουσα.",
+          "en": "<span class=\"sn\" data-s=\"221\">So it is not riches that are the evil.</span> <span class=\"sn\" data-s=\"222\">It is the needy mind, which turns wealth into poverty.</span>"
+        },
+        {
+          "gr": "Οὗτοι τῶν διὰ τῶν στενωπῶν ἐπαιτούντων ἀθλιώτεροι, τῶν πήρωσιν ἐχόντων καὶ λελωβημένων τὰ σώματα, τῶν ῥάκια περιβεβλημένων οἱ ἐν τοῖς σηρικοῖς καὶ λαμπροῖς ἱματίοις·",
+          "en": "<span class=\"sn\" data-s=\"223\">People like this are more wretched than the ones begging in the narrow streets with a bag, with bodies that are maimed.</span> <span class=\"sn\" data-s=\"224\">I mean it: those men in rags are not as miserable as these men in silk and glittering clothes.</span>"
+        },
+        {
+          "gr": "οἱ σοβοῦντες ἐπὶ τῆς ἀγορᾶς τῶν κατὰ τὰ ἄμφοδα βαδιζόντων καὶ εἰς τὰς αὐλὰς εἰσιόντων καὶ κάτωθεν βοώντων καὶ ἐπαιτούντων ἐλεεινότεροι.",
+          "en": "<span class=\"sn\" data-s=\"225\">The people strutting about the marketplace deserve more pity than the ones who hang about the street corners, and come into courtyards, and call out from their cellars asking for charity.</span>"
+        },
+        {
+          "gr": "Οὗτοι μὲν γὰρ τὸν Θεὸν ἀνυμνοῦσι, καὶ ἐλέου φθέγγονται ῥήματα καὶ φιλοσοφίας πολλῆς· διὸ καὶ ἐλεοῦμεν αὐτοὺς, καὶ χεῖρα ὀρέγομεν, καὶ οὐδέποτε ἐγκαλοῦμεν.",
+          "en": "<span class=\"sn\" data-s=\"226\">Because those men at least praise God, and speak words about mercy and about strict morality.</span> <span class=\"sn\" data-s=\"227\">That is why we pity them and put out a hand and never find fault with them.</span>"
+        },
+        {
+          "gr": "Οἱ δὲ πλουτοῦντες κακῶς, ὠμότητος καὶ ἀπανθρωπίας, ἁρπαγῆς καὶ σατανικῆς ἐπιθυμίας ἐρεύγονται λόγους· διὸ καὶ παρὰ πᾶσίν εἰσι μισητοὶ καὶ καταγέλαστοι.",
+          "en": "<span class=\"sn\" data-s=\"228\">But the men who are rich to bad purpose belch out cruelty and inhumanity, greed and monstrous appetite.</span> <span class=\"sn\" data-s=\"229\">And so everybody detests them and laughs them to scorn.</span>"
+        },
+        {
+          "gr": "Σκόπει δὲ, τί παρὰ πᾶσιν ἀνθρώποις αἰσχρὸν εἶναι δοκεῖ, τὸ παρὰ τῶν πλουτούντων αἰτεῖν, ἢ τὸ παρὰ τῶν ἀπόρων; Παντί που δῆλον, ὅτι τὸ παρὰ τῶν ἀπόρων. Τοῦτο τοίνυν οἱ πλουτοῦντες ποιοῦσιν· οὐ γὰρ ἂν τολμήσαιεν τοῖς πλουσιωτέροις προσελθεῖν. Οἱ δὲ ἐπαιτοῦντες, παρὰ τῶν εὐπόρων· οὐ γὰρ τὸν ἐπαίτην ὁ ἐπαίτης αἰτήσει, ἀλλὰ τὸν εὔπορον· ὁ δὲ πλούσιος τὸν πένητα σπαράττει.",
+          "en": "<span class=\"sn\" data-s=\"230\">Just consider this.</span> <span class=\"sn\" data-s=\"231\">Which of the two does everyone reckon disgraceful: to beg from the rich, or to beg from the poor?</span> <span class=\"sn\" data-s=\"232\">Everybody sees it at once — from the poor.</span> <span class=\"sn\" data-s=\"233\">And that, if you look at it properly, is exactly what the rich do.</span> <span class=\"sn\" data-s=\"234\">They would not dare approach people richer than themselves; whereas actual beggars beg from the wealthy.</span> <span class=\"sn\" data-s=\"235\">One beggar does not ask alms from another beggar; he asks a rich man.</span> <span class=\"sn\" data-s=\"236\">But the rich man tears the poor to pieces.</span>"
+        },
+        {
+          "gr": "Πάλιν τί σεμνότερον, εἰπέ μοι, παρὰ ἑκόντων λαβεῖν καὶ χάριν ἐχόντων, ἢ τοὺς οὐ θέλοντας ἀναγκάζειν καὶ ἐνοχλεῖν; Εὔδηλον ὅτι τοὺς μὴ βουλομένους μὴ ἐνοχλεῖν. Ἀλλὰ καὶ τοῦτο οἱ πλουτοῦντες ποιοῦσιν. Οἱ μὲν γὰρ πένητες παρ' ἑκόντων λαμβάνουσι καὶ χάριν εἰδότων, οἱ δὲ πλουτοῦντες παρὰ ἀκόντων καὶ μὴ βουλομένων, ὃ μείζονός ἐστι πενίας ἀπόδειξις. Εἰ γὰρ οὐδὲ ἐπ' ἄριστον ἕλοιτό τις ἀπελθεῖν, εἰ μὴ χάριν ὁ καλῶν εἰδείη τῷ καλουμένῳ, πῶς χρήματα λαβεῖν μετ' ἀνάγκης καλόν;",
+          "en": "<span class=\"sn\" data-s=\"237\">Now tell me something else.</span> <span class=\"sn\" data-s=\"238\">Which is the more dignified: to receive from people who are willing, and who feel they owe it to you — or to force and pester people who are unwilling?</span> <span class=\"sn\" data-s=\"239\">Obviously, not to trouble the unwilling.</span> <span class=\"sn\" data-s=\"240\">But again, this is what the rich do.</span> <span class=\"sn\" data-s=\"241\">The poor receive from willing hands, from people who feel obliged to them; the rich take from people who are unwilling and resisting — which is a sign of even greater poverty.</span> <span class=\"sn\" data-s=\"242\">If a man would not even want to go to a dinner unless the person inviting him felt glad to have him, how can it be honourable to take a share of someone's property by force?</span>"
+        },
+        {
+          "gr": "Τοὺς κύνας οὐ διὰ τοῦτο ἀποστρεφόμεθα καὶ φεύγομεν τοὺς ὑλακτοῦντας, ὅτι τῇ πολλῇ προσεδρίᾳ ἡμᾶς ἐκβιάζονται; Τοῦτο καὶ οἱ πλούσιοι ποιοῦσιν.",
+          "en": "<span class=\"sn\" data-s=\"243\">Is this not exactly why we get out of the way of dogs and run from their barking — because by sheer persistence they drive us off?</span> <span class=\"sn\" data-s=\"244\">This is what our rich men do too.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ τὸν φόβον προσεῖναι τῇ δόσει σεμνότερον. Τοῦτο μὲν οὖν πάντων αἰσχρότερον· ὁ γὰρ πάντα κινῶν ὑπὲρ τοῦ λαβεῖν, τίνος οὐκ ἂν εἴη καταγελαστότερος; Καὶ γὰρ τοὺς κύνας πολλάκις φοβηθέντες, προηκάμεθα ἅπερ κατείχομεν.",
+          "en": "<span class=\"sn\" data-s=\"245\">“But it is more dignified when fear goes along with the gift.”</span> <span class=\"sn\" data-s=\"246\">No — that is the most disgraceful thing of all.</span> <span class=\"sn\" data-s=\"247\">A man who turns heaven and earth upside down over his profits: who is more ridiculous than he is?</span> <span class=\"sn\" data-s=\"248\">Because we throw whatever we happen to be holding even to dogs, often enough, out of fear.</span>"
+        },
+        {
+          "gr": "Τί πάλιν αἰσχρότερον, εἰπέ μοι, ῥάκια περιβεβλημένον αἰτεῖν, ἢ σηρικὰ φοροῦντα; Ὅταν μὲν γὰρ πλουτῶν τις γέροντας θεραπεύῃ πένητας, ὥστε τὰ ἐκείνων λαβεῖν, καὶ ταῦτα παίδων ὄντων, τίνος ἔσται συγγνώμης ἄξιος;",
+          "en": "<span class=\"sn\" data-s=\"249\">Which, I ask again, is the more disgraceful: a man dressed in rags begging, or a man wearing silk?</span> <span class=\"sn\" data-s=\"250\">So when a rich man pays court to old and poor people in order to get hold of their property — and does it when they have children of their own — what excuse can he possibly deserve?</span>"
+        },
+        {
+          "gr": "Εἰ δὲ βούλεσθε, καὶ τὰ ῥήματα αὐτὰ ἐξετάσωμεν, τίνα μὲν οἱ πλουτοῦντες ἐπαιτοῦντες λέγουσι, τίνα δὲ οἱ πένητες.",
+          "en": "<span class=\"sn\" data-s=\"251\">And here is one more thing.</span> <span class=\"sn\" data-s=\"252\">Let us actually examine the words: what the rich beggars say, and what the poor ones say.</span>"
+        },
+        {
+          "gr": "Τί οὖν ὁ πένης φησίν; Ὅτι ὁ διδοὺς ἐλεημοσύνην οὐ μετριάσει ποτὲ, ὅτι ἀπὸ τῶν τοῦ Θεοῦ δίδωσιν, ὅτι ὁ Θεὸς φιλάνθρωπος καὶ μείζονα ἀντιδίδωσιν·",
+          "en": "<span class=\"sn\" data-s=\"253\">What does the poor man say?</span> <span class=\"sn\" data-s=\"254\">That the person who gives alms will never come to want himself; that he is giving away what belongs to God; that God loves mankind and repays more generously than he was given.</span>"
+        },
+        {
+          "gr": "ἅπερ ἅπαντα φιλοσοφίας ἐστὶ ῥήματα καὶ παραινέσεως καὶ συμβουλῆς.",
+          "en": "<span class=\"sn\" data-s=\"255\">Every one of those is a statement of high morality, encouragement and good counsel.</span>"
+        },
+        {
+          "gr": "Ἀξιοῖ σε γὰρ πρὸς τὸν Δεσπότην ἰδεῖν, καὶ τὸν φόβον ἐξαίρει σου τῆς μελλούσης πενίας· καὶ πολλὴν ἄν τις ἴδοι διδασκαλίαν ἐν τοῖς τῶν ἐπαιτούντων ῥήμασι.",
+          "en": "<span class=\"sn\" data-s=\"256\">He is recommending that you look to the Lord, and he is taking away your fear of any poverty ahead.</span> <span class=\"sn\" data-s=\"257\">You can find a great deal of instruction in the words of people asking for alms.</span>"
+        },
+        {
+          "gr": "Τὰ δὲ τῶν πλουτούντων ὁποῖα; Χοίρων καὶ κυνῶν καὶ λύκων καὶ τῶν ἄλλων θηρίων.",
+          "en": "<span class=\"sn\" data-s=\"258\">And of what kind are the words of the rich?</span> <span class=\"sn\" data-s=\"259\">The words of pigs and dogs and wolves and every other wild animal.</span>"
+        },
+        {
+          "gr": "Οἱ μὲν γὰρ αὐτῶν περὶ τραπεζῶν καὶ ὄψων καὶ καρυκευμάτων καὶ οἴνου παντοδαποῦ καὶ μύρων καὶ ἱματίων καὶ τῆς ἄλλης διαπαντὸς διαλέγονται ἀσωτίας·",
+          "en": "<span class=\"sn\" data-s=\"260\">Some of them talk endlessly about banquets and dishes and delicacies, wines of every sort, perfumes, clothes, and the whole rest of that extravagance.</span>"
+        },
+        {
+          "gr": "οἱ δὲ περὶ τόκων καὶ δανεισμάτων, καὶ γραμματεῖα πλάττοντες καὶ χρεῶν ὄγκον ἀφόρητον ἐπαιωροῦντες, ὡς ἐκ πατέρων ἢ πάππων ἀρχὴν εἰληφότα, τοῦ μὲν τὴν οἰκίαν, τοῦ δὲ τὸν ἀγρὸν, τοῦ δὲ ἀνδράποδον ἀφαιροῦνται καὶ τὰ ὄντα ἅπαντα.",
+          "en": "<span class=\"sn\" data-s=\"261\">Others talk about interest rates and loans, drawing up accounts and swelling the mass of debt to an unbearable size, as though it had begun back in the days of the debtors' fathers or grandfathers.</span> <span class=\"sn\" data-s=\"262\">One man they strip of his house, another of his field, another of a servant, another of everything he owns.</span>"
+        },
+        {
+          "gr": "Τί ἄν τις εἴποι τὰς διαθήκας, τὰς ἀντὶ μέλανος αἵματι γεγραμμένας; Ἢ γὰρ κίνδυνον ἀφόρητον περιστήσαντες, ἢ μικραῖς τισι καταγοητεύσαντες ὑποσχέσεσιν, οὓς ἂν ἴδωσιν ὀλίγα τινὰ κεκτημένους, ἔπεισαν τοὺς μὲν προσήκοντας ἅπαντας καὶ πενίᾳ πολλάκις ἀπολλυμένους παραδραμεῖν, αὐτοὺς δὲ ἀντ' ἐκείνων ἐγγράψαι. Ταῦτ' οὖν ποίων θηρίων οὐκ ἀποκρύπτει μανίαν καὶ ἀγριότητα;",
+          "en": "<span class=\"sn\" data-s=\"263\">And why even speak of their wills, which are written in blood rather than ink?</span> <span class=\"sn\" data-s=\"264\">Because either by hemming a man in with some unbearable danger, or by bewitching him with some cheap promise, whenever they see somebody in possession of a little property they persuade him to pass over all his own relatives — and often when those relatives are dying of poverty — and to write in their names instead.</span> <span class=\"sn\" data-s=\"265\">Is there any madness, any ferocity of any wild animal, that these things do not put in the shade?</span>"
+        },
+        {
+          "gr": "Διὸ, παρακαλῶ, πάντα τὸν τοιοῦτον πλοῦτον φύγωμεν, τὸν αἰσχρὸν καὶ φόνων γέμοντα· καὶ κτησώμεθα τὸν πνευματικὸν, καὶ τοὺς ἐν τοῖς οὐρανοῖς θησαυροὺς ἐπιζητήσωμεν.",
+          "en": "<span class=\"sn\" data-s=\"266\">So I beg you: let us run from wealth of that kind, disgraceful as it is and crowded with deaths.</span> <span class=\"sn\" data-s=\"267\">Let us get hold instead of the wealth that is spiritual, and let us go looking for the treasures in heaven.</span>"
+        },
+        {
+          "gr": "Οἱ γὰρ τούτους ἔχοντες, ἐκεῖνοι οἱ πλούσιοι, ἐκεῖνοι οἱ εὔποροι, καὶ τῶν ἐνταῦθα καὶ τῶν ἐκεῖ πάντων ἀπολαύοντες.",
+          "en": "<span class=\"sn\" data-s=\"268\">Whoever owns those is genuinely rich, genuinely wealthy, enjoying good things both here and there — enjoying, in fact, everything.</span>"
+        },
+        {
+          "gr": "Ὁ γὰρ βουλόμενος πένεσθαι κατὰ τὸν τοῦ Θεοῦ λόγον, τὰς πάντων οἰκίας ἀνεῳγμένας ἔχει.",
+          "en": "<span class=\"sn\" data-s=\"269\">Because whoever chooses to be poor according to the word of God finds every house standing open to him: to a man who has given up owning anything for God's sake, everyone will contribute out of what is theirs.</span>"
+        },
+        {
+          "gr": "Τῷ γὰρ οὐδὲν κεκτημένῳ διὰ τὸν Θεὸν, ἕκαστος ἂν εἰσενέγκοι τὰ ἑαυτοῦ· ὁ δὲ μικρὰ μετὰ ἀδικίας βουλόμενος ἔχειν, τὰς ἁπάντων ἀπέκλεισε θύρας.",
+          "en": "<span class=\"sn\" data-s=\"270\">But whoever insists on holding on to a little by injustice shuts everybody's door against himself.</span>"
+        },
+        {
+          "gr": "Ἵνα τοίνυν καὶ τῶν ἐνταῦθα καὶ τῶν ἐκεῖ ἀγαθῶν ἐπιτύχωμεν, ἑλώμεθα τὸν πλοῦτον τὸν ἀκίνητον, τὴν ἀθάνατον εὐπορίαν· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ τὰ ἑξῆς.",
+          "en": "<span class=\"sn\" data-s=\"271\">So then — so that we may reach both the good things here and the good things there — let us choose the wealth that cannot be taken away, that undying abundance.</span> <span class=\"sn\" data-s=\"272\">And may God grant us all to obtain it, through the grace and loving kindness of our Lord Jesus Christ.</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ref": "2 Corinthians 4:13-18",
+  "book": "2Cor",
+  "from": [
+    4,
+    13
+  ],
+  "to": [
+    4,
+    18
+  ],
+  "slug": "2-corinthians-4-13-18",
+  "greek": [
+    {
+      "v": "4:13",
+      "text": "Ἔχοντες δὲ τὸ αὐτὸ πνεῦμα τῆς πίστεως, κατὰ τὸ γεγραμμένον, Ἐπίστευσα, διὸ ἐλάλησα, καὶ ἡμεῖς πιστεύομεν, διὸ καὶ λαλοῦμεν·"
+    },
+    {
+      "v": "4:14",
+      "text": "εἰδότες ὅτι ὁ ἐγείρας τὸν κύριον Ἰησοῦν καὶ ἡμᾶς διὰ Ἰησοῦ ἐγερεῖ, καὶ παραστήσει σὺν ὑμῖν."
+    },
+    {
+      "v": "4:15",
+      "text": "Τὰ γὰρ πάντα δι' ὑμᾶς, ἵνα ἡ χάρις πλεονάσασα διὰ τῶν πλειόνων τὴν εὐχαριστίαν περισσεύσῃ εἰς τὴν δόξαν τοῦ θεοῦ."
+    },
+    {
+      "v": "4:16",
+      "text": "Διὸ οὐκ ἐκκακοῦμεν, ἀλλ' εἰ καὶ ὁ ἔξω ἡμῶν ἄνθρωπος διαφθείρεται, ἀλλ' ὁ ἔσωθεν ἀνακαινοῦται ἡμέρᾳ καὶ ἡμέρᾳ."
+    },
+    {
+      "v": "4:17",
+      "text": "Τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ἡμῶν καθ' ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν,"
+    },
+    {
+      "v": "4:18",
+      "text": "μὴ σκοπούντων ἡμῶν τὰ βλεπόμενα, ἀλλὰ τὰ μὴ βλεπόμενα· τὰ γὰρ βλεπόμενα πρόσκαιρα· τὰ δὲ μὴ βλεπόμενα αἰώνια."
+    }
+  ],
+  "english": [
+    {
+      "v": "4:13",
+      "text": "Brothers and sisters: we have the same spirit of faith as the scripture describes — \"I believed, and so I spoke\" — and we too believe, and so we also speak."
+    },
+    {
+      "v": "4:14",
+      "text": "We know that the one who raised the Lord Jesus will raise us too through Jesus, and will place us beside him together with you."
+    },
+    {
+      "v": "4:15",
+      "text": "All these things are for your sake, so that grace, spreading to more and more people, may make thanksgiving overflow to the glory of God."
+    },
+    {
+      "v": "4:16",
+      "text": "That is why we do not lose heart. Even if our outward self is wearing away, our inner self is being made new day by day."
+    },
+    {
+      "v": "4:17",
+      "text": "This slight trouble of the moment is working out for us an eternal weight of glory that outweighs it beyond all measure —"
+    },
+    {
+      "v": "4:18",
+      "text": "because we keep our eyes not on what can be seen, but on what cannot be seen. What can be seen lasts only for a while; what cannot be seen lasts for ever."
+    }
+  ],
+  "greek_source": "content/2026-08-14/readings.md",
+  "english_source": "content/2026-08-14/readings.md",
+  "status": "complete"
+}

@@ -1,0 +1,19 @@
+{
+  "ref": "Mark 5:22-24, 35-6:1",
+  "book": "Mark",
+  "from": [
+    5,
+    22
+  ],
+  "to": [
+    6,
+    1
+  ],
+  "slug": "mark-5-22-24-35-6-1",
+  "greek": null,
+  "english": null,
+  "greek_source": null,
+  "english_source": null,
+  "status": "empty",
+  "greek_error": "cannot parse range chunk '35-6:1' in 'Mark 5:22-24, 35-6:1'"
+}

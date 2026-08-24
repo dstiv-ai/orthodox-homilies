@@ -1,0 +1,86 @@
+{
+  "ref": "Matthew 5:20-26",
+  "book": "Matt",
+  "from": [
+    5,
+    20
+  ],
+  "to": [
+    5,
+    26
+  ],
+  "slug": "matthew-5-20-26",
+  "greek": [
+    {
+      "v": "5:20",
+      "text": "Λέγω γὰρ ὑμῖν ὅτι ἐὰν μὴ περισσεύσῃ ἡ δικαιοσύνη ὑμῶν πλεῖον τῶν γραμματέων καὶ Φαρισαίων, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν."
+    },
+    {
+      "v": "5:21",
+      "text": "Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις, Οὐ φονεύσεις· ὃς δ’ ἂν φονεύσῃ, ἔνοχος ἔσται τῇ κρίσει·"
+    },
+    {
+      "v": "5:22",
+      "text": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ὀργιζόμενος τῷ ἀδελφῷ αὐτοῦ εἰκῇ ἔνοχος ἔσται τῇ κρίσει· ὃς δ’ ἂν εἴπῃ τῷ ἀδελφῷ αὐτοῦ, Ῥακά, ἔνοχος ἔσται τῷ συνεδρίῳ· ὃς δ’ ἂν εἴπῃ, Μωρέ, ἔνοχος ἔσται εἰς τὴν γέενναν τοῦ πυρός."
+    },
+    {
+      "v": "5:23",
+      "text": "Ἐὰν οὖν προσφέρῃς τὸ δῶρόν σου ἐπὶ τὸ θυσιαστήριον, καὶ ἐκεῖ μνησθῇς ὅτι ὁ ἀδελφός σου ἔχει τι κατὰ σοῦ,"
+    },
+    {
+      "v": "5:24",
+      "text": "ἄφες ἐκεῖ τὸ δῶρόν σου ἔμπροσθεν τοῦ θυσιαστηρίου, καὶ ὕπαγε, πρῶτον διαλλάγηθι τῷ ἀδελφῷ σου, καὶ τότε ἐλθὼν πρόσφερε τὸ δῶρόν σου."
+    },
+    {
+      "v": "5:25",
+      "text": "Ἴσθι εὐνοῶν τῷ ἀντιδίκῳ σου ταχύ, ἕως ὅτου εἶ ἐν τῇ ὁδῷ μετ’ αὐτοῦ, μήποτέ σε παραδῷ ὁ ἀντίδικος τῷ κριτῇ, καὶ ὁ κριτής σε παραδῷ τῷ ὑπηρέτῃ, καὶ εἰς φυλακὴν βληθήσῃ."
+    },
+    {
+      "v": "5:26",
+      "text": "Ἀμὴν λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν, ἕως ἂν ἀποδῷς τὸν ἔσχατον κοδράντην."
+    }
+  ],
+  "english": [
+    {
+      "v": "5:20",
+      "text": "At that time the Lord said to his disciples: \"For I tell you that unless your righteousness goes well beyond that of the scribes and Pharisees, you will certainly not enter the kingdom of the heavens."
+    },
+    {
+      "v": "5:21",
+      "text": "You have heard that it was said to the people of old, 'You shall not murder; and whoever murders will be liable to judgement.'"
+    },
+    {
+      "v": "5:22",
+      "text": "But I tell you that anyone who is angry with his brother without cause will be liable to judgement. Whoever says to his brother, 'Raka,' will be liable to the council. And whoever says, 'You fool,' will be liable to the Gehenna of fire."
+    },
+    {
+      "v": "5:23",
+      "text": "So if you are bringing your gift to the altar, and there you remember that your brother has something against you,"
+    },
+    {
+      "v": "5:24",
+      "text": "leave your gift there in front of the altar, and go — first be reconciled to your brother, and then come and offer your gift."
+    },
+    {
+      "v": "5:25",
+      "text": "Come to terms with your opponent quickly, while you are still on the way with him, or your opponent may hand you over to the judge, and the judge to the officer, and you will be thrown into prison."
+    },
+    {
+      "v": "5:26",
+      "text": "I tell you the truth: you will not get out of there until you have paid the last penny.\""
+    }
+  ],
+  "greek_source": "work/byztxt/MAT.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "5:22",
+      "note": "Byzantine includes εἰκῇ, 'without cause / without reason'. Many modern editions omit it, which makes all anger against a brother liable. I have translated εἰκῇ because it is in this Greek. Ῥακά is an Aramaic insult, roughly 'empty-head'; I have left it untranslated rather than pretend English has an equivalent. Μωρέ is ordinary Greek for 'fool' — the same root as μωρανθῇ in 5:13."
+    },
+    {
+      "v": "5:26",
+      "note": "κοδράντην is a quadrans, the smallest Roman coin. 'The last penny' is the spoken equivalent, not a numismatic rendering."
+    }
+  ]
+}

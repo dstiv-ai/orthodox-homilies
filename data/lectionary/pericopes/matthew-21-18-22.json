@@ -1,0 +1,60 @@
+{
+  "ref": "Matthew 21:18-22",
+  "book": "Matt",
+  "from": [
+    21,
+    18
+  ],
+  "to": [
+    21,
+    22
+  ],
+  "slug": "matthew-21-18-22",
+  "greek": [
+    {
+      "v": "21:18",
+      "text": "Πρωΐας δὲ ἐπανάγων εἰς τὴν πόλιν, ἐπείνασεν."
+    },
+    {
+      "v": "21:19",
+      "text": "Καὶ ἰδὼν συκῆν μίαν ἐπὶ τῆς ὁδοῦ, ἦλθεν ἐπ' αὐτήν, καὶ οὐδὲν εὗρεν ἐν αὐτῇ εἰ μὴ φύλλα μόνον· καὶ λέγει αὐτῇ, Μηκέτι ἐκ σοῦ καρπὸς γένηται εἰς τὸν αἰῶνα. Καὶ ἐξηράνθη παραχρῆμα ἡ συκῆ."
+    },
+    {
+      "v": "21:20",
+      "text": "Καὶ ἰδόντες οἱ μαθηταὶ ἐθαύμασαν, λέγοντες, Πῶς παραχρῆμα ἐξηράνθη ἡ συκῆ;"
+    },
+    {
+      "v": "21:21",
+      "text": "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς, Ἀμὴν λέγω ὑμῖν, ἐὰν ἔχητε πίστιν, καὶ μὴ διακριθῆτε, οὐ μόνον τὸ τῆς συκῆς ποιήσετε, ἀλλὰ κἂν τῷ ὄρει τούτῳ εἴπητε, Ἄρθητι, καὶ βλήθητι εἰς τὴν θάλασσαν, γενήσεται."
+    },
+    {
+      "v": "21:22",
+      "text": "Καὶ πάντα ὅσα ἐὰν αἰτήσητε ἐν τῇ προσευχῇ, πιστεύοντες, λήψεσθε."
+    }
+  ],
+  "english": [
+    {
+      "v": "21:18",
+      "text": "At that time, early in the morning, as Jesus was going back up to the city, he was hungry."
+    },
+    {
+      "v": "21:19",
+      "text": "And seeing a single fig tree by the road, he went up to it and found nothing on it but leaves only. And he says to it: \"May no fruit ever come from you again.\" And the fig tree withered on the spot."
+    },
+    {
+      "v": "21:20",
+      "text": "And seeing it, the disciples marvelled, saying: \"How did the fig tree wither on the spot?\""
+    },
+    {
+      "v": "21:21",
+      "text": "Jesus answered and said to them: \"I tell you the truth: if you have faith and do not waver, you will not only do what was done to the fig tree — even if you say to this mountain, 'Be lifted up and thrown into the sea,' it will happen."
+    },
+    {
+      "v": "21:22",
+      "text": "And everything you ask for in prayer, believing, you will receive.\""
+    }
+  ],
+  "greek_source": "content/2026-08-03/readings.md",
+  "english_source": "content/2026-08-03/readings.md",
+  "status": "complete"
+}

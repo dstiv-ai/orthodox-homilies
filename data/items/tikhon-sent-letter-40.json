@@ -1,0 +1,65 @@
+{
+  "id": "tikhon-sent-letter-40",
+  "slug": "tikhon-sent-letter-40",
+  "title": "Letter 40 — A Resting Place for the Poor",
+  "father": "St Tikhon of Zadonsk",
+  "collection": "The Letters Sent",
+  "source_ref": null,
+  "category": "by-author",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "tikhon-of-zadonsk",
+  "scripture": [],
+  "chapter": 40,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 109,
+  "reading_minutes": 1,
+  "attribution_note": "Letter 40 of 46 in the collection Letters Sent — see Letter 1 for provenance.",
+  "path": [
+    "by-author",
+    "st-tikhon-of-zadonsk",
+    "the-letters-sent",
+    "40"
+  ],
+  "sections": [
+    {
+      "heading": "Build where the poor may rest",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">*“Dear brother in Christ, Stephen!”*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">God will reward you for your diligence.</span> <span class=\"sn\" data-s=\"3\">I advise: could one not build now, that there might be a place where the poor may rest, in a seemly place — and there will be money for the building.</span> <span class=\"sn\" data-s=\"4\">Be so good as to inquire of Cosmas Ignatyev and of Ignatius Loktev concerning the money.</span> <span class=\"sn\" data-s=\"5\">Strive, brother, for Christ's sake.</span> <span class=\"sn\" data-s=\"6\">The Lord grant you help.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "From the forest",
+      "heading_sentence_index": 7,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"8\">I live in the forest, that there might be less ringing in my ears, and that my eyes might see less.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"9\">Be saved with all.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"10\">Your servant, the unworthy bishop Tikhon.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"11\">The 30th day of September, in the year 1771.</span>"
+        }
+      ]
+    }
+  ]
+}

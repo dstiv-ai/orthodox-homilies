@@ -1,0 +1,524 @@
+{
+  "id": "homily-57-matthew",
+  "slug": "homily-57-matthew",
+  "title": "Homily 57 on Matthew",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": null,
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "prophet-elijah",
+  "scripture": [
+    "Matthew 17:10-13"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 5629,
+  "reading_minutes": 28,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "matthew"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ ΝΖʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**Matthew 17:10.**</span>"
+        },
+        {
+          "gr": "Καὶ ἐπηρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες· Τί οὖν οἱ γραμματεῖς λέγουσιν, ὅτι Ἠλίαν δεῖ ἐλθεῖν πρῶτον;",
+          "en": "<span class=\"sn\" data-s=\"2\">*“And his disciples asked him, 'Why then do the teachers of the Law say that Elijah must come first?'”* [Matthew 17:10]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Why the scribes said Elijah must come first",
+      "heading_sentence_index": 3,
+      "pairs": [
+        {
+          "gr": "αʹ. Οὐκ ἄρα ἀπὸ τῶν Γραφῶν τοῦτο ᾔδεσαν, ἀλλ' ἐκεῖνοι ἑαυτοὺς διεσάφουν, καὶ περιεφέρετο ὁ λόγος οὗτος ἐν τῷ ἀπείρῳ δήμῳ, καθάπερ καὶ ἐπὶ τοῦ Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"4\">They did not get this idea from the Scriptures.</span> <span class=\"sn\" data-s=\"5\">The scribes — the professional teachers of the Law — used to explain it their own way, and their explanation spread by word of mouth among ordinary people who had no way of checking it.</span> <span class=\"sn\" data-s=\"6\">Exactly the same thing had happened with what people expected about the Christ.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ἡ Σαμαρεῖτις ἔλεγε· Μεσσίας ἔρχεται· ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν πάντα· καὶ αὐτοὶ ἠρώτων τὸν Ἰωάννην· Ἠλίας εἶ, ἢ ὁ προφήτης; Ἐκράτει μὲν γὰρ, ὅπερ ἔφην, ὁ λόγος, καὶ ὁ περὶ τοῦ Χριστοῦ, καὶ ὁ περὶ τοῦ Ἠλία, οὐχ ὡς ἐχρῆν δὲ παρ' ἐκείνων ἑρμηνευόμενος.",
+          "en": "<span class=\"sn\" data-s=\"7\">That is why the Samaritan woman at the well said, *“I know that the Messiah is coming; when he comes, he will tell us everything.”* [John 4:25] And it is why the people sent to question John the Baptist asked him, *“Are you Elijah?*</span> <span class=\"sn\" data-s=\"8\">*Are you the Prophet?”* [John 1:21] Both rumours were in the air — the one about the Christ and the one about Elijah — and neither of them was being interpreted correctly.</span>"
+        },
+        {
+          "gr": "Αἱ μὲν γὰρ Γραφαὶ δύο λέγουσι τοῦ Χριστοῦ παρουσίας, ταύτην τε τὴν γεγενημένην, καὶ τὴν μέλλουσαν· καὶ ταύτας δηλῶν ὁ Παῦλος ἔλεγεν·",
+          "en": "<span class=\"sn\" data-s=\"9\">Here is what the Scriptures actually say.</span> <span class=\"sn\" data-s=\"10\">They speak of **two** comings of Christ: the one that has already happened, and the one still to come.</span> <span class=\"sn\" data-s=\"11\">Paul mentions both.</span>"
+        },
+        {
+          "gr": "Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ ἡ σωτήριος παιδεύουσα ἡμᾶς, ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας, σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν. Ἰδοὺ ἡ μία· ἄκουσον πῶς καὶ τὴν ἑτέραν δηλοῖ. Εἰπὼν γὰρ ταῦτα, ἐπήγαγε· Προσδεχόμενοι τὴν μακαρίαν ἐλπίδα, καὶ ἐπιφάνειαν τοῦ μεγάλου Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"12\">About the first he writes, *“the grace of God has appeared, bringing salvation, teaching us to say no to godlessness and worldly desires, and to live sensibly, honestly and reverently.”* That is the first coming.</span> <span class=\"sn\" data-s=\"13\">Now listen to how he announces the second, in the very next breath: *“while we wait for the blessed hope — the appearing of the glory of our great God and Saviour Jesus Christ.”* [Titus 2:11–13]</span>"
+        },
+        {
+          "gr": "Καὶ οἱ προφῆται δὲ ἑκατέρας μέμνηνται· τῆς μέντοι μιᾶς, τῆς δευτέρας, πρόδρομον λέγουσι τὸν Ἠλίαν ἔσεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"14\">The prophets mention both comings too.</span> <span class=\"sn\" data-s=\"15\">But when they say Elijah will go ahead as the forerunner, they are speaking of the **second** coming.</span>"
+        },
+        {
+          "gr": "Τῆς μὲν γὰρ προτέρας ἐγένετο ὁ Ἰωάννης, ὃν καὶ Ἠλίαν ὁ Χριστὸς ἐκάλει· οὐκ ἐπειδὴ Ἠλίας ἦν, ἀλλ' ἐπειδὴ τὴν διακονίαν ἐπλήρου τὴν ἐκείνου. Ὥσπερ γὰρ ἐκεῖνος πρόδρομος ἔσται τῆς δευτέρας παρουσίας, οὕτω καὶ οὗτος τῆς προτέρας ἐγένετο.",
+          "en": "<span class=\"sn\" data-s=\"16\">It was John the Baptist who was the forerunner of the **first** — and Christ called John “Elijah,” not because he actually was Elijah, but because he was carrying out the same job that Elijah had.</span> <span class=\"sn\" data-s=\"17\">One man goes ahead of the second coming; the other went ahead of the first.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οἱ γραμματεῖς ταῦτα συγχέοντες, καὶ διαστρέφοντες τὸν δῆμον, ἐκείνης ἐμνημόνευον μόνης πρὸς τὸν δῆμον, τῆς δευτέρας παρουσίας, καὶ ἔλεγον, ὅτι Εἰ οὗτός ἐστιν ὁ Χριστὸς, ἔδει τὸν Ἠλίαν προλαβεῖν. Διὰ τοῦτο καὶ οἱ μαθηταὶ λέγουσι· Πῶς οἱ γραμματεῖς λέγουσιν, Ἠλίαν δεῖ ἐλθεῖν πρῶτον; Διὰ τοῦτο καὶ πρὸς τὸν Ἰωάννην πέμψαντες οἱ Φαρισαῖοι ἠρώτων· Εἰ σὺ εἶ Ἠλίας; οὐ μνημονεύοντες οὐδαμοῦ τῆς προτέρας παρουσίας.",
+          "en": "<span class=\"sn\" data-s=\"18\">The scribes jumbled these two things together and misled the people.</span> <span class=\"sn\" data-s=\"19\">They only ever mentioned the second coming, and so they told the crowds: “If this man is the Christ, then Elijah should have arrived before him.”</span> <span class=\"sn\" data-s=\"20\">That is exactly why the disciples now ask, *“Why then do the teachers of the Law say that Elijah must come first?”* [Matthew 17:10] And it is why the Pharisees had sent messengers to John asking, *“Are you Elijah?”* [John 1:21] — never once mentioning the first coming.</span>"
+        },
+        {
+          "gr": "Τίς οὖν ἐστιν ἡ λύσις, ἣν ὁ Χριστὸς ἐπήγαγεν; Ὅτι Ἠλίας μὲν ἔρχεται τότε πρὸ τῆς δευτέρας μου παρουσίας· καὶ νῦν δὲ ἐλήλυθεν Ἠλίας· τὸν Ἰωάννην οὕτω καλῶν.",
+          "en": "<span class=\"sn\" data-s=\"21\">So what answer does Christ give?</span> <span class=\"sn\" data-s=\"22\">Essentially this: *Elijah does come — before my second coming.*</span> <span class=\"sn\" data-s=\"23\">*And Elijah has also already come* — meaning John.</span>"
+        },
+        {
+          "gr": "Οὗτος ἦλθεν Ἠλίας. Εἰ δὲ τὸν Θεσβίτην ζητοίης, ἔρχεται. Διὸ καὶ ἔλεγεν· Ἠλίας μὲν ἔρχεται, καὶ ἀποκαταστήσει πάντα. Ποῖα πάντα; Ἅπερ ὁ προφήτης ἔλεγε Μαλαχίας. Ἀποστελῶ γὰρ ὑμῖν, φησὶν, Ἠλίαν τὸν Θεσβίτην, ὃς ἀποκαταστήσει καρδίαν πατρὸς πρὸς υἱὸν, μὴ ἐλθὼν πατάξω τὴν γῆν ἄρδην.",
+          "en": "<span class=\"sn\" data-s=\"24\">In that second sense, Elijah has come.</span> <span class=\"sn\" data-s=\"25\">But if you are looking for Elijah the Tishbite himself — the actual prophet from Tishbe — he is still to come.</span> <span class=\"sn\" data-s=\"26\">That is why Christ says, *“Elijah does come, and he will restore all things.”* [Matthew 17:11] Restore what things?</span> <span class=\"sn\" data-s=\"27\">The things the prophet Malachi spoke about: *“I will send you Elijah the Tishbite, and he will turn the heart of the father to the son, so that I do not come and strike the earth completely.”* [Malachi 4:5–6]</span>"
+        },
+        {
+          "gr": "Εἶδες ἀκρίβειαν προφητικῆς ῥήσεως, Ἐπειδὴ γὰρ τὸν Ἰωάννην Ἠλίαν ἐκάλεσεν ὁ Χριστὸς, διὰ τὴν κοινωνίαν τῆς διακονίας, ἵνα μὴ νομίσῃς τοῦτο καὶ παρὰ τοῦ προφήτου λέγεσθαι νῦν, προσέθηκεν αὐτοῦ καὶ τὴν πατρίδα, εἰπὼν, Τὸν Θεσβίτην· Ἰωάννης δὲ Θεσβίτης οὐκ ἦν.",
+          "en": "<span class=\"sn\" data-s=\"28\">Notice how exact the prophet's language is.</span> <span class=\"sn\" data-s=\"29\">Because Christ had called John “Elijah” on the grounds that they shared the same job, you might have assumed Malachi meant John too.</span> <span class=\"sn\" data-s=\"30\">So Malachi blocks that reading by naming the man's home town: **the Tishbite**.</span> <span class=\"sn\" data-s=\"31\">John was not from Tishbe.</span>"
+        },
+        {
+          "gr": "Καὶ ἕτερον δὲ μετὰ τούτου παράσημον τίθησι λέγων, Μὴ ἐλθὼν πατάξω τὴν γῆν ἄρδην, τὴν δευτέραν αὐτοῦ παρουσίαν ἐμφαίνων τὴν φοβεράν. Τῇ γὰρ προτέρᾳ οὐκ ἦλθε πατάξαι τὴν γῆν. Οὐ γὰρ ἦλθον, φησὶν, ἵνα κρίνω τὸν κόσμον, ἀλλ' ἵνα σώσω τὸν κόσμον.",
+          "en": "<span class=\"sn\" data-s=\"32\">And Malachi adds a second marker as well — *“so that I do not come and strike the earth completely”* — which points to the second coming, the terrifying one.</span> <span class=\"sn\" data-s=\"33\">At the first coming, Christ did not come to strike the earth.</span> <span class=\"sn\" data-s=\"34\">As he said himself, *“I did not come to judge the world, but to save the world.”* [John 12:47]</span>"
+        },
+        {
+          "gr": "Δηλῶν τοίνυν, ὅτι πρὸ ἐκείνης ἔρχεται ὁ Θεσβίτης τῆς τὴν κρίσιν ἐχούσης, τοῦτο εἴρηκε.",
+          "en": "<span class=\"sn\" data-s=\"35\">So Malachi says this in order to show that the Tishbite comes before the **other** coming, the one that brings judgment.</span>"
+        },
+        {
+          "gr": "Καὶ τὴν αἰτίαν δὲ ὁμοῦ διδάσκει τῆς παρουσίας αὐτοῦ. Τίς δὲ ἡ αἰτία; Ἵνα ἐλθὼν πείσῃ πιστεῦσαι τοὺς Ἰουδαίους τῷ Χριστῷ, καὶ μὴ πάντες ἄρδην ἀπόλωνται παραγενομένου. Διὸ δὴ καὶ αὐτὸς εἰς ἐκείνην αὐτοὺς παραπέμπων τὴν μνήμην, φησί· Καὶ ἀποκαταστήσει πάντα· τουτέστι, διορθώσεται τὴν ἀπιστίαν τῶν Ἰουδαίων τῶν τότε εὑρισκομένων.",
+          "en": "<span class=\"sn\" data-s=\"36\">And Malachi also tells us the reason Elijah comes: so that when he arrives he may persuade the Jewish people to believe in Christ, and so that they may not all be utterly lost when Christ appears.</span> <span class=\"sn\" data-s=\"37\">That is why Christ, pointing them back to that prophecy, says, *“and he will restore all things”* — that is, he will put right the unbelief of the Jewish people alive at that time.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ σφόδρα ἀκριβέστατα εἴρηκεν. Οὐ γὰρ εἶπεν, Ἀποκαταστήσει καρδίαν υἱοῦ πρὸς πατέρα, ἀλλὰ, Πατρὸς πρὸς υἱόν.",
+          "en": "<span class=\"sn\" data-s=\"38\">And look how carefully Malachi words it.</span> <span class=\"sn\" data-s=\"39\">He does not say Elijah will turn the heart of the **son** to the **father**; he says the heart of the **father** to the **son**.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ πατέρες ἦσαν τῶν ἀποστόλων οἱ Ἰουδαῖοι, τοῦτο λέγει, ὅτι ἀποκαταστήσει τοῖς δόγμασι τῶν υἱῶν αὐτῶν, τουτέστι, τῶν ἀποστόλων, τὰς καρδίας τῶν πατέρων, τουτέστι, τοῦ γένους τῶν Ἰουδαίων τὴν διάνοιαν.",
+          "en": "<span class=\"sn\" data-s=\"40\">Here is why that matters.</span> <span class=\"sn\" data-s=\"41\">The Jewish people were, so to speak, the fathers of the apostles — the apostles came out of them.</span> <span class=\"sn\" data-s=\"42\">So Malachi is saying that Elijah will bring the hearts of the fathers, meaning the mind of the Jewish people, round to the teaching of their sons, meaning the apostles.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Elijah has already come",
+      "heading_sentence_index": 43,
+      "pairs": [
+        {
+          "gr": "Λέγω δὲ ὑμῖν, ὅτι Ἠλίας ἤδη ἦλθε, καὶ οὐκ ἔγνωσαν αὐτὸν, ἀλλ' ἐποίησαν ἐν αὐτῷ ὅσα ἠθέλησαν. Οὕτω καὶ ὁ Υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ' αὐτῶν. Τότε συνῆκαν, ὅτι περὶ Ἰωάννου εἶπεν αὐτοῖς.",
+          "en": "<span class=\"sn\" data-s=\"44\">*“But I tell you, Elijah has already come, and they did not recognise him, but did to him whatever they pleased.*</span> <span class=\"sn\" data-s=\"45\">*In the same way the Son of Man is going to suffer at their hands.”*</span> <span class=\"sn\" data-s=\"46\">*Then the disciples understood that he was speaking to them about John the Baptist.* [Matthew 17:12–13]</span>"
+        },
+        {
+          "gr": "Καίτοι οὔτε οἱ γραμματεῖς τοῦτο εἶπον, οὔτε αἱ Γραφαί· ἀλλ' ἐπειδὴ λοιπὸν ὀξύτεροι ἐγένοντο καὶ προσεκτικώτεροι πρὸς τὰ λεγόμενα, ταχέως συνίεσαν.",
+          "en": "<span class=\"sn\" data-s=\"47\">Notice: neither the scribes nor the Scriptures had told them this.</span> <span class=\"sn\" data-s=\"48\">They worked it out themselves, because by now they were sharper and paying closer attention to what he said, so they caught his meaning quickly.</span>"
+        },
+        {
+          "gr": "Πόθεν δὲ ἔγνωσαν τοῦτο οἱ μαθηταί; Ἦν ἤδη προειρηκὼς αὐτοῖς, Αὐτός ἐστιν Ἠλίας ὁ μέλλων ἔρχεσθαι· ἐνταῦθα δὲ, ὅτι Ἦλθε· καὶ πάλιν, ὅτι Ἠλίας ἔρχεται καὶ ἀποκαταστήσει πάντα.",
+          "en": "<span class=\"sn\" data-s=\"49\">And how did the disciples know it at all?</span> <span class=\"sn\" data-s=\"50\">He had already told them once before: *“he is the Elijah who was to come.”* [Matthew 11:14] Here he says Elijah **has** come; elsewhere he says Elijah **will** come and will restore all things.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ μὴ θορυβηθῇς, μηδὲ πεπλανῆσθαι τὸν λόγον νομίσῃς, εἰ ποτὲ μὲν αὐτὸν ἥξειν, ποτὲ δὲ ἐληλυθέναι ἔφη. Πάντα γὰρ ἀληθῆ ταῦτα.",
+          "en": "<span class=\"sn\" data-s=\"51\">Do not let that unsettle you, and do not imagine he is contradicting himself by saying “he will come” one moment and “he has come” the next.</span> <span class=\"sn\" data-s=\"52\">Both statements are true.</span>"
+        },
+        {
+          "gr": "Ὅταν μὲν γὰρ εἴπῃ, ὅτι Ἠλίας μὲν ἔρχεται καὶ ἀποκαταστήσει πάντα, αὐτὸν Ἠλίαν φησὶ, καὶ τὴν τότε ἐσομένην τῶν Ἰουδαίων ἐπιστροφήν· ὅταν δὲ εἴπῃ, ὅτι Ὁ μέλλων ἔρχεσθαι, κατὰ τὸν τρόπον τῆς διακονίας Ἰωάννην Ἠλίαν καλεῖ.",
+          "en": "<span class=\"sn\" data-s=\"53\">When he says *“Elijah does come, and will restore all things,”* he means Elijah himself, and the turning of the Jewish people that will happen then.</span> <span class=\"sn\" data-s=\"54\">When he says *“the Elijah who was to come,”* he is calling John “Elijah” because of the kind of work John did.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ οἱ προφῆται ἕκαστον τῶν εὐδοκίμων βασιλέων Δαυῒδ ἐκάλουν, καὶ τοὺς Ἰουδαίους ἄρχοντας Σοδόμων καὶ υἱοὺς Αἰθιόπων, ἀπὸ τῶν τρόπων. Ὥσπερ γὰρ ἐκεῖνος τῆς δευτέρας ἔσται παρουσίας, οὕτως οὗτος τῆς προτέρας ἐγένετο πρόδρομος.",
+          "en": "<span class=\"sn\" data-s=\"55\">The prophets used names this way all the time: they would call any king they approved of “David,” and they called the rulers of Jerusalem *“rulers of Sodom”* [Isaiah 1:10] and called the people *“sons of the Ethiopians”* [Amos 9:7] — in each case because of the way they behaved, not because of their ancestry.</span> <span class=\"sn\" data-s=\"56\">One man is forerunner of the second coming; the other was forerunner of the first.</span>"
+        },
+        {
+          "gr": "βʹ. Οὐ διὰ τοῦτο δὲ μόνον Ἠλίαν αὐτὸν ὀνομάζει πανταχοῦ, ἀλλ' ἵνα δείξῃ σφόδρα αὐτὸν τῇ Παλαιᾷ συμβαίνοντα, καὶ κατὰ προφητείαν καὶ τὴν παρουσίαν ταύτην οὖσαν.",
+          "en": "<span class=\"sn\" data-s=\"57\">There is another reason Christ keeps calling John “Elijah”: to show that he is in complete agreement with the Old Testament, and that his own coming is exactly what the prophets said would happen.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ ἐπάγει πάλιν, ὅτι Ἦλθε, καὶ οὐκ ἔγνωσαν αὐτὸν, ἀλλ' ἐποίησαν εἰς αὐτὸν πάντα ὅσα ἠθέλησαν. Τί ἐστι, Πάντα ὅσα ἠθέλησαν;",
+          "en": "<span class=\"sn\" data-s=\"58\">So he goes on: *“He came, and they did not recognise him, but did to him whatever they pleased.”* [Matthew 17:12] What does “whatever they pleased” mean in practice?</span>"
+        },
+        {
+          "gr": "Ἐνέβαλον εἰς δεσμωτήριον, ὕβρισαν, ἀπέκτειναν, ἤνεγκαν τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακος.",
+          "en": "<span class=\"sn\" data-s=\"59\">They threw him in prison.</span> <span class=\"sn\" data-s=\"60\">They treated him with contempt.</span> <span class=\"sn\" data-s=\"61\">They killed him.</span> <span class=\"sn\" data-s=\"62\">They carried his head in on a serving dish.</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ ὁ Υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ' αὐτῶν. Ὁρᾷς πῶς πάλιν εὐκαίρως αὐτοὺς ἀναμιμνήσκει τοῦ πάθους, ἀπὸ τοῦ πάθους τοῦ Ἰωάννου πολλὴν αὐτοῖς προξενῶν τὴν παραμυθίαν;",
+          "en": "<span class=\"sn\" data-s=\"63\">*“In the same way the Son of Man is going to suffer at their hands.”* Notice how, at just the right moment, he reminds them again of his own suffering — and how much comfort he stores up for them by putting John's death beside it.</span>"
+        },
+        {
+          "gr": "Οὐ ταύτῃ δὲ μόνον, ἀλλὰ καὶ τῷ θαύματα εὐθέως ἐργάσασθαι μεγάλα. Καὶ γὰρ ἡνίκα ἂν περὶ τοῦ πάθους διαλέγηται, εὐθέως θαυματουργεῖ, καὶ μετὰ τοὺς λόγους, καὶ πρὸ τῶν λόγων τούτων· καὶ πολλαχοῦ τοῦτο παρατηρήσαντα ἔστιν εὑρεῖν.",
+          "en": "<span class=\"sn\" data-s=\"64\">And he does not only comfort them that way; he also immediately performs great miracles.</span> <span class=\"sn\" data-s=\"65\">In fact, whenever he speaks of his suffering, he works miracles right around it, before and after.</span> <span class=\"sn\" data-s=\"66\">You can see him keeping to this pattern in many places.</span>"
+        },
+        {
+          "gr": "Τότε γοῦν, φησὶν, ἤρξατο δεικνύειν, ὅτι δεῖ αὐτὸν ἀπελθεῖν εἰς Ἱεροσόλυμα, καὶ ἀποκτανθῆναι, καὶ πολλὰ παθεῖν. Τότε, πότε; Ὅτε ὡμολογήθη Χριστὸς καὶ Υἱὸς εἶναι τοῦ Θεοῦ.",
+          "en": "<span class=\"sn\" data-s=\"67\">For instance, Scripture says *“he began to show them that he must go to Jerusalem and be killed and suffer many things.”* [Matthew 16:21] When did he say that?</span> <span class=\"sn\" data-s=\"68\">Right after he had been confessed to be the Christ, the Son of God.</span>"
+        },
+        {
+          "gr": "Πάλιν ἐν τῷ ὄρει, ὅτε τὴν θαυμαστὴν αὐτοῖς ἔδειξεν ὄψιν, καὶ περὶ τῆς δόξης αὐτοῦ διελέχθησαν οἱ προφῆται, ἀνέμνησεν αὐτοὺς τοῦ πάθους. Εἰπὼν γὰρ τὴν κατὰ Ἰωάννην ἱστορίαν, ἐπήγαγεν· Οὕτω καὶ ὁ Υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ' αὐτῶν.",
+          "en": "<span class=\"sn\" data-s=\"69\">Again, on the mountain, after he had shown them that astonishing vision and the prophets Moses and Elijah had been talking with him about his glory, he reminded them of his suffering.</span> <span class=\"sn\" data-s=\"70\">Straight after speaking about what happened to John, he added, *“In the same way the Son of Man is going to suffer at their hands.”*</span>"
+        },
+        {
+          "gr": "Καὶ μετὰ μικρὸν πάλιν, ὅτε τὸν δαίμονα ἐξέβαλεν, ὃν οὐκ ἴσχυσαν οἱ μαθηταὶ ἐκβαλεῖν. Καὶ γὰρ καὶ τότε, Ἀναστρεφομένων αὐτῶν ἐν τῇ Γαλιλαίᾳ, φησὶν, εἶπεν αὐτοῖς ὁ Ἰησοῦς, ὅτι μέλλει ὁ Υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν, καὶ ἀποκτενοῦσιν αὐτὸν, καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται.",
+          "en": "<span class=\"sn\" data-s=\"71\">And a little later, after he had driven out the demon his disciples had not been able to drive out, it happened again: *“While they were together in Galilee, Jesus said to them, 'The Son of Man is going to be handed over to sinful men, and they will kill him, and on the third day he will be raised.'”* [Matthew 17:22–23]</span>"
+        },
+        {
+          "gr": "Τοῦτο δὲ ἐποίει, τῷ μεγέθει τῶν θαυμάτων τὴν ὑπερβολὴν τῆς λύπης ὑποτεμνόμενος, καὶ παντὶ τρόπῳ αὐτοὺς παραμυθούμενος, ὥσπερ καὶ ἐνταῦθα τῇ μνήμῃ τοῦ θανάτου Ἰωάννου πολλὴν αὐτοῖς παρεῖχε τὴν παράκλησιν.",
+          "en": "<span class=\"sn\" data-s=\"72\">By doing it this way — by surrounding these announcements with enormous miracles — he was taking the edge off their grief and comforting them from every side.</span> <span class=\"sn\" data-s=\"73\">It is the same here: by mentioning John's death, he gave them a great deal of comfort.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ λέγοι τις· Τίνος ἕνεκεν μὴ καὶ νῦν τὸν Ἠλίαν ἀναστήσας ἔπεμψεν, εἴ γε τοσαῦτα αὐτοῦ μαρτυρεῖ τῇ παρουσίᾳ ἀγαθά; ἐροῦμεν, ὅτι καὶ νῦν τὸν Χριστὸν νομίζοντες Ἠλίαν εἶναι, οὐκ ἐπίστευον αὐτῷ.",
+          "en": "<span class=\"sn\" data-s=\"74\">Now someone may ask: if Christ speaks so highly of the good Elijah's coming will do, why did he not raise up Elijah and send him there and then?</span> <span class=\"sn\" data-s=\"75\">The answer is this.</span> <span class=\"sn\" data-s=\"76\">Even as things stood, some people thought Christ **was** Elijah, and they still did not believe him.</span>"
+        },
+        {
+          "gr": "Οἱ μὲν γὰρ, φησὶν, Ἠλίαν σε λέγουσιν, οἱ δὲ Ἱερεμίαν. Καὶ Ἰωάννου δὲ καὶ Ἠλίου οὐδὲν ἦν τὸ μέσον, ἢ ὁ χρόνος μόνος.",
+          "en": "<span class=\"sn\" data-s=\"77\">Some said, *“You are Elijah,”* and others, *“You are Jeremiah.”* [Matthew 16:14] And between John and Elijah there was no real difference except the period they lived in.</span>"
+        },
+        {
+          "gr": "Πῶς οὖν τότε πιστεύσουσι; φησί. Καὶ γὰρ ἀποκαταστήσει πάντα, οὐ διὰ τὸ γνώριμος εἶναι μόνον, ἀλλὰ καὶ διὰ τὸ διαταθῆναι μέχρι τῆς ἡμέρας ἐκείνης ἐπὶ πλέον τοῦ Χριστοῦ τὴν δόξαν, καὶ παρὰ πᾶσιν εἶναι τοῦ ἡλίου φανερωτέραν. Ὅταν οὖν τοσαύτης προλαβούσης ὑπολήψεως καὶ προσδοκίας, ἔλθῃ ἐκεῖνος τὰ αὐτὰ κηρύττων τούτῳ, καὶ ἀναγγέλλων καὶ αὐτὸς τὸν Ἰησοῦν, εὐκολώτερον δέξονται τὰ λεγόμενα.",
+          "en": "<span class=\"sn\" data-s=\"78\">Then how will people believe at that future time? someone will ask.</span> <span class=\"sn\" data-s=\"79\">Because Elijah will restore all things not simply by being recognised, but because by that day the glory of Christ will have been growing steadily brighter, and will be clearer to everyone than the sun.</span> <span class=\"sn\" data-s=\"80\">So when Elijah arrives with that kind of expectation already running ahead of him, making the same announcement John made, and pointing to Jesus as John did, people will accept what he says far more readily.</span>"
+        },
+        {
+          "gr": "Ὅταν δὲ εἴπῃ, Οὐκ ἔγνωσαν αὐτὸν, καὶ ὑπὲρ τῶν καθ' ἑαυτὸν ἀπολογεῖται.",
+          "en": "<span class=\"sn\" data-s=\"81\">And when Christ says, *“they did not recognise him,”* he is also making an excuse for what was about to be done to himself. [Luke 23:34]</span>"
+        },
+        {
+          "gr": "Καὶ οὐ ταύτῃ αὐτοὺς μόνον παραμυθεῖται, ἀλλὰ καὶ τῷ δεῖξαι ἀδίκως παρ' αὐτῶν πάσχοντα ἅπερ πάσχει, καὶ τῷ τὰ λυπηρὰ δύο συγκαλύψαι σημείοις, τῷ τε ἐν τῷ ὄρει, καὶ τῷ μέλλοντι γίνεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"82\">He comforts them in one more way as well: by pointing out that whatever John suffered at their hands, he did not deserve any of it — and by pushing the painful part into the background behind two signs, one already given on the mountain, and one about to happen right now.</span>"
+        },
+        {
+          "gr": "Ταῦτα δὲ ἀκούσαντες, οὐκ ἐρωτῶσιν αὐτὸν, πότε ἔρχεται Ἠλίας, ἢ τῇ ἀθυμίᾳ πιεζόμενοι τοῦ πάθους, ἢ δεδοικότες. Πολλαχοῦ γὰρ ὅταν ἴδωσι μὴ βουλόμενόν τι σαφῶς εἰπεῖν, σιγῶσι λοιπόν.",
+          "en": "<span class=\"sn\" data-s=\"83\">But when they heard all this, they did not go on to ask him **when** Elijah was coming.</span> <span class=\"sn\" data-s=\"84\">They were held back either by grief over his suffering or by fear.</span> <span class=\"sn\" data-s=\"85\">This happened often: when they could see he did not want to speak about something plainly, they would fall silent and let it drop.</span>"
+        },
+        {
+          "gr": "Ὅτε γοῦν ἐν τῇ Γαλιλαίᾳ διατριβόντων εἶπε, Μέλλει ὁ Υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι, καὶ ἀποκτενοῦσιν αὐτὸν, ἐπήγαγεν, ὁ Μάρκος μὲν, ὅτι Ἠγνόουν τὸ ῥῆμα, καὶ ἐφοβοῦντο αὐτὸν ἐρωτῆσαι· ὁ Λουκᾶς δὲ, ὅτι Ἦν παρακεκαλυμμένον ἀπ' αὐτῶν, ἵνα μὴ αἴσθωνται αὐτοῦ, καὶ ἐφοβοῦντο αὐτὸν ἐρωτῆσαι περὶ τοῦ ῥήματος.",
+          "en": "<span class=\"sn\" data-s=\"86\">For instance, while they were together in Galilee he said, *“The Son of Man is going to be handed over, and they will kill him”* [Matthew 17:22–23] — and Mark adds *“they did not understand what he meant, and they were afraid to ask him”* [Mark 9:32], and Luke adds *“it was hidden from them so that they did not grasp it, and they were afraid to ask him about that saying.”* [Luke 9:45]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The father, the boy, and a faith too small",
+      "heading_sentence_index": 87,
+      "pairs": [
+        {
+          "gr": "Ἐλθόντων δὲ αὐτῶν πρὸς τὸν ὄχλον, προσῆλθεν αὐτῷ ἄνθρωπος γονυπετῶν αὐτὸν, καὶ λέγων· Κύριε, ἐλέησόν μου τὸν υἱὸν, ὅτι σεληνιάζεται, καὶ κακῶς πάσχει. Πολλάκις γὰρ πίπτει εἰς τὸ πῦρ, καὶ πολλάκις εἰς τὸ ὕδωρ· καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου, καὶ οὐκ ἴσχυσαν αὐτὸν θεραπεῦσαι.",
+          "en": "<span class=\"sn\" data-s=\"88\">*“And when they came to the crowd, a man came up to him, kneeling down and saying, 'Lord, have mercy on my son.*</span> <span class=\"sn\" data-s=\"89\">*He is moon-struck and suffers terribly; he often falls into the fire and often into the water.*</span> <span class=\"sn\" data-s=\"90\">*And I brought him to your disciples, and they could not cure him.'”* [Matthew 17:14–16]</span>"
+        },
+        {
+          "gr": "Τοῦτον τὸν ἄνθρωπον σφόδρα ἀσθενοῦντα κατὰ πίστιν δείκνυσιν ἡ Γραφή· καὶ ἐκ πολλῶν τοῦτο δῆλον· ἔκ τε τοῦ εἰπεῖν τὸν Χριστὸν, Τῷ πιστεύοντι πάντα δυνατά· ἔκ τε τοῦ εἰπεῖν αὐτὸν τὸν προσελθόντα, Βοήθει μου τῇ ἀπιστίᾳ· καὶ ἐκ τοῦ τὸν Χριστὸν κελεῦσαι τῷ δαίμονι, μηκέτι εἰσελθεῖν εἰς αὐτόν· καὶ ἐκ τοῦ πάλιν εἰπεῖν τὸν ἄνθρωπον τῷ Χριστῷ, Εἰ δύνασαι Καὶ εἰ ἡ ἀπιστία αὐτοῦ γέγονεν αἰτία, φησὶ, τοῦ μὴ ἐξελθεῖν τὸν δαίμονα, τί τοῖς μαθηταῖς ἐγκαλεῖ;",
+          "en": "<span class=\"sn\" data-s=\"91\">Scripture makes it very clear that this man's faith was extremely weak, and it shows it in several ways at once: from Christ's saying, *“everything is possible for the one who believes”* [Mark 9:23]; from the man's own words, *“help my unbelief”* [Mark 9:24]; from Christ ordering the demon never to enter him again [Mark 9:25]; and from the man saying to Christ, *“if you can.”* [Mark 9:22]</span>"
+        },
+        {
+          "gr": "Δεικνὺς ὅτι δυνατὸν αὐτοῖς, καὶ χωρὶς τῶν προσαγόντων μετὰ πίστεως, πολλαχοῦ θεραπεῦσαι. Ὥσπερ γὰρ ἤρκει πολλάκις ἡ τοῦ προσάγοντος πίστις εἰς τὸ καὶ παρ' ἐλαττόνων λαβεῖν, οὕτω τῶν ποιούντων πολλάκις ἤρκεσεν ἡ δύναμις, καὶ μὴ πιστευόντων τῶν προσελθόντων, θαυματουργῆσαι. Καὶ ταῦτα ἀμφότερα δείκνυται ἐν ταῖς Γραφαῖς.",
+          "en": "<span class=\"sn\" data-s=\"92\">But if it was the man's unbelief that stopped the demon from coming out, someone may object, why does Christ criticise the **disciples**?</span> <span class=\"sn\" data-s=\"93\">Because he is showing that even without believing people bringing the sick to them, they could still have healed in plenty of cases.</span> <span class=\"sn\" data-s=\"94\">Both things are true: sometimes the faith of the person bringing the sick was enough to obtain the cure even from lesser ministers, and sometimes the power of the healers was enough on its own, even when the people who came had no belief.</span>"
+        },
+        {
+          "gr": "Οἵ τε γὰρ περὶ Κορνήλιον ἀπὸ τῆς αὐτῶν πίστεως ἐπεσπάσαντο τοῦ Πνεύματος τὴν χάριν· καὶ ἐπὶ τοῦ Ἐλισσαίου δὲ, οὐδενὸς πιστεύσαντος, νεκρὸς ἀνέστη.",
+          "en": "<span class=\"sn\" data-s=\"95\">Scripture shows both.</span> <span class=\"sn\" data-s=\"96\">Cornelius and his household drew the grace of the Spirit to themselves by their own faith [Acts 10].</span> <span class=\"sn\" data-s=\"97\">And in Elisha's case [2 Kings 13:21], nobody believed at all and a dead man still came back to life.</span>"
+        },
+        {
+          "gr": "Οἵ τε γὰρ ῥίψαντες, οὐ διὰ πίστιν, ἀλλὰ διὰ δειλίαν ἔῤῥιψαν ἁπλῶς καὶ ὡς ἔτυχε, φοβηθέντες τὸ πειρατήριον, καὶ ἔφυγον· αὐτός τε ὁ ῥιφεὶς ἀποτεθνηκὼς ἦν, καὶ ἀπὸ μόνης τῆς τοῦ ἁγίου σώματος δυνάμεως ἀνίστατο ὁ νεκρός.",
+          "en": "<span class=\"sn\" data-s=\"98\">The men who threw that body in did not do it out of faith — they did it out of panic.</span> <span class=\"sn\" data-s=\"99\">They were burying a man, a raiding party appeared, and they dropped the corpse into Elisha's tomb and ran.</span> <span class=\"sn\" data-s=\"100\">It was accidental, done for fear of the raiders.</span> <span class=\"sn\" data-s=\"101\">The man thrown in was simply dead.</span> <span class=\"sn\" data-s=\"102\">And still, by the sheer power in the prophet's holy body, the dead man stood up.</span>"
+        },
+        {
+          "gr": "Ὅθεν δῆλον ἐνταῦθα, ὅτι καὶ οἱ μαθηταὶ ἠσθένησαν, ἀλλ' οὐ πάντες· οἱ στῦλοι γὰρ οὐ παρῆσαν ἐκεῖ.",
+          "en": "<span class=\"sn\" data-s=\"103\">So it is clear in our case that the disciples were the weak ones — though not all of them: the three main ones were not there.</span> <span class=\"sn\" data-s=\"104\">(Paul calls Peter, James and John *“the pillars”* [Galatians 2:9], and they had gone up the mountain with Jesus.)</span>"
+        },
+        {
+          "gr": "γʹ. Θέα δὲ τούτου καὶ ἑτέρωθεν τὴν ἀγνωμοσύνην, πῶς ἐπὶ τοῦ ὄχλου ἐντυγχάνει τῷ Ἰησοῦ κατὰ τῶν μαθητῶν λέγων, ὅτι Προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου, καὶ οὐκ ἴσχυσαν αὐτὸν θεραπεῦσαι.",
+          "en": "<span class=\"sn\" data-s=\"105\">And notice how thoughtless this father is in another way too: in front of the whole crowd he complains to Jesus about his disciples — *“I brought him to your disciples, and they could not cure him.”*</span>"
+        },
+        {
+          "gr": "Ἀλλ' αὐτὸς ἀπαλλάττων αὐτοὺς τῶν ἐγκλημάτων ἐπὶ τοῦ δήμου, ἐκείνῳ τὸ πλέον λογίζεται. Ὦ γενεὰ γὰρ, φησὶν, ἄπιστος καὶ διεστραμμένη, ἕως πότε ἔσομαι μεθ' ὑμῶν; οὐκ εἰς τὸ τούτου πρόσωπον μόνον ἀποτεινόμενος, ἵνα μὴ ἀπορήσῃ τὸν ἄνθρωπον, ἀλλὰ καὶ εἰς πάντας Ἰουδαίους. Καὶ γὰρ εἰκὸς πολλοὺς τῶν παρόντων σκανδαλισθῆναι, καὶ τὰ μὴ προσήκοντα ἐννοῆσαι περὶ αὐτῶν.",
+          "en": "<span class=\"sn\" data-s=\"106\">Jesus clears them of the charge in front of the people and lays most of the blame on the father: *“You unbelieving and perverse generation, how long shall I be with you?”* [Matthew 17:17] He does not aim that only at this one man — that would have humiliated him — but at all the people there, because many of those standing around were probably scandalised by the disciples' failure and thinking less of them than they should.</span>"
+        },
+        {
+          "gr": "Ὅταν δὲ εἴπῃ, Ἕως πότε ἔσομαι μεθ' ὑμῶν; δείκνυσι πάλιν ἀσπαστὸν ὄντα τὸν θάνατον αὐτῷ, καὶ ἐπιθυμίας τὸ πρᾶγμα, καὶ ποθεινὴν τὴν ἀποδημίαν· καὶ ὅτι οὐ τὸ σταυρωθῆναι, ἀλλὰ τὸ εἶναι μετ' αὐτῶν βαρύ.",
+          "en": "<span class=\"sn\" data-s=\"107\">And when he says *“how long shall I be with you?”*, he shows again that death is something he welcomes, something he actually wants, a departure he is longing for — and that what weighs on him is not the crucifixion, but having to stay among people like this.</span>"
+        },
+        {
+          "gr": "Οὐ μὴν ἔστη μέχρι τῶν ἐγκλημάτων· ἀλλὰ τί φησι; Φέρετέ μοι αὐτὸν ὧδε. Καὶ αὐτὸς δὲ ἐρωτᾷ αὐτὸν, πόσον χρόνον ἔχει, καὶ ὑπὲρ τῶν μαθητῶν ἀπολογούμενος, κἀκεῖνον ἄγων εἰς ἐλπίδα χρηστὴν, καὶ τοῦ πιστεῦσαι, ὅτι ἔσται αὐτῷ ἀπαλλαγὴ τοῦ κακοῦ.",
+          "en": "<span class=\"sn\" data-s=\"108\">He does not stop at the rebuke, though.</span> <span class=\"sn\" data-s=\"109\">What does he say next?</span> <span class=\"sn\" data-s=\"110\">*“Bring him here to me.”* [Mark 9:19] And he asks the father himself how long the boy has been like this — which does two things at once: it defends his disciples, and it leads the father towards hope, so that he might come to believe his son really would be freed from this evil.</span>"
+        },
+        {
+          "gr": "Καὶ ἀφίησιν αὐτὸν σπαράττεσθαι, οὐ πρὸς ἐπίδειξιν (ἐπειδὴ γοῦν ὄχλος συνήγετο, καὶ ἐπετίμησεν αὐτῷ), ἀλλὰ δι' αὐτὸν τὸν πατέρα· ἵν' ὅταν ἴδῃ θορυβούμενον τὸ δαιμόνιον ἀπὸ τοῦ κληθῆναι μόνον, κἂν οὕτως ἐναχθῇ εἰς τὴν πίστιν τοῦ ἐσομένου θαύματος.",
+          "en": "<span class=\"sn\" data-s=\"111\">He also allows the boy to be thrown into convulsions — not to put on a show (in fact, as soon as a crowd began to gather, he rebuked the spirit), but for the father's own sake.</span> <span class=\"sn\" data-s=\"112\">He wanted the father to see the evil spirit thrown into panic at the mere call of Christ, so that at least by that route, if by no other, he might be brought to believe in the miracle that was coming.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ δὲ ἐκεῖνος εἶπεν, ὅτι Ἐκ παιδὸς, καὶ ὅτι, Εἰ δύνασαι, βοήθει μοι, λέγει· Τῷ πιστεύοντι πάντα δυνατὰ, πάλιν εἰς αὐτὸν περιτρέπων τὸ ἔγκλημα.",
+          "en": "<span class=\"sn\" data-s=\"113\">And because the man had said *“since he was a child”* and *“if you can, help me,”* Christ replies, *“Everything is possible for the one who believes”* [Mark 9:23] — turning the complaint back on him again.</span>"
+        },
+        {
+          "gr": "Καὶ ὅτε μὲν ἔλεγεν ὁ λεπρός· Εἰ θέλεις, δύνασαί με καθαρίσαι, μαρτυρῶν αὐτοῦ τῇ ἐξουσίᾳ, ἐπαινῶν αὐτὸν καὶ βεβαιῶν τὸ εἰρημένον, ἔλεγε· Θέλω, καθαρίσθητι. Ὅτε δὲ οὗτος οὐδὲν ἄξιον τῆς αὐτοῦ δυνάμεως ἐφθέγξατο εἰπών· Εἰ δύνασαι, βοήθει μοι, ὅρα πῶς αὐτὸ διορθοῦται, ὡς οὐ δεόντως εἰρημένον. Τί γάρ φησιν; Εἰ δύνασαι πιστεῦσαι, πάντα δυνατὰ τῷ πιστεύοντι. Ὃ δὲ λέγει, τοιοῦτόν ἐστι· Τοσαύτη παρ' ἐμοὶ δυνάμεως περιουσία, ὡς καὶ ἑτέρους δύνασθαι ποιεῖν ταῦτα θαυματουργεῖν. Ὥστε ἂν πιστεύῃς ὡς δεῖ, καὶ αὐτὸς δύνασαι θεραπεῦσαι, φησὶ, καὶ τοῦτον καὶ ἑτέρους πολλούς. Καὶ ταῦτα εἰπὼν, ἀπήλλαξε τὸν δαιμονῶντα.",
+          "en": "<span class=\"sn\" data-s=\"114\">Compare how he handled the man with leprosy.</span> <span class=\"sn\" data-s=\"115\">That man said, *“If you are willing, you can make me clean”* [Matthew 8:2] — which acknowledged Christ's authority — and Christ praised him and confirmed his words, answering, *“I am willing.*</span> <span class=\"sn\" data-s=\"116\">*Be clean.”* But this father says something quite unworthy of Christ's power — *“if you can, help me”* — and see how Christ corrects it.</span> <span class=\"sn\" data-s=\"117\">He says, *“If you can believe, everything is possible for the one who believes.”* What he means is something like this: *I have so much power at my disposal that I can even enable other people to work these miracles.*</span> <span class=\"sn\" data-s=\"118\">*So if you believed as you ought to, even you yourself would be able to heal this boy, and many others besides.* And having said that, he set the boy free from the demon.</span>"
+        },
+        {
+          "gr": "Σὺ δὲ μὴ μόνον ἐντεῦθεν αὐτοῦ σκόπει τὴν πρόνοιαν καὶ τὴν εὐεργεσίαν, ἀλλὰ καὶ ἐξ ἐκείνου τοῦ καιροῦ, οὗ συνεχώρησεν ἔνδον εἶναι τὸν δαίμονα. Καὶ γὰρ εἰ μὴ πολλῆς προνοίας καὶ τότε ἀπέλαυεν ὁ ἄνθρωπος, πάλαι ἂν ἀπολώλει.",
+          "en": "<span class=\"sn\" data-s=\"119\">But do not only look at Christ's care and generosity here.</span> <span class=\"sn\" data-s=\"120\">Look at it in the whole period beforehand as well — all that time he allowed the demon to stay in the boy.</span> <span class=\"sn\" data-s=\"121\">Unless the boy had been under a great deal of God's protection even then, he would have died long ago.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ εἰς τὸ πῦρ αὐτὸν ἔβαλλε, φησὶ, καὶ εἰς τὸ ὕδωρ. Ὁ δὲ ταῦτα τολμῶν καὶ ἀνεῖλεν ἂν πάντως, εἰ μὴ καὶ ἐν τοσαύτῃ μανίᾳ πολὺν ἐπέθηκεν ὁ Θεὸς αὐτῷ τὸν χαλινόν· ὥσπερ οὖν καὶ ἐπ' ἐκείνων τῶν γυμνῶν, τῶν ἐν ταῖς ἐρημίαις τρεχόντων, καὶ λίθοις ἑαυτοὺς κατακοπτόντων.",
+          "en": "<span class=\"sn\" data-s=\"122\">The spirit threw him into fire and into water.</span> <span class=\"sn\" data-s=\"123\">Anyone willing to try that would certainly have killed him outright, if God had not kept a strong bridle on the spirit even in the middle of such fury — just as he did in the case of those men who ran naked through the wastelands cutting themselves with stones.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ σεληνιαζόμενον καλεῖ, μηδὲν θορυβηθῇς· τοῦ γὰρ πατρὸς τοῦ δαιμονῶντός ἐστιν ἡ φωνή.",
+          "en": "<span class=\"sn\" data-s=\"124\">And if the father calls the boy “moon-struck,” do not let that trouble you at all — it is the boy's father speaking, using the ordinary word people used.</span> <span class=\"sn\" data-s=\"125\">(The Greek word means “struck by the moon”; today we would describe the symptoms as seizures.)</span>"
+        },
+        {
+          "gr": "Πῶς οὖν φησι καὶ ὁ εὐαγγελιστὴς, ὅτι σεληνιαζομένους πολλοὺς ἐθεράπευσεν; Ἀπὸ τῆς τῶν πολλῶν ὑπονοίας αὐτοὺς καλῶν. Ὁ γὰρ δαίμων ἐπὶ διαβολῇ τοῦ στοιχείου καὶ ἐπιτίθεται τοῖς ἁλοῦσι, καὶ ἀνίησιν αὐτοὺς, κατὰ τοὺς τῆς σελήνης δρόμους· οὐχ ὡς ἐκείνης ἐνεργούσης, ἄπαγε· ἀλλ' αὐτὸς τοῦτο κακουργῶν εἰς τὴν τοῦ στοιχείου διαβολήν.",
+          "en": "<span class=\"sn\" data-s=\"126\">Then why does the evangelist himself say *“he healed many who were moon-struck”*?</span> <span class=\"sn\" data-s=\"127\">Because he is naming them the way the crowd understood them.</span> <span class=\"sn\" data-s=\"128\">The reason is this: the evil spirit, in order to bring the blame onto nature itself, both seizes people and lets them go in step with the phases of the moon — not because the moon is doing anything of the kind (God forbid), but because he is deliberately arranging it so that nature gets the blame.</span>"
+        },
+        {
+          "gr": "Διὸ καὶ πεπλανημένη παρὰ τοῖς ἀνοήτοις ἐκράτησε δόξα, καὶ οὕτω τοὺς τοιούτους καλοῦσι δαίμονας ἀπατώμενοι· οὐδὲ γάρ ἐστι τοῦτο ἀληθές.",
+          "en": "<span class=\"sn\" data-s=\"129\">And so a mistaken belief took hold among simple people, and that is the name they now use for these spirits.</span> <span class=\"sn\" data-s=\"130\">They have been deceived.</span> <span class=\"sn\" data-s=\"131\">There is no truth in it whatsoever.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Why couldn't we drive it out?\"",
+      "heading_sentence_index": 132,
+      "pairs": [
+        {
+          "gr": "Τότε προσελθόντες οἱ μαθηταὶ αὐτοῦ κατ' ἰδίαν, ἠρώτησαν αὐτὸν, τίνος ἕνεκεν οὐκ ἠδυνήθησαν αὐτοὶ τὸν δαίμονα ἐκβαλεῖν.",
+          "en": "<span class=\"sn\" data-s=\"133\">*“Then the disciples came to him privately and asked, 'Why couldn't we drive it out?'”* [Matthew 17:19]</span>"
+        },
+        {
+          "gr": "Ἐμοὶ δοκοῦσιν ἀγωνιᾷν καὶ δεδοικέναι, μήποτε τὴν χάριν, ἣν ἐπιστεύθησαν, ἀπώλεσαν. Ἔλαβον γὰρ ἐξουσίαν κατὰ δαιμόνων ἀκαθάρτων. Διὸ καὶ ἐρωτῶσι, κατ' ἰδίαν αὐτῷ προσελθόντες, οὐκ αἰσχυνόμενοι (εἰ γὰρ τὸ ἔργον ἐξῆλθε, καὶ ἠλέγχθησαν, περιττὸν ἦν αἰσχύνεσθαι λοιπὸν τὴν διὰ τῶν λόγων ὁμολογίαν)· ἀλλ' ἐπειδὴ περὶ ἀποῤῥήτου καὶ μεγάλου πράγματος ἔμελλον αὐτὸν ἐρωτᾷν.",
+          "en": "<span class=\"sn\" data-s=\"134\">They seem to me to be anxious and afraid that they might have lost the gift they had been trusted with — because they had been given authority over unclean spirits.</span> <span class=\"sn\" data-s=\"135\">That is why they come to him privately: not out of embarrassment (if the failure was already public and they had been shown up, there would be no point being ashamed to admit it in words afterwards), but because what they were about to ask was a serious and confidential matter.</span>"
+        },
+        {
+          "gr": "Τί οὖν ὁ Χριστός; Διὰ τὴν ἀπιστίαν ὑμῶν, φησίν. Ἐὰν γὰρ ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ, Μετάβηθι, καὶ μεταβήσεται, καὶ οὐδὲν ἀδυνατήσει ὑμῖν.",
+          "en": "<span class=\"sn\" data-s=\"136\">And what does Christ say?</span> <span class=\"sn\" data-s=\"137\">*“Because of your little faith.*</span> <span class=\"sn\" data-s=\"138\">*For truly I tell you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move; and nothing will be impossible for you.”* [Matthew 17:20]</span>"
+        },
+        {
+          "gr": "Εἰ δὲ λέγοις, Ποῦ ὄρος μετέθηκαν; ἐκεῖνο ἂν εἴποιμι, ὅτι πολλῷ μείζονα ἐποίησαν, μυρίους νεκροὺς ἀναστήσαντες. Οὐδὲ γὰρ ἴσον, ὄρος μεταστῆσαι, καὶ θάνατον ἀπὸ σώματος κινῆσαι.",
+          "en": "<span class=\"sn\" data-s=\"139\">Now if you object, “When did they ever move a mountain?”, my answer is that they did far greater things than that — they raised countless dead people.</span> <span class=\"sn\" data-s=\"140\">Moving a mountain and driving death out of a body are not remotely the same order of difficulty.</span>"
+        },
+        {
+          "gr": "Λέγονται δὲ μετ' ἐκείνους ἅγιοί τινες ἐκείνων ἐλάττους πολλῷ, καὶ ὄρη χρείας καλεσάσης μεταθεῖναι. Ὅθεν δῆλον ὡς καὶ οὗτοι μετέθεσαν ἂν, καλούσης χρείας. Εἰ δὲ τότε οὐκ ἐγένετο χρεία, μὴ ἐγκάλει.",
+          "en": "<span class=\"sn\" data-s=\"141\">And some saints after them, far less remarkable than they were, are said to have actually moved mountains when the situation called for it.</span> <span class=\"sn\" data-s=\"142\">Which shows that the apostles would certainly have done the same if the need had arisen.</span> <span class=\"sn\" data-s=\"143\">And if the need never arose, do not find fault with them for it.</span>"
+        },
+        {
+          "gr": "Ἄλλως δὲ καὶ αὐτὸς οὐκ εἶπεν, ὅτι Μεταστήσετε πάντως, ἀλλ' ὅτι Δυνήσεσθε καὶ τοῦτο. Εἰ δὲ οὐ μετέστησαν, οὐκ ἐπειδὴ οὐκ ἠδυνήθησαν, (πῶς γὰρ, οἱ τὰ μείζονα δυνηθέντες;) ἀλλ' ἐπειδὴ οὐκ ἐβουλήθησαν, διὰ τὸ μὴ γενέσθαι χρείαν.",
+          "en": "<span class=\"sn\" data-s=\"144\">Besides, Christ did not say, “You will certainly move it.”</span> <span class=\"sn\" data-s=\"145\">He said, “You will be **able** to do even this.”</span> <span class=\"sn\" data-s=\"146\">If they did not do it, it was not because they could not — how could that be, when they had power to do greater things? — but because they chose not to, since there was no need.</span>"
+        },
+        {
+          "gr": "Εἰκὸς δὲ καὶ γεγενῆσθαι τοῦτο, καὶ μὴ γεγράφθαι· οὐδὲ γὰρ πάντα ἃ ἐθαυματούργησαν ἐγράφη.",
+          "en": "<span class=\"sn\" data-s=\"147\">It is also quite possible that this **was** done and simply never written down.</span> <span class=\"sn\" data-s=\"148\">We know that not all the miracles they worked were recorded.</span>"
+        },
+        {
+          "gr": "Τότε μέντοι ἀτελέστερον πολλῷ διέκειντο. Τί οὖν; οὐδὲ ταύτην τὴν πίστιν εἶχον τότε; Οὐκ εἶχον· οὐδὲ γὰρ ἀεὶ οἱ αὐτοὶ ἦσαν·",
+          "en": "<span class=\"sn\" data-s=\"149\">At this particular moment, though, they were still in a comparatively unformed state.</span> <span class=\"sn\" data-s=\"150\">So had they no faith at all at that point?</span> <span class=\"sn\" data-s=\"151\">They had none of this kind — because they were not always the same men.</span>"
+        },
+        {
+          "gr": "ἐπεὶ καὶ Πέτρος νῦν μὲν μακαρίζεται, νῦν δὲ ἐπιτιμᾶται· καὶ οἱ λοιποὶ δὲ εἰς ἄνοιαν σκώπτονται παρ' αὐτοῦ, ὅτε οὐ συνῆκαν τὸν περὶ τῆς ζύμης λόγον. Συνέβη δὲ καὶ τότε τοὺς μαθητὰς ἀσθενῆσαι· ἀτελέστερον γὰρ διέκειντο πρὸ τοῦ σταυροῦ.",
+          "en": "<span class=\"sn\" data-s=\"152\">Peter is called blessed at one moment and rebuked the next.</span> <span class=\"sn\" data-s=\"153\">The rest of them get laughed at by Christ for being slow when they failed to understand what he said about yeast.</span> <span class=\"sn\" data-s=\"154\">And so at this moment too the disciples were weak, because before the cross their minds were still only half-formed.</span>"
+        },
+        {
+          "gr": "Πίστιν δὲ ἐνταῦθα λέγει τὴν τῶν σημείων, καὶ σινάπεως μέμνηται, τὴν ἄφατον αὐτῆς δηλῶν δύναμιν. Εἰ γὰρ καὶ τῷ ὄγκῳ μικρὸν εἴναι τὸ σίνηπι δοκεῖ, ἀλλὰ τῇ δυνάμει ἁπάντων ἐστὶ σφοδρότερον.",
+          "en": "<span class=\"sn\" data-s=\"155\">By “faith” here he means the kind that produces miracles.</span> <span class=\"sn\" data-s=\"156\">And he mentions a mustard seed to make a point about its extraordinary power.</span> <span class=\"sn\" data-s=\"157\">A mustard seed looks tiny, but in strength it is the most potent thing there is.</span>"
+        },
+        {
+          "gr": "Δεικνὺς τοίνυν, ὅτι καὶ τὸ ἐλάχιστον τῆς γνησίας πίστεως μεγάλα δύναται, ἐμνήσθη τοῦ σινάπεως· καὶ οὐδὲ μέχρι τούτου ἔστη μόνον, ἀλλὰ καὶ ὄρη προσέθηκε, καὶ περαιτέρω προέβη. Οὐδὲν γὰρ, φησὶν, ἀδυνατήσει ὑμῖν.",
+          "en": "<span class=\"sn\" data-s=\"158\">So to show that even the smallest amount of genuine faith can do enormous things, he named the mustard seed — and then he did not stop there.</span> <span class=\"sn\" data-s=\"159\">He went on to mountains, and then went beyond even that: *“nothing will be impossible for you.”*</span>"
+        },
+        {
+          "gr": "δʹ. Σὺ δὲ κἀνταῦθα αὐτῶν θαύμασον τὴν φιλοσοφίαν, καὶ τοῦ Πνεύματος τὴν ἰσχύν· τὴν μὲν φιλοσοφίαν, ὅτι οὐκ ἔκρυψαν αὐτῶν τὸ ἐλάττωμα· τοῦ δὲ Πνεύματος τὴν ἰσχὺν, ὅτι τοὺς οὐδὲ κόκκον σινάπεως ἔχοντας οὕτω κατὰ μικρὸν ἀνήγαγεν, ὡς ποταμοὺς καὶ πηγὰς ἐν αὐτοῖς πίστεως ἀναδοῦναι.",
+          "en": "<span class=\"sn\" data-s=\"160\">And while you are here, be amazed at two things: the disciples' honesty, and the power of the Spirit.</span> <span class=\"sn\" data-s=\"161\">Their honesty, in that they did not cover up their own failure.</span> <span class=\"sn\" data-s=\"162\">The power of the Spirit, in that it led men who at this point did not have so much as a grain of mustard-seed faith so far forward, step by step, that rivers and springs of faith welled up inside them.</span>"
+        },
+        {
+          "gr": "Τὸ δὲ γένος τοῦτο οὐκ ἐκπορεύεται, εἰ μὴ ἐν προσευχῇ καὶ νηστείᾳ· τὸ τῶν δαιμόνων ἅπαν, οὐ τὸ τῶν σεληνιαζομένων λέγων μόνον.",
+          "en": "<span class=\"sn\" data-s=\"163\">*“But this kind does not go out except by prayer and fasting.”* [Matthew 17:21] He means the whole class of evil spirits, not only the ones that cause these seizures.</span>"
+        },
+        {
+          "gr": "Ὁρᾷς πῶς αὐτοῖς ἤδη τὸν περὶ νηστείας προκαταβάλλεται λόγον; Μὴ γάρ μοι ἀπὸ τῶν σπανιζόντων λέγε, ὅτι τινὲς καὶ χωρὶς νηστείας ἐξέβαλον.",
+          "en": "<span class=\"sn\" data-s=\"164\">Do you see how he is already laying the foundation of his teaching about fasting?</span> <span class=\"sn\" data-s=\"165\">And do not argue with me from rare exceptions — that some people have driven out spirits without fasting.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ περὶ τῶν ἐπιτιμώντων τοῦτο ἂν εἴποι τις ἑνός που καὶ δευτέρου, ἀλλὰ πάσχοντα ἀμήχανόν ποτε τρυφῶντα ἀπαλλαγῆναι τῆς μανίας ταύτης. Δεῖ γὰρ μάλιστα τοῦ πράγματος τούτου τῷ τὰ τοιαῦτα νοσοῦντι.",
+          "en": "<span class=\"sn\" data-s=\"166\">Even if you could say that of one or two people who rebuke evil spirits, it is simply not possible for the **sufferer**, living a soft and self-indulgent life, to be delivered from that kind of torment.</span> <span class=\"sn\" data-s=\"167\">For the person who is ill in that way, fasting is especially necessary.</span>"
+        },
+        {
+          "gr": "Καὶ μὴν εἰ πίστεως χρεία, φησὶ, τί δεῖ νηστείας; Ὅτι μετὰ τῆς πίστεως κἀκεῖνο οὐ μικρὰν εἰσάγει τὴν ἰσχύν.",
+          "en": "<span class=\"sn\" data-s=\"168\">“But if faith is what's required,” someone will say, “what do we need fasting for?”</span> <span class=\"sn\" data-s=\"169\">Because fasting brings a considerable power of its own alongside faith.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ φιλοσοφίαν πολλὴν ἐντίθησι, καὶ ἄγγελον ἐξ ἀνθρώπου κατασκευάζει, καὶ ταῖς ἀσωμάτοις δυνάμεσι πυκτεύει· ἀλλ' οὐ καθ' ἑαυτὴν, ἀλλὰ δεῖ καὶ εὐχῆς, καὶ πρώτης εὐχῆς.",
+          "en": "<span class=\"sn\" data-s=\"170\">It plants real seriousness in a person; it turns a man into an angel; it fights against powers that have no bodies.</span> <span class=\"sn\" data-s=\"171\">But it does not work alone — prayer is needed too, and prayer comes first.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "What prayer and fasting actually do",
+      "heading_sentence_index": 172,
+      "pairs": [
+        {
+          "gr": "Ὅρα γοῦν ὅσα ἀγαθὰ ἐξ ἀμφοτέρων γίνεται. Ὁ γὰρ εὐχόμενος ὡς χρὴ, καὶ νηστεύων, οὐ πολλῶν δεῖται· ὁ δὲ πολλῶν μὴ δεόμενος οὐκ ἂν γένοιτο φιλοχρήματος· ὁ μὴ φιλοχρήματος, καὶ πρὸς ἐλεημοσύνην ἐπιτηδειότερος.",
+          "en": "<span class=\"sn\" data-s=\"173\">Look at how many good things come out of those two together.</span> <span class=\"sn\" data-s=\"174\">A person who prays as he should and fasts does not have many wants; a person who does not have many wants cannot be greedy; a person who is not greedy will be far readier to give to those in need.</span>"
+        },
+        {
+          "gr": "Ὁ νηστεύων κοῦφός ἐστι καὶ ἐπτερωμένος, καὶ μετὰ νήψεως εὔχεται, καὶ τὰς ἐπιθυμίας σβέννυσι τὰς πονηρὰς, καὶ ἐξιλεοῦται Θεὸν, καὶ ταπεινοῖ τὴν ψυχὴν ἐπαιρομένην. Διὰ τοῦτο καὶ οἱ ἀπόστολοι ἀεὶ σχεδὸν ἐνήστευον.",
+          "en": "<span class=\"sn\" data-s=\"175\">Someone who fasts is light and has wings; he prays wide awake; he puts out his bad desires; he wins God's favour; and he brings his own soul down to size when it starts inflating.</span> <span class=\"sn\" data-s=\"176\">This is why the apostles were almost always fasting.</span>"
+        },
+        {
+          "gr": "Ὁ εὐχόμενος μετὰ νηστείας διπλᾶς ἔχει τὰς πτέρυγας, καὶ τῶν ἀνέμων αὐτῶν κουφοτέρας. Οὐδὲ γὰρ χασμᾶται καὶ διατείνεται καὶ ναρκᾷ εὐχόμενος, ὅπερ πάσχουσιν οἱ πολλοί· ἀλλ' ἔστι πυρὸς σφοδρότερος, καὶ τῆς γῆς ἀνώτερος. Διὸ καὶ μάλιστα ὁ τοιοῦτος τοῖς δαίμοσιν ἐχθρὸς καὶ πολέμιος.",
+          "en": "<span class=\"sn\" data-s=\"177\">A person who prays **and** fasts has a double set of wings, lighter than the wind itself.</span> <span class=\"sn\" data-s=\"178\">He does not yawn or stretch or go numb in prayer, which is what happens to most people; he is fiercer than fire and lifts off the ground.</span> <span class=\"sn\" data-s=\"179\">And so a person like that is precisely the one evil spirits hate and fear most.</span>"
+        },
+        {
+          "gr": "Οὐδὲν γὰρ ἀνθρώπου γνησίως εὐχομένου δυνατώτερον. Εἰ γὰρ γυνὴ ὠμόν τινα ἄρχοντα, καὶ οὔτε Θεὸν φοβούμενον, οὔτε ἄνθρωπον ἐντρεπόμενον, ἴσχυσεν ἐπικάμψαι, πολλῷ μᾶλλον τὸν Θεὸν ἐπισπάσεται ὁ συνεχῶς αὐτῷ προσεδρεύων, καὶ γαστρὸς κρατῶν, καὶ τρυφὴν ἐκβάλλων.",
+          "en": "<span class=\"sn\" data-s=\"180\">Nothing is more powerful than someone who prays sincerely.</span> <span class=\"sn\" data-s=\"181\">If a widow could get her way with a brutal judge who neither feared God nor cared what anyone thought of him [Luke 18:1–8], how much more will a person get his way with God — someone who is constantly attending on him, keeping his appetite under control, and throwing self-indulgence out.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ ἀσθενές σοι τὸ σῶμα, ὥστε νηστεύειν διηνεκῶς, ἀλλ' οὐκ εἰς προσευχὴν ἀσθενὲς, οὐδὲ πρὸς ὑπεροψίαν γαστρὸς ἄτονον. Εἰ γὰρ καὶ νηστεύειν οὐ δύνασαι, ἀλλὰ μὴ τρυφᾷν δύνασαι· οὐ μικρὸν δὲ καὶ τοῦτο, οὐδὲ πολὺ νηστείας ἀπέχον· ἀλλ' ἱκανὸν μὲν καὶ τοῦτο κατασπάσαι τοῦ διαβόλου τὴν μανίαν.",
+          "en": "<span class=\"sn\" data-s=\"182\">And if your body is too weak to fast regularly, it is still not too weak to pray, and not too feeble to hold your appetite in contempt.</span> <span class=\"sn\" data-s=\"183\">Even if you cannot fast, you can still avoid living a soft, indulgent life — and even that is no small thing.</span> <span class=\"sn\" data-s=\"184\">It is not far off fasting, and by itself it is enough to pull down the devil's fury.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ οὐδὲν οὕτως ἐκείνῳ τῷ δαίμονι φίλον, ὡς τρυφὴ καὶ μέθη· ἐπειδὴ καὶ πηγὴ καὶ μήτηρ ἐστὶν ἁπάντων τῶν κακῶν.",
+          "en": "<span class=\"sn\" data-s=\"185\">Because there is nothing that evil spirit likes better than indulgence and drunkenness.</span> <span class=\"sn\" data-s=\"186\">That is the fountain and the parent of every evil we have.</span>"
+        },
+        {
+          "gr": "Διὰ ταύτης γοῦν ποτε τοὺς Ἰσραηλίτας εἰς εἰδωλολατρείαν ἐνέβαλε· διὰ ταύτης τοὺς Σοδομίτας εἰς παρανόμους ἀνῆψεν ἔρωτας. Τοῦτο γὰρ, φησὶ, τὸ ἀνόμημα Σοδόμων· ἐν ὑπερηφανίᾳ, καὶ ἐν πλησμονῇ ἄρτων, καὶ εὐθηνίαις ἐσπατάλων. Διὰ ταύτης μυρίους ἑτέρους ἀπώλεσε, καὶ τῇ γεέννῃ παρέδωκε.",
+          "en": "<span class=\"sn\" data-s=\"187\">It is how he drove the Israelites into idolatry long ago — *“the people sat down to eat and drink, and got up to dance”* [Exodus 32:6] around the golden calf.</span> <span class=\"sn\" data-s=\"188\">It is how he made the men of Sodom burn with lust.</span> <span class=\"sn\" data-s=\"189\">As Scripture says, *“This was the sin of Sodom: pride, excess of food, and comfortable ease.”* [Ezekiel 16:49] By this route he has destroyed countless others and handed them over to hell.</span>"
+        },
+        {
+          "gr": "Τί γὰρ οὐκ ἐργάζεται κακὸν ἡ τρυφή; Χοίρους ἐξ ἀνθρώπων ποιεῖ, καὶ χοίρων χείρους. Ὁ μὲν γὰρ χοῖρος βορβόρῳ ἐγκαλινδεῖται, καὶ κόπρῳ τρέφεται· οὗτος δὲ ἐκείνης βδελυκτοτέραν σιτεῖται τράπεζαν, μίξεις ἐπινοῶν ἀθέσμους, καὶ παρανόμους ἔρωτας.",
+          "en": "<span class=\"sn\" data-s=\"190\">What evil does indulgence **not** produce?</span> <span class=\"sn\" data-s=\"191\">It turns men into pigs — worse than pigs.</span> <span class=\"sn\" data-s=\"192\">A sow at least wallows in mud and eats filth; this man lives on something more disgusting than that, inventing forbidden encounters and unnatural appetites.</span>"
+        },
+        {
+          "gr": "Ὁ τοιοῦτος οὐδὲν δαιμονῶντος διενήνοχεν· ὁμοίως γὰρ ἀναισχυντεῖ καὶ μαίνεται. Καὶ τὸν μὲν δαιμονῶντα κἂν ἐλεοῦμεν, τοῦτον δὲ ἀποστρεφόμεθα καὶ μισοῦμεν.",
+          "en": "<span class=\"sn\" data-s=\"193\">A man like that is no different from someone possessed.</span> <span class=\"sn\" data-s=\"194\">Like him, he has lost all shame and raves.</span> <span class=\"sn\" data-s=\"195\">And we pity the possessed man, but this one we find repellent and hate.</span>"
+        },
+        {
+          "gr": "Τί δήποτε; Ὅτι αὐθαίρετον ἐπισπᾶται μανίαν, καὶ τὸ στόμα, καὶ τοὺς ὀφθαλμοὺς καὶ ῥῖνας, καὶ πάντα ἁπλῶς ὀχετοὺς ἀμάρας ἐργάζεται.",
+          "en": "<span class=\"sn\" data-s=\"196\">Why?</span> <span class=\"sn\" data-s=\"197\">Because the madness he brought on himself, he chose.</span> <span class=\"sn\" data-s=\"198\">He turns his mouth and his eyes and his nostrils — all of him, in short — into open drains.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ καὶ τὰ ἔνδον ἴδοις, ὄψει καὶ τὴν ψυχὴν καθάπερ ἔν τινι χειμῶνι καὶ κρυμῷ πεπηγυῖαν καὶ ναρκῶσαν, καὶ οὐδὲν τὸ σκάφος ὠφελῆσαι δυναμένην διὰ τὴν τοῦ χειμῶνος ὑπερβολήν.",
+          "en": "<span class=\"sn\" data-s=\"199\">And if you could see what is going on inside him too, you would see his very soul as though in the middle of a hard winter, stiff and numb, completely unable to help the body it lives in through the storm.</span>"
+        },
+        {
+          "gr": "Αἰσχύνομαι εἰπεῖν, ὅσα ἀπὸ τρυφῆς πάσχουσιν ἄνδρες καὶ γυναῖκες κακά· τῷ δὲ αὐτῶν καταλείπω συνειδότι, τῷ ταῦτα ἀκριβέστερον εἰδότι.",
+          "en": "<span class=\"sn\" data-s=\"200\">I am ashamed to say how many miseries men and women suffer from self-indulgence.</span> <span class=\"sn\" data-s=\"201\">I will leave it to their own consciences, which know all of it far better than I do.</span>"
+        },
+        {
+          "gr": "Τί γὰρ αἰσχρότερον γυναικὸς μεθυούσης, ἢ ἁπλῶς παραφερομένης; Ὅσῳ γὰρ ἀσθενέστερον τὸ σκεῦος, τοσούτῳ πλέον τὸ ναυάγιον, ἄν τε ἐλευθέρα ᾖ, ἄν τε δούλη. Ἡ μὲν γὰρ ἐλευθέρα ἐν μέσῳ τῷ θεάτρῳ τῶν δούλων ἀσχημονεῖ· ἡ δὲ δούλη πάλιν ὁμοίως μεταξὺ τῶν δούλων· καὶ παρασκευάζουσι τοῦ Θεοῦ τὰ δῶρα βλασφημεῖσθαι παρὰ τῶν ἀνοήτων.",
+          "en": "<span class=\"sn\" data-s=\"202\">What is more degrading than a woman drunk, or even slightly overtaken by wine?</span> <span class=\"sn\" data-s=\"203\">The weaker the vessel, the more total the shipwreck — and it makes no difference whether she is free or a slave.</span> <span class=\"sn\" data-s=\"204\">The free woman disgraces herself in front of her own household staff, and the slave does exactly the same in front of the other slaves, and between them they cause foolish people to speak insultingly about the gifts of God.</span>"
+        },
+        {
+          "gr": "Πολλῶν γοῦν ἀκούω λεγόντων, ὅταν ταῦτα συμβαίνῃ τὰ πάθη· Μὴ ἔστω οἶνος. Ὢ τῆς ἀνοίας! ὢ τῆς παραπληξίας!",
+          "en": "<span class=\"sn\" data-s=\"205\">For instance, I hear plenty of people say, when these scenes happen: “I wish wine didn't exist.”</span> <span class=\"sn\" data-s=\"206\">What foolishness!</span> <span class=\"sn\" data-s=\"207\">What madness!</span>"
+        },
+        {
+          "gr": "Ἄλλων ἁμαρτανόντων ταῖς τοῦ Θεοῦ δωρεαῖς ἐγκαλεῖς· καὶ πόσης τοῦτο μανίας; Μὴ γὰρ ὁ οἶνος ἐποίησεν, ἀλλ' ἡ ἀκολασία τῶν ἀπολαυόντων κακῶς.",
+          "en": "<span class=\"sn\" data-s=\"208\">Other people sin, and you find fault with God's gifts?</span> <span class=\"sn\" data-s=\"209\">What kind of insanity is that?</span> <span class=\"sn\" data-s=\"210\">Did the **wine** produce this evil?</span> <span class=\"sn\" data-s=\"211\">No — the lack of self-control in people who take a corrupt pleasure in it did.</span>"
+        },
+        {
+          "gr": "Εἰπὲ τοίνυν, Μὴ ἔστω μέθη, μὴ ἔστω τρυφή· εἰ δὲ λέγοις, Μὴ ἔστω οἶνος, ἐρεῖς κατὰ μικρὸν προβαίνων, Μὴ ἔστω σίδηρος, διὰ τοὺς ἀνδροφόνους· Μὴ ἔστω νὺξ, διὰ τοὺς κλέπτας· Μὴ ἔστω φῶς, διὰ τοὺς συκοφάντας· Μὴ ἔστω γυνὴ, διὰ τὰς μοιχείας· καὶ πάντα ἁπλῶς ἀναιρήσεις.",
+          "en": "<span class=\"sn\" data-s=\"212\">So say, “I wish there were no drunkenness, no indulgence.”</span> <span class=\"sn\" data-s=\"213\">But if you say “I wish there were no wine,” you will go on by stages to say, “I wish there were no steel,” because of murderers;</span> <span class=\"sn\" data-s=\"214\">“I wish there were no night,” because of thieves;</span> <span class=\"sn\" data-s=\"215\">“I wish there were no light,” because of informers;</span> <span class=\"sn\" data-s=\"216\">“I wish there were no women,” because of adultery — and in the end you will have abolished everything.</span>"
+        },
+        {
+          "gr": "εʹ. Ἀλλὰ μὴ οὕτω ποίει· σατανικῆς γὰρ τοῦτο γνώμης· μηδὲ διάβαλλε τὸν οἶνον, ἀλλὰ τὴν μέθην·",
+          "en": "<span class=\"sn\" data-s=\"217\">Do not do it.</span> <span class=\"sn\" data-s=\"218\">That is how the devil thinks.</span> <span class=\"sn\" data-s=\"219\">Do not find fault with the wine; find fault with the drunkenness.</span>"
+        },
+        {
+          "gr": "καὶ λαβὼν τοῦτον αὐτὸν νήφοντα, ὑπόγραψον πᾶσαν αὐτοῦ τὴν ἀσχημοσύνην, καὶ εἰπὲ πρὸς αὐτόν· Οἶνος ἐδόθη, ἵνα εὐφραινώμεθα, οὐχ ἵνα ἀσχημονῶμεν· ἵνα γελῶμεν, οὐχ ἵνα γελώμεθα· ἵνα ὑγιαίνωμεν, οὐχ ἵνα νοσῶμεν· ἵνα ἀσθένειαν σώματος διορθωσώμεθα, οὐχ ἵνα ψυχῆς ἰσχὺν καταβάλωμεν.",
+          "en": "<span class=\"sn\" data-s=\"220\">And when you have caught the very same man sober, sketch the whole picture of his disgraceful behaviour for him, and say: *Wine was given so that we could be cheerful, not so that we could behave disgracefully; so that we could laugh, not so that we could be laughed at; so that we could be healthy, not so that we could be ill; so that we could make up for the weakness of the body, not so that we could throw down the strength of the soul.*</span>"
+        },
+        {
+          "gr": "Ἐτίμησέ σε ὁ Θεὸς τῷ δώρῳ· τί σαυτὸν ὑβρίζεις τῇ ἀμετρίᾳ; Ἄκουσον τί φησιν ὁ Παῦλος· Οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχόν σου καὶ τὰς πυκνάς σου ἀσθενείας. Εἰ δὲ ὁ ἅγιος ἐκεῖνος, καὶ νόσῳ κατεχόμενος, καὶ ἐπαλλήλους ἀῤῥωστίας ὑπομένων, οὐ μετέλαβεν οἴνου, ἕως ἐπέτρεψεν ὁ διδάσκαλος, τίνα ἂν σχοίημεν συγγνώμην ἡμεῖς ἐν ὑγείᾳ μεθύοντες;",
+          "en": "<span class=\"sn\" data-s=\"221\">God honoured you with a gift; why disgrace yourself by overdoing it?</span> <span class=\"sn\" data-s=\"222\">Listen to what Paul says: *“Use a little wine for your stomach and your frequent illnesses.”* [1 Timothy 5:23] If that holy man, weighed down by disease and going through one illness after another, did not touch wine until his teacher permitted it — what excuse will we have, who get drunk while perfectly healthy?</span>"
+        },
+        {
+          "gr": "Ἐκείνῳ μὲν ἔλεγεν, Οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στομαχόν σου· ὑμῶν δὲ ἑκάστῳ τῶν μεθυόντων ἐρεῖ· Οἴνῳ ὀλίγῳ χρῶ διὰ τὰς πορνείας, διὰ τὰς πυκνὰς αἰσχρολογίας, διὰ τὰς ἑτέρας ἐπιθυμίας τὰς πονηρὰς, ἃς ἡ μέθη τίκτειν εἴωθεν.",
+          "en": "<span class=\"sn\" data-s=\"223\">To Timothy he said, “Use a little wine for your stomach's sake.”</span> <span class=\"sn\" data-s=\"224\">To every one of you who gets drunk he will say: *use little wine, for your immorality, for your constant filthy talk, for all the other corrupt desires that drunkenness usually gives birth to.*</span>"
+        },
+        {
+          "gr": "Εἰ δὲ μὴ βούλεσθε διὰ ταῦτα ἀπέχεσθαι, διὰ γοῦν τὰς ἀθυμίας τὰς ἐξ αὐτοῦ καὶ τὰς ἀηδίας ἀπέχεσθε. Οἶνος γὰρ εἰς εὐφροσύνην ἐδόθη· Οἶνος γὰρ, φησὶν, εὐφραίνει καρδίαν ἀνθρώπου· ὑμεῖς δὲ καὶ ταύτην αὐτοῦ λυμαίνεσθε τὴν ἀρετήν. Ποία γὰρ εὐφροσύνη μὴ εἶναι ἐν ἑαυτῷ, καὶ ἀλγηδόνας μυρίας ἔχειν, καὶ πάντα ὁρᾷν περιφερόμενα, καὶ σκοτοδίνῳ κατέχεσθαι, καὶ κατὰ τοὺς πυρέττοντας δεῖσθαι τῶν ἐλαίῳ καταβρεχόντων τὰς κεφαλάς;",
+          "en": "<span class=\"sn\" data-s=\"225\">And if you will not hold back for those reasons, then hold back at least because of the depressions it brings on, and the endless aggravations.</span> <span class=\"sn\" data-s=\"226\">Wine was given for gladness — *“wine gladdens the heart of man”* [Psalm 104:15] — and you ruin even that quality in it.</span> <span class=\"sn\" data-s=\"227\">What kind of gladness is it to be out of your mind, to have troubles beyond counting, to see everything spinning round you, to be crushed with dizziness, and to need people to pour oil over your head as though you had a fever?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "A word to those who are well",
+      "heading_sentence_index": 228,
+      "pairs": [
+        {
+          "gr": "Ταῦτά μοι οὐ πρὸς πάντας εἴρηται, μᾶλλον δὲ πρὸς πάντας· οὐκ ἐπειδὴ πάντες μεθύουσι· μὴ γένοιτο· ἀλλ' ἐπειδὴ τῶν μεθυόντων οἱ μὴ μεθύοντες οὐ φροντίζουσι.",
+          "en": "<span class=\"sn\" data-s=\"229\">I am not saying all this to everyone.</span> <span class=\"sn\" data-s=\"230\">Or rather, I **am** saying it to everyone — not because everyone here is a drunkard, God forbid, but because the people who do not drink take no interest in the ones who do.</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο καὶ πρὸς ὑμᾶς ἀποτείνομαι μᾶλλον, τοὺς ὑγιαίνοντας· ἐπεὶ καὶ ἰατρὸς τοὺς ἀῤῥωστοῦντας ἀφεὶς, ἐκείνοις διαλέγεται τοῖς παρακαθημένοις αὐτοῖς.",
+          "en": "<span class=\"sn\" data-s=\"231\">So it is really you I am arguing with, the ones who are well.</span> <span class=\"sn\" data-s=\"232\">The doctor does the same: he leaves the patient and directs what he has to say to the people sitting at the bedside.</span>"
+        },
+        {
+          "gr": "Πρὸς ὑμᾶς τοίνυν ἀποτείνω τὸν λόγον, παρακαλῶν μήτε ἁλῶναί ποτε τῷ πάθει τούτῳ, καὶ τοὺς ἁλόντας ἀνιμᾶσθαι, ἵνα μὴ τῶν ἀλόγων φαίνωνται χείρους. Ἐκεῖνα μὲν γὰρ πλέον τῆς χρείας οὐδὲν ἐπιζητεῖ· οὗτοι δὲ κἀκείνων ἀλογώτεροι γεγόνασι, τοὺς τῆς συμμετρίας ὑπερβαίνοντες ὅρους.",
+          "en": "<span class=\"sn\" data-s=\"233\">So I am speaking to you, and asking you never to be caught by this weakness yourselves, and to haul out, as if with ropes, the people who have already been caught by it — so that they are not found to be worse than the animals.</span> <span class=\"sn\" data-s=\"234\">Because animals look for nothing beyond what they need, while these people have become more brutish than animals, going far past every boundary of moderation.</span>"
+        },
+        {
+          "gr": "Πόσῳ γὰρ βελτίων τούτων ὁ ὄνος; πόσῳ δὲ ἀμείνων ὁ κύων; Καὶ γὰρ ἕκαστον τούτων τῶν ζώων, καὶ τῶν ἄλλων δὲ ἁπάντων, ἄν τε φαγεῖν, ἄν τε πιεῖν δέῃ, ὅρον τὴν αὐτάρκειαν οἶδε, καὶ πέρα τῆς χρείας οὐ πρόεισι· κἂν μυρίοι οἱ καταναγκάζοντες ὦσιν, οὐκ ἀνέξεται ἐξελθεῖν εἰς ἀμετρίαν.",
+          "en": "<span class=\"sn\" data-s=\"235\">How much better than these men is the donkey!</span> <span class=\"sn\" data-s=\"236\">How much better the dog!</span> <span class=\"sn\" data-s=\"237\">Every one of these creatures, and all the others, whether it needs to eat or to drink, recognises “enough” as its limit and does not go past what it needs.</span> <span class=\"sn\" data-s=\"238\">And even if there were countless people pressing it to, it would not put up with going to excess.</span>"
+        },
+        {
+          "gr": "Οὐκοῦν ταύτῃ καὶ τῶν ἀλόγων χείρους ὑμεῖς, οὐ παρὰ τοῖς ὑγιαίνουσι μόνον, ἀλλὰ καὶ παρ' ὑμῖν αὐτοῖς.",
+          "en": "<span class=\"sn\" data-s=\"239\">So in this respect we are worse than the animals — and not only in the judgement of people who are well, but by our own judgement too.</span>"
+        },
+        {
+          "gr": "Ὅτι γὰρ καὶ κυνῶν καὶ ὄνων ἀτιμοτέρους ἑαυτοὺς εἶναι κεκρίκατε, δῆλον ἐκεῖθεν. Τὰ μὲν γὰρ ἄλογα ταῦτα οὐκ ἀναγκάζεις πέρα τοῦ μέτρου τροφῆς ἀπολαύειν· κἂν ἔρηταί τις, Διατί; Ἵνα μὴ καταβλάψῃς, ἐρεῖς· σαυτῷ δὲ οὐδὲ ταύτην παρέχεις τὴν πρόνοιαν.",
+          "en": "<span class=\"sn\" data-s=\"240\">That you have judged yourselves to be more contemptible than dogs and donkeys is obvious from this.</span> <span class=\"sn\" data-s=\"241\">You do not force these animals of yours to eat beyond what is good for them.</span> <span class=\"sn\" data-s=\"242\">And if somebody asks you why not, you will say, “So as not to do them harm.”</span>"
+        },
+        {
+          "gr": "Οὕτω κἀκείνων σαυτὸν εὐτελέστερον εἶναι νομίζεις, καὶ περιορᾷς διηνεκῶς χειμαζόμενον.",
+          "en": "<span class=\"sn\" data-s=\"243\">But you will not extend even that much care to yourself.</span> <span class=\"sn\" data-s=\"244\">That is how much cheaper than they are you consider yourself to be — and you look on while you are battered by storm after storm, and do nothing.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ ἐν τῇ ἡμέρᾳ τῆς μέθης μόνον τὴν ἐκ τῆς μέθης βλάβην ὑπομένεις, ἀλλὰ καὶ μετὰ τὴν ἡμέραν ἐκείνην. Καὶ καθάπερ πυρετοῦ παρελθόντος, ἡ ἐκ τοῦ πυρετοῦ μένει λύμη· οὕτω καὶ μέθης ἀπελθούσης, ἡ τῆς μέθης ζάλη καὶ ἐν τῇ ψυχῇ καὶ ἐν τῷ σώματι στρέφεται·",
+          "en": "<span class=\"sn\" data-s=\"245\">Because it is not only on the day of the drinking that you suffer the damage drink does.</span> <span class=\"sn\" data-s=\"246\">You suffer it afterwards as well.</span> <span class=\"sn\" data-s=\"247\">Just as the harm a fever does remains after the fever has gone, so when the drunkenness has passed off, its squall goes on turning inside both the soul and the body.</span>"
+        },
+        {
+          "gr": "καὶ τὸ μὲν ἄθλιον σῶμα κεῖται παραλυθὲν, καθάπερ ὑπὸ ναυαγίου σκάφος· ἡ δὲ τούτου ταλαιπωροτέρα ψυχὴ, καὶ τούτου διαλυθέντος τὸν χειμῶνα διεγείρει, καὶ τὴν ἐπιθυμίαν ἀνάπτει, καὶ ὅταν δοκῇ σωφρονεῖν, τότε μάλιστα μαίνεται, οἶνον καὶ πίθους καὶ φιάλας καὶ κρατῆρας φανταζομένη.",
+          "en": "<span class=\"sn\" data-s=\"248\">The wretched body lies there slack and useless, like a boat after a wreck.</span> <span class=\"sn\" data-s=\"249\">And the soul, in a worse state than the body, is stirring up the storm even after the body has given out; it fans the craving back into flame; and just at the moment when it looks as though it has come to its senses, that is precisely when it is raving — with wine and jars and cups and mixing-bowls floating in front of its eyes.</span>"
+        },
+        {
+          "gr": "Καὶ καθάπερ ἐν χειμῶνι παυθείσης τῆς ζάλης, ἡ διὰ τὸν χειμῶνα μένει ζημία· οὕτω δὴ καὶ ἐνταῦθα, Καὶ γὰρ ὥσπερ ἐκεῖ τῶν ἀγωγίμων, οὕτω καὶ Κἂν σωφροσύνην εὕρῃ, κἂν αἰδῶ, κἂν σύνεσιν, κἂν ἐπιείκειαν, κἂν ταπεινοφροσύνην, πάντα ῥίπτει εἰς τὸ τῆς παρανομίας πέλαγος ἡ μέθη.",
+          "en": "<span class=\"sn\" data-s=\"250\">And just as, when the squall has died down at sea, the losses the storm caused are still there, so it is here too.</span> <span class=\"sn\" data-s=\"251\">For just as sailors in a storm throw the cargo overboard, so drunkenness takes everything it can find — self-control, a sense of shame, good sense, fairness, humility — and throws the lot into the open sea of lawlessness.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ τὰ μετὰ ταῦτα οὐκέτι ὅμοια. Ἐκεῖ μὲν γὰρ μετὰ τὴν ἐκβολὴν τὸ σκάφος κουφίζεται· ἐνταῦθα δὲ βαρύνεται μᾶλλον.",
+          "en": "<span class=\"sn\" data-s=\"252\">But what happens next is not the same in the two cases.</span> <span class=\"sn\" data-s=\"253\">At sea, once the cargo has gone over the side, the boat rides higher.</span> <span class=\"sn\" data-s=\"254\">Here the boat only sits lower in the water.</span>"
+        },
+        {
+          "gr": "Ἀντὶ γὰρ ἐκείνου τοῦ πλούτου δέχεται ψάμμον καὶ ὕδωρ ἁλμυρὸν, καὶ πάντα τὸν τῆς μέθης φορυτὸν, ἅπερ ἅμα τοῖς ἐπιβάταις καὶ τῷ κυβερνήτῃ καταβαπτίζει τὸ σκάφος εὐθέως.",
+          "en": "<span class=\"sn\" data-s=\"255\">Because in place of that cargo it takes on sand, and salt water, and all the rubbish that drink brings with it — and that sinks the boat immediately, passengers, helmsman and all.</span>"
+        },
+        {
+          "gr": "Ἵν' οὖν μὴ ταῦτα πάσχωμεν, ἀπαλλάξωμεν ἑαυτοὺς τοῦ χειμῶνος.",
+          "en": "<span class=\"sn\" data-s=\"256\">So let us get ourselves out of this storm, and not suffer any of it.</span>"
+        },
+        {
+          "gr": "Οὐκ ἔστι μετὰ μέθης βασιλείαν οὐρανῶν ἰδεῖν. Μὴ πλανᾶσθε γὰρ, φησίν· οὐ μέθυσοι, οὐ λοίδοροι βασιλείαν Θεοῦ κληρονομήσουσι. Καὶ τί λέγω βασιλείαν; Μετὰ γὰρ μέθης οὐδὲ τὰ παρόντα ἔστιν ἰδεῖν.",
+          "en": "<span class=\"sn\" data-s=\"257\">You cannot see the kingdom of heaven while you are drunk.</span> <span class=\"sn\" data-s=\"258\">*“Do not be deceived,”* Scripture says: *“no drunkards and no slanderers will inherit the kingdom of God.”* [1 Corinthians 6:9–10] And why do I even speak about the kingdom?</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ τὰς ἡμέρας νύκτας ἐργάζεται ἡμῖν ἡ μέθη, καὶ τὸ φῶς σκότος· καὶ τῶν ὀφθαλμῶν ἀνεῳγμένων οὐδὲ τὰ ἐν ποσὶ βλέπουσιν οἱ μεθύοντες.",
+          "en": "<span class=\"sn\" data-s=\"259\">With drink in you, you cannot see what is directly in front of you.</span> <span class=\"sn\" data-s=\"260\">Drink turns our days into nights and our light into darkness: men who are drunk have their eyes wide open and still cannot see what is at their feet.</span>"
+        },
+        {
+          "gr": "Καὶ οὐ τοῦτο μόνον ἐστὶ τὸ δεινὸν, ἀλλὰ καὶ μετὰ τούτων καὶ ἑτέραν χαλεπωτάτην ὑπομένουσι δίκην, ἀθυμίας ἀλόγους, μανίαν, ἀῤῥωστίαν, γέλωτα, ὄνειδος διηνεκῶς ὑπομένοντες.",
+          "en": "<span class=\"sn\" data-s=\"261\">And that is not the worst of it.</span> <span class=\"sn\" data-s=\"262\">On top of all this they undergo another and very heavy penalty: depressions that come from nowhere, fits of madness, illness, being laughed at, and disgrace that never lets up.</span>"
+        },
+        {
+          "gr": "Ποία τοίνυν συγγνώμη τοῖς ἑαυτοὺς τοσούτοις περιπείρουσι κακοῖς; Οὐκ ἔστιν οὐδεμία.",
+          "en": "<span class=\"sn\" data-s=\"263\">What excuse, then, is there for people who run themselves through with so many evils?</span> <span class=\"sn\" data-s=\"264\">There is none at all.</span>"
+        },
+        {
+          "gr": "Φύγωμεν τοίνυν τὸ νόσημα, ἵνα καὶ τῶν ἐνταῦθα καὶ τῶν μελλόντων ἐπιτύχωμεν ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα καὶ τὸ κράτος σὺν τῷ Πατρὶ καὶ τῷ ἁγίῳ Πνεύματι εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"265\">So let us escape this disease — so that we may obtain the good things here and the good things to come, by the grace and loving kindness of our Lord Jesus Christ, to whom be glory and power, together with the Father and the Holy Spirit, now and always and to the ages of ages.</span> <span class=\"sn\" data-s=\"266\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

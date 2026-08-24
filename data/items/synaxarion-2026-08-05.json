@@ -1,0 +1,121 @@
+{
+  "id": "synaxarion-2026-08-05",
+  "slug": "synaxarion-2026-08-05",
+  "title": "Synaxarion — 5 August",
+  "father": null,
+  "collection": "Synaxarion",
+  "source_ref": null,
+  "category": "lives-of-saints",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "eusignios-of-antioch",
+  "scripture": [],
+  "chapter": null,
+  "has_greek": false,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 500,
+  "reading_minutes": 2,
+  "attribution_note": null,
+  "path": [
+    "saints",
+    "synaxarion",
+    "august",
+    "5"
+  ],
+  "sections": [
+    {
+      "heading": "Saint Eusignios the Martyr",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"1\">On the same day, the fifth of the month, we remember the holy martyr EUSIGNIOS.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"2\">*They behead Eusignios, the friend of Christ,*\n*who cries out even to the stroke: “Christ is my friend.”*\n*On the fifth, the head of Eusignios was mingled with the dust.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"3\">This saint came from Antioch, and was a soldier under the reign of Constantius Chlorus, the father of Constantine the Great, in the year 304.</span> <span class=\"sn\" data-s=\"4\">He lived to be a hundred and ten years old, and continued on into the reign of Julian the Apostate, in the year 361 — sixty of those years spent in the life of a soldier.</span> <span class=\"sn\" data-s=\"5\">When he was brought before Julian, he rebuked him, because Julian had broken faith with the piety of his ancestors, and had transferred to idols the honour and glory that were owed to God alone.</span> <span class=\"sn\" data-s=\"6\">He reminded Julian, too, of the virtue of Constantine the Great, and how by a divine vision and revelation Constantine had been turned to the faith of Christ.</span> <span class=\"sn\" data-s=\"7\">Saying these things, the saint appeared to everyone else present as a man of good sense and judgement, well versed in old histories and affairs, because of his great age and long life; but Julian mocked him, and gave orders for him to be beheaded — and so the blessed man received from the Lord the crown of his contest.</span> <span class=\"sn\" data-s=\"8\">(Note that the Greek account and martyrdom of this Saint Eusignios survives in the Great Lavra on Mount Athos; it begins: “Julian the emperor, having denied Christ.”)</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Saints Kattidios and Kattidianos",
+      "heading_sentence_index": 9,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"10\">On the same day, the holy brothers and martyrs KATTIDIOS and KATTIDIANOS died by stoning.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"11\">*They built themselves high mounds of stones, O Word —*\n*and by these the two brothers climbed up to you.*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Saint Nonna",
+      "heading_sentence_index": 12,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"13\">Saint NONNA, the mother of Saint Gregory the Theologian, died in peace.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"14\">*To good Nonna, now dead, her good son gives*\n*a fitting burial-gift: his own words.*</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Saint Solev the Martyr",
+      "heading_sentence_index": 15,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"16\">The holy martyr SOLEV the Egyptian died, struck by an arrow from a bow.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"17\">*Spell your name backwards, Solev, and see —*\n*it gathers into BELOS, the arrow that was your end.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"18\">(Note that this is a genuine wordplay in the Greek that cannot survive translation letter for letter: ΣΟΛΕΒ, spelled backwards, becomes ΒΕΛΟΣ — the Greek word for “arrow,” the very weapon that killed him.</span> <span class=\"sn\" data-s=\"19\">Nikodemos found this clever enough to point out himself.)</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Saint Fabios the Hieromartyr, Pope of Rome",
+      "heading_sentence_index": 20,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"21\">The holy hieromartyr FABIOS, bishop of Rome, died by the sword.</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"22\">*Here lies Fabios dead, the priest of Christ —*\n*brought to Christ as a fresh offering by the sword.*</span>"
+        },
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"23\">(Note that this may be the same man as Fabian, bishop of Rome: Eusebius records, in the sixth book of his Ecclesiastical History, that a dove flew down and settled on his head while the people of Rome were still debating whom to choose as their next bishop after Anteros — and, taking this as a sign, they made him bishop on the spot.)</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The dismissal",
+      "heading_sentence_index": 24,
+      "pairs": [
+        {
+          "gr": null,
+          "en": "<span class=\"sn\" data-s=\"25\">Through the prayers of your Saints, Christ our God, have mercy on us.</span>"
+        }
+      ]
+    }
+  ]
+}

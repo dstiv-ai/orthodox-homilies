@@ -1,0 +1,108 @@
+{
+  "ref": "1 Corinthians 15:1-11",
+  "book": "1Cor",
+  "from": [
+    15,
+    1
+  ],
+  "to": [
+    15,
+    11
+  ],
+  "slug": "1-corinthians-15-1-11",
+  "greek": [
+    {
+      "v": "15:1",
+      "text": "Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,"
+    },
+    {
+      "v": "15:2",
+      "text": "δι’ οὗ καὶ σῴζεσθε· τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε."
+    },
+    {
+      "v": "15:3",
+      "text": "Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον, ὅτι χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς·"
+    },
+    {
+      "v": "15:4",
+      "text": "καὶ ὅτι ἐτάφη· καὶ ὅτι ἐγήγερται τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς·"
+    },
+    {
+      "v": "15:5",
+      "text": "καὶ ὅτι ὤφθη Κηφᾷ, εἶτα τοῖς δώδεκα·"
+    },
+    {
+      "v": "15:6",
+      "text": "ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ, ἐξ ὧν οἱ πλείους μένουσιν ἕως ἄρτι, τινὲς δὲ καὶ ἐκοιμήθησαν·"
+    },
+    {
+      "v": "15:7",
+      "text": "ἔπειτα ὤφθη Ἰακώβῳ, εἶτα τοῖς ἀποστόλοις πᾶσιν·"
+    },
+    {
+      "v": "15:8",
+      "text": "ἔσχατον δὲ πάντων, ὡσπερεὶ τῷ ἐκτρώματι, ὤφθη κἀμοί."
+    },
+    {
+      "v": "15:9",
+      "text": "Ἐγὼ γάρ εἰμι ὁ ἐλάχιστος τῶν ἀποστόλων, ὃς οὐκ εἰμὶ ἱκανὸς καλεῖσθαι ἀπόστολος, διότι ἐδίωξα τὴν ἐκκλησίαν τοῦ θεοῦ."
+    },
+    {
+      "v": "15:10",
+      "text": "Χάριτι δὲ θεοῦ εἰμι ὅ εἰμι, καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη, ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα, οὐκ ἐγὼ δέ, ἀλλ’ ἡ χάρις τοῦ θεοῦ ἡ σὺν ἐμοί."
+    },
+    {
+      "v": "15:11",
+      "text": "Εἴτε οὖν ἐγώ, εἴτε ἐκεῖνοι, οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε."
+    }
+  ],
+  "english": [
+    {
+      "v": "15:1",
+      "text": "Brothers and sisters, I want to remind you of the gospel I preached to you, which you received, and on which you now stand —"
+    },
+    {
+      "v": "15:2",
+      "text": "the gospel by which you are being saved, if you hold on to the message I preached to you — unless you believed for nothing."
+    },
+    {
+      "v": "15:3",
+      "text": "For I passed on to you, as most important of all, what I also received: that Christ died for our sins, according to the Scriptures;"
+    },
+    {
+      "v": "15:4",
+      "text": "that he was buried; that he was raised on the third day, according to the Scriptures;"
+    },
+    {
+      "v": "15:5",
+      "text": "and that he appeared to Cephas, and then to the Twelve."
+    },
+    {
+      "v": "15:6",
+      "text": "After that he appeared to more than five hundred brothers and sisters at once — most of them are still alive, though some have died."
+    },
+    {
+      "v": "15:7",
+      "text": "Then he appeared to James, and then to all the apostles."
+    },
+    {
+      "v": "15:8",
+      "text": "And last of all, as to one born at the wrong time, he appeared even to me."
+    },
+    {
+      "v": "15:9",
+      "text": "For I am the least of the apostles — not fit to even be called an apostle — because I persecuted the church of God."
+    },
+    {
+      "v": "15:10",
+      "text": "But by the grace of God I am what I am, and his grace toward me was not wasted. In fact I worked harder than all of them — though it was not I, but the grace of God at work with me."
+    },
+    {
+      "v": "15:11",
+      "text": "So then, whether it was I or they, this is what we preach, and this is what you believed."
+    }
+  ],
+  "greek_source": "content/2026-08-23/readings.md",
+  "english_source": "content/2026-08-23/readings.md",
+  "status": "complete"
+}

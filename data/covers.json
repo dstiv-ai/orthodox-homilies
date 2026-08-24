@@ -1,0 +1,173 @@
+{
+  "transfiguration": {
+    "image": "assets/transfig-mosaic.jpg",
+    "medallion": "assets/transfig-medallion.jpg",
+    "focus": "50% 34%"
+  },
+  "dormition": {
+    "image": "assets/icons/dormition-koimesis.jpg",
+    "medallion": "assets/icons/dormition-koimesis.jpg",
+    "focus": "50% 30%"
+  },
+  "theotokos": {
+    "image": "assets/panagia-mosaic-web.jpg",
+    "medallion": "assets/panagia-medallion.jpg",
+    "focus": "50% 12%"
+  },
+  "christ-gospel": {
+    "image": "assets/christ-mosaic-web.jpg",
+    "medallion": "assets/christ-medallion.jpg",
+    "focus": "50% 24%"
+  },
+  "andrew-the-fool": {
+    "image": "assets/icons/andrew-the-fool.jpg",
+    "medallion": "assets/icons/andrew-the-fool.jpg",
+    "focus": "50% 34%",
+    "shape": "face"
+  },
+  "chrysostom": {
+    "image": "assets/icons/john-chrysostom.jpg",
+    "medallion": "assets/icons/john-chrysostom.jpg",
+    "focus": "50% 26%",
+    "shape": "face"
+  },
+  "palamas": {
+    "image": "assets/icons/gregory-palamas.jpg",
+    "medallion": "assets/icons/gregory-palamas.jpg",
+    "focus": "50% 22%",
+    "shape": "face"
+  },
+  "damascus": {
+    "image": "assets/icons/john-of-damascus.jpg",
+    "medallion": "assets/icons/john-of-damascus.jpg",
+    "focus": "50% 18%",
+    "shape": "face"
+  },
+  "ephraim": {
+    "image": "assets/icons/ephraim-the-syrian.jpg",
+    "medallion": "assets/icons/ephraim-the-syrian.jpg",
+    "focus": "50% 30%",
+    "shape": "face"
+  },
+  "philaret": {
+    "image": "assets/icons/philaret-of-moscow.jpg",
+    "medallion": "assets/icons/philaret-of-moscow.jpg",
+    "focus": "50% 24%",
+    "shape": "face"
+  },
+  "seven-sleepers-ephesus": {
+    "image": "assets/icons/seven-sleepers-of-ephesus.jpg",
+    "medallion": "assets/icons/seven-sleepers-of-ephesus.jpg",
+    "focus": "50% 30%"
+  },
+  "dalmatos-synaxis": {
+    "image": "assets/icons/isaakios-of-dalmatos.jpg",
+    "medallion": "assets/icons/isaakios-of-dalmatos.jpg",
+    "focus": "50% 26%",
+    "shape": "face"
+  },
+  "eusignios-of-antioch": {
+    "image": "assets/icons/eusignios-of-antioch.jpg",
+    "medallion": "assets/icons/eusignios-of-antioch.jpg",
+    "focus": "50% 26%",
+    "shape": "face"
+  },
+  "dometios-the-persian": {
+    "image": "assets/icons/dometios-the-persian.jpg",
+    "medallion": "assets/icons/dometios-the-persian.jpg",
+    "focus": "50% 26%",
+    "shape": "face"
+  },
+  "christ-walking-on-water": {
+    "image": "assets/icons/christ-walking-on-water.jpg",
+    "medallion": "assets/icons/christ-walking-on-water.jpg",
+    "focus": "50% 38%"
+  },
+  "apostle-paul": {
+    "image": "assets/icons/apostle-paul.jpg",
+    "medallion": "assets/icons/apostle-paul.jpg",
+    "focus": "50% 40%",
+    "shape": "face"
+  },
+  "synaxis-of-the-apostles": {
+    "image": "assets/icons/synaxis-of-the-apostles.jpg",
+    "medallion": "assets/icons/synaxis-of-the-apostles.jpg",
+    "focus": "50% 34%"
+  },
+  "prophet-elijah": {
+    "image": "assets/icons/prophet-elijah.jpg",
+    "medallion": "assets/icons/prophet-elijah.jpg",
+    "focus": "50% 28%"
+  },
+  "tikhon-of-zadonsk": {
+    "image": "assets/tikhon-letters-cover-web.jpg",
+    "medallion": "assets/icons/tikhon-of-zadonsk.jpg",
+    "focus": "50% 30%",
+    "_provenance": "Cover: approved composite (Dimitri 2026-08-08) — genuine 19th-c. PD icon (Wikimedia Commons, Russian_Icon_of_Saint_Tikhon_of_Zadonsk.jpg, PD-old) reproduced on a generated gold field via ChatGPT/GPT-Image. Medallion: the untouched PD icon photo itself, edges trimmed."
+  },
+  "myron-of-crete": {
+    "image": "assets/icons/myron-of-crete.jpg",
+    "medallion": "assets/icons/myron-of-crete.jpg",
+    "focus": "50% 12%",
+    "shape": "face"
+  },
+  "apostle-matthias": {
+    "image": "assets/icons/apostle-matthias.jpg",
+    "medallion": "assets/icons/apostle-matthias.jpg",
+    "focus": "50% 22%",
+    "shape": "face"
+  },
+  "laurence-of-rome": {
+    "image": "assets/icons/laurence-of-rome.jpg",
+    "medallion": "assets/icons/laurence-of-rome.jpg",
+    "focus": "42% 22%",
+    "shape": "face"
+  },
+  "euplus-of-catania": {
+    "image": "assets/icons/euplus-of-catania.jpg",
+    "medallion": "assets/icons/euplus-of-catania.jpg",
+    "focus": "50% 35%",
+    "shape": "face"
+  },
+  "photius-and-anicetus": {
+    "image": "assets/icons/photius-and-anicetus.jpg",
+    "medallion": "assets/icons/photius-and-anicetus.jpg",
+    "focus": "50% 14%",
+    "shape": "face"
+  },
+  "maximus-the-confessor": {
+    "image": "assets/icons/maximus-the-confessor.jpg",
+    "medallion": "assets/icons/maximus-the-confessor.jpg",
+    "focus": "50% 20%",
+    "shape": "face"
+  },
+  "prophet-micah": {
+    "image": "assets/icons/prophet-micah.jpg",
+    "medallion": "assets/icons/prophet-micah.jpg",
+    "focus": "50% 30%",
+    "shape": "face"
+  },
+  "mandylion": {
+    "image": "assets/icons/mandylion.jpg",
+    "medallion": "assets/icons/mandylion.jpg",
+    "focus": "50% 45%",
+    "shape": "face"
+  },
+  "myron-of-cyzicus": {
+    "image": "assets/icons/myron-of-cyzicus.jpg",
+    "medallion": "assets/icons/myron-of-cyzicus.jpg",
+    "focus": "50% 28%",
+    "shape": "face"
+  },
+  "varnavas-vrachnas-gnomis": {
+    "image": "assets/varnavas-talks-cover.png",
+    "medallion": "assets/varnavas-talks-cover.png",
+    "focus": "50% 30%"
+  },
+  "kosmas-aitolos": {
+    "image": "assets/icons/kosmas-aitolos.jpg",
+    "medallion": "assets/icons/kosmas-aitolos.jpg",
+    "focus": "50% 38%",
+    "shape": "face"
+  }
+}

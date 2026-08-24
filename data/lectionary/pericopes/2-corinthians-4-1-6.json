@@ -1,0 +1,68 @@
+{
+  "ref": "2 Corinthians 4:1-6",
+  "book": "2Cor",
+  "from": [
+    4,
+    1
+  ],
+  "to": [
+    4,
+    6
+  ],
+  "slug": "2-corinthians-4-1-6",
+  "greek": [
+    {
+      "v": "4:1",
+      "text": "Διὰ τοῦτο ἔχοντες τὴν διακονίαν ταύτην, καθὼς ἠλεήθημεν, οὐκ ἐκκακοῦμεν·"
+    },
+    {
+      "v": "4:2",
+      "text": "ἀλλὰ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστῶντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ θεοῦ."
+    },
+    {
+      "v": "4:3",
+      "text": "Εἰ δὲ καὶ ἔστιν κεκαλυμμένον τὸ εὐαγγέλιον ἡμῶν, ἐν τοῖς ἀπολλυμένοις ἐστὶν κεκαλυμμένον·"
+    },
+    {
+      "v": "4:4",
+      "text": "ἐν οἷς ὁ θεὸς τοῦ αἰῶνος τούτου ἐτύφλωσεν τὰ νοήματα τῶν ἀπίστων, εἰς τὸ μὴ αὐγάσαι αὐτοῖς τὸν φωτισμὸν τοῦ εὐαγγελίου τῆς δόξης τοῦ χριστοῦ, ὅς ἐστιν εἰκὼν τοῦ θεοῦ."
+    },
+    {
+      "v": "4:5",
+      "text": "Οὐ γὰρ ἑαυτοὺς κηρύσσομεν, ἀλλὰ χριστὸν Ἰησοῦν κύριον· ἑαυτοὺς δὲ δούλους ὑμῶν διὰ Ἰησοῦν."
+    },
+    {
+      "v": "4:6",
+      "text": "Ὅτι ὁ θεὸς ὁ εἰπὼν ἐκ σκότους φῶς λάμψαι, ὃς ἔλαμψεν ἐν ταῖς καρδίαις ἡμῶν πρὸς φωτισμὸν τῆς γνώσεως τῆς δόξης τοῦ θεοῦ ἐν προσώπῳ Ἰησοῦ χριστοῦ."
+    }
+  ],
+  "english": [
+    {
+      "v": "4:1",
+      "text": "Brothers and sisters: so, since we have this ministry by the mercy we have received, we do not lose heart."
+    },
+    {
+      "v": "4:2",
+      "text": "We have renounced the hidden, shameful things. We do not behave craftily, and we do not tamper with the word of God. Instead, by setting out the truth plainly, we commend ourselves to every human conscience, in the sight of God."
+    },
+    {
+      "v": "4:3",
+      "text": "And even if our gospel is veiled, it is veiled among those who are perishing —"
+    },
+    {
+      "v": "4:4",
+      "text": "among them, the god of this age has blinded the minds of the unbelievers, so that the light of the gospel of the glory of Christ, who is the image of God, does not dawn on them."
+    },
+    {
+      "v": "4:5",
+      "text": "For we do not preach ourselves; we preach Christ Jesus as Lord — and ourselves as your servants for Jesus' sake."
+    },
+    {
+      "v": "4:6",
+      "text": "Because the God who said, \"Let light shine out of darkness,\" is the one who has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+    }
+  ],
+  "greek_source": "content/2026-08-13/readings.md",
+  "english_source": "content/2026-08-13/readings.md",
+  "status": "complete"
+}

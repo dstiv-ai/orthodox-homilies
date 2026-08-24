@@ -1,0 +1,664 @@
+{
+  "id": "ephraim-transfig",
+  "slug": "ephraim-transfig",
+  "title": "On the Transfiguration",
+  "father": "Attributed to St Ephraim the Syrian",
+  "collection": null,
+  "source_ref": "Ephraem Graecus, CPG 3939",
+  "category": "church-year",
+  "feast": "transfiguration",
+  "saint_key": null,
+  "cover_key": "transfiguration",
+  "scripture": [
+    "Matthew 17:1-9"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 4353,
+  "reading_minutes": 22,
+  "attribution_note": "This text circulates under St Ephraim the Syrian's name but is not genuinely his — it is Ephraem Graecus (CPG 3939), of disputed authorship among the pseudo-Ephrem corpus. See content/transfig/CATALOGUE.md.",
+  "path": [
+    "church-year",
+    "feasts",
+    "transfiguration"
+  ],
+  "sections": [
+    {
+      "heading": "Ἡ συγκομιδή | The harvest of the fields",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "Ἐκ τῆς χώρας θέρους χαρμονή, ἐκ τοῦ ἀμπελῶνος καρποὶ ἐδεσμάτων, καὶ ἐκ τῶν Γραφῶν διδαχὴ ζωοποιός.",
+          "en": "<span class=\"sn\" data-s=\"1\">The countryside brings the joy of summer; the vineyard brings fruit good to eat; and the Scriptures bring teaching that gives life.</span>"
+        },
+        {
+          "gr": "Ἡ χώρα εἰς ἕνα καιρὸν ἔχει τὸ θέρος, καὶ ἡ ἄμπελος εἰς ἕνα καιρὸν ἔχει τὸν τρυγητόν, ἡ Γραφὴ δὲ πάντοτε ἀναγινωσκομένη ἀναβλύζει διδαχὴν ζωοποιόν.",
+          "en": "<span class=\"sn\" data-s=\"2\">The countryside has its harvest once a year, and the vineyard has its grape-picking once a year — but Scripture, read at any time, pours out life-giving teaching every day.</span>"
+        },
+        {
+          "gr": "Ἡ χώρα, ὅταν θερισθῇ, ἀπέσχε, καὶ ἡ ἄμπελος, ὅταν τρυγηθῇ, ταπεινοῦται, ἡ Γραφὴ δὲ καθ' ἡμέραν θεριζομένη, οἱ στάχυες τῶν ἑρμηνευόντων ἐν αὐτῇ οὐκ ἐκλιμπάνουσι· καὶ καθ' ἡμέραν τρυγεῖται, καὶ οἱ βότρυες τῆς ἐν αὐτῇ ἐλπίδος οὐ δαπανῶνται.",
+          "en": "<span class=\"sn\" data-s=\"3\">When the countryside is harvested it lies bare, and when the vineyard is picked it is stripped; but Scripture is harvested every day, and the ears of grain grown by those who explain it never run out — it is picked every day, and the grapes of the hope stored up in it are never used up.</span>"
+        },
+        {
+          "gr": "Ἐγγίσωμεν τοίνυν ταύτῃ τῇ χώρᾳ, καὶ τῶν αὐλάκων αὐτῆς τῶν ζωοποιῶν ἀπολαύσωμεν· καὶ θερίσωμεν ἐξ αὐτῆς στάχυας ζωῆς, τοὺς λόγους τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, τοῦ εἰπόντος πρὸς τοὺς ἑαυτοῦ μαθητάς· εἰσί τινες τῶν ὧδε ἑστώτων, οἳ οὐ μὴ γεύσωνται θανάτου, ἕως ἂν ἴδωσι τὸν Υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν τῇ δόξῃ αὐτοῦ. Καὶ μεθ' ἡμέρας ἓξ παραλαμβάνει τὸν Σίμωνα Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, εἰς ὄρος ὑψηλὸν λίαν, καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ τὸ πρόσωπον αὐτοῦ ἔλαμψεν, ὡς ὁ ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ ἐγένοντο λευκά, ὡς τὸ φῶς.",
+          "en": "<span class=\"sn\" data-s=\"4\">Let us draw near, then, to this field, and enjoy its life-giving furrows; let us reap from it ears of life — the words of our Lord Jesus Christ, who said to his own disciples: *“Some of you standing here will not taste death until you see the Son of Man coming in his glory”* [Matthew 16:28].</span> <span class=\"sn\" data-s=\"5\">*“And after six days he took with him Peter, James, and John his brother, and led them up a very high mountain”* [Matthew 17:1] — the mountain that the Church's tradition calls Mount Tabor — *“and he was transfigured in front of them: his face shone like the sun, and his clothes became white as light”* [Matthew 17:2].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Τίνα με λέγουσιν οἱ ἄνθρωποι; | “Who do people say I am?”",
+      "heading_sentence_index": 6,
+      "pairs": [
+        {
+          "gr": "Ἄνδρες, οὓς εἶπεν ἵνα μὴ γεύσωνται θανάτου, ἕως ἂν ἴδωσι τὸν τύπον τῆς ἐλεύσεως αὐτοῦ, οὗτοί εἰσιν οὓς παραλαβὼν ἀνήγαγεν εἰς τὸ ὄρος καὶ ἔδειξεν αὐτοῖς πῶς μέλλει ἔρχεσθαι ἐν τῇ ἡμέρᾳ τῇ ἐσχάτῃ ἐν τῇ δόξῃ τῆς θεότητος αὐτοῦ καὶ ἐν τῷ σώματι τῆς ἀνθρωπότητος αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"7\">These are the very men Christ meant when he said they would not taste death until they had seen a preview of his coming: the ones he took up the mountain, showing them how he will come on the last day, in the glory of his divine nature and in the body of his human nature.</span>"
+        },
+        {
+          "gr": "Ἀνήγαγε δὲ αὐτοὺς εἰς τὸ ὄρος, ἵνα δείξῃ αὐτοῖς τίς ὁ Υἱός, καὶ τίνος.",
+          "en": "<span class=\"sn\" data-s=\"8\">He led them up the mountain to show them who the Son is, and whose Son he is.</span>"
+        },
+        {
+          "gr": "Ὅταν γὰρ ἠρώτησεν αὐτούς· τίνα με λέγουσιν οἱ ἄνθρωποι εἶναι τὸν Υἱὸν τοῦ ἀνθρώπου; Λέγουσιν αὐτῷ· οἱ μὲν Ἠλίαν, οἱ δὲ Ἱερεμίαν, ἢ ἕνα τῶν Προφητῶν.",
+          "en": "<span class=\"sn\" data-s=\"9\">For when he had asked them, “Who do people say the Son of Man is?” they answered him: “some say Elijah, others Jeremiah, or one of the prophets” [Matthew 16:13-14].</span>"
+        },
+        {
+          "gr": "Διὰ τοῦτο ἀναφέρει αὐτοὺς εἰς τὸ ὄρος, καὶ δείκνυσιν αὐτοῖς ὅτι οὐκ ἔστιν Ἠλίας, ἀλλὰ Θεὸς τοῦ Ἠλία· οὐδὲ πάλιν Ἱερεμίας, ἀλλ' ὁ ἁγιάσας Ἱερεμίαν ἐν τῇ κοιλίᾳ τῆς μητρός· οὐδὲ εἷς τῶν Προφητῶν, ἀλλ' ὁ Κύριος τῶν Προφητῶν, ὁ καὶ πέμψας αὐτούς.",
+          "en": "<span class=\"sn\" data-s=\"10\">That is why he takes them up the mountain and shows them: he is not Elijah, but the God whom Elijah served; he is not Jeremiah, but the one who made Jeremiah holy while he was still inside his mother's womb [Jeremiah 1:5]; he is not one of the prophets, but the Lord of the prophets, the very one who sent them out.</span>"
+        },
+        {
+          "gr": "Καὶ δείκνυσιν αὐτοῖς ὅτι αὐτός ἐστιν ὁ ποιητὴς οὐρανοῦ καὶ γῆς, καὶ αὐτός ἐστι Κύριος ζώντων καὶ νεκρῶν. Ἐκέλευσε γὰρ τῷ οὐρανῷ καὶ κατήγαγε τὸν Ἠλίαν, καὶ ἔνευσε τῇ γῇ καὶ ἀνέστησε τὸν Μωσῆν.",
+          "en": "<span class=\"sn\" data-s=\"11\">He shows them that he is the maker of heaven and earth, and the Lord of the living and the dead: he commanded heaven, and brought Elijah down from it — Elijah, who had been carried up to heaven alive in a chariot of fire [2 Kings 2:11] — and he gestured to the earth, and raised up Moses — whose burial place no one had ever known [Deuteronomy 34:6].</span>"
+        },
+        {
+          "gr": "Ἀνήγαγεν αὐτοὺς εἰς τὸ ὄρος, ἵνα δείξῃ αὐτοῖς ὅτι αὐτός ἐστιν ὁ Υἱὸς τοῦ Θεοῦ, ὁ πρὸ αἰώνων ἐκ Πατρὸς γεννηθεὶς καὶ ἐπ' ἐσχάτων ἐκ τῆς Παρθένου σαρκωθείς, ὡς οἶδεν αὐτός, ἀσπόρως τεχθεὶς καὶ ἀφράστως, ἄφθορον διατηρήσας τὴν παρθενίαν· ὅπου γὰρ βούλεται Θεός, νικᾶται φύσεως τάξις.",
+          "en": "<span class=\"sn\" data-s=\"12\">He led them up the mountain to show them that he is the Son of God, begotten of the Father before all ages, and in these last times made flesh from the Virgin — born, in a way that only he himself fully understands, without a human father and beyond all words, while her virginity stayed unbroken.</span> <span class=\"sn\" data-s=\"13\">For wherever God wills it, the ordinary order of nature gives way.</span>"
+        },
+        {
+          "gr": "Ἐνῴκησε γὰρ ἐν τῇ μήτρᾳ τῆς Παρθένου ὁ Θεὸς Λόγος, καὶ οὐ κατέφλεξε τὸ πῦρ τῆς θεότητος αὐτοῦ τὰ μέλη τοῦ σώματος τῆς Παρθένου, ἀλλὰ καὶ παρεφύλαξεν ἐν τῇ τοῦ ἐννεαμηνιαίου χρόνου παρακαταστάσει.",
+          "en": "<span class=\"sn\" data-s=\"14\">God the Word made his home in the Virgin's womb, and the fire of his divine nature did not burn the parts of her body — instead, it kept her safe all through the nine months she carried him.</span>"
+        },
+        {
+          "gr": "Ἐνῴκησεν ἐν τῇ μήτρᾳ τῆς Παρθένου, μὴ βδελυξάμενος τὸ δυσῶδες τῆς φύσεως, καὶ ἐξ αὐτῆς προῆλθε Θεὸς σεσαρκωμένος, ἵνα ἡμᾶς σώσῃ.",
+          "en": "<span class=\"sn\" data-s=\"15\">He made his home in the Virgin's womb without recoiling in disgust from the humble, earthy realities of our human nature, and from her he came forth as God made flesh, in order to save us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ἵνα μὴ σκανδαλισθῶσιν | So that they would not lose faith",
+      "heading_sentence_index": 16,
+      "pairs": [
+        {
+          "gr": "Ἀνήγαγεν αὐτοὺς εἰς τὸ ὄρος, ἵνα δείξῃ αὐτοῖς τὴν δόξαν τῆς θεότητος, καὶ γνωρίσῃ αὐτοῖς ὅτι αὐτός ἐστιν ὁ λυτρούμενος τὸν Ἰσραήλ, καθὼς διὰ τῶν Προφητῶν ἐδήλωσε, καὶ μὴ σκανδαλισθῶσιν ἐν αὐτῷ, βλέποντες αὐτοῦ τὰ ἑκούσια πάθη, ἃ ἔμελλε πάσχειν δι' ἡμᾶς ἀνθρωπίνως.",
+          "en": "<span class=\"sn\" data-s=\"17\">He led them up the mountain to show them the glory of his divine nature, and to make known to them that he is the redeemer of Israel, exactly as he had made clear beforehand through the prophets — and so that they would not lose their faith in him later, when they saw him willingly suffer the things he was going to suffer for us as a man.</span>"
+        },
+        {
+          "gr": "Ἐγνώριζον γὰρ αὐτὸν ἄνθρωπον, καὶ οὐκ ᾔδεισαν ὅτι ἐστὶ Θεός.",
+          "en": "<span class=\"sn\" data-s=\"18\">Up to that point they had known him only as a man, and did not know he was God.</span>"
+        },
+        {
+          "gr": "Ἐγνώριζον αὐτὸν υἱὸν Μαρίας, ἄνθρωπον συναναστρεφόμενον αὐτοῖς ἐν τῷ κόσμῳ, καὶ ἐγνώρισεν αὐτοῖς ἐν τῷ ὄρει ὅτι αὐτός ἐστιν Υἱὸς Θεοῦ καὶ Θεός.",
+          "en": "<span class=\"sn\" data-s=\"19\">They knew him as the son of Mary, a man who lived and moved among them in the world; but on the mountain he made known to them that he is the Son of God, and God himself.</span>"
+        },
+        {
+          "gr": "Εἶδον αὐτόν, ὅτι ἤσθιε καὶ ἔπινε, καὶ ἐκοπία καὶ ἀνεπαύετο, καὶ ἐνύσταζε καὶ ἐκοιμᾶτο, καὶ ἐφοβεῖτο καὶ ἵδρου, ἃ τῇ φύσει τῆς θεότητος αὐτοῦ οὐχ ἥρμοζον, εἰ μὴ μόνον τῇ ἀνθρωπότητι, καὶ διὰ τοῦτο ἀναφέρει αὐτοὺς εἰς τὸ ὄρος, ἵνα ὁ Πατὴρ φωνήσῃ τὸν Υἱὸν καὶ δείξῃ αὐτοῖς ὅτι Υἱὸς αὐτοῦ ἐστιν ἐν ἀληθείᾳ καὶ Θεός.",
+          "en": "<span class=\"sn\" data-s=\"20\">They had seen him eat and drink, grow tired and rest, grow drowsy and sleep, feel afraid and sweat — none of which belongs to the nature of his divinity, but only to his humanity.</span> <span class=\"sn\" data-s=\"21\">That is why he brought them up the mountain: so that the Father would speak the Son's name aloud, and show them that he truly is his Son, and truly God.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ἡ δόξα πρὸ τοῦ πάθους | His glory before the Passion",
+      "heading_sentence_index": 22,
+      "pairs": [
+        {
+          "gr": "Ἀνήγαγεν αὐτοὺς εἰς τὸ ὄρος καὶ ἔδειξεν αὐτοῖς τὴν βασιλείαν αὐτοῦ πρὸ τοῦ πάθους αὐτοῦ, καὶ τὴν δύναμιν αὐτοῦ πρὸ τοῦ θανάτου αὐτοῦ, καὶ τὴν δόξαν αὐτοῦ πρὸ τῆς ὕβρεως αὐτοῦ, καὶ τὴν τιμὴν αὐτοῦ πρὸ τῆς ἀτιμίας αὐτοῦ, ἵνα, ὅταν κρατηθῇ καὶ σταυρωθῇ ὑπὸ τῶν Ἰουδαίων, γνώσωνται ὅτι οὐ δι' ἀσθένειαν ἐσταυρώθη, ἀλλ' ὅτι εὐδοκίᾳ αὐτοῦ ἑκουσίως εἰς σωτηρίαν τοῦ κόσμου.",
+          "en": "<span class=\"sn\" data-s=\"23\">He led them up the mountain and showed them his kingship before his suffering, his power before his death, his glory before his disgrace, and his honour before his shame — so that when he was arrested and crucified by the Jewish leaders, they would know he was not crucified out of weakness, but by his own free choice, for the salvation of the world.</span>"
+        },
+        {
+          "gr": "Ἀνήγαγεν αὐτοὺς εἰς τὸ ὄρος καὶ δείκνυσιν αὐτοῖς τὴν δόξαν τῆς θεότητος αὐτοῦ πρὸ τῆς ἀναστάσεως, ἵνα, ὅταν ἐκ νεκρῶν ἀναστῇ ἐν τῇ δόξῃ τῆς φύσεως τῆς θεότητος αὐτοῦ, γνώσωνται ὅτι οὐχ ὑπὲρ τοῦ κόπου αὐτοῦ ἔλαβε τὴν δόξαν, ὡς ἐνδεής, ἀλλ' ἦν αὐτοῦ πρὸ αἰώνων, σὺν τῷ Πατρὶ καὶ μετὰ τοῦ Πατρός, καθὼς εἶπεν ἐρχόμενος ἐπὶ τὸ ἑκούσιον πάθος· Πάτερ, δόξασόν με τῇ δόξῃ, ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί.",
+          "en": "<span class=\"sn\" data-s=\"24\">He led them up the mountain and showed them the glory of his divine nature before his resurrection, so that when he rose from the dead in the glory that belongs to his divine nature, they would know that he did not receive that glory as a reward for his labour — as though he had lacked it before — but that it had been his from before all the ages, with the Father and alongside the Father, exactly as he said when he was on his way to his willing suffering: *“Father, glorify me with the glory I had with you before the world existed”* [John 17:5].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Δύο ἥλιοι | Two suns",
+      "heading_sentence_index": 25,
+      "pairs": [
+        {
+          "gr": "Αὐτὴν οὖν τὴν δόξαν τῆς θεότητος αὐτοῦ, ἄδηλον καὶ κεκρυμμένην ἐν τῇ ἀνθρωπότητι, ἀπέδειξε τοῖς Ἀποστόλοις ἐν τῷ ὄρει.",
+          "en": "<span class=\"sn\" data-s=\"26\">So he showed the apostles, on the mountain, this glory of his divine nature — a glory that until then had been unseen, hidden away inside his humanity.</span>"
+        },
+        {
+          "gr": "Εἶδον γὰρ τὸ πρόσωπον αὐτοῦ ὡς ἀστραπὴν λάμπον καὶ τὰ ἱμάτια αὐτοῦ λευκὰ ὡς τὸ φῶς.",
+          "en": "<span class=\"sn\" data-s=\"27\">They saw his face shining like lightning, and his clothes white as light.</span>"
+        },
+        {
+          "gr": "Δύο ἡλίους οἱ μαθηταὶ ἔβλεπον· ἕνα ἐν τῷ οὐρανῷ, κατὰ τὸ ἔθος, καὶ ἕνα, παρὰ τὸ ἔθος· ἕνα τὸν φαίνοντα καὶ τὸν κόσμον καταυγάζοντα ἐν τῷ στερεώματι καὶ ἕνα αὐτοῖς μόνοις φαίνοντα, τὸ πρόσωπον αὐτοῦ εἰς αὐτούς.",
+          "en": "<span class=\"sn\" data-s=\"28\">The disciples were looking at two suns: one in the sky, as always, and one beyond anything usual — one lighting up the world from the vault of heaven, and one shining for them alone, his own face turned toward them.</span>"
+        },
+        {
+          "gr": "Τὰ δὲ ἱμάτια αὐτοῦ λευκά, ὡς τὸ φῶς, ἔδειξεν, ὅτι ἐξ ὅλου τοῦ σώματος αὐτοῦ ἔβρυεν ἡ δόξα τῆς θεότητος αὐτοῦ, καὶ ἐξ ὅλων τῶν μελῶν αὐτοῦ ἔλαμψε τὸ φῶς αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"29\">His clothes being white as light showed that the glory of his divine nature was pouring out of his whole body, and his light was shining from every part of him.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ ὡς Μωσῆς ἔξωθεν ἡ σὰρξ αὐτοῦ ἔλαμψεν ἐν εὐπρεπείᾳ, ἀλλ' ἐξ αὐτοῦ ἔβρυεν ἡ δόξα αὐτοῦ τῆς θεότητος.",
+          "en": "<span class=\"sn\" data-s=\"30\">His flesh did not shine on the outside with a borrowed brightness, the way Moses' face once did [Exodus 34:29-30]; instead, the glory of his divinity poured out from within himself.</span>"
+        },
+        {
+          "gr": "Ἀνέτειλε τὸ φῶς αὐτοῦ, καὶ ἐν αὐτῷ συνήχθη. Οὔτε γὰρ εἰς ἄλλο μέρος ἀπῆλθε καὶ εἴασεν αὐτόν, ὅτι οὐκ ἦλθεν ἐκ πλαγίου ἑτέρου καὶ ἐκόσμησεν αὐτόν, οὔτε ἐν χρήσει αὐτοῦ ἦν.",
+          "en": "<span class=\"sn\" data-s=\"31\">His light rose up and stayed gathered in him — it did not travel in from somewhere else and then leave him behind, because it had not come to him from any outside source decorating him, and it was not something he simply made use of.</span>"
+        },
+        {
+          "gr": "Καὶ οὐχ ὅλην τὴν ἄβυσσον τῆς δόξης αὐτοῦ παρέδειξεν, ἀλλ' ὅσον ἐχώρησε τὸ μέτρον τῶν κορῶν ὀφθαλμῶν αὐτῶν.",
+          "en": "<span class=\"sn\" data-s=\"32\">And he did not show them the whole depthless ocean of his glory, but only as much as the very pupils of their eyes could hold.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Μωϋσῆς καὶ Ἠλίας | Moses and Elijah",
+      "heading_sentence_index": 33,
+      "pairs": [
+        {
+          "gr": "Καὶ ὤφθησαν αὐτοῖς Μωσῆς καὶ Ἠλίας λαλοῦντες μετ' αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"34\">And Moses and Elijah appeared to them, talking with him [Matthew 17:3].</span>"
+        },
+        {
+          "gr": "Καὶ οἱ λόγοι αὐτῶν οἱ μετ' αὐτοῦ τοιοῦτοι ἦσαν· χάριν ὡμολόγουν αὐτῷ, ὅτι οἱ λόγοι αὐτῶν ἐπληρώθησαν, καὶ πάντων τῶν σὺν αὐτοῖς Προφητῶν, ἐν τῇ παρουσίᾳ αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"35\">Their words with him were words like these: they were thanking him, because their own prophecies — and the prophecies of every prophet who came with them — had been fulfilled in his coming.</span>"
+        },
+        {
+          "gr": "Προσκύνησιν αὐτῷ προσέφερον ὑπὲρ τῆς σωτηρίας, ἧς ἐποίησε τῷ κόσμῳ τῷ γένει τῶν ἀνθρώπων· καὶ τὸ μυστήριον ὃ ἐζωγράφησαν αὐτοί, αὐτὸς ἔργῳ ἐπλήρωσε.",
+          "en": "<span class=\"sn\" data-s=\"36\">They offered him worship for the salvation he had won for the world, for the whole human race; and the mystery they had only sketched out in advance, he now fulfilled in reality.</span>"
+        },
+        {
+          "gr": "Χαρὰ τοῖς Προφήταις καὶ τοῖς Ἀποστόλοις ἐν αὐτῇ τῇ ἀναβάσει τοῦ ὄρους ἐγένετο.",
+          "en": "<span class=\"sn\" data-s=\"37\">There was joy for the prophets and the apostles in that very climb up the mountain.</span>"
+        },
+        {
+          "gr": "Ἐχάρησαν οἱ Προφῆται ἰδόντες τὴν ἀνθρωπότητα αὐτοῦ, ἣν οὐκ ᾔδεισαν. Ἐχάρησαν δὲ καὶ οἱ Ἀπόστολοι ἰδόντες τὴν δόξαν τῆς θεότητος αὐτοῦ, ἣν οὐκ ἔγνωσαν, καὶ ἀκούσαντες τῆς φωνῆς τοῦ Πατρὸς μαρτυρούσης τῷ Υἱῷ·",
+          "en": "<span class=\"sn\" data-s=\"38\">The prophets rejoiced to see his humanity, which they had not known; the apostles rejoiced to see the glory of his divinity, which they had not known either, and to hear the Father's voice testifying to the Son.</span>"
+        },
+        {
+          "gr": "καὶ δι' αὐτῆς ἔγνωσαν τὴν ἐνανθρώπησιν αὐτοῦ, ἥτις ἦν ἄδηλος παρ' αὐτοῖς.",
+          "en": "<span class=\"sn\" data-s=\"39\">Through that voice they came to understand his becoming man, which until then had not been clear to them.</span>"
+        },
+        {
+          "gr": "Καὶ ἐπίστωσεν αὐτούς, μετὰ τῆς φωνῆς τοῦ Πατρός, ἡ φανεῖσα δόξα τοῦ σώματος αὐτοῦ, ἐκ τῆς ἐν αὐτῷ ἑνωθείσης ἀτρέπτως καὶ ἀσυγχύτως θεότητος.",
+          "en": "<span class=\"sn\" data-s=\"40\">And together with the Father's voice, the glory that appeared in his body — coming from the divine nature united to it, unchangeably and without confusion — confirmed the truth to them.</span>"
+        },
+        {
+          "gr": "Καὶ ἐσφραγίσθη ἡ μαρτυρία τῶν τριῶν ἐν τῇ πατρικῇ φωνῇ, καὶ τῷ Μωσῇ καὶ τῷ Ἠλίᾳ, οἵτινες παρειστήκεσαν αὐτῷ, ὡς δοῦλοι, καὶ εἷς τὸν ἕτερον ἔβλεπον· οἱ Προφῆται τοὺς Ἀποστόλους, καὶ οἱ Ἀπόστολοι τοὺς Προφήτας.",
+          "en": "<span class=\"sn\" data-s=\"41\">And the testimony of the three witnesses — the Father's voice, and Moses, and Elijah — was sealed.</span> <span class=\"sn\" data-s=\"42\">Moses and Elijah stood beside him like servants, and looked at one another: the prophets looking at the apostles, and the apostles looking at the prophets.</span>"
+        },
+        {
+          "gr": "Εἶδον ἐκεῖ ἀλλήλους οἱ ἀρχηγοὶ τῆς παλαιᾶς διαθήκης τοὺς ἀρχηγοὺς τῆς νέας.",
+          "en": "<span class=\"sn\" data-s=\"43\">There, the leaders of the Old Testament saw the leaders of the New.</span>"
+        },
+        {
+          "gr": "Εἶδε Μωσῆς ὁ ἅγιος τὸν Σίμωνα ἁγιασθέντα· εἶδεν ὁ οἰκονόμος τοῦ Πατρὸς τὸν ἐπίτροπον τοῦ Υἱοῦ.",
+          "en": "<span class=\"sn\" data-s=\"44\">Moses the holy one saw Simon Peter made holy; the steward of the Father saw the steward entrusted by the Son.</span>"
+        },
+        {
+          "gr": "Ὁ μὲν ἔσχισε θάλασσαν τοῦ περιπατεῖν λαὸν ἐν μέσῳ κυμάτων, ὁ δὲ ἤγειρε σκηνὴν τοῦ οἰκοδομῆσαι τὴν Ἐκκλησίαν.",
+          "en": "<span class=\"sn\" data-s=\"45\">Moses had once split the sea, so the people could walk through the middle of the waves;</span> <span class=\"sn\" data-s=\"46\">Peter would raise up a tent, in order to build the Church.</span>"
+        },
+        {
+          "gr": "Εἶδεν ὁ παρθένος τῆς παλαιᾶς διαθήκης τὸν παρθένον τῆς νέας· Ἠλίας τὸν Ἰωάννην.",
+          "en": "<span class=\"sn\" data-s=\"47\">The virgin of the Old Testament saw the virgin of the New: Elijah saw John.</span>"
+        },
+        {
+          "gr": "Ὁ ἀναβὰς ἐπὶ τὸ ἅρμα τοῦ πυρὸς τὸν ἀναπεσόντα ἐπὶ τὸ στῆθος τῆς φλογός.",
+          "en": "<span class=\"sn\" data-s=\"48\">The one who went up in the chariot of fire [2 Kings 2:11] saw the one who once leaned back against the breast of the flame — John, at the Last Supper, resting against Christ [John 13:25].</span>"
+        },
+        {
+          "gr": "Καὶ ἐγένετο τὸ ὄρος εἰς τύπον τῆς Ἐκκλησίας, καὶ ἥνωσεν ἐν αὐτῷ ὁ Ἰησοῦς τὰς δύο διαθήκας, ἃς ἀπεδέξατο ἡ Ἐκκλησία, καὶ ἐγνώρισεν ἡμῖν ὅτι αὐτός ἐστιν ὁ δοτὴρ τῶν δύο.",
+          "en": "<span class=\"sn\" data-s=\"49\">And the mountain became a picture of the Church: on it, Jesus joined together the two Testaments that the Church has received, and made known to us that he is the giver of both.</span>"
+        },
+        {
+          "gr": "Ἡ μία παρέλαβε τὰ μυστήρια αὐτοῦ· ἡ ἑτέρα ἐφανέρωσε τὴν δόξαν τῶν ἔργων αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"50\">The one received his mysteries in hidden signs beforehand; the other revealed openly the glory of his works.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Αἱ τρεῖς σκηναί | The three tents",
+      "heading_sentence_index": 51,
+      "pairs": [
+        {
+          "gr": "Εἶπε Σίμων· καλὸν ἡμῖν ἐστιν ὧδε εἶναι, Κύριε.",
+          "en": "<span class=\"sn\" data-s=\"52\">Simon said: *“Lord, it is good for us to be here”* [Matthew 17:4].</span>"
+        },
+        {
+          "gr": "Ὦ Σίμων, τί λέγεις;",
+          "en": "<span class=\"sn\" data-s=\"53\">O Simon, what are you saying?</span>"
+        },
+        {
+          "gr": "Ἐὰν ὧδε μένωμεν, τὸν λόγον τῶν Προφητῶν τίς πληροῖ;",
+          "en": "<span class=\"sn\" data-s=\"54\">If we stay here, who will fulfil the word of the prophets?</span>"
+        },
+        {
+          "gr": "Τὰ ῥήματα τῶν κηρύκων τίς σφραγίζει;",
+          "en": "<span class=\"sn\" data-s=\"55\">Who will confirm the words of the heralds?</span>"
+        },
+        {
+          "gr": "Τὰ μυστήρια τῶν δικαίων τίς τελειοῖ;",
+          "en": "<span class=\"sn\" data-s=\"56\">Who will bring the mysteries of the righteous to completion?</span>"
+        },
+        {
+          "gr": "Εἰ ὧδε μένωμεν, τό, ὤρυξαν χεῖράς μου καὶ πόδας μου, ἐπὶ τίνι πληροῦται;",
+          "en": "<span class=\"sn\" data-s=\"57\">If we stay here, on whom will this be fulfilled: *“they pierced my hands and my feet”* [Psalm 22:16]?</span>"
+        },
+        {
+          "gr": "Τό, διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον, τίνι ἁρμόζει;",
+          "en": "<span class=\"sn\" data-s=\"58\">Who will match this: *“they divided my clothes among themselves and cast lots for my garment”* [Psalm 22:18]?</span>"
+        },
+        {
+          "gr": "Τό, ἔδωκαν εἰς τὸ βρῶμά μου χολὴν καὶ εἰς τὴν δίψαν μου ἐπότισάν με ὄξος, τίνι συμβήσεται;",
+          "en": "<span class=\"sn\" data-s=\"59\">To whom will this happen: *“they gave me gall for my food, and vinegar to drink for my thirst”* [Psalm 69:21]?</span>"
+        },
+        {
+          "gr": "Τό, ἐν νεκροῖς ἐλεύθερος, τίς βεβαιοῖ;",
+          "en": "<span class=\"sn\" data-s=\"60\">Who will make good on “free among the dead” [Psalm 88:5]?</span>"
+        },
+        {
+          "gr": "Ἐὰν ὧδε μένωμεν, τὸ χειρόγραφον τοῦ Ἀδὰμ τίς σχίσει;",
+          "en": "<span class=\"sn\" data-s=\"61\">If we stay here, who will tear up Adam's certificate of debt — the record of humanity's guilt [Colossians 2:14]?</span>"
+        },
+        {
+          "gr": "Καὶ τὸ χρέος αὐτοῦ τίς ἀποτίσει;",
+          "en": "<span class=\"sn\" data-s=\"62\">Who will pay what he owes?</span>"
+        },
+        {
+          "gr": "Καὶ τὸ ἔνδυμα τῆς δόξης αὐτῷ τίς ἀποκαθιστᾷ;",
+          "en": "<span class=\"sn\" data-s=\"63\">Who will give him back his robe of glory?</span>"
+        },
+        {
+          "gr": "Ἐὰν ὧδε μένωμεν, ἃ εἶπόν σοι, πῶς γενήσονται;",
+          "en": "<span class=\"sn\" data-s=\"64\">If we stay here, how will the things I have told you come about?</span>"
+        },
+        {
+          "gr": "Ἡ Ἐκκλησία πῶς οἰκοδομηθήσεται;",
+          "en": "<span class=\"sn\" data-s=\"65\">How will the Church be built?</span>"
+        },
+        {
+          "gr": "Τὰς κλεῖς τῆς βασιλείας τῶν οὐρανῶν πῶς λήψῃ παρ' ἐμοῦ;",
+          "en": "<span class=\"sn\" data-s=\"66\">How will you receive the keys of the kingdom of heaven from me [Matthew 16:19]?</span>"
+        },
+        {
+          "gr": "Τίνα δήσεις;",
+          "en": "<span class=\"sn\" data-s=\"67\">Whom will you bind?</span>"
+        },
+        {
+          "gr": "Τίνα λύσεις;",
+          "en": "<span class=\"sn\" data-s=\"68\">Whom will you loose?</span>"
+        },
+        {
+          "gr": "Ἐὰν ὧδε μένωμεν, ἀργοῦσι πάντα τὰ ῥηθέντα διὰ τῶν Προφητῶν.",
+          "en": "<span class=\"sn\" data-s=\"69\">If we stay here, everything spoken through the prophets goes unfulfilled.</span>"
+        },
+        {
+          "gr": "Εἶπε πάλιν· ποιήσωμεν ὧδε τρεῖς σκηνάς, σοὶ μίαν, καὶ Μωσῇ μίαν, καὶ Ἠλίᾳ μίαν.",
+          "en": "<span class=\"sn\" data-s=\"70\">Peter said again: *“Let us make three shelters here — one for you, one for Moses, and one for Elijah”* [Matthew 17:4].</span>"
+        },
+        {
+          "gr": "Ὁ Σίμων ἐπέμφθη οἰκοδομῆσαι τὴν Ἐκκλησίαν ἐν τῷ κόσμῳ, καὶ ἔστι ποιῶν σκηνὰς ἐν τῷ ὄρει·",
+          "en": "<span class=\"sn\" data-s=\"71\">Simon had been sent to build the Church in the world — and instead, here he is, building shelters on a mountain!</span>"
+        },
+        {
+          "gr": "ἀκμὴν γὰρ ἀνθρωπίνως προσεῖχε τῷ Ἰησοῦ, καὶ μετὰ Μωσέως καὶ Ἠλία κατέστησεν αὐτόν.",
+          "en": "<span class=\"sn\" data-s=\"72\">He was still thinking about Jesus in merely human terms, ranking him alongside Moses and Elijah as an equal.</span>"
+        },
+        {
+          "gr": "Καὶ παρ' αὐτὰ ἔδειξεν αὐτῷ ὅτι οὐ χρῄζει τῆς σκηνῆς αὐτοῦ· αὐτὸς γὰρ ἦν ὁ ποιήσας τοῖς πατράσιν αὐτοῦ σκηνὴν νεφέλης ἐν τῇ ἐρήμῳ τεσσαράκοντα ἔτη.",
+          "en": "<span class=\"sn\" data-s=\"73\">So Jesus showed him at once that he had no need of a shelter Peter could build — because he himself was the one who had made a shelter of cloud for his people's ancestors in the desert, for forty years [the pillar of cloud that guided Israel, Exodus 13:21-22].</span>"
+        },
+        {
+          "gr": "Ἔτι γὰρ αὐτοῦ λαλοῦντος, ἰδοὺ νεφέλη φωτὸς ἐπεσκίασεν αὐτούς.",
+          "en": "<span class=\"sn\" data-s=\"74\">For while Peter was still speaking, *“a bright cloud overshadowed them”* [Matthew 17:5].</span>"
+        },
+        {
+          "gr": "Βλέπεις, Σίμων, σκηνὴν ἄνευ κόπου;",
+          "en": "<span class=\"sn\" data-s=\"75\">Do you see, Simon — a shelter that took no labour to build?</span>"
+        },
+        {
+          "gr": "Σκηνὴν κωλύουσαν καῦμα καὶ μὴ ἔχουσαν σκότος;",
+          "en": "<span class=\"sn\" data-s=\"76\">A shelter that keeps out the heat and never grows dark?</span>"
+        },
+        {
+          "gr": "Σκηνὴν ἀπαστράπτουσαν καὶ φαίνουσαν;",
+          "en": "<span class=\"sn\" data-s=\"77\">A shelter that flashes with light and shines?</span>"
+        },
+        {
+          "gr": "Καὶ τῶν μαθητῶν θαυμαζόντων, ἰδού, φωνὴ ἠκούσθη ἐκ τῆς νεφέλης παρὰ Πατρός, λέγουσα· οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· αὐτοῦ ἀκούετε.",
+          "en": "<span class=\"sn\" data-s=\"78\">And while the disciples stood amazed, *“a voice was heard out of the cloud, from the Father, saying: This is my beloved Son, in whom I am well pleased — listen to him”* [Matthew 17:5].</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ἡ φωνὴ τοῦ Πατρός | The Father's voice",
+      "heading_sentence_index": 79,
+      "pairs": [
+        {
+          "gr": "Μετὰ τῆς φωνῆς τοῦ Πατρός, Μωσῆς ὑπέστρεψεν εἰς τὸν τόπον αὐτοῦ καὶ Ἠλίας ὑπέστρεψεν εἰς τὴν χώραν αὐτοῦ, καὶ οἱ Ἀπόστολοι ἐπὶ πρόσωπον ἔπεσον ἐπὶ τὴν γῆν, καὶ ὁ Ἰησοῦς εἱστήκει μόνος, ὅτι ἡ φωνὴ ἐκείνη ἐπ' αὐτῷ μόνῳ ἐπληροῦτο.",
+          "en": "<span class=\"sn\" data-s=\"80\">After the Father's voice had spoken, Moses returned to his place, and Elijah returned to his region, and the apostles fell face-down on the ground, and Jesus stood there alone — because that voice was speaking about him, and him only.</span>"
+        },
+        {
+          "gr": "Ἔφυγον οἱ Προφῆται, καὶ οἱ Ἀπόστολοι ἐπὶ τὴν γῆν ἔπεσον, ὅτι ἐπ' αὐτοὺς οὐκ ἐπληροῦτο ἡ φωνὴ τοῦ Πατρὸς μαρτυροῦσα· οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· αὐτοῦ ἀκούετε.",
+          "en": "<span class=\"sn\" data-s=\"81\">The prophets withdrew, and the apostles fell to the ground, because the Father's testifying voice — “This is my beloved Son, in whom I am well pleased; listen to him” — was not being spoken about them.</span>"
+        },
+        {
+          "gr": "Ἐδίδαξεν αὐτοὺς ὁ Πατήρ, ὅτι ἐπληρώθη ἡ οἰκονομία τοῦ Μωσέως, καὶ ἵνα τοῦ Υἱοῦ ἀκούσωσιν.",
+          "en": "<span class=\"sn\" data-s=\"82\">The Father was teaching them that Moses' era was complete, and that they should now listen to the Son.</span>"
+        },
+        {
+          "gr": "Ἐκεῖνος γάρ, ὡς δοῦλος, ἃ ἐκελεύθη ἐλάλησε, καὶ ἃ ἐρρέθη αὐτῷ ἐκήρυξε, καὶ πάντες οἱ Προφῆται, ἕως οὗ ἦλθεν ᾧ ἀπόκειται, τουτέστιν Ἰησοῦς, ὅς ἐστιν Υἱὸς καὶ οὐκ οἰκογενής, Κύριος καὶ οὐ δοῦλος, δεσπόζων καὶ οὐ δεσποζόμενος, νομοθέτης καὶ οὐ νομοθετούμενος· τῇ φύσει τῇ θεϊκῇ, οὗτος ὁ Υἱός μου ὁ ἀγαπητός.",
+          "en": "<span class=\"sn\" data-s=\"83\">Moses, after all, had spoken only as a servant, saying what he was commanded and proclaiming what was given him to say — and so had every prophet, right up until the one arrived for whom it was all reserved: namely Jesus, who is a true Son and not merely a member of the household, a Lord and not a slave, a master and not one who is mastered, a lawgiver and not one bound by the law.</span> <span class=\"sn\" data-s=\"84\">By his divine nature, this truly is “my beloved Son.”</span>"
+        },
+        {
+          "gr": "Τοῖς δὲ Ἀποστόλοις, ὃ ἧν παρ' αὐτοῖς ἄδηλον, ὁ Πατὴρ ἐφανέρωσεν ἐν τῷ ὄρει.",
+          "en": "<span class=\"sn\" data-s=\"85\">And to the apostles, the Father revealed on the mountain what had, until then, been unclear to them.</span>"
+        },
+        {
+          "gr": "Ὁ ὢν μηνύει τὸν ὄντα· ὁ Πατὴρ φανεροῖ τὸν Υἱόν.",
+          "en": "<span class=\"sn\" data-s=\"86\">The eternal “I Am” makes known the eternal “I Am” — using God's own name for himself from the burning bush [Exodus 3:14] — the Father reveals the Son.</span>"
+        },
+        {
+          "gr": "Ἐν αὐτῇ τῇ φωνῇ οἱ Ἀπόστολοι ἔπεσον ἐπὶ πρόσωπον ἐπὶ τὴν γῆν· βροντὴ γὰρ ἧν φοβερά, ὥστε ἐκ τῆς φωνῆς αὐτοῦ ἡ γῆ ἐτρόμασε, καὶ οὗτοι ἔπεσον ἐπὶ τὴν γῆν.",
+          "en": "<span class=\"sn\" data-s=\"87\">At that very voice, the apostles fell face-down on the ground; it was a fearsome peal of thunder, so loud that the earth shook at his voice, and they fell to the ground.</span>"
+        },
+        {
+          "gr": "Ἔδειξεν αὐτοῖς ὅτι ὁ Πατὴρ ἤγγισε· καὶ ἐκάλεσεν αὐτοὺς ὁ Υἱὸς ἐν αὐτῇ φωνῇ αὐτοῦ καὶ ἤγειρεν αὐτούς.",
+          "en": "<span class=\"sn\" data-s=\"88\">This showed them that the Father had drawn near; and the Son himself called them by his own voice, and raised them up.</span>"
+        },
+        {
+          "gr": "Ὥσπερ γὰρ ἡ φωνὴ τοῦ Πατρὸς ἔρριψεν αὐτούς, οὕτω καὶ ἡ φωνὴ τοῦ Υἱοῦ ἐν τῇ ἰσχύϊ τῆς θεότητος αὐτοῦ ἤγειρεν αὐτούς, ἥτις ἐνοικήσασα ἐν τῇ σαρκὶ αὐτοῦ καὶ ἑνωθεῖσα ἐν αὐτῇ ἀτρέπτως, ἀμφότεραι ἐν μιᾷ ὑποστάσει καὶ ἑνὶ προσώπῳ ἀδιαιρέτως διαμένουσιν ἀσυγχύτως.",
+          "en": "<span class=\"sn\" data-s=\"89\">For just as the Father's voice had thrown them down, so too the Son's voice, in the strength of his divine nature, raised them up again — that same divine nature which had made its home in his flesh and was united to it without change, both remaining, undivided and unconfused, in a single person.</span>"
+        },
+        {
+          "gr": "Οὐχ, ὡς Μωσῆς, ἔξωθεν εὐπρεπὴς ἐγένετο, ἀλλ' ὡς Θεὸς ἐν δόξῃ ἤστραπτε.",
+          "en": "<span class=\"sn\" data-s=\"90\">He did not become outwardly radiant the way Moses did; instead, he flashed with glory as God himself.</span>"
+        },
+        {
+          "gr": "Μωσῆς γὰρ τῇ ἐπιφανείᾳ τοῦ προσώπου αὐτοῦ ἐχρίσθη ἐν εὐπρεπείᾳ· Ἰησοῦς δὲ ὅλῳ τῷ σώματι αὐτοῦ, ὡς ὁ ἥλιος ἐν ταῖς ἀκτῖσιν αὐτοῦ, ἤστραπτε τῇ δόξῃ τῆς θεότητος αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"91\">Moses' face was simply anointed with a passing radiance on its surface; but Jesus, in his whole body, like the sun in its own rays, flashed with the glory that belongs to his divine nature.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Μία φύσις, μία δύναμις | One nature, one power",
+      "heading_sentence_index": 92,
+      "pairs": [
+        {
+          "gr": "Καὶ ὁ Πατὴρ ἔκραξεν· οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· αὐτοῦ ἀκούετε. Οὐ κεχωρισμένου τῆς δόξης τοῦ Υἱοῦ τῆς θεότητος· μία γὰρ φύσις ὁ Πατὴρ καὶ ὁ Υἱὸς σὺν τῷ Ἁγίῳ Πνεύματι· μία δύναμις καὶ μία οὐσία καὶ μία βασιλεία.",
+          "en": "<span class=\"sn\" data-s=\"93\">And the Father cried out: *“This is my beloved Son, in whom I am well pleased — listen to him”* [Matthew 17:5] — not cut off from the glory of the Son's divine nature; for the Father and the Son, together with the Holy Spirit, are one and the same nature: one power, one being, one kingdom.</span>"
+        },
+        {
+          "gr": "Καὶ εἰς ἕνα ἔκραξε τὴν φωνὴν ἐν ὀνόματι εὐτελεῖ καὶ ἐν δόξῃ φοβερᾷ.",
+          "en": "<span class=\"sn\" data-s=\"94\">And he directed that one voice toward one person, using a lowly, ordinary name — “Son” — even while the glory surrounding it was overwhelming.</span>"
+        },
+        {
+          "gr": "Καὶ ἡ Μαρία υἱὸν αὐτὸν ἐκάλει, οὐ κεχωρισμένον τῷ σώματι τῷ ἀνθρωπίνῳ ἐκ τῆς δόξης αὐτοῦ τῆς θεότητος· εἷς γάρ ἐστι, Θεὸς ἐν σώματι φανεὶς εἰς τὸν κόσμον.",
+          "en": "<span class=\"sn\" data-s=\"95\">And Mary, too, called him “son,” without separating him, in his human body, from the glory of his divine nature — for he is one: God revealed to the world in a body.</span>"
+        },
+        {
+          "gr": "Ἡ δόξα αὐτοῦ ἐμήνυσε τὴν φύσιν τὴν θεϊκὴν τὴν ἐκ τοῦ Πατρός, καὶ τὸ σῶμα αὐτοῦ ἐμήνυσε τὴν ἀνθρωπίνην τὴν ἐκ τῆς Μαρίας· ἀμφοτέρας τὰς φύσεις συνελθούσας καὶ ἑνωθείσας ἐν μιᾷ ὑποστάσει.",
+          "en": "<span class=\"sn\" data-s=\"96\">His glory declared his divine nature, which is from the Father; his body declared his human nature, which is from Mary — the two natures coming together and being united in a single person.</span>"
+        },
+        {
+          "gr": "Μονογενὴς ἐκ Πατρός, καὶ ἐκ Μαρίας μονογενής.",
+          "en": "<span class=\"sn\" data-s=\"97\">He is only-begotten from the Father, and only-begotten from Mary.</span>"
+        },
+        {
+          "gr": "Καὶ ὁ μερίζων, μερισθήσεται ἐκ τῆς βασιλείας αὐτοῦ, καὶ ὁ συγχέων αὐτοῦ τὰς φύσεις ἀπολεῖται ἐκ ζωῆς αὐτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"98\">Whoever divides him into two separate persons will be cut off from his kingdom, and whoever blends his two natures into one will lose his own share in his life.</span>"
+        },
+        {
+          "gr": "Ὁ ἀρνούμενος ὅτι οὐκ ἐγέννησε Θεὸν ἡ Μαρία, μὴ ἴδοι τὴν δόξαν τῆς θεότητος αὐτοῦ· καὶ ὁ ἀρνούμενος ὅτι οὐκ ἐφόρησε σάρκα ἀναμάρτητον, ἔσται ἐρριμμένος ἐκ τῆς σωτηρίας καὶ ἐκ τῆς ζωῆς τῆς διὰ τοῦ σώματος αὐτοῦ διδομένης.",
+          "en": "<span class=\"sn\" data-s=\"99\">Whoever denies that Mary gave birth to God, let him never see the glory of his divine nature; and whoever denies that he bore sinless flesh will be shut out from the salvation and the life given through his body.</span>"
+        },
+        {
+          "gr": "Αὐτὰ τὰ πράγματα μαρτυροῦσι καὶ αἱ δυνάμεις αὐτοῦ αἱ θεϊκαὶ διδάσκουσι τοὺς διακριτικοὺς ὅτι ἐστὶ Θεὸς ἀληθινός, καὶ τὰ πάθη αὐτοῦ δηλοῦσιν ὅτι ἐστὶν ἄνθρωπος ἀληθινός.",
+          "en": "<span class=\"sn\" data-s=\"100\">The very facts themselves bear witness, and his divine works of power teach anyone with discernment that he is true God, while his human sufferings show that he is true man.</span>"
+        },
+        {
+          "gr": "Καὶ ἐὰν οὐ πληροφοροῦνται οἱ ἀσθενεῖς τῇ διανοίᾳ, ἀποτίσουσι δίκην ἐν τῇ ἡμέρᾳ αὐτοῦ τῇ φοβερᾷ.",
+          "en": "<span class=\"sn\" data-s=\"101\">And if the weak-minded still are not persuaded, they will pay the penalty for it on his fearsome day of judgment.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Εἰ οὐκ ἦν σάρξ (αʹ) | If he had no flesh (I)",
+      "heading_sentence_index": 102,
+      "pairs": [
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Μαρία ἐν τῷ μέσῳ τί παρήχθη; Καὶ εἰ μὴ ἦν Θεός, Γαβριὴλ Κύριον τίνα ἐκάλει;",
+          "en": "<span class=\"sn\" data-s=\"103\">If he had no flesh, why was Mary brought into the story at all?</span> <span class=\"sn\" data-s=\"104\">And if he were not God, who was it that Gabriel called “Lord” [Luke 1:32]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἧν σάρξ, ἐν φάτνῃ τίς ἀνέκειτο; Καὶ εἰ μὴ ἦν Θεός, Ἄγγελοι καταβάντες τίνα ἐδόξαζον;",
+          "en": "<span class=\"sn\" data-s=\"105\">If he had no flesh, who was laid in a manger?</span> <span class=\"sn\" data-s=\"106\">And if he were not God, whom did the angels come down to glorify [Luke 2:13-14]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, σπαργάνοις τίς εἱλίσσετο; Καὶ εἰ μὴ ἦν Θεός, οἱ ποιμένες τίνα προσεκύνουν;",
+          "en": "<span class=\"sn\" data-s=\"107\">If he had no flesh, who was wrapped in strips of cloth?</span> <span class=\"sn\" data-s=\"108\">And if he were not God, whom did the shepherds come and kneel down to worship [Luke 2:15-16]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἧν σάρξ, Ἰωσὴφ τίνα περιέτεμε; Καὶ εἰ μὴ ἦν Θεός, ὁ ἀστὴρ ἐν οὐρανῷ εἰς τιμὴν τίνος ἔτρεχεν;",
+          "en": "<span class=\"sn\" data-s=\"109\">If he had no flesh, whom did Joseph circumcise [Luke 2:21]?</span> <span class=\"sn\" data-s=\"110\">And if he were not God, in whose honour did the star run across the sky [Matthew 2:9]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Μαρία τίνα ἐθήλαζε; Καὶ εἰ μὴ ἦν Θεός, οἱ μάγοι δῶρα τίνι προσέφερον;",
+          "en": "<span class=\"sn\" data-s=\"111\">If he had no flesh, whom did Mary nurse at her breast?</span> <span class=\"sn\" data-s=\"112\">And if he were not God, to whom did the wise men bring their gifts [Matthew 2:11]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ὁ Συμεὼν ἐν ἀγκαλίσι τίνα ἐβάσταζε; Καὶ εἰ μὴ ἦν Θεός, τίνι ἔλεγεν, ἀπόλυσόν με μετ' εἰρήνης;",
+          "en": "<span class=\"sn\" data-s=\"113\">If he had no flesh, whom did Simeon hold in his arms?</span> <span class=\"sn\" data-s=\"114\">And if he were not God, to whom did Simeon say, *“Now let your servant depart in peace”* [Luke 2:28-29]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Ἰωσὴφ τίνα λαβὼν εἰς Αἴγυπτον ἔφυγε; Καὶ εἰ μὴ ἦν Θεός, τό, ἐξ Αἰγύπτου ἐκάλεσα τὸν Υἱόν μου, ἐπὶ τίνι ἐπληρώθη;",
+          "en": "<span class=\"sn\" data-s=\"115\">If he had no flesh, whom did Joseph take and flee with into Egypt [Matthew 2:14]?</span> <span class=\"sn\" data-s=\"116\">And if he were not God, in whom was this fulfilled: *“Out of Egypt I called my son”* [Hosea 11:1] [Matthew 2:15]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Ἰωάννης τίνα ἐβάπτισε; Καὶ εἰ μὴ ἦν Θεός, ὁ Πατὴρ ἐξ οὐρανοῦ τίνι ἔλεγεν, οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα;",
+          "en": "<span class=\"sn\" data-s=\"117\">If he had no flesh, whom did John baptise?</span> <span class=\"sn\" data-s=\"118\">And if he were not God, of whom did the Father say from heaven, *“This is my beloved Son, in whom I am well pleased”* [Matthew 3:17]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, τίς ἐνήστευσε καὶ ἐπείνασεν ἐν τῇ ἐρήμῳ; Καὶ εἰ μὴ ἦν Θεός, οἱ Ἄγγελοι καταβάντες τίνι διηκόνουν;",
+          "en": "<span class=\"sn\" data-s=\"119\">If he had no flesh, who fasted and grew hungry in the desert [Matthew 4:2]?</span> <span class=\"sn\" data-s=\"120\">And if he were not God, whom did the angels come down to serve [Matthew 4:11]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, τίς ἐκλήθη εἰς τοὺς γάμους ἐν Κανᾷ τῆς Γαλιλαίας; Καὶ εἰ μὴ ἦν Θεός, τὸ ὕδωρ εἰς οἶνον τίς μετέβαλεν;",
+          "en": "<span class=\"sn\" data-s=\"121\">If he had no flesh, who was invited to the wedding at Cana in Galilee [John 2:1-2]?</span> <span class=\"sn\" data-s=\"122\">And if he were not God, who turned the water into wine [John 2:9]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, οἱ ἄρτοι εἰς χεῖρας τίνος ἔκειντο; Καὶ εἰ μὴ ἦν Θεός, ὄχλους καὶ χιλιάδας ἐκτὸς γυναικῶν καὶ παιδίων ἐν ἐρήμῳ τίς ἐχόρτασεν ἐκ πέντε ἄρτων καὶ δύο ἰχθύων;",
+          "en": "<span class=\"sn\" data-s=\"123\">If he had no flesh, in whose hands did the loaves of bread rest?</span> <span class=\"sn\" data-s=\"124\">And if he were not God, who fed thousands of people — not even counting the women and children — out in the wilderness, with five loaves and two fish [Matthew 14:19-21]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἐν τῷ πλοίῳ τίς ἐκάθευδε; Καὶ εἰ μὴ ἦν Θεός, τοῖς ἀνέμοις καὶ τῇ θαλάσσῃ τίς ἐπετίμα;",
+          "en": "<span class=\"sn\" data-s=\"125\">If he had no flesh, who was asleep in the boat [Matthew 8:24]?</span> <span class=\"sn\" data-s=\"126\">And if he were not God, who gave the order to the winds and the sea [Matthew 8:26]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Σίμων ὁ Φαρισαῖος μετὰ τίνος ἤσθιε; Καὶ εἰ μὴ ἦν Θεός, τὰ πλημμελήματα τῆς ἁμαρτωλοῦ τίς συνεχώρει;",
+          "en": "<span class=\"sn\" data-s=\"127\">If he had no flesh, at whose table did Simon the Pharisee sit and eat [Luke 7:36]?</span> <span class=\"sn\" data-s=\"128\">And if he were not God, who forgave the sins of the sinful woman [Luke 7:47-48]?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Εἰ οὐκ ἦν σάρξ (βʹ) | If he had no flesh (II)",
+      "heading_sentence_index": 129,
+      "pairs": [
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, ἐπάνω τοῦ φρέατος κεκοπιακὼς ἐκ τῆς ὁδοιπορίας τίς ἐκάθητο; Καὶ εἰ μὴ ἦν Θεός, ὕδωρ ζῶν τῇ Σαμαρείτιδι τίς ἐδίδου καὶ ἤλεγχεν ὅτι πέντε ἄνδρας ἔσχεν;",
+          "en": "<span class=\"sn\" data-s=\"130\">If he had no flesh, who sat down by the well, worn out from the journey?</span> <span class=\"sn\" data-s=\"131\">And if he were not God, who gave living water to the Samaritan woman, and told her plainly that she had had five husbands [John 4:6-18]?</span>"
+        },
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, ἐνδύματα ἀνθρώπου τίς ἐφόρει; Καὶ εἰ μὴ ἦν Θεός, δυνάμεις τίς ἐποίει καὶ θαύματα;",
+          "en": "<span class=\"sn\" data-s=\"132\">If he had no flesh, who wore human clothing?</span> <span class=\"sn\" data-s=\"133\">And if he were not God, who performed works of power and wonders?</span>"
+        },
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, εἰς τὴν γῆν τίς ἔπτυσε καὶ πηλὸν ἐποίησε; Καὶ εἰ μὴ ἦν Θεός, ἐκ τοῦ πηλοῦ ὀφθαλμοὺς τίς ἀναβλέπειν ἠνάγκαζεν;",
+          "en": "<span class=\"sn\" data-s=\"134\">If he had no flesh, who spat on the ground and made mud?</span> <span class=\"sn\" data-s=\"135\">And if he were not God, who used that mud to force blind eyes to see [John 9:6-7]?</span>"
+        },
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, ἐν τῷ μνημείῳ τοῦ Λαζάρου τίς ἔκλαιε; Καὶ εἰ μὴν ἦν Θεός, νεκρὸν ὄντα τετραήμερον κελευστικῶς τίς ἐξέβαλεν;",
+          "en": "<span class=\"sn\" data-s=\"136\">If he had no flesh, who wept at the tomb of Lazarus [John 11:35]?</span> <span class=\"sn\" data-s=\"137\">And if he were not God, who commanded a dead man, four days in the grave, to come back out [John 11:43-44]?</span>"
+        },
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, ἐπὶ τοῦ πώλου τίς ἐκάθισε; Καὶ εἰ μὴ ἦν Θεός, οἱ ὄχλοι μετὰ δόξης εἰς ἀπάντησιν τίνος ἐξήρχοντο;",
+          "en": "<span class=\"sn\" data-s=\"138\">If he had no flesh, who sat down on a young donkey [Matthew 21:7]?</span> <span class=\"sn\" data-s=\"139\">And if he were not God, whom did the crowds go out to meet with such rejoicing [Matthew 21:8-9]?</span>"
+        },
+        {
+          "gr": "Εἰ μὴ ἦν σάρξ, οἱ Ἰουδαῖοι τίνα ἐκράτησαν; Καὶ εἰ μὴ ἦν Θεός, τίς ἐκέλευσε τῇ γῇ καὶ ἐπὶ πρόσωπον αὐτοὺς ἔρριψεν;",
+          "en": "<span class=\"sn\" data-s=\"140\">If he had no flesh, whom did the Jewish authorities seize [John 18:12]?</span> <span class=\"sn\" data-s=\"141\">And if he were not God, who spoke a single word and threw them flat on their faces on the ground [John 18:6]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ῥαπισμῷ τίς ἐρραπίζετο; Καὶ εἰ μὴ ἦν Θεός, τὸ ὠτίον τὸ ἀποτμηθὲν διὰ τοῦ Πέτρου τίς ἐθεράπευσε καὶ ἀποκατέστησεν εἰς τὸν τόπον αὐτοῦ;",
+          "en": "<span class=\"sn\" data-s=\"142\">If he had no flesh, whose face was struck?</span> <span class=\"sn\" data-s=\"143\">And if he were not God, who healed the ear that Peter had cut off, and put it back in its place [Luke 22:50-51]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, τὸ πρόσωπον τίνος ἐμπτύσματα ἐδέχετο; Καὶ εἰ μὴ ἦν Θεός, Πνεῦμα Ἅγιον εἰς τὰ πρόσωπα τῶν Ἀποστόλων τίς ἐνεφύσησεν;",
+          "en": "<span class=\"sn\" data-s=\"144\">If he had no flesh, whose face received the spitting?</span> <span class=\"sn\" data-s=\"145\">And if he were not God, who breathed the Holy Spirit onto the faces of the apostles [John 20:22]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἔμπροσθεν τοῦ Πιλάτου ἐν τῷ κριτηρίῳ τίς παρίστατο; Καὶ εἰ μὴ ἦν Θεός, τὴν γυναῖκα τοῦ Πιλάτου κατ' ὄναρ τίς ἐφόβει;",
+          "en": "<span class=\"sn\" data-s=\"146\">If he had no flesh, who stood before Pilate in the judgment hall?</span> <span class=\"sn\" data-s=\"147\">And if he were not God, who frightened Pilate's wife in a dream [Matthew 27:19]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἱμάτια τίνος ἀπέδυσαν καὶ ἐμερίσαντο οἱ στρατιῶται; Καὶ εἰ μὴ ἦν Θεός, ὁ ἥλιος πῶς ἐσκοτίσθη ἐπὶ τοῦ σταυροῦ;",
+          "en": "<span class=\"sn\" data-s=\"148\">If he had no flesh, whose clothes did the soldiers strip off and divide among themselves [Matthew 27:35]?</span> <span class=\"sn\" data-s=\"149\">And if he were not God, how did the sun grow dark over the cross [Luke 23:44-45]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἐν τῷ σταυρῷ τίς ἐκρέματο; Καὶ εἰ μὴ ἦν Θεός, τὴν γῆν ἐκ θεμελίων τίς ἔσεισεν;",
+          "en": "<span class=\"sn\" data-s=\"150\">If he had no flesh, who hung on the cross?</span> <span class=\"sn\" data-s=\"151\">And if he were not God, who shook the earth down to its foundations [Matthew 27:51]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἥλοις τίνος χεῖρες καὶ πόδες ἡλώθησαν; Καὶ εἰ μὴ ἦν Θεός, τὸ καταπέτασμα τοῦ ναοῦ πῶς ἐσχίσθη καὶ αἱ πέτραι ἐρράγησαν καὶ οἱ τάφοι ἀνεῴχθησαν;",
+          "en": "<span class=\"sn\" data-s=\"152\">If he had no flesh, whose hands and feet were pierced with nails?</span> <span class=\"sn\" data-s=\"153\">And if he were not God, how was it that the temple curtain was torn, the rocks split, and the tombs broke open [Matthew 27:51-52]?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Εἰ οὐκ ἦν σάρξ (γʹ) | If he had no flesh (III)",
+      "heading_sentence_index": 154,
+      "pairs": [
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, Θεέ μου, Θεέ μου, ἱνατί με ἐγκατέλιπες, τίς ἔκραξε; Καὶ εἰ μὴ ἦν Θεός, Πάτερ, συγχώρησον αὐτοῖς, τίς εἶπεν;",
+          "en": "<span class=\"sn\" data-s=\"155\">If he had no flesh, who cried out, *“My God, my God, why have you forsaken me?”* [Matthew 27:46]?</span> <span class=\"sn\" data-s=\"156\">And if he were not God, who said, *“Father, forgive them”* [Luke 23:34]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἐν τῷ σταυρῷ μετὰ τῶν λῃστῶν τίς ἐκρέματο; Καὶ εἰ μὴ ἦν Θεός, τῷ λῃστῇ πῶς ἔλεγε, σήμερον μετ' ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ;",
+          "en": "<span class=\"sn\" data-s=\"157\">If he had no flesh, who hung on the cross between the two criminals [Luke 23:33]?</span> <span class=\"sn\" data-s=\"158\">And if he were not God, how did he say to one of them, *“Today you will be with me in paradise”* [Luke 23:43]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ὄξος καὶ χολὴν τίνι προσήνεγκαν; Καὶ εἰ μὴ ἦν Θεός, ὁ ᾅδης τίνος φωνὴν ἀκούσας ἐτρόμησεν;",
+          "en": "<span class=\"sn\" data-s=\"159\">If he had no flesh, to whom did they offer vinegar and gall [Matthew 27:34,48]?</span> <span class=\"sn\" data-s=\"160\">And if he were not God, whose voice made Hades tremble when it heard it?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἡ λόγχη πλευρὰν τίνος ἔνυξε, καὶ ἐξῆλθεν αἷμα καὶ ὕδωρ; Καὶ εἰ μὴ ἦν Θεός, πύλας ᾅδου τίς συνέτριψε καὶ δεσμὰ διέρρηξε, καὶ κελεύσει τίνος νεκροὶ ἀποκεκλεισμένοι ἐξήρχοντο;",
+          "en": "<span class=\"sn\" data-s=\"161\">If he had no flesh, whose side did the spear pierce, so that blood and water came out [John 19:34]?</span> <span class=\"sn\" data-s=\"162\">And if he were not God, who shattered the gates of Hades and broke apart its chains — and at whose command did the dead, locked away there, come walking out?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, οἱ Ἀπόστολοι ἐν τῷ ὑπερῴῳ τίνα εἶδον; Καὶ εἰ μὴ ἦν Θεός, τῶν θυρῶν κεκλεισμένων πῶς εἰσῆλθεν;",
+          "en": "<span class=\"sn\" data-s=\"163\">If he had no flesh, whom did the apostles see in the upstairs room?</span> <span class=\"sn\" data-s=\"164\">And if he were not God, how did he come in while the doors were shut [John 20:19]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, τίνος ἐν χερσὶ πληγὰς ἥλων καὶ λόγχης ἐν πλευρᾷ ἐψηλάφησε Θωμᾶς; Καὶ εἰ μὴ ἦν Θεός, τίνι ἀνέκραζεν, ὁ Κύριός μου καὶ ὁ Θεός μου;",
+          "en": "<span class=\"sn\" data-s=\"165\">If he had no flesh, whose hands did Thomas touch, feeling the marks of the nails and the wound of the spear in his side?</span> <span class=\"sn\" data-s=\"166\">And if he were not God, to whom did Thomas cry out, *“My Lord and my God”* [John 20:27-28]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, ἐπὶ τῆς θαλάσσης τῆς Τιβεριάδος τίς ἔφαγε; Καὶ εἰ μὴ ἦν Θεός, ἐν κελεύσματι τὸ δίκτυον τίνος ἐγεμίσθη;",
+          "en": "<span class=\"sn\" data-s=\"167\">If he had no flesh, who ate breakfast by the Sea of Tiberias [John 21:12-13]?</span> <span class=\"sn\" data-s=\"168\">And if he were not God, at whose command was the net filled with fish [John 21:6]?</span>"
+        },
+        {
+          "gr": "Εἰ οὐκ ἦν σάρξ, οἱ Ἀπόστολοι καὶ οἱ Ἄγγελοι τίνα ἐθεάσαντο ἀναλαμβανόμενον εἰς τὸν οὐρανόν;",
+          "en": "<span class=\"sn\" data-s=\"169\">If he had no flesh, whom did the apostles and the angels watch being taken up into heaven [Acts 1:9-11]?</span>"
+        },
+        {
+          "gr": "Καὶ εἰ μὴ ἦν Θεός, ὁ οὐρανὸς τίνι ἠνοίχθη, καὶ αἱ δυνάμεις τίνι προσεκύνησαν τρόμῳ, καὶ ὁ Πατὴρ τίνα προετρέπετο, κάθου ἐκ δεξιῶν μου; Καθώς φησι καὶ Δαυΐδ· εἶπεν ὁ Κύριος τῷ Κυρίῳ μου, κάθου ἐκ δεξιῶν μου, καὶ τὰ ἑξῆς. Εἰ οὐκ ἦν Θεὸς καὶ ἄνθρωπος, ψευδὴς ἡ σωτηρία ἡμῶν λοιπόν, ψευδεῖς καὶ αἱ φωναὶ τῶν Προφητῶν.",
+          "en": "<span class=\"sn\" data-s=\"170\">And if he were not God, to whom was heaven opened, before whom did the powers of heaven bow down trembling, and to whom did the Father say, *“Sit at my right hand”* — just as David also says, *“The Lord said to my Lord, sit at my right hand”* [Psalm 110:1], and all the rest?</span> <span class=\"sn\" data-s=\"171\">If he were not both God and man, then our salvation is a lie, and the words of the prophets are lies too.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἠλήθευσαν οἱ Προφῆται, καὶ ἀψευδεῖς αὐτῶν αἱ μαρτυρίαι. Ἃ ἐκελεύθησαν, τὸ Πνεῦμα τὸ Ἅγιον δι' αὐτῶν ἐλάλει.",
+          "en": "<span class=\"sn\" data-s=\"172\">But the prophets spoke the truth, and their testimony was not false — for what they were commanded to say, the Holy Spirit spoke through them.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ὁ Λόγος σὰρξ ἐγένετο | The Word became flesh",
+      "heading_sentence_index": 173,
+      "pairs": [
+        {
+          "gr": "Διὸ καὶ Ἰωάννης ὁ ἁγνός, ὁ ἐπὶ τῷ στήθει τῆς φλογὸς ἀναπεσών, ἐπικουρῶν τὰς τῶν Προφητῶν φωνάς, θεολογῶν ἐν Εὐαγγελίοις, ἐδίδαξεν ἡμᾶς, λέγων· ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Πάντα δι' αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἓν ὃ γέγονε.",
+          "en": "<span class=\"sn\" data-s=\"174\">That is why John the pure one — who once leaned back against the breast of the flame at the Last Supper [John, resting against Christ, John 13:25] — added his own voice in support of the prophets, and, speaking of the things of God in his Gospel, taught us these words: *“In the beginning was the Word, and the Word was with God, and the Word was God.*</span> <span class=\"sn\" data-s=\"175\">*All things were made through him, and without him nothing was made that has been made”* [John 1:1,3].</span>"
+        },
+        {
+          "gr": "Καὶ ὁ Λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν.",
+          "en": "<span class=\"sn\" data-s=\"176\">*“And the Word became flesh, and made his home among us”* [John 1:14].</span>"
+        },
+        {
+          "gr": "Ὁ ἐκ Θεοῦ Θεὸς Λόγος, καὶ ἐκ Πατρὸς Υἱὸς μονογενής, ὁμοούσιος τῷ Πατρί· ὁ ὢν ἐκ τοῦ ὄντος προαιώνιος Λόγος· ἐκ Πατρὸς γεννηθεὶς ἄνευ μητρὸς πρὸ πάντων τῶν αἰώνων ἀρρήτως.",
+          "en": "<span class=\"sn\" data-s=\"177\">He is God the Word, from God; the only-begotten Son from the Father, of one being with the Father — the eternal Word, who Is, from the Father who Is; begotten of the Father, without a mother, before all the ages, in a way beyond words.</span>"
+        },
+        {
+          "gr": "Ὁ αὐτὸς ἐπ' ἐσχάτων τίκτεται ἐκ θυγατρὸς ἀνθρώπου, ἐκ Μαρίας τῆς παρθένου, ἄνευ πατρός, Θεὸς σεσαρκωμένος, φορέσας ἐξ αὐτῆς σάρκα· καὶ γενόμενος ἄνθρωπος, ὅπερ οὐκ ἦν, μείνας Θεός, ὅπερ ἦν, ἵνα τὸν κόσμον σώσῃ.",
+          "en": "<span class=\"sn\" data-s=\"178\">That same Word is born, in these last times, of a daughter of the human race — of Mary the Virgin — without a father: God made flesh, wearing a human body taken from her.</span> <span class=\"sn\" data-s=\"179\">And he became man, which he had not been before, while remaining God, which he had always been, so that he might save the world.</span>"
+        },
+        {
+          "gr": "Καὶ αὐτός ἐστιν ὁ Χριστός, ὁ Υἱὸς τοῦ Θεοῦ, ὁ μονογενὴς ἐκ Πατρός, καὶ ἐκ μητρὸς μονογενής.",
+          "en": "<span class=\"sn\" data-s=\"180\">And he is the Christ, the Son of God, only-begotten of the Father, and only-begotten of his mother.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Ὁμολογία πίστεως | The confession of faith",
+      "heading_sentence_index": 181,
+      "pairs": [
+        {
+          "gr": "Ὁμολογῶ τὸν αὐτὸν Θεὸν τέλειον καὶ ἄνθρωπον τέλειον, ἐν δύο ταῖς φύσεσι καθ' ὑπόστασιν, ἤτοι πρόσωπον, ἡνωμέναις γνωριζόμενον ἀδιαιρέτως τε καὶ ἀσυγχύτως καὶ ἀτρέπτως· σάρκα ἐνδυσάμενον τὴν ἐμψυχωμένην ψυχῇ λογικῇ τε καὶ νοερᾷ, κατὰ πάντα γενόμενον ἡμῖν ὁμοιοπαθῆ, δίχα μόνης τῆς ἁμαρτίας.",
+          "en": "<span class=\"sn\" data-s=\"182\">I confess that this same one is perfect God and perfect man, known in two natures united in a single person — undivided, unconfused, and unchanging.</span> <span class=\"sn\" data-s=\"183\">He put on flesh brought to life by a reasoning, thinking soul, and became like us in every way except sin alone.</span>"
+        },
+        {
+          "gr": "Ὁ αὐτὸς ἐπίγαιος καὶ οὐράνιος, πρόσκαιρος καὶ ἀΐδιος, ἠργμένος καὶ ἄναρχος, ἄχρονος καὶ ὑπὸ χρόνον, κτιστὸς καὶ ἄκτιστος, παθητὸς καὶ ἀπαθής, Θεὸς καὶ ἄνθρωπος, κατ' ἄμφω τέλειος, εἷς ἐν δύο, καὶ ἐν δυσὶν εἷς.",
+          "en": "<span class=\"sn\" data-s=\"184\">This very same one is earthly and heavenly, bound by time and eternal, having a beginning yet without beginning, beyond time and under time, created and uncreated, capable of suffering and incapable of suffering, God and man — perfect as both, one in two natures, and one even while remaining two.</span>"
+        },
+        {
+          "gr": "Ἓν πρόσωπον τοῦ Πατρὸς καὶ ἓν πρόσωπον τοῦ Υἱοῦ καὶ ἓν πρόσωπον τοῦ Ἁγίου Πνεύματος.",
+          "en": "<span class=\"sn\" data-s=\"185\">There is one person of the Father, one person of the Son, and one person of the Holy Spirit.</span>"
+        },
+        {
+          "gr": "Μία θεότης, μία δύναμις, μία βασιλεία ἐν τρισὶ προσώποις ἤτοι ὑποστάσεσιν.",
+          "en": "<span class=\"sn\" data-s=\"186\">There is one Godhead, one power, one kingdom, in three persons, or three distinct realities.</span>"
+        },
+        {
+          "gr": "Οὕτω δοξάζομεν τὴν Ἁγίαν Μονάδα ἐν Τριάδι, καὶ τὴν Ἁγίαν Τριάδα ἐν Μονάδι.",
+          "en": "<span class=\"sn\" data-s=\"187\">This is how we glorify the Holy Oneness within the Trinity, and the Holy Trinity within the Oneness.</span>"
+        },
+        {
+          "gr": "Ἐν ᾧ ἔκραξεν ὁ Πατὴρ ἐξ οὐρανοῦ· οὗτός ἐστιν ὁ Υἱός μου ὁ ἀγαπητός· αὐτοῦ ἀκούετε. Ταῦτα ἐδέξατο ἡ ἁγία τοῦ Θεοῦ καθολικὴ Ἐκκλησία.",
+          "en": "<span class=\"sn\" data-s=\"188\">It was of this Son that the Father cried out from heaven: *“This is my beloved Son — listen to him.”* This is what the holy, universal Church of God has received.</span>"
+        },
+        {
+          "gr": "Ἐν αὐτῇ τῇ Ἁγίᾳ Τριάδι βαπτίζει εἰς ζωὴν αἰώνιον.",
+          "en": "<span class=\"sn\" data-s=\"189\">In this same Holy Trinity she baptises believers into eternal life.</span>"
+        },
+        {
+          "gr": "Εἰς αὐτὴν ἁγιάζει ἰσοτιμίᾳ, καὶ εἰς αὐτὴν ὁμολογεῖ ἀμερίστως, ἀχωρίστως, καὶ αὐτῇ προσκυνεῖ μὴ σφαλλομένη, καὶ ὁμολογεῖ καὶ δοξάζει.",
+          "en": "<span class=\"sn\" data-s=\"190\">Into this Trinity she makes them holy, with equal honour given to each person; in it she makes her confession without ever dividing or separating the three; before it she bows down without ever going astray; and this she confesses, and this she glorifies.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Δόξα εἰς τοὺς αἰῶνας | Glory to the ages",
+      "heading_sentence_index": 191,
+      "pairs": [
+        {
+          "gr": "Αὐτῇ τῇ τρισυποστάτῳ Μονάδι πρέπει δόξα, εὐχαριστία, τιμή, κράτος, μεγαλωσύνη· τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"192\">To this Oneness in three persons belongs glory, thanksgiving, honour, power, and majesty — to the Father, and to the Son, and to the Holy Spirit, now and always, and to the ages of ages.</span> <span class=\"sn\" data-s=\"193\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

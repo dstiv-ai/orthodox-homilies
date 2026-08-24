@@ -1,0 +1,614 @@
+{
+  "id": "homily-3-2cor",
+  "slug": "homily-3-2cor",
+  "title": "Homily 3 on Second Corinthians",
+  "father": "St John Chrysostom",
+  "collection": null,
+  "source_ref": "Homily 3 on Second Corinthians",
+  "category": "sundays",
+  "feast": null,
+  "saint_key": null,
+  "cover_key": "apostle-paul",
+  "scripture": [
+    "2 Corinthians 1:12-22"
+  ],
+  "chapter": null,
+  "has_greek": true,
+  "has_audio": false,
+  "audio": null,
+  "align": null,
+  "word_count": 7576,
+  "reading_minutes": 38,
+  "attribution_note": null,
+  "path": [
+    "scripture",
+    "new-testament",
+    "2-corinthians"
+  ],
+  "sections": [
+    {
+      "heading": "lemma",
+      "heading_sentence_index": 0,
+      "pairs": [
+        {
+          "gr": "ΟΜΙΛΙΑ Γʹ.",
+          "en": "<span class=\"sn\" data-s=\"1\">**2 Corinthians 1:12.**</span>"
+        },
+        {
+          "gr": "Ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστὶ, τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν, ὅτι ἐν ἁπλότητι καὶ εἰλικρινείᾳ, οὐκ ἐν σοφίᾳ σαρκικῇ, ἀλλ' ἐν χάριτι Θεοῦ ἀνεστράφημεν ἐν τῷ κόσμῳ.",
+          "en": "<span class=\"sn\" data-s=\"2\">*“For our glorying is this, the testimony of our conscience, that in simplicity and sincerity, not in fleshly wisdom, but in the grace of God, we behaved ourselves in the world.”* [2 Corinthians 1:12]</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Another ground of comfort — and this one is our own",
+      "heading_sentence_index": 3,
+      "pairs": [
+        {
+          "gr": "αʹ. Ἐνταῦθα πάλιν καὶ ἑτέραν παρακλήσεως ὑπόθεσιν οὐ μικρὰν ἡμῖν ἀνακαλύπτει, ἀλλὰ καὶ σφόδρα μεγάλην, καὶ ἱκανὴν ἀνορθῶσαι διάνοιαν ὑπὸ κινδύνων βαπτιζομένην.",
+          "en": "<span class=\"sn\" data-s=\"4\">Here Paul opens up yet another ground of comfort — and not a small one, but a very great one, well able to lift up a mind that is going under beneath its dangers.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ εἶπεν, ὅτι Ὁ Θεὸς ἡμᾶς ἐῤῥύσατο, καὶ τοῖς οἰκτιρμοῖς αὐτοῦ καὶ ταῖς εὐχαῖς τούτων τὸ πᾶν ἀνέθηκεν· ἵνα μὴ ταύτῃ τὸν ἀκροατὴν ὕπτιον ποιήσῃ, τῷ ἐλέῳ τοῦ Θεοῦ μόνον καὶ ταῖς ἑτέρων εὐχαῖς θαῤῥοῦντα, δείκνυσιν ὅτι καὶ αὐτοὶ οὐ μικρὸν οἴκοθεν συνεισήνεγκαν. Καὶ ἐδήλωσε μὲν αὐτὸ καὶ ἔμπροσθεν εἰπὼν, ὅτι Καθὼς περισσεύει τὰ παθήματα τοῦ Χριστοῦ, περισσεύει καὶ ἡ παράκλησις ἡμῶν· ἐνταῦθα δὲ καὶ ἕτερόν τι λέγει οἰκεῖον κατόρθωμα.",
+          "en": "<span class=\"sn\" data-s=\"5\">He had said that God comforted us and that God delivered us, and had ascribed the whole thing to His mercies and to their prayers.</span> <span class=\"sn\" data-s=\"6\">But he does not want to leave the hearer lying on his back, confident in God's mercy alone and in the prayers of others, so he shows that they themselves had contributed not a little of their own.</span> <span class=\"sn\" data-s=\"7\">In fact he had already shown as much earlier, when he said, *“For as the sufferings of Christ abound in us, so our consolation also abounds.”* [2 Corinthians 1:5] Here, though, he is speaking of a different good work, one that is properly their own.</span>"
+        },
+        {
+          "gr": "Ποῖον δὴ τοῦτο; Ὅτι ἐν καθαρῷ συνειδότι καὶ ἀδόλῳ πανταχοῦ τῆς οἰκουμένης ἀναστρεφόμεθα, φησίν. Οὐ μικρὸν δὲ τοῦτο ἡμῖν εἰς παραμυθίαν καὶ παράκλησιν· μᾶλλον δὲ οὐκ εἰς παράκλησιν μόνον, ἀλλὰ καὶ εἰς ἕτερον, ὃ πολλῷ μεῖζον τῆς παρακλήσεώς ἐστι, καὶ εἰς καύχησιν.",
+          "en": "<span class=\"sn\" data-s=\"8\">What is it?</span> <span class=\"sn\" data-s=\"9\">That, as he says, *in a conscience pure and without guile we behave ourselves everywhere in the world.* And this counts for a great deal toward our encouragement and comfort — indeed, not merely toward comfort but toward something far greater than comfort: toward our glorying.</span>"
+        },
+        {
+          "gr": "Ταῦτα δὲ ἔλεγε, κἀκείνους παιδεύων ἐν ταῖς θλίψεσι μὴ καταπίπτειν, ἀλλὰ καὶ ἐναβρύνεσθαι, ὅταν καθαρὸν ἔχωσι συνειδὸς, καὶ ἠρέμα καθαπτόμενος τῶν ψευδαποστόλων. Καὶ ὥσπερ ἐν τῇ προτέρᾳ φησὶν, ὅτι Ἀπέστειλέ με Χριστὸς εὐαγγελίζεσθαι, οὐκ ἐν σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ· καὶ, Ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων, ἀλλ' ἐν δυνάμει Θεοῦ· οὕτω καὶ ἐνταῦθά φησιν· Οὐκ ἐν σοφίᾳ, ἀλλ' ἐν χάριτι Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"10\">He says this to teach the Corinthians as well not to sink under their afflictions but, provided their conscience is pure, even to be proud of them; and at the same time he is quietly, gently striking at the false apostles.</span> <span class=\"sn\" data-s=\"11\">It is the same move he made in the former epistle: *“Christ sent me to preach the Gospel, not in wisdom of words, lest the Cross of Christ should be made of none effect,”* [1 Corinthians 1:17] and, *“that your faith should not stand in the wisdom of men, but in the power of God.”* [1 Corinthians 2:5] So here too: not in wisdom, but in the grace of Christ.</span>"
+        },
+        {
+          "gr": "Καὶ ἕτερον δέ τι ᾐνίξατο εἰπὼν, Οὐκ ἐν σοφίᾳ, τουτέστιν, οὐκ ἐν ἀπάτῃ, καὶ ταύτῃ βάλλων τὴν ἔξω παίδευσιν.",
+          "en": "<span class=\"sn\" data-s=\"12\">And by saying *not in wisdom* — meaning *not in deceit* — he is also hinting at something more, striking here too at the pagan way of doing things.</span>"
+        },
+        {
+          "gr": "Ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστὶ, φησὶ, τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν· τουτέστιν, Ἡ συνείδησις ἡμῶν, οὐκ ἔχουσα ἡμᾶς καταδικάζειν, ὡς ἐπὶ πονηροῖς πράγμασιν ἐλαυνομένους. Κἂν γὰρ μυρία πάσχωμεν δεινὰ, κἂν πάντοθεν βαλλώμεθα καὶ κινδυνεύωμεν, ἀρκεῖ εἰς παραμυθίαν ἡμῖν, μᾶλλον δὲ οὐ μόνον εἰς παραμυθίαν, ἀλλὰ καὶ εἰς τὸ στεφανοῦσθαι, τὸ συνειδὸς, καθαρὸν ὂν καὶ μαρτυροῦν ἡμῖν, ὅτι δι' οὐδὲν πονηρὸν, ἀλλὰ διὰ τὸ τῷ Θεῷ δοκοῦν ταῦτα πάσχομεν, δι' ἀρετὴν, διὰ φιλοσοφίαν, διὰ τὴν τῶν πολλῶν σωτηρίαν.",
+          "en": "<span class=\"sn\" data-s=\"13\">*“For our glorying is this,”* he says, *“the testimony of our conscience”* — that is, our conscience has nothing with which to condemn us, as though we were being persecuted for evil-doing.</span> <span class=\"sn\" data-s=\"14\">Even if we suffer countless horrors, even if we are shot at and endangered from every side, it is enough for our comfort — and not only for comfort but for our very crowning — that our conscience is pure and testifies to us that we suffer these things for no evil deed, but for what is well-pleasing to God: for virtue's sake, for heavenly wisdom's sake, for the salvation of the many.</span>"
+        },
+        {
+          "gr": "Ἐκείνη μὲν οὖν ἡ προτέρα παράκλησις παρὰ τοῦ Θεοῦ ἦν· αὕτη δὲ παρ' αὐτῶν καὶ τῆς τοῦ βίου καθαρότητος συνεισήγετο. ∆ιὸ καὶ καύχησιν αὐτὴν καλεῖ, ὅτι τῆς οἰκείας αὐτῶν ἀρετῆς κατόρθωμα ἦν.",
+          "en": "<span class=\"sn\" data-s=\"15\">That earlier consolation came from God; but this one was contributed by themselves, out of the purity of their own life.</span> <span class=\"sn\" data-s=\"16\">That is why he calls it their *glorying*: it was the achievement of their own virtue.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Simplicity, not fleshly wisdom; the grace of God — everywhere, and above all toward you",
+      "heading_sentence_index": 17,
+      "pairs": [
+        {
+          "gr": "Τίς οὖν ἐστιν ἡ καύχησις, καὶ τί μαρτυρεῖ ἡμῖν τὸ συνειδὸς ἡμῶν, Ὅτι ἐν ἁπλότητι καὶ ἐν εἰλικρινείᾳ; Τουτέστιν, οὐδὲν δολερὸν, οὐχ ὑπόκρισιν, οὐκ εἰρωνείαν, οὐ κολακείαν, οὐκ ἐπιβουλὴν καὶ ἀπάτην, οὐκ ἄλλο τι τῶν τοιούτων οὐδὲν, ἀλλ' ἐν ἐλευθερίᾳ πάσῃ, ἐν ἁπλότητι, ἐν ἀληθείᾳ, ἐν καθαρᾷ καὶ ἀπονήρῳ γνώμῃ, ἐν ἀδόλῳ διανοίᾳ, οὐδὲν ἔχοντες συν εσκιασμένον, οὐδὲ ὕπουλον.",
+          "en": "<span class=\"sn\" data-s=\"18\">What, then, is this glorying, and what does our conscience testify to us?</span> <span class=\"sn\" data-s=\"19\">*“That in sincerity”* — that is, with nothing deceitful in us, no hypocrisy, no dissembling, no flattery, no ambush or guile or anything of the kind, but in all frankness, in simplicity, in truth, in a pure and unmalicious spirit, in a guileless mind, with nothing concealed, no festering sore.</span>"
+        },
+        {
+          "gr": "Οὐκ ἐν σοφίᾳ σαρκικῇ. Τουτέστιν, οὐκ ἐν κακουργίᾳ οὐδὲ πονηρίᾳ, οὐδὲ ἐν δεινότητι λόγων ἢ ἐν συμπλοκῇ σοφισμάτων· ταύτην γὰρ λέγει σοφίαν σαρκικήν. Καὶ ἐφ' ᾧ μέγα ἐφρόνουν ἐκεῖνοι, τοῦτο οὗτος ἀρνεῖται καὶ διωθεῖται, δεικνὺς ἐκ πολλοῦ τοῦ περιόντος οὐκ ὂν ἄξιον καυχήσεως τοῦτο, καὶ ὅτι οὐ μόνον αὐτὸ οὐ ζητεῖ, ἀλλὰ καὶ διακρούεται καὶ ἐπαισχύνεται.",
+          "en": "<span class=\"sn\" data-s=\"20\">*“Not in fleshly wisdom”* — that is, not with evil artifice, not with wickedness, not with cleverness of words, not with webs of sophistries; that is what he means by *fleshly wisdom*.</span> <span class=\"sn\" data-s=\"21\">The very thing on which those men so greatly prided themselves, he disowns and pushes aside, showing most emphatically that it is no worthy ground for glorying — and not merely that he does not seek it, but that he even rejects it and is ashamed of it.</span>"
+        },
+        {
+          "gr": "Ἀλλ' ἐν χάριτι Θεοῦ ἀνεστράφημεν ἐν τῷ κόσμῳ. Τί ἐστιν, Ἐν χάριτι Θεοῦ; Τὴν παρ' αὐτοῦ σοφίαν, τὴν παρ' αὐτοῦ δύναμιν δεδομένην ἡμῖν ἐνδεικνύμενοι διὰ τῶν σημείων, διὰ τοῦ περιγενέσθαι σοφῶν, ῥητόρων, φιλοσόφων, βασιλέων, δήμων, ἰδιῶται τυγχάνοντες, καὶ μηδὲν τῆς ἔξωθεν σοφίας ἐπιφερόμενοι. Οὐχ ἡ τυχοῦσα δὲ αὕτη παράκλησίς τε καὶ καύχησις τοῦ συνειδέναι ἑαυτοῖς, ὅτι οὐκ ἀνθρωπίνῃ δυνάμει ἐκέχρηντο, ἀλλὰ θείᾳ χάριτι πάντα κατώρθουν.",
+          "en": "<span class=\"sn\" data-s=\"22\">*“But in the grace of God we behaved ourselves in the world.”* What does *in the grace of God* mean?</span> <span class=\"sn\" data-s=\"23\">Displaying the wisdom that comes from Him, the power given us by Him — through the signs that were worked, through our overcoming sages, orators, philosophers, kings, whole peoples, unlearned as we were and bringing with us nothing of the wisdom that is outside.</span> <span class=\"sn\" data-s=\"24\">And this was no ordinary comfort and glorying: to be conscious in themselves that it was not men's power they had used, but that by divine grace they had achieved every success.</span>"
+        },
+        {
+          "gr": "Ἐν τῷ κόσμῳ. Οὕτως οὐκ ἐν Κορίνθῳ μόνον, ἀλλὰ καὶ πανταχοῦ τῆς οἰκουμένης.",
+          "en": "<span class=\"sn\" data-s=\"25\">*“In the world.”* So: not in Corinth only, but in every part of the world.</span>"
+        },
+        {
+          "gr": "Περισσοτέρως δὲ πρὸς ὑμᾶς. Τί περισσοτέρως πρὸς ὑμᾶς; Ἐν χάριτι Θεοῦ ἀνεστράφημεν. Καὶ γὰρ σημεῖα καὶ θαύματα παρ' ὑμῖν ἐπεδειξάμεθα, καὶ πλείονα ἀκρίβειαν καὶ βίον ἄληπτον. Καὶ γὰρ καὶ τοῦτο χάριν Θεοῦ καλεῖ, καὶ τὰ οἰκεῖα κατορθώματα αὐτῇ λογιζόμενος. Ἐκεῖ γὰρ καὶ τὰ σκάμματα ὑπερέβη, ἀδάπανον τιθεὶς τὸ Εὐαγγέλιον, διὰ τὸ τῆς ἀσθενείας αὐτῶν φείδεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"26\">*“And more abundantly to you-ward.”* [2 Corinthians 1:12] What does *more abundantly to you-ward* mean?</span> <span class=\"sn\" data-s=\"27\">In the grace of God we behaved ourselves.</span> <span class=\"sn\" data-s=\"28\">For among you we displayed both signs and wonders, and greater strictness, and a blameless life — for he calls these too the grace of God, crediting even his own good works to it.</span> <span class=\"sn\" data-s=\"29\">For in Corinth he even overleapt the mark, making the Gospel free of charge, because he made allowance for their weakness.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "We write nothing you do not already know",
+      "heading_sentence_index": 30,
+      "pairs": [
+        {
+          "gr": "Οὐ γὰρ ἄλλα γράφομεν ὑμῖν, ἀλλ' ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε.",
+          "en": "<span class=\"sn\" data-s=\"31\">*“For we write none other things unto you, than what ye read or even acknowledge.”* [2 Corinthians 1:13]</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ μεγάλα ἐφθέγξατο ὑπὲρ ἑαυτοῦ, καὶ ἔδοξεν ἑαυτῷ μαρτυρεῖν, ὅπερ ἦν φορτικὸν, πάλιν αὐτοὺς παράγει μάρτυρας τῶν λεγομένων. Μὴ γάρ τις νομιζέτω πραγμάτων εἶναι κόμπον τὰ λεγόμενα, φησί· ταῦτα γὰρ ὑμῖν δηλοῦμεν, ἃ αὐτοὶ ὑμεῖς ἴστε· καὶ ὅτι οὐ ψευδόμεθα, πρὸ τῶν ἄλλων ἂν ἡμῖν μαρτυρήσετε. Ἀναγινώσκοντες γὰρ ἐπιγινώσκετε, ὅτι ἃ σύνιστε ἡμῖν ἐν τοῖς ἔργοις, ταῦτα καὶ ἐν τοῖς γράμμασι λέγομεν· καὶ οὐκ ἐναντιοῦται ὑμῶν ἡ μαρτυρία ταῖς Ἐπιστολαῖς, ἀλλὰ συνᾴδει τῇ ἀναγνώσει ἡ γνῶσις, ἣν προλαβόντες εἴχετε περὶ ἡμῶν.",
+          "en": "<span class=\"sn\" data-s=\"32\">Since he had said great things about himself and seemed to be bearing witness to himself — an odious thing — he calls them back in as witnesses to what he says.</span> <span class=\"sn\" data-s=\"33\">Let no one think, he says, that what I say is an empty boast of the pen; what we declare to you is what you yourselves know, and that we are not lying, you above all others can testify.</span> <span class=\"sn\" data-s=\"34\">When you read, you acknowledge that what you know we do in our actions is also what we say in our writings; your testimony does not contradict our letters, and the knowledge you already had of us is in harmony with what you read.</span>"
+        },
+        {
+          "gr": "Καθὼς καὶ ἐπέγνωτε ἡμᾶς ἀπὸ μέρους. Οὐδὲ γὰρ ἐξ ἀκοῆς ἴστε, φησὶ, τὰ καθ' ἡμᾶς, ἀλλ' ἀπ' αὐτῆς τῆς πείρας. Τὸ δὲ, Ἀπὸ μέρους, μετριάζων εἶπεν. Ἔθος γὰρ αὐτῷ τοῦτο, ἐπειδὰν μέγα τι φθέγξηται κατεπειγούσης ἀνάγκης (οὐδὲ γὰρ ἄλλως αὐτὸ ποιεῖ), ταχέως συστέλλειν πάλιν τὸν ἐκ τῶν εἰρημένων ὄγκον βουλόμενος.",
+          "en": "<span class=\"sn\" data-s=\"35\">*“As also ye did acknowledge us in part.”* [2 Corinthians 1:14] Your knowledge of us, he says, is not from hearsay but from experience itself.</span> <span class=\"sn\" data-s=\"36\">He adds the words *in part* out of modesty.</span> <span class=\"sn\" data-s=\"37\">That is his habit: whenever necessity presses him into saying something high-sounding — and he never does it otherwise — he is quick to press down again the self-satisfaction that such a saying might raise.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Pledges for the future, and a crown held in common",
+      "heading_sentence_index": 38,
+      "pairs": [
+        {
+          "gr": "Ἐλπίζω δὲ ὅτι καὶ ἕως τέλους ἐπιγνώσεσθε.",
+          "en": "<span class=\"sn\" data-s=\"39\">*“And I hope you will acknowledge even to the end.”* [2 Corinthians 1:14]</span>"
+        },
+        {
+          "gr": "βʹ. Εἶδες πάλιν ἀπὸ τῶν παρελθόντων τὰ μέλλοντα πιστούμενον, καὶ οὐκ ἀπὸ τῶν παρελθόντων μόνον, ἀλλὰ καὶ ἀπὸ τῆς τοῦ Θεοῦ δυνάμεως; Οὐ γὰρ ἁπλῶς ἀπεφήνατο, ἀλλὰ τὸ πᾶν ἐπ' αὐτὸν ἔῤῥιψε καὶ τὴν εἰς αὐτὸν ἐλπίδα.",
+          "en": "<span class=\"sn\" data-s=\"40\">Do you see how once again he draws pledges for the future from the past — and not from the past only, but from the power of God?</span> <span class=\"sn\" data-s=\"41\">He did not state it flatly, as something settled; he cast the whole matter upon God and upon his hope in Him.</span>"
+        },
+        {
+          "gr": "Ὅτι καύχημα ὑμῶν ἐσμεν, καθάπερ καὶ ὑμεῖς ἡμῶν, ἐν τῇ ἡμέρᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+          "en": "<span class=\"sn\" data-s=\"42\">*“That we are your glorying, even as you also are ours, in the day of our Lord Jesus Christ.”* [2 Corinthians 1:14]</span>"
+        },
+        {
+          "gr": "Ἐνταῦθα τὸν ἐκ τῶν εἰρημένων ὑποτέμνεται φθόνον, μεριστὰς αὐτοὺς καὶ κοινωνοὺς ποιήσας τῆς δόξης τῶν αὑτοῦ κατορθωμάτων. Οὐ γὰρ μέχρις ἡμῶν ἕστηκεν, ἀλλὰ καὶ εἰς ὑμᾶς διαβαίνει, καὶ πάλιν ἀφ' ὑμῶν εἰς ἡμᾶς.",
+          "en": "<span class=\"sn\" data-s=\"43\">Here he cuts away at the root the envy his words might provoke, by making them sharers and partners in the glory of his good works.</span> <span class=\"sn\" data-s=\"44\">These things, he means, do not stop with us; they pass over to you as well, and back again from you to us.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ ἐπῆρεν ἑαυτὸν, καὶ τῶν παρελθόντων παρέσχεν ἀπόδειξιν, καὶ τὰ μέλλοντα ἐνεγγυήσατο· ὥστε μὴ ἐπισκῆψαι τοὺς ἀκούοντας ὡς μεγαληγοροῦντι, μηδὲ εἰς βασκανίαν, ὅπερ ἔφην, ἐξενεχθῆναι, κοινοῖ τὸ καύχημα, καὶ αὐτῶν εἶναί φησι τὸν τῶν ἐγκωμίων στέφανον τοῦτον. Ἂν γὰρ τοιοῦτοι φανῶμεν, φησὶν, ὁ ἔπαινος ἡμῶν ὑμῶν ἡ δόξα· ὥσπερ οὖν καὶ ὑμῶν εὐδοκιμούντων ἡμεῖς ἀγαλλόμεθα καὶ σκιρτῶμεν καὶ στεφανούμεθα.",
+          "en": "<span class=\"sn\" data-s=\"45\">He had praised himself, produced proof of the past, and given security for the future; so, lest his hearers should accuse him of talking proudly or, as I said, be carried away into envy, he makes the rejoicing a common one and declares that this crown of praises is theirs.</span> <span class=\"sn\" data-s=\"46\">If we have shown ourselves to be such men, he says, then our praise is your glory; just as when you in turn are approved, we rejoice and leap for joy and are crowned.</span>"
+        },
+        {
+          "gr": "Πάλιν κἀνταῦθα πολὺ τὸ τῆς ταπεινοφροσύνης αὐτοῦ δι' ὧν εἴρηκεν ἐπιδείκνυται. Οὐ γὰρ ὡς διδάσκαλος μαθηταῖς, ἀλλ' ὡς μαθητὴς μαθηταῖς ὁμοτίμοις διαλεγόμενος, οὕτως ἐξισάζει τὸν λόγον. Καὶ θέα πῶς αὐτοὺς ὑψηλοὺς ποιεῖ, καὶ φιλοσοφίας πληροῖ, παραπέμπων ἐκείνῃ τῇ ἡμέρᾳ.",
+          "en": "<span class=\"sn\" data-s=\"47\">Notice again how much humility his words display.</span> <span class=\"sn\" data-s=\"48\">He pitches his language level — not like a master lecturing disciples, but like a disciple talking with fellow-disciples of his own rank.</span> <span class=\"sn\" data-s=\"49\">And see how he lifts them up and fills them with a loftier way of thinking by sending their minds on to That Day.</span>"
+        },
+        {
+          "gr": "Μὴ γάρ μοι τὰ παρόντα εἴπητε, φησὶ, τουτέστι, τὰ ὀνείδη, τὰς λοιδορίας, τὰ σκώμματα τὰ παρὰ τῶν πολλῶν· οὐδὲν γὰρ μέγα τὰ ἐνταῦθα, οὔτε τὰ χρηστὰ οὔτε τὰ λυπηρὰ, οὐ τὰ σκώμματα, οὐ τὰ ἐγκώμια τὰ παρὰ τῶν ἀνθρώπων· ἀλλ' ἀναμνήσθητέ μοι τῆς ἡμέρας ἐκείνης τῆς φοβερᾶς καὶ φρικώδους, ἐν ᾗ πάντα ἀνακεκαλυμμένα.",
+          "en": "<span class=\"sn\" data-s=\"50\">Do not talk to me, he says, about present things — the reproaches, the abuse, the jeering of the crowd.</span> <span class=\"sn\" data-s=\"51\">The things of this life, whether pleasant or painful, are no great matter; neither the jeers nor the praises that come from men.</span> <span class=\"sn\" data-s=\"52\">Remember instead, I beg you, that day of fear and trembling in which everything is laid bare.</span>"
+        },
+        {
+          "gr": "Τότε γὰρ καὶ ἡμεῖς ἐν ὑμῖν καὶ ὑμεῖς ἐν ἡμῖν καλλωπισθήσεσθε, ὅταν καὶ ὑμεῖς φαίνησθε τοιούτους ἔχοντες διδασκάλους, μηδὲν ἀνθρώπινον διδάσκοντας, μηδὲ πονηρίᾳ συνεζηκότας, μηδὲ λαβήν τινα δεδωκότας, καὶ ἡμεῖς τοιούτους ἔχοντες μαθητὰς, μηδὲν ἀνθρώπινον πάσχοντας, μηδὲ σαλευομένους, ἀλλὰ μετὰ προθυμίας πάντα ὑποδεχομένους, καὶ μηδαμόθεν παραλογιζομένους. Καὶ νῦν μὲν γὰρ ταῦτα δῆλα τοῖς νοῦν ἔχουσι· τότε δὲ πᾶσιν.",
+          "en": "<span class=\"sn\" data-s=\"53\">Then we will glory in you and you in us: you will be seen to have had such teachers — men who teach no merely human doctrine, who do not live in wickedness, who give no one a handle against them — and we to have had such disciples: not shallow or easily swayed, but receiving everything with a ready mind and seduced by no sophistries from any quarter.</span> <span class=\"sn\" data-s=\"54\">This is clear even now to those who have understanding; then it will be clear to everyone.</span>"
+        },
+        {
+          "gr": "Ὥστε εἰ καὶ θλιβόμεθα νῦν, οὐ μικρὰν καὶ ταύτην ἔχομεν παραμυθίαν· νῦν μὲν τὴν ἀπὸ τοῦ συνειδότος, τότε δὲ καὶ τὴν ἀπὸ τῆς ἐκλάμψεως αὐτῆς. Νῦν μὲν γὰρ τὸ συνειδὸς ἡμῶν οἶδεν, ὅτι χάριτι Θεοῦ πάντα ποιοῦμεν, ὡς καὶ ὑμεῖς ἴστε καὶ εἴσεσθε· τότε δὲ καὶ πάντες μαθήσονται ἄνθρωποι καὶ τὰ ἡμέτερα καὶ τὰ ὑμῶν, καὶ ὄψονται δι' ἀλλήλων ἡμᾶς δοξαζομένους.",
+          "en": "<span class=\"sn\" data-s=\"55\">So even if we are afflicted now, we have this consolation — and it is no light one: what our conscience affords us now, and the open manifestation itself then.</span> <span class=\"sn\" data-s=\"56\">For now our conscience knows that we do everything by the grace of God, as you also know and will know; but then everyone else will learn what we have done and what you have done, and will see us glorified through one another.</span>"
+        },
+        {
+          "gr": "Ἵνα γὰρ μὴ δόξῃ μόνος αὐτὸς εἶναι λαμπρὸς ἀπὸ τῆς καυχήσεως, καὶ αὐτοῖς δίδωσιν αἰτίαν τοῦ καυχήματος, καὶ ἀπάγει τῶν παρόντων λυπηρῶν. Καὶ ὅπερ ἐπὶ τῆς παρακλήσεως ἐποίησεν εἰπὼν, ὅτι ∆ι' ὑμᾶς παρακαλούμεθα, τοῦτο καὶ ἐνταῦθα ποιεῖ, ∆ι' ὑμᾶς καυχώμεθα λέγων, ὥσπερ καὶ ὑμεῖς δι' ἡμᾶς, πανταχοῦ κοινωνοὺς αὐτοὺς ποιῶν ἁπάντων, τῆς παρακλήσεως, τῶν παθημάτων, τῆς σωτηρίας τῆς αὑτοῦ· καὶ γὰρ τὴν σωτηρίαν ταύτην ταῖς εὐχαῖς αὐτῶν λογίζεται· Συνυπουργούντων γὰρ ὑμῶν τῇ δεήσει, φησὶν, ἐῤῥύσατο ἡμᾶς ὁ Θεός. Οὕτω δὴ καὶ τὰ καυχήματα κοινὰ τίθησιν. Ὥσπερ γὰρ ἐκεῖ φησιν· Εἰδότες ὅτι ὥσπερ κοινωνοί ἐστε τῶν παθημάτων, οὕτω καὶ τῆς παρακλήσεως· οὕτω καὶ ἐνταῦθα, Καύχημα ὑμῶν ἐσμεν, καθάπερ καὶ ὑμεῖς ἡμῶν.",
+          "en": "<span class=\"sn\" data-s=\"57\">And so as not to seem to be the only one made glorious by this boasting, he gives them their own ground for glorying and leads them away from their present distresses.</span> <span class=\"sn\" data-s=\"58\">Just as he did with the consolation, when he said, *“We are comforted for your sakes,”* [2 Corinthians 1:6] so he does here too, saying: we glory on your account, as you also do on ours.</span> <span class=\"sn\" data-s=\"59\">Everywhere he makes them sharers in everything — his comfort, his sufferings, his deliverance.</span> <span class=\"sn\" data-s=\"60\">That deliverance he ascribed to their prayers: God delivered us, he says, *you helping together by prayer.* [2 Corinthians 1:11] In the same way he makes the glorying common property.</span> <span class=\"sn\" data-s=\"61\">For as he says there, *“knowing that as you are partakers of the sufferings, so also of the consolation,”* [2 Corinthians 1:7] so here too: we are your glorying, as you also are ours.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The visit I meant to make, and the charge of fickleness",
+      "heading_sentence_index": 62,
+      "pairs": [
+        {
+          "gr": "Καὶ ταύτῃ τῇ πεποιθήσει ἐβουλόμην πρότερον πρὸς ὑμᾶς ἐλθεῖν.",
+          "en": "<span class=\"sn\" data-s=\"63\">*“And in this confidence I was minded to come before unto you.”* [2 Corinthians 1:15]</span>"
+        },
+        {
+          "gr": "Ποίᾳ πεποιθήσει; Τῷ σφόδρα θαῤῥεῖν ὑμῖν, τῷ καυχᾶσθαι ἐφ' ὑμῖν, τῷ καύχημα ὑμῶν εἶναι, τῷ σφόδρα ὑμᾶς ἀγαπᾷν, τῷ μηδὲν ἑαυτῷ συνειδέναι πονηρὸν, τῷ πεποιθέναι ὅτι πάντα πνευματικὰ παρ' ἡμῖν, καὶ ὑμᾶς τούτων μάρτυρας ἔχειν.",
+          "en": "<span class=\"sn\" data-s=\"64\">What confidence?</span> <span class=\"sn\" data-s=\"65\">Relying on you so completely, glorying over you, being your glorying, loving you so much, being conscious of no wrong, confident that everything about us is spiritual, and having you as witnesses of it.</span>"
+        },
+        {
+          "gr": "Ἐβουλόμην ἐλθεῖν πρὸς ὑμᾶς, καὶ δι' ὑμῶν διελθεῖν εἰς Μακεδονίαν. Καὶ μὴν τοὐναντίον ἐπηγγείλατο ἐν τῇ προτέρᾳ, οὕτω λέγων· Ἐλεύσομαι δὲ πρὸς ὑμᾶς, ὅταν Μακεδονίαν διέλθω· Μακεδονίαν γὰρ διέρχομαι. Πῶς οὖν ἐνταῦθα τἀναντία φησίν; Οὐ τὰ ἐναντία φησὶν, ἄπαγε· ταῦτα γὰρ ἐναντία μὲν ἔστιν οἷς ἔγραψεν, οὐκ ἐναντία δὲ οἷς ἐβούλετο. ∆ιὸ καὶ ἐνταῦθα οὐκ εἶπεν, ὅτι Ἔγραψα δι' ὑμῶν ἀπελθεῖν εἰς Μακεδονίαν, ἀλλ', Ἐβουλόμην. Εἰ γὰρ καὶ οὐχ οὕτως ἔγραψα, φησὶν, ἀλλ' ὅμως ἐσπούδαζον καὶ ἐβουλόμην καὶ πρὸ τοῦ ἐλθεῖν πρὸς ὑμᾶς· τοσοῦτον ἀπέσχον τοῦ βουληθῆναι ὑστερῆσαι τῆς ὑποσχέσεως, ὅτι καὶ φθάσαι αὐτὴν ἠθέλησα.",
+          "en": "<span class=\"sn\" data-s=\"66\">*“I was minded to come unto you, and by you to pass into Macedonia.”* And yet in the former epistle he had promised the opposite, saying: *“Now I will come unto you when I shall have passed through Macedonia — for I do pass through Macedonia.”* [1 Corinthians 16:5] How is it, then, that here he says the contrary?</span> <span class=\"sn\" data-s=\"67\">He does not say the contrary — away with the thought.</span> <span class=\"sn\" data-s=\"68\">It is contrary to what he wrote, yes, but not contrary to what he wanted.</span> <span class=\"sn\" data-s=\"69\">That is why he does not say here, “I wrote that I would pass by you into Macedonia,” but, *“I was minded.”* Even though I did not write it that way, he says, still I was earnestly desiring it and *was minded*, even beforehand, to come to you — so far was I from wanting to arrive later than promised that I would gladly have come ahead of time.</span>"
+        },
+        {
+          "gr": "Ἵνα δευτέραν χάριν ἔχητε. Τί ἐστι, ∆ευτέραν; Ἵνα διπλῆν χάριν ἔχητε, καὶ τὴν διὰ τῶν γραμμάτων, καὶ τὴν διὰ τῆς παρουσίας. Χάριν δὲ ἐνταῦθα τὴν χαρὰν λέγει.",
+          "en": "<span class=\"sn\" data-s=\"70\">*“That you might have a second benefit.”* [2 Corinthians 1:15] What is a *second benefit*?</span> <span class=\"sn\" data-s=\"71\">That you might have a double benefit: the one from my letters and the one from my presence.</span> <span class=\"sn\" data-s=\"72\">By *benefit* here he means joy.</span>"
+        },
+        {
+          "gr": "Καὶ δι' ὑμῶν διελθεῖν εἰς Μακεδονίαν, καὶ πάλιν ἀπὸ Μακεδονίας ἐλθεῖν πρὸς ὑμᾶς, καὶ ὑφ' ὑμῶν προπεμφθῆναι εἰς τὴν Ἰουδαίαν. Τοῦτο οὖν βουλόμενος, μή τι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην;",
+          "en": "<span class=\"sn\" data-s=\"73\">*“And by you to pass into Macedonia, and to come again from Macedonia unto you, and of you to be set forward on my journey unto Judaea.*</span> <span class=\"sn\" data-s=\"74\">*When I therefore was thus minded, did I show fickleness?”* [2 Corinthians 1:16–17]</span>"
+        },
+        {
+          "gr": "γʹ. Ἐνταῦθα λοιπὸν ἐξ εὐθείας ἀποδύεται τὸ ἔγκλημα τὸ ἐκ τῆς μελλήσεως καὶ τῆς ἀπουσίας. Ὃ γὰρ λέγει, τοιοῦτόν ἐστιν· Ἐβουλόμην ἐλθεῖν πρὸς ὑμᾶς· τίνος οὖν ἕνεκεν οὐκ ἦλθον; ἆρα ὡς κοῦφος καὶ εὐρίπιστος; τοῦτο γάρ ἐστι, Μή τι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην;",
+          "en": "<span class=\"sn\" data-s=\"75\">Here at last he confronts head-on the charge arising from his delay and his absence.</span> <span class=\"sn\" data-s=\"76\">What he says amounts to this: I was minded to come to you.</span> <span class=\"sn\" data-s=\"77\">Why then did I not come?</span> <span class=\"sn\" data-s=\"78\">Was it as a lightweight, a man who shifts with every current? — that is what *did I show fickleness* means.</span>"
+        },
+        {
+          "gr": "Οὐδαμῶς· ἀλλὰ διὰ τί; Ὅτι ἃ βουλεύομαι, οὐ κατὰ σάρκα βουλεύομαι. Τί ἐστιν, Οὐ κατὰ σάρκα; Οὐ σαρκικῶς βουλεύομαι.",
+          "en": "<span class=\"sn\" data-s=\"79\">By no means.</span> <span class=\"sn\" data-s=\"80\">Why not?</span> <span class=\"sn\" data-s=\"81\">Because *what I purpose, I do not purpose according to the flesh.* What is *not according to the flesh*?</span> <span class=\"sn\" data-s=\"82\">I do not make my plans carnally.</span>"
+        },
+        {
+          "gr": "Ἵνα ᾖ παρ' ἐμοὶ τὸ Ναὶ ναὶ, καὶ τὸ Οὒ οὔ. Ἀλλ' ἔτι καὶ τοῦτο ἀσαφές. Τί οὖν ἐστιν ὅ φησιν;",
+          "en": "<span class=\"sn\" data-s=\"83\">*“That with me there should be the yea yea and the nay nay.”* [2 Corinthians 1:17] But even this is still obscure.</span> <span class=\"sn\" data-s=\"84\">What is he saying, then?</span>"
+        },
+        {
+          "gr": "Ὁ σαρκικὸς ἄνθρωπος, τουτέστιν, ὁ τοῖς παροῦσι προσηλωμένος καὶ ἐν τούτοις διαπαντὸς ὢν, καὶ τῆς τοῦ Πνεύματος ἐνεργείας ἐκτὸς τυγχάνων, πανταχοῦ ἀπιέναι δύναται, καὶ πλανᾶσθαι ὅπου βούλεται· ὁ δὲ ὑπηρέτης τοῦ Πνεύματος, καὶ ὑπ' ἐκείνου ἀγόμενος καὶ περιαγόμενος, οὐ δύναται κύριος εἶναι τῆς ἑαυτοῦ γνώμης πανταχοῦ, τῆς ἐκεῖθεν ἐξουσίας ἐξαρτήσας αὐτήν· ἀλλὰ τοιοῦτον ὑπομένει, οἷον ἂν εἰ δοῦλος εὐδοκιμῶν, καὶ πανταχοῦ περιελκόμενος ὑπὸ τῶν δεσποτικῶν ἐπιταγμάτων, καὶ οὐκ ἔχων ἐξουσίαν ἑαυτοῦ, οὐδὲ ἀναπνεῦσαι δυνάμενος οὐδὲ μικρὸν, ἐπαγγέλλοιτό τινα τοῖς συνδούλοις, εἶτα τῷ δεσπότῃ τἀναντία δοκοῦντα, μὴ ἀνύοι τὰ ἀπηγγελμένα.",
+          "en": "<span class=\"sn\" data-s=\"85\">The carnal man — the man riveted to present things and constantly absorbed in them, standing outside the Spirit's sphere of influence — has the power to go anywhere and to wander wherever he likes.</span> <span class=\"sn\" data-s=\"86\">But the man who is the Spirit's servant, led and led about by Him, cannot be master of his own intentions everywhere, having made them dependent on the authority that comes from above.</span> <span class=\"sn\" data-s=\"87\">His case is like that of a trusted servant whose every movement is governed by his master's orders, who has no power over himself and cannot rest even a little: if such a man makes a promise to his fellow-servants and then, because his master wills otherwise, fails to keep it — that is his situation.</span>"
+        },
+        {
+          "gr": "Τοῦτο οὖν φησιν, ὅτι Οὐ κατὰ σάρκα βουλεύομαι, καὶ οὐκ εἰμὶ τῆς τοῦ Πνεύματος ἐκτὸς κυβερνήσεως, οὐδὲ ἐξουσίαν ἔχω βαδίζειν ὅπου βούλομαι. Καὶ γὰρ ὑπόκειμαι δεσποτείᾳ τῇ τοῦ Παρακλήτου καὶ ἐπιτάγμασι, καὶ ταῖς ἐκείνου ψήφοις ἄγομαι καὶ περιάγομαι. ∆ιὰ τοῦτο οὐκ ἠδυνήθην ἐλθεῖν· οὐ γὰρ ἔδοξεν τῷ Πνεύματι. Ὃ καὶ ἐν ταῖς Πράξεσι πολλαχοῦ γέγονεν· ἀλλαχοῦ γὰρ προῃρημένον ἐλθεῖν, τὸ Πνεῦμα ἀλλαχοῦ βαδίζειν ἐκέλευεν. Ὥστε οὐ τῆς ἐμῆς ἐλαφρίας, τουτέστι. κουφότητος, τὸ μὴ ἐλθεῖν, ἀλλὰ τὸ τοῦ Πνεύματος, ὑποκείμενον ἐκείνῳ πείθεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"88\">This, then, is what he means by *I purpose not according to the flesh*: I am not outside the Spirit's governance, nor am I free to go where I please.</span> <span class=\"sn\" data-s=\"89\">I am under a master and under orders — the Comforter's — and by His decrees I am led, and led about.</span> <span class=\"sn\" data-s=\"90\">That is why I was unable to come: it was not the Spirit's will.</span> <span class=\"sn\" data-s=\"91\">The same thing happened often in the Acts: when he had purposed to go to one place, the Spirit told him to go to another.</span> <span class=\"sn\" data-s=\"92\">So it was not lightness — fickleness on my part — that kept me from coming; it was that, being subject to the Spirit, I obeyed Him.</span>"
+        },
+        {
+          "gr": "Εἶδες πάλιν αὐτοῦ τὸ σύνηθες θεώρημα; Ἀφ' ὧν ἐνόμιζον αὐτὸν δεικνύναι σαρκικῶς βουλευόμενον, ἐκ τοῦ μὴ πληρῶσαι τὴν ὑπόσχεσιν, ἐκ τούτου δείκνυσι μάλιστα πνευματικῶς βεβουλευμένον, καὶ τοὐναντίον σαρκικῶς βουλεύεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"93\">Did you notice once more his characteristic turn of argument?</span> <span class=\"sn\" data-s=\"94\">The very thing they thought proved he made his plans according to the flesh — namely, his failure to keep the promise — is what he uses as the clinching proof that he planned according to the Spirit, and that planning *according to the flesh* would have meant the opposite.</span>"
+        },
+        {
+          "gr": "Τί οὖν, φησίν; οὐ μετὰ τοῦ Πνεύματος ἐπηγγείλατο; Οὐδαμῶς· καὶ γὰρ καὶ ἤδη εἶπον, ὅτι οὐ πάντα προῄδει Παῦλος τὰ μέλλοντα καὶ συμφέροντα.",
+          "en": "<span class=\"sn\" data-s=\"95\">What then, someone says: was it not with the Spirit that he made the promise in the first place?</span> <span class=\"sn\" data-s=\"96\">By no means.</span> <span class=\"sn\" data-s=\"97\">I have already said that Paul did not foreknow everything that was going to happen or everything that was expedient.</span>"
+        },
+        {
+          "gr": "∆ιὰ δὴ τοῦτο ἐν μὲν τῇ προτέρᾳ φησὶν, Ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι, δεδοικὼς αὐτὸ τοῦτο, μὴ εἰς τὴν Ἰουδαίαν εἰπὼν, ἀναγκασθῇ ἑτέρωθι ἀπελθεῖν· ἐνταῦθα δὲ ἐπειδὴ ἀπέτυχε, λέγει αὐτὸ, Καὶ ὑφ' ὑμῶν προπεμφθῆναι εἰς τὴν Ἰουδαίαν. Ὃ μὲν γὰρ ἦν ἀγάπης, τίθησι, τὸ ἐλθεῖν πρὸς αὐτούς· ὃ δὲ οὐδὲν πρὸς αὐτοὺς ἦν, τὸ ἀπελθεῖν εἰς τὴν Ἰουδαίαν, οὐκέτι καὶ τοῦτο προστίθησι διωρισμένως. Ἐπειδὴ δὲ ἐλήλεγκται, ἐνταῦθα θαῤῥῶν λέγει λοιπὸν, ὅτι Εἰς τὴν Ἰουδαίαν.",
+          "en": "<span class=\"sn\" data-s=\"98\">That is why, in the former epistle, he says, *“that you may set me forward on my journey wherever I go”* [1 Corinthians 16:6] — entertaining this very fear, that after saying “into Judaea” he might be compelled to go somewhere else.</span> <span class=\"sn\" data-s=\"99\">Now, though, after his intention has been frustrated, he says it: *and of you to be set forward on my journey unto Judaea.* What belonged to love — his coming to them — he states plainly; but what had nothing to do with them — his going on from them into Judaea — he does not state definitely.</span> <span class=\"sn\" data-s=\"100\">Once he had been proved wrong, however, here he says *toward Judaea* with full confidence.</span>"
+        },
+        {
+          "gr": "Καὶ τοῦτο δὲ συμφερόντως ἐγίνετο, ἵνα μή τις αὐτῶν μείζονα περὶ αὐτὸν τῆς ἀξίας ὑπόνοιαν ἔχῃ. Εἰ γὰρ καὶ τούτων ὄντων θύειν αὐτοῖς ἐβούλοντο ταύρους, ποῦ οὐκ ἂν ἐξώκειλαν ἀσεβείας, εἰ μὴ πολλὰ δείγματα τῆς ἀνθρωπίνης ἀσθενείας παρείχοντο; Καὶ τί θαυμάζεις, εἰ τὰ μέλλοντα πάντα οὐκ ᾔδει, ὅπου καὶ ἐν εὐχαῖς, πολλαχοῦ τὸ συμφέρον ἀγνοεῖ;",
+          "en": "<span class=\"sn\" data-s=\"101\">And this too happened for their benefit, so that no one among them would think of the apostles more highly than they deserved.</span> <span class=\"sn\" data-s=\"102\">For if, even with these evidences before them, people were ready to sacrifice bulls to them, [Acts 14:13] to what pitch of impiety would they not have been driven, had the apostles not given many proofs of human weakness?</span> <span class=\"sn\" data-s=\"103\">And why should we marvel that he did not know all that was to happen, when often, even in his prayers, he does not know what is expedient?</span>"
+        },
+        {
+          "gr": "Τὸ γὰρ, τί προσευξόμεθα, φησὶ, καθὸ δεῖ, οὐκ οἴδαμεν. Καὶ οὐ λέγει τοῦτο μόνον, ἵνα δόξῃ μετριάζειν, ἀλλὰ καὶ δείκνυσι, ποῦ τὸ συμφέρον ἐν εὐχαῖς ἠγνόησε.",
+          "en": "<span class=\"sn\" data-s=\"104\">*For,* he says, *we know not what we should pray for as we ought.* [Romans 8:26] And so as not to seem to be saying this out of false modesty, he not only says it but points to occasions on which, in prayer, he did not know what was expedient.</span>"
+        },
+        {
+          "gr": "Ποῦ τοίνυν ἠγνόησεν; Ἡνίκα παρεκάλει τῶν πειρασμῶν ἀπαλλαγῆναι, λέγων· Ἐδόθη μοι σκόλοψ τῇ σαρκὶ ἄγγελος Σατᾶν, ἵνα με κολαφίζῃ. Ὑπὲρ τούτου τρὶς τὸν Κύριον παρεκάλεσα, καὶ εἶπέ μοι, Ἀρκεῖ σοι ἡ χάρις μου· ἡ γὰρ δύναμίς μου ἐν ἀσθενείᾳ τελειοῦται. Εἶδες πῶς οὐκ ἔγνω τὰ συμφέροντα αἰτῆσαι; ∆ιὸ οὐδὲ ἔλαβε, καὶ πολλάκις αἰτήσας.",
+          "en": "<span class=\"sn\" data-s=\"105\">Where was that?</span> <span class=\"sn\" data-s=\"106\">When he begged to be delivered from his trials, saying: *“There was given to me a thorn in the flesh, a messenger of Satan to buffet me.*</span> <span class=\"sn\" data-s=\"107\">*Concerning this thing I besought the Lord thrice.*</span> <span class=\"sn\" data-s=\"108\">*And He said to me, My grace is sufficient for you: for My power is made perfect in weakness.”* [2 Corinthians 12:7–9] Do you see how he did not know to ask for what was expedient — and so, though he asked repeatedly, he did not obtain it?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "As God is faithful, our word to you was not yes and no",
+      "heading_sentence_index": 109,
+      "pairs": [
+        {
+          "gr": "Πιστὸς δὲ ὁ Θεὸς, ὅτι ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς οὐκ ἐγένετο Ναὶ καὶ Οὔ.",
+          "en": "<span class=\"sn\" data-s=\"110\">*“But as God is faithful, our word toward you was not yea and nay.”* [2 Corinthians 1:18]</span>"
+        },
+        {
+          "gr": "Καλῶς ἀντίθεσιν ἀνακύπτουσαν καταλύει. Εἰ γὰρ ὑποσχόμενος, φησὶ, παραγίνεσθαι ὑπερέθου, καὶ οὐκ ἔστι παρὰ σοὶ Ναὶ ναὶ, καὶ Οὒ οὒ, ἀλλὰ νῦν ἃ λέγεις ἀνατρέπεις μετὰ ταῦτα, ὥσπερ ἐπὶ τῆς σῆς ἐπιδημίας ἐποίησας· οὐαὶ ἡμῖν, μήποτε καὶ ἐν τῷ κηρύγματι τοῦτο γέγονεν.",
+          "en": "<span class=\"sn\" data-s=\"111\">He skilfully overturns an objection before it can rise.</span> <span class=\"sn\" data-s=\"112\">Someone might say: if, after promising, you put off coming, and with you *yea* is not *yea* and *nay* is not *nay*, but what you say today you unsay tomorrow — as you did over this journey — then woe to us, if the same were true of the Preaching as well.</span>"
+        },
+        {
+          "gr": "Ἵν' οὖν μὴ ταῦτα ἐννοῶσι, μηδὲ θορυβῶνται, φησί· Πιστὸς δὲ ὁ Θεὸς, ὅτι ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς οὐκ ἐγένετο Ναὶ καὶ Οὔ. Ἐν γὰρ τῷ κηρύγματι, φησὶ, τοῦτο οὐκ ἐγένετο, ἀλλ' ἐν ταῖς ὁδοῖς καὶ ταῖς ἀποδημίαις μόνον. Ἐν δὲ τῷ κηρύγματι μένει βέβαια καὶ ἀκίνητα ἅπερ εἰρήκαμεν. Λόγον γὰρ ἐνταῦθα τὸ κήρυγμα καλεῖ.",
+          "en": "<span class=\"sn\" data-s=\"113\">So that they will not harbour such thoughts and be troubled by them, he says: *As God is faithful, our word toward you was not yea and nay.* That sort of thing, he says, did not happen in the Preaching — only in our travels and journeyings.</span> <span class=\"sn\" data-s=\"114\">Whatever we have said in our preaching stands firm and immoveable (here he calls his preaching his *word*).</span>"
+        },
+        {
+          "gr": "Εἶτα ἀπόδειξιν ἀναντίῤῥητον παρέχει τούτου, εἰς τὸν Θεὸν τὸ πᾶν ἀνάγων Ὃ δὲ λέγει, τοῦτό ἐστιν· Ἡ ὑπόσχεσις τῆς παρουσίας ἐμὴ ἦν, καὶ ἐγὼ οἴκοθεν ἐπηγγειλάμην ἐκεῖνο· τὸ δὲ κήρυγμα οὐκ ἐμὸν οὐδὲ ἀνθρώπινον, ἀλλὰ τοῦ Θεοῦ· τὰ δὲ τοῦ Θεοῦ ἀμήχανον διαψεύσασθαι· διὸ καὶ ἔφη· Πιστὸς δὲ ὁ Θεός· τουτέστιν, ἀληθής. Μὴ τοίνυν ὑποπτεύετε τὰ ἐκείνου· οὐδὲν γὰρ ἐν αὐτοῖς ἀνθρώπινον. Καὶ ἐπειδὴ εἶπε λόγον, ἐπάγει λοιπὸν δεικνὺς ποῖον λόγον φησί.",
+          "en": "<span class=\"sn\" data-s=\"115\">Then he offers proof that cannot be gainsaid, referring everything back to God.</span> <span class=\"sn\" data-s=\"116\">What he means is this: the promise of my coming was my own, and I gave that promise on my own account; but the Preaching is not my own, nor is it of man — it is of God, and what is of God cannot possibly lie.</span> <span class=\"sn\" data-s=\"117\">That is why he said, *God is faithful* — that is, true.</span> <span class=\"sn\" data-s=\"118\">Do not mistrust what comes from Him, then; there is nothing human in it.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Every promise of God is Yes and Amen in Him",
+      "heading_sentence_index": 119,
+      "pairs": [
+        {
+          "gr": "δʹ. Ποῖος οὖν λόγος οὗτός ἐστιν, Ὁ γὰρ τοῦ Θεοῦ Υἱὸς, φησὶν, ὁ ἐν ὑμῖν δι' ἡμῶν κηρυχθεὶς, δι' ἐμοῦ καὶ Σιλουανοῦ καὶ Τιμοθέου, οὐκ ἐγένετο Ναὶ καὶ Οὔ.",
+          "en": "<span class=\"sn\" data-s=\"120\">And since he had said *word*, he adds what follows to explain what kind of word he means.</span> <span class=\"sn\" data-s=\"121\">What kind, then?</span> <span class=\"sn\" data-s=\"122\">*“For the Son of God,”* he says, *“Who was preached among you by us, even by me, and Silvanus, and Timothy, was not yea and nay.”* [2 Corinthians 1:19]</span>"
+        },
+        {
+          "gr": "∆ιὰ γὰρ τοῦτο καὶ τὸν χορὸν εἰσάγει τῶν διδασκάλων εἰς μέσον, ἀξιόπιστον κἀντεῦθεν τὴν μαρτυρίαν ποιῶν, οὐ διὰ τῶν ἀκουσάντων μόνον, ἀλλὰ καὶ διὰ τῶν διδαξάντων. Καίτοι μαθηταὶ ἦσαν· ἀλλὰ μετριάζων, ἐν τάξει διδασκάλων αὐτοὺς ἀριθμεῖ.",
+          "en": "<span class=\"sn\" data-s=\"123\">This is why he brings the whole company of the teachers forward as well: the testimony gains credibility from those who taught it, not only from those who heard it.</span> <span class=\"sn\" data-s=\"124\">And yet Silvanus and Timothy were disciples; still, in his modesty he counts them in the rank of teachers.</span>"
+        },
+        {
+          "gr": "Τί δέ ἐστιν, Οὐκ ἐγένετο Ναὶ καὶ Οὔ; Οὐκ ἀνέτρεψα, φησὶν, ἃ πρότερον εἶπον ἐν τῷ κηρύγματι· οὐ νῦν μὲν τοῦτο, νῦν δὲ ἐκεῖνο διελέχθην ὑμῖν· τοῦτο γὰρ οὐκέτι πίστεως, ἀλλὰ πεπλανημένης διανοίας ἐστίν.",
+          "en": "<span class=\"sn\" data-s=\"125\">What does *was not yea and nay* mean?</span> <span class=\"sn\" data-s=\"126\">Never once, he says, have I unsaid what I had previously said in the Preaching.</span> <span class=\"sn\" data-s=\"127\">My discourse to you was not one thing today and another tomorrow — that belongs not to faith but to a wandering mind.</span>"
+        },
+        {
+          "gr": "Ἀλλὰ Ναὶ ἐν αὐτῷ γέγονε. Τουτέστιν, ἀπαρασάλευτος καὶ βέβαιος ὁ λόγος μένει.",
+          "en": "<span class=\"sn\" data-s=\"128\">*“But in Him was the yea.”* [2 Corinthians 1:19] That is, as I said, the word abides unshaken and steadfast.</span>"
+        },
+        {
+          "gr": "Ὅσαι γὰρ ἐπαγγελίαι Θεοῦ, ἐν αὐτῷ τὸ Ναὶ, καὶ ἐν αὐτῷ τὸ Ἀμὴν, τῷ Θεῷ πρὸς δόξαν δι' ἡμῶν.",
+          "en": "<span class=\"sn\" data-s=\"129\">*“For how many soever be the promises of God, in Him is the yea, and in Him the Amen, unto the glory of God by us.”* [2 Corinthians 1:20]</span>"
+        },
+        {
+          "gr": "Τί ἐστιν, Ὅσαι ἐπαγγελίαι Θεοῦ; Πολλὰ τὸ κήρυγμα ὑπισχνεῖτο, καὶ αὐτοὶ τὰ πολλὰ ταῦτα ἐπηγγέλλοντο καὶ ἐκήρυττον. Καὶ γὰρ περὶ ἀναστάσεως διελέχθησαν, καὶ περὶ ἀναλήψεως, καὶ περὶ ἀφθαρσίας, καὶ περὶ τῶν μεγάλων ἐπάθλων καὶ τῶν ἀποῤῥήτων ἀγαθῶν ἐκείνων.",
+          "en": "<span class=\"sn\" data-s=\"130\">What is this — *how many soever the promises of God*?</span> <span class=\"sn\" data-s=\"131\">The Preaching promised many things, and those many things are what they proclaimed and preached.</span> <span class=\"sn\" data-s=\"132\">They spoke of being raised again, of being caught up, of incorruption, of those great rewards and unspeakable goods.</span>"
+        },
+        {
+          "gr": "Ταύτας οὖν τὰς ἐπαγγελίας μένειν ἀκινήτους φησὶ, καὶ οὐκ ἐγένετο Ναὶ καὶ Οὒ ἐν αὐταῖς. Τουτέστιν, Οὐ ποτὲ μὲν ἀληθῆ τὰ εἰρημένα, ποτὲ δὲ ψευδῆ, καθάπερ ἡ ἐπιδημία ἡ ἐμὴ, ἀλλ' ἀεὶ ἀληθῆ. Καὶ πρῶτον μὲν ὑπὲρ τῶν τῆς πίστεως δογμάτων καὶ τοῦ περὶ Χριστοῦ λόγου ἀγωνίζεται λέγων· Ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐγένετο Ναὶ καὶ Οὔ· ἔπειτα ὑπὲρ τῶν ὑποσχέσεων· Ὅσαι γὰρ ἐπαγγελίαι Θεοῦ, ἐν αὐτῷ τὸ Ναί. Εἰ δὲ ἃ ὑπέσχετο βέβαια καὶ δώσει πάντως, πολλῷ μᾶλλον αὐτὸς καὶ ὁ περὶ αὐτοῦ λόγος ἐστὶ βέβαιος, καὶ οὐκ ἔστιν εἰπεῖν, ὅτι νῦν μὲν ἔστι, νῦν δὲ οὐκ ἔστιν, ἀλλ' ἀεί ἐστι, καὶ ὁ αὐτός ἐστι. Τί δέ ἐστιν, Ἐν αὐτῷ τὸ Ναὶ, καὶ τὸ Ἀμήν; Τὸ πάντως ἐσόμενον δηλοῖ.",
+          "en": "<span class=\"sn\" data-s=\"133\">These promises, he says, abide immoveable; in them there is no *yea and nay* — that is, what was said was not true at one moment and false at another, as happened with my coming to you, but always true.</span> <span class=\"sn\" data-s=\"134\">And notice the order: first he contends for the articles of the faith and the word concerning Christ — *my word and my preaching was not yea and nay* — and next for the promises — *how many soever be the promises of God, in Him is the yea.* But if the things He promised are sure and He will certainly give them, then much more sure are He Himself and the word about Him; it cannot be said of Him that He now is and now is not — He always is, and is the same.</span> <span class=\"sn\" data-s=\"135\">And what is *in Him is the yea, and the Amen*?</span> <span class=\"sn\" data-s=\"136\">It signifies that which shall certainly come to be.</span>"
+        },
+        {
+          "gr": "Αἱ γὰρ ἐπαγγελίαι ἐν αὐτῷ, οὐκ ἐν ἀνθρώπῳ, τὸ γενέσθαι ἔχουσι καὶ πληρωθῆναι. Μὴ τοίνυν δείσῃς· οὐ γὰρ ἄνθρωπός ἐστιν, ἵνα ὑποπτεύσῃς, ἀλλὰ Θεός ἐστιν, ὁ καὶ εἰπὼν καὶ πληρῶν.",
+          "en": "<span class=\"sn\" data-s=\"137\">For the promises have their being and their fulfilment in Him, not in man.</span> <span class=\"sn\" data-s=\"138\">So do not be afraid: it is not a man you are dealing with, that you should be suspicious; it is God, who both spoke and fulfils.</span>"
+        },
+        {
+          "gr": "Τῷ Θεῷ πρὸς δόξαν δι' ἡμῶν. Τί ἐστι, Πρὸς δόξαν δι' ἡμῶν; Πληροῖ αὐτὰς δι' ἡμῶν· τουτέστι, διὰ τῶν εἰς ἡμᾶς εὐεργεσιῶν πρὸς δόξαν αὑτοῦ· τοῦτο γάρ ἐστι, Τῷ Θεῷ πρὸς δόξαν. Εἰ δὲ πρὸς δόξαν τοῦ Θεοῦ, πάντως ἔσται.",
+          "en": "<span class=\"sn\" data-s=\"139\">*“Unto the glory of God through us.”* What does *unto His glory through us* mean?</span> <span class=\"sn\" data-s=\"140\">He fulfils the promises through us — that is, through His benefits toward us, unto His own glory; for this redounds to the glory of God.</span> <span class=\"sn\" data-s=\"141\">And if they are for the glory of God, they will certainly come to pass.</span>"
+        },
+        {
+          "gr": "Τῆς γὰρ αὐτοῦ δόξης οὐ καταφρονήσει, εἰ καὶ τῆς ἡμετέρας κατεφρόνει σωτηρίας· καὶ διὰ τὸ σφόδρα φιλάνθρωπος εἶναι. Καὶ πρὸς τοῦτο ἡμῶν ἡ σωτηρία συνδέδεται τῇ αὐτοῦ δόξῃ τῇ ἐπὶ τούτοις. Ὥστε εἰ πρὸς δόξαν αὐτοῦ εἰσιν αἱ ἐπαγγελίαι, πάντως καὶ ἡ σωτηρία ἡμῶν ἕψεται.",
+          "en": "<span class=\"sn\" data-s=\"142\">For His own glory He will not think little of, even supposing He thought little of our salvation.</span> <span class=\"sn\" data-s=\"143\">But in fact He does not think little of our salvation either — both because He loves mankind exceedingly, and because our salvation is bound up with His glory, accruing to it from these very things.</span> <span class=\"sn\" data-s=\"144\">So if the promises are for His glory, our salvation will certainly follow.</span>"
+        },
+        {
+          "gr": "Ὃ καὶ ἐν τῇ πρὸς Ἐφεσίους συνεχῶς περιστρέφει λέγων· Εἰς περιποίησιν τῆς δόξης αὐτοῦ. Καὶ πανταχοῦ τοῦτο τίθησι, δεικνὺς τὸ ἀναγκαῖον τῆς ἐκβάσεως· ὃ καὶ ἐνταῦθά φησιν, ὅτι αἱ ἐπαγγελίαι αὐτοῦ οὐ ψεύδονται. Οὐ γὰρ ἡμᾶς μόνον σώζουσιν, ἀλλὰ καὶ αὐτὸν δοξάζουσι.",
+          "en": "<span class=\"sn\" data-s=\"145\">This is the point he keeps returning to in the epistle to the Ephesians as well, saying, *to the praise of His glory,* [Ephesians 1:14] and everywhere he lays this down and shows that the outcome is necessary.</span> <span class=\"sn\" data-s=\"146\">In the same spirit he says here that His promises do not lie: they not only save us, they glorify Him.</span>"
+        },
+        {
+          "gr": "Μὴ τοί νυν τοῦτο ἐννοήσῃς, ὅτι δι' ἡμῶν ἐπηγγέλθησαν, καὶ διστάσῃς· οὐ γὰρ δι' ἡμῶν πληροῦνται, ἀλλὰ δι' αὐτοῦ· καὶ αἱ ἐπαγγελίαι δὲ δι' αὐτοῦ· οὐ γὰρ τὰ ἡμέτερα, ἀλλὰ τὰ αὐτοῦ πρὸς ὑμᾶς εἰρήκαμεν.",
+          "en": "<span class=\"sn\" data-s=\"147\">So do not dwell on the thought that they were promised through us, and doubt on that account.</span> <span class=\"sn\" data-s=\"148\">They are not fulfilled through us, but through Him — and indeed the promises themselves were from Him, for the words we spoke to you were not our own, but His.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The God who establishes, anoints, and seals",
+      "heading_sentence_index": 149,
+      "pairs": [
+        {
+          "gr": "Ὁ δὲ βεβαιῶν ἡμᾶς, σὺν ὑμῖν εἰς Χριστὸν, καὶ χρίσας ἡμᾶς, Θεός· καὶ σφραγισάμενος, καὶ δοὺς τὸν ἀῤῥαβῶνα τοῦ Πνεύματος ἐν ταῖς καρδίαις ἡμῶν.",
+          "en": "<span class=\"sn\" data-s=\"150\">*“Now He which establishes us with you in Christ, and anointed us, is God;*</span> <span class=\"sn\" data-s=\"151\">*Who also sealed us, and gave us the earnest of the Spirit in our hearts.”* [2 Corinthians 1:21–22]</span>"
+        },
+        {
+          "gr": "Πάλιν ἀπὸ τῶν παρελθόντων τὰ μέλλοντα βεβαιοῦται. Εἰ γὰρ αὐτός ἐστιν ὁ βεβαιῶν ἡμᾶς εἰς Χριστὸν, τουτέστιν, ὁ μὴ ἐῶν ἡμᾶς παρασαλεύεσθαι ἐκ τῆς πίστεως τῆς εἰς τὸν Χριστὸν, καὶ αὐτὸς ὁ χρίσας ἡμᾶς, καὶ δοὺς τὸ Πνεῦμα ἐν ταῖς καρδίαις ἡμῶν· πῶς τὰ μέλλοντα οὐ δώσει; Εἰ γὰρ τὰς ἀρχὰς καὶ τὰς ὑποθέσεις ἔδωκε καὶ τὴν ῥίζαν καὶ τὴν πηγὴν, οἷον τὴν ἀληθῆ περὶ αὐτοῦ γνῶσιν, τὴν τοῦ Πνεύματος μετάληψιν· πῶς τὰ ἐκ τούτων οὐ δώσει;",
+          "en": "<span class=\"sn\" data-s=\"152\">Once again He establishes the future from the past.</span> <span class=\"sn\" data-s=\"153\">For if it is He who establishes us in Christ — that is, who does not allow us to be shaken loose from the faith that is in Christ — and He who anointed us and gave the Spirit in our hearts, how will He not give us the things to come?</span> <span class=\"sn\" data-s=\"154\">If He gave the first principles and the foundations, the root and the fountain — that is, the true knowledge of Himself and the partaking of the Spirit — how will He not give the things that flow from these?</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ ἐκεῖνα διὰ ταῦτα δίδονται, πολλῷ μᾶλλον ὁ ταῦτα δοὺς, καὶ ἐκεῖνα παρέξει· καὶ εἰ ταῦτα ἐχθροῖς οὖσιν ἔδωκε, πολλῷ μᾶλλον ἐκεῖνα φίλοις γενομένοις χαριεῖται.",
+          "en": "<span class=\"sn\" data-s=\"155\">For if those greater things are given for the sake of these, much more will the One who gave these also supply those.</span> <span class=\"sn\" data-s=\"156\">And if He gave these gifts to people who were His enemies, much more will He freely give the rest to those who have now become His friends.</span>"
+        },
+        {
+          "gr": "∆ιὰ τοῦτο οὐδὲ Πνεῦμα εἶπεν ἁπλῶς, ἀλλ' ἀῤῥαβῶνα ὠνόμασεν, ἵνα ἀπὸ τούτου καὶ περὶ τοῦ παντὸς θαῤῥῇς. Οὐ γὰρ, εἰ μὴ ἔμελλε τὸ πᾶν διδόναι, εἵλετο ἂν τὸν ἀῤῥαβῶνα παρασχεῖν, καὶ ἀπολέσαι εἰκῆ καὶ μάτην.",
+          "en": "<span class=\"sn\" data-s=\"157\">That is why he does not say simply *the Spirit*, but names Him an *earnest* — so that from this you might have good hope of the whole as well.</span> <span class=\"sn\" data-s=\"158\">If God had not intended to give the whole, He would never have chosen to give the earnest, squandering it to no purpose or result.</span>"
+        },
+        {
+          "gr": "Καὶ ὅρα εὐγνωμοσύνην Παύλου. Τί γὰρ δεῖ λέγειν, φησὶν, ὅτι οὐκ ἐν ἡμῖν ἡ τῶν ἐπαγγελιῶν ἀλήθεια; αὐτὸ τοῦτο τὸ ἑστάναι ἀπεριτρέπτως καὶ πεπηγέναι ὑμᾶς, οὐκ ἐν ἡμῖν, ἀλλὰ καὶ τοῦτο τοῦ Θεοῦ· Ὁ γὰρ βεβαιῶν ὑμᾶς, φησὶ, Θεός. Οὐκ ἄρα ἡμεῖς ἐσμεν οἱ στηρίζοντες ὑμᾶς· καὶ γὰρ καὶ ἡμεῖς δεόμεθα τοῦ βεβαιοῦντος. Ὥστε μηδεὶς ἐν ἡμῖν νομιζέτω κινδυνεύεσθαι τὸ κήρυγμα· αὐτὸς τὸ πᾶν ἀνεδέξατο, αὐτῷ μέλει τοῦ παντός.",
+          "en": "<span class=\"sn\" data-s=\"159\">And observe Paul's fairness of mind.</span> <span class=\"sn\" data-s=\"160\">Why should I even need to say, he says, that the truth of the promises does not stand in us?</span> <span class=\"sn\" data-s=\"161\">The very fact that you stand unwavering and firmly fixed does not come from us either — that too is of God.</span> <span class=\"sn\" data-s=\"162\">*He who establishes us,* he says, *is God.* It is not we who make you strong: we ourselves need the One who establishes us.</span> <span class=\"sn\" data-s=\"163\">So let no one imagine that the Preaching is at risk in our hands: He has undertaken the whole of it;</span> <span class=\"sn\" data-s=\"164\">He has cared for the whole.</span>"
+        },
+        {
+          "gr": "εʹ. Τί δέ ἐστι, Χρίσας, καὶ σφραγισάμενος; Τὸ Πνεῦμα δοὺς, δι' οὗ ταῦτα ἀμφότερα ἐποίησεν, ὁμοῦ προφήτας καὶ ἱερεῖς καὶ βασιλέας ἐργαζόμενος· ταῦτα γὰρ τὸ παλαιὸν ἐχρίετο τὰ γένη. Ἀλλ' ἡμεῖς οὐχ ἓν, ἀλλὰ τὰ τρία μεθ' ὑπεροχῆς ἔχομεν ἀξιώματα νῦν· καὶ γὰρ βασιλείας μέλλομεν ἀπολαύειν, καὶ ἱερεῖς γινόμεθα προσφέροντες θυσίαν τὰ σώματα ἡμῶν. Παραστήσατε γὰρ τὰ μέλη ὑμῶν, θυσίαν ζῶσαν, εὐάρεστον τῷ Θεῷ, φησί· καὶ μετὰ τούτων καὶ προφῆται καθιστάμεθα· Ἃ γὰρ ὀφθαλμὸς οὐκ εἶδε, καὶ οὖς οὐκ ἤκουσε, ταῦτα ἐκκεκαλυμμένα ἡμῖν ἐστι.",
+          "en": "<span class=\"sn\" data-s=\"165\">And what is *anointed*, and *sealed*?</span> <span class=\"sn\" data-s=\"166\">He gave the Spirit, by whom He did both of these things, making us at once prophets and priests and kings — for in old times these three kinds of men were anointed.</span> <span class=\"sn\" data-s=\"167\">But we now have not one of these dignities but all three, and in a preeminent degree.</span> <span class=\"sn\" data-s=\"168\">We are to enjoy a kingdom; we are made priests by offering our bodies as a sacrifice — *present your members,* he says, *a living sacrifice unto God* [Romans 12:1] — and we are constituted prophets as well: *what things eye has not seen nor ear heard* [1 Corinthians 2:9] have been revealed to us.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The king who rules his thoughts — and the patriarch against all comers",
+      "heading_sentence_index": 169,
+      "pairs": [
+        {
+          "gr": "Καὶ ἄλλως δὲ βασιλεῖς γινόμεθα, ἐὰν βουληθῶμεν κρατεῖν τῶν ἀτόπων λογισμῶν. Ὅτι γὰρ ὁ τοιοῦτος βασιλεύει, καὶ μᾶλλον ἢ ὁ τὸ διάδημα περικείμενος, ἤδη τοῦτο ποιήσω δῆλον ὑμῖν·",
+          "en": "<span class=\"sn\" data-s=\"170\">And there is another way too in which we become kings: if we set our minds to winning dominion over our unruly thoughts.</span> <span class=\"sn\" data-s=\"171\">That such a man is a king — and more a king than the one who wears the diadem — I will now make plain to you.</span>"
+        },
+        {
+          "gr": "Πολλὰ ἔχει στρατόπεδα ἐκεῖνος, ἀλλὰ καὶ ἡμεῖς τούτων πλείους ἔχομεν λογισμούς· οὐ γὰρ ἔστιν ἀριθμῆσαι τὸ ἄπειρον τῶν ἐννοιῶν πλῆθος τῶν ἐν ἡμῖν. Οὐ πλῆθος δὲ μόνον ἔστιν ἰδεῖν, ἀλλὰ καὶ πολλοὺς ἐν τῷ πλήθει τούτῳ τῶν λογισμῶν καὶ στρατηγοὺς καὶ ταξιάρχους καὶ λοχαγοὺς καὶ τοξότας καὶ σφενδονήτας.",
+          "en": "<span class=\"sn\" data-s=\"172\">The crowned king has many armies, but we in turn have thoughts that outnumber them; the infinite multitude of the thoughts within us cannot be counted.</span> <span class=\"sn\" data-s=\"173\">And it is not only their multitude one must consider, but also that within this multitude of thoughts there are many generals, colonels, captains, archers, and slingers.</span>"
+        },
+        {
+          "gr": "Τί ἕτερον ποιεῖ βασιλέα; τὰ ἱμάτια; Ἀλλὰ καὶ οὗτος βελτίω περίκειται καὶ ἀμείνω στολὴν, ἣν οὔτε σὴς ἐσθίει, οὔτε χρόνος δαπανᾷ·",
+          "en": "<span class=\"sn\" data-s=\"174\">What else makes a king?</span> <span class=\"sn\" data-s=\"175\">His apparel?</span> <span class=\"sn\" data-s=\"176\">But this man too is clothed in a better and braver robe, one that no moth devours and no age wears out.</span>"
+        },
+        {
+          "gr": "καὶ στέφανον ἔχει ποικίλον τὸν τῆς δόξης, τὸν τῶν οἰκτιρμῶν τοῦ Θεοῦ· Εὐλόγει γὰρ, ἡ ψυχή μου, φησὶ, τὸν Κύριον, τὸν στεφανοῦντά σε ἐν ἐλέει καὶ οἰκτιρμοῖς· καὶ τὸν τῆς δόξης· ∆όξῃ γὰρ καὶ τιμῇ ἐστεφάνωσας αὐτόν· καὶ [τὸν τῆς εὐδοκίας]· Ὡς ὅπλῳ εὐδοκίας ἐστεφάνωσας ἡμᾶς· καὶ τὸν τῶν χαρίτων· Στέφανον γὰρ χαρίτων δέξῃ σῇ κεφαλῇ. Εἶδες πολύπλοκον καὶ χαριέστερον τουτὶ τὸ διάδημα;",
+          "en": "<span class=\"sn\" data-s=\"177\">He has a crown, too, of intricate workmanship — the crown of glory, the crown of God's tender mercies.</span> <span class=\"sn\" data-s=\"178\">For the Psalmist says, *“Bless the Lord, O my soul... who crowns you with pity and tender mercies.”* [Psalm 103:2–4] Again, the crown of glory: *“You have crowned him with glory and honour.”* [Psalm 8:5] *“With favour You have crowned us as with a shield.”* [Psalm 5:12, LXX] And again, the crown of grace: *“You shall receive a crown of grace upon your head.”* [Proverbs 1:9, LXX] Do you see this diadem of many interwoven wreaths, surpassing the other in grace?</span>"
+        },
+        {
+          "gr": "Πλὴν ἀλλ' ἄνωθεν αὐτὰ ἀκριβέστερον ἐξετάσωμεν πάλιν τὰ τῶν βασιλέων τούτων. Ἐκεῖνος κρατεῖ τῶν δορυφόρων καὶ πᾶσιν ἐπιτάττει, καὶ πάντες ὑπακούουσι καὶ διακονοῦσιν αὐτῷ· ἀλλ' ἐγὼ δείκνυμι μείζονα ἐνταῦθα τὴν ἀρχήν. Τὸ μὲν γὰρ πλῆθος ἴσον, ἢ καὶ πλεῖον· λοιπὸν δὲ περὶ τῆς ὑποταγῆς ἐξετάζειν δεῖ.",
+          "en": "<span class=\"sn\" data-s=\"179\">But let us go back to the beginning and examine the condition of these two kings more rigorously.</span> <span class=\"sn\" data-s=\"180\">The one has dominion over his bodyguards, issues orders to all, and all obey and serve him; but here I can show you a greater authority.</span> <span class=\"sn\" data-s=\"181\">The numbers here are as great, or even greater; what remains is to inquire into their obedience.</span>"
+        },
+        {
+          "gr": "Καὶ μή μοι εἰς μέσον ἀγάγῃς τοὺς ἐκπεσόντας τῆς βασιλείας, καὶ σφαγέντας ὑπ' αὐτῶν τῶν σωματοφυλάκων. Μὴ τοίνυν τούτους εἰς μέσον ἄγωμεν, ἀλλὰ τοὺς καλῶς ἐν ἀμφοτέροις τὴν ἑαυτῶν διοικήσαντας βασιλείαν ζητήσωμεν. Καὶ σὺ μὲν, οὓς βούλει, τίθει· ἐγὼ δέ σοι τὸν πατριάρχην ἀντιτάττω πᾶσιν.",
+          "en": "<span class=\"sn\" data-s=\"182\">And do not bring before me kings who ruled badly — for I too can bring forward men who were driven from their kingdom and murdered by their own bodyguards.</span> <span class=\"sn\" data-s=\"183\">Let us leave such cases aside, and look instead for those of each kind who governed their kingdom well.</span> <span class=\"sn\" data-s=\"184\">Put forward whomever you like: I set the patriarch against them all.</span>"
+        },
+        {
+          "gr": "Ὅτε γὰρ τὸν υἱὸν ἐκελεύετο σφαγιάσαι, ἐννόησον πόσοι τότε ἐπανέστησαν αὐτῷ λογισμοί· ἀλλ' ὅμως πάντας ὑπέταξε, καὶ πάντες αὐτὸν ἔτρεμον μᾶλλον, ἢ βασιλέα οἱ δορυφόροι, καὶ βλέμματι μόνῳ πάντας κατέστελλε, καὶ οὐδὲ γρύξαι ἐτόλμα τούτων οὐδεὶς, ἀλλ' ὑπέκυπτον, καὶ ὡς βασιλεῖ παρεχώρουν ἅπαντες, καίτοι γε ὀξύτατοι ὄντες καὶ σφόδρα ἀπότομοι.",
+          "en": "<span class=\"sn\" data-s=\"185\">When he was commanded to sacrifice his son, consider how many thoughts rose up in revolt against him.</span> <span class=\"sn\" data-s=\"186\">Yet he brought them all under subjection, and they all trembled before him more than guards before their king; with a single look he stilled them all, and not one of them dared so much as mutter — they bowed down and gave place to him as to a king, one and all, however provoked and however relentless they were.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ οὕτως εἰσὶν αἱ τῶν δοράτων αἰχμαὶ φοβεραὶ, ὀρθαὶ ὑπὸ πολλῶν ἀνιστάμεναι στρατιωτῶν, ὡς ἐκεῖνοι τότε ἦσαν φοβεροὶ οἱ λογισμοί. Οὐ δοράτων ἦν χαλεπωτέρα ἡ τῆς φύσεως συμπάθεια; ∆ιὸ καὶ αἰχμῆς ἠκονημένης μᾶλλον τέμνειν ἠδύναντο τὴν ἐκείνου ψυχήν.",
+          "en": "<span class=\"sn\" data-s=\"187\">Even the spear-points held upright by ranks of soldiers are not as fearful as those fearful thoughts were then — armed not with spears but with something harder to contend with than many spears: the sympathy of nature.</span> <span class=\"sn\" data-s=\"188\">That is why they had the power to pierce his soul more than a sharpened spear-point.</span>"
+        },
+        {
+          "gr": "Οὐ γὰρ οὕτως ὀξὺ δόρυ γένοιτ' ἄν ποτε, ὡς ἐκείνων τῶν λογισμῶν τὰ κέντρα κάτωθεν ἀπὸ τῶν σπλάγχνων ὀξυνόμενά τε καὶ ὀρθούμενα διέπειρε τοῦ δικαίου τὴν διάνοιαν. Ἐνταῦθα μὲν γὰρ καὶ χρόνου δεῖ καὶ βουλῆς καὶ πληγῆς καὶ ὀδύνης, καὶ τότε ὁ θάνατος ἕπεται· ἐκεῖ δὲ οὐδενὸς τούτων ἔδει· οὕτω ταχύτερα καὶ δριμύτερα ἦν τὰ τραύματα. Ἀλλ' ὅμως τοσούτων τότε ὁπλισθέντων κατ' αὐτοῦ λογισμῶν, πολλὴ ἦν ἡσυχία, καὶ πάντες εἱστήκεσαν εὐτάκτως, κοσμοῦντες μᾶλλον αὐτὸν, ἢ φοβοῦντες.",
+          "en": "<span class=\"sn\" data-s=\"189\">No spear could ever be as sharp as the goads of those thoughts, sharpened and raised up from below, out of his own affections, piercing clean through the mind of that righteous man.</span> <span class=\"sn\" data-s=\"190\">In an ordinary wound there needs to be time, and intent, and a blow, and pain — and only then does death follow; but here none of that was needed, so much swifter and keener were the wounds.</span> <span class=\"sn\" data-s=\"191\">And yet, with so many thoughts then under arms against him, there was a deep calm, and they all stood in good order — adorning him rather than daunting him.</span>"
+        },
+        {
+          "gr": "Ὅρα γοῦν τὴν μάχαιραν αὐτὸν ἐκτείνοντα, καὶ ὅσους βούλει τίθει βασιλεῖς εἰς τὸ μέσον, Αὐγούστους, Καίσαρας. Ἀλλ' οὐδὲν τοσοῦτον ἐρεῖς, οὐδὲ ἕξεις σχῆμα δεῖξαι τοιοῦτον, οὕτω μεγαλοφυὲς καὶ τῶν οὐρανῶν ἄξιον.",
+          "en": "<span class=\"sn\" data-s=\"192\">Just look at him stretching out the knife.</span> <span class=\"sn\" data-s=\"193\">Set up beside him as many as you like — kings, emperors, Caesars — and you will still have nothing like this to tell of, no such bearing to point to, so noble, so worthy of the heavens.</span>"
+        },
+        {
+          "gr": "Κατὰ γὰρ τυραννίδος δυνατωτάτης ἔστησε τρόπαιον ὁ δίκαιος τότε ἐκεῖνος· οὐδὲν γὰρ φύσεως τυραννικώτερον· κἂν μυρίους τιθῇς τυραννοκτόνους, οὐδένα τοιοῦτον ἐπιδείξῃς ἡμῖν. Καὶ γὰρ ἀγγέλου τὸ τρόπαιον ἦν, οὐκ ἀνθρώπου τότε.",
+          "en": "<span class=\"sn\" data-s=\"194\">For that righteous man, in that moment, raised a trophy over the most absolute of tyrannies.</span> <span class=\"sn\" data-s=\"195\">Nothing is so tyrannical as nature; and find ten thousand tyrant-slayers — you will never show us one like this.</span> <span class=\"sn\" data-s=\"196\">For the triumph in that moment was an angel's, not a man's.</span>"
+        },
+        {
+          "gr": "Σκόπει δέ· Ἡ φύσις ἔῤῥιπτο χαμαὶ μετὰ τῶν ὅπλων τῶν αὐτῆς, μετὰ τοῦ στρατοπέδου παντὸς, καὶ αὐτὸς εἰστήκει τὴν χεῖρα ἀνατείνας, οὐχὶ στέφανον ἔχουσαν, ἀλλὰ μάχαιραν στεφάνου παντὸς λαμπροτέραν, καὶ ὁ τῶν ἀγγέλων ἐπεκρότει δῆμος, καὶ ὁ Θεὸς ἐκ τῶν οὐρανῶν ἀνεκήρυττεν.",
+          "en": "<span class=\"sn\" data-s=\"197\">Consider: nature was dashed to the ground with all her weapons, with all her host, and he stood with outstretched hand, grasping not a crown but a knife more glorious than any crown, while the throng of angels applauded and God from heaven proclaimed him the victor.</span>"
+        },
+        {
+          "gr": "Ἐπειδὴ γὰρ ἐν οὐρανοῖς ἐπολιτεύετο, ἐκεῖθεν ἐδέχετο καὶ τὸ κήρυγμα. Τί τούτου λαμπρότερον; μᾶλλον δὲ τί τούτου γένοιτ' ἂν ἴσον τοῦ τροπαίου;",
+          "en": "<span class=\"sn\" data-s=\"198\">Because his citizenship was in heaven, it was from there that he received the proclamation. [Philippians 3:20] What could be more glorious than this?</span> <span class=\"sn\" data-s=\"199\">Or rather, what trophy could ever equal it?</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ, ἀθλητοῦ νικήσαντος, μὴ κήρυξ κάτωθεν, ἀλλ' ἄνωθεν αὐτὸς ὁ βασιλεὺς ἀναστὰς ἀνηγόρευσε τὸν Ὀλυμπιονίκην, ἆρ' οὐχὶ τοῦτο τῶν στεφάνων αὐτῷ λαμπρότερον ἔδοξεν εἶναι, καὶ τὸ θέατρον ἅπαν ἐπέστρεψεν ἄν; Ὅταν οὖν μὴ ἄνθρωπος βασιλεὺς, ἀλλ' αὐτὸς ὁ Θεὸς, οὐκ ἐν θεάτρῳ τούτῳ, ἀλλ' ἐν θεάτρῳ τῷ τῆς οἰκουμένης, ἐν τῷ δήμῳ τῶν ἀγγέλων, τῶν ἀρχαγγέλων, αὐτὸν ἀνακηρύττῃ λαμπρᾷ τῇ φωνῇ βοῶν ἄνωθεν, ποῦ θήσομεν τὸν ἅγιον τοῦτον, εἰπέ μοι;",
+          "en": "<span class=\"sn\" data-s=\"200\">Suppose that, on a wrestler's victory, it was not a herald down below but the king himself up above who rose and with his own voice proclaimed the Olympic victor — would that not have seemed to him more glorious than the crown, and drawn the gaze of the whole theatre upon him?</span> <span class=\"sn\" data-s=\"201\">When, then, it is no mortal king but God Himself — not in this theatre but in the theatre of the universe, in the assembly of the angels and archangels — who proclaims his name with uplifted voice, crying out from heaven, tell me: what rank shall we assign to this holy man?</span>"
+        }
+      ]
+    },
+    {
+      "heading": "\"Now I know that you fear God\"",
+      "heading_sentence_index": 202,
+      "pairs": [
+        {
+          "gr": "Εἰ δὲ δοκεῖ, καὶ αὐτῆς ἀκούσωμεν τῆς φωνῆς. Τίς οὖν ἡ φωνή; Ἀβραὰμ, Ἀβραὰμ, μὴ ἐπενέγκῃς τὴν χεῖρά σου ἐπὶ Ἰσαὰκ, μηδὲ ποιήσῃς αὐτῷ μηδέν. Νῦν γὰρ ἔγνων, ὅτι φοβῇ σὺ τὸν Θεὸν, καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι' ἐμέ.",
+          "en": "<span class=\"sn\" data-s=\"203\">But if you like, let us also listen to the voice itself.</span> <span class=\"sn\" data-s=\"204\">What was the voice?</span> <span class=\"sn\" data-s=\"205\">*“Abraham, Abraham, lay not your hand upon Isaac, neither do anything unto him.*</span> <span class=\"sn\" data-s=\"206\">*For now I know that you fear God, and have not spared your son, your well-beloved, for My sake.”* [Genesis 22:11–12]</span>"
+        },
+        {
+          "gr": "Τί τοῦτο; ὁ πάντα πρὸ γενέσεως αὐτῶν εἰδὼς, νῦν ἔγνω; Καίτοι γε καὶ ἀνθρώπῳ δήλη ἦν ἡ εὐλάβεια τἀνδρός· τοσαῦτα παρέσχετο δείγματα τῆς περὶ τὸν Θεὸν εὐνοίας, ὅτε εἶπεν αὐτῷ· Ἔξελθε ἐκ τῆς γῆς σου, καὶ ἐκ τῆς συγγενείας σου· ὅτε δι' αὐτὸν καὶ τὴν εἰς αὐτὸν τιμὴν, τῶν πρωτείων παρεχώρησε τῷ ἀδελφιδῷ· ὅτε αὐτὸν τῶν τοσούτων ἐξείλετο κινδύνων· ὅτε ἐκέλευσεν εἰς Αἴγυπτον ἐλθεῖν, καὶ τὴν γυναῖκα ἀφαιρούμενος, οὐκ ἐδυσχέραινε, καὶ ἕτερα πλείονα.",
+          "en": "<span class=\"sn\" data-s=\"207\">What is this?</span> <span class=\"sn\" data-s=\"208\">He who knows all things before they come to be — did He *now* come to know?</span> <span class=\"sn\" data-s=\"209\">And yet the patriarch's godly fear was evident even to men; he had given so many proofs that his heart was right toward God: when God said to him, *“Get you out of your country, and from your kindred,”* [Genesis 12:1] when for God's sake and the honour due to Him he yielded his own precedence to his sister's son; when God delivered him out of such great dangers; when He told him to go down into Egypt, and his wife was taken from him, and he did not murmur — and there are more besides.</span>"
+        },
+        {
+          "gr": "Καὶ ὅπερ ἔφην, κἂν ἄνθρωπος ἀπὸ τούτων ἔμαθεν ἂν τἀνδρὸς τὴν εὐλάβειαν, μήτι γε ὁ Θεὸς, ὁ μὴ περιμένων ἀπὸ τῶν πραγμάτων μαθεῖν τὸ τέλος. Πῶς δὲ αὐτὸν καὶ ἐδικαίωσεν ἀγνοῶν; Ἐπίστευσε γὰρ, φησὶν, Ἀβραὰμ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην.",
+          "en": "<span class=\"sn\" data-s=\"210\">As I said, from these things even a man could have learned the patriarch's fear of God — much more so God, who does not wait for the deeds in order to know the outcome.</span> <span class=\"sn\" data-s=\"211\">And besides, how could He have justified him if He did not know?</span> <span class=\"sn\" data-s=\"212\">For it is written, *“Abraham believed, and it was counted unto him for righteousness.”* [Genesis 15:6;</span> <span class=\"sn\" data-s=\"213\">Romans 4:3]</span>"
+        },
+        {
+          "gr": "ϛʹ. Τί οὖν ἐστι τὸ, Νῦν ἔγνων; Ὁ μὲν Σύρος φησί· Νῦν ἐγνώρισας, τουτέστι, τοῖς ἀνθρώποις. Ἐγὼ γὰρ ᾔδειν πάλαι καὶ πρὸ τῶν ἐπιταγμάτων ἁπάντων ἐκείνων. ∆ιὰ τί δὲ καὶ τοῖς ἀνθρώποις νῦν; Ἐκεῖνα γὰρ οὐχ ἱκανὰ δεῖξαι τὴν περὶ τὸν Θεὸν εὔνοιαν; Ἱκανὰ μέν· ἀλλὰ τοσούτῳ πάντως τοῦτο ἐκείνων μεῖζον, ὡς μηδὲν ἐκεῖνα πρὸς τοῦτο φαίνεσθαι.",
+          "en": "<span class=\"sn\" data-s=\"214\">What, then, does *Now I know* mean?</span> <span class=\"sn\" data-s=\"215\">The Syriac has, *Now you have made known* — that is, to men.</span> <span class=\"sn\" data-s=\"216\">*I knew long ago, even before all those commands.* But why make it known to men just now?</span> <span class=\"sn\" data-s=\"217\">Were those earlier acts not enough to prove that his mind was right toward God?</span> <span class=\"sn\" data-s=\"218\">They were enough indeed — but this one act is so much greater than them all that beside it they appear as nothing.</span>"
+        },
+        {
+          "gr": "Τοῦτο τοίνυν ἐπαίρων τὸ κατόρθωμα, καὶ δεικνὺς πάντων ἀνώτερον, ταῦτα εἴρηκε. Καὶ γὰρ πολλοὶ τῶν ἀνθρώπων ἐπὶ τοῖς ὑπερέχουσι καὶ τὰ πρῶτα νικῶσιν, οὕτως εἰώθασι λέγειν· οἷον ὅταν τις μεῖζον τῶν προτέρων λάβῃ τι παρ' αὐτοῦ δῶρον, πολλάκις λέγει· Νῦν ἔγνων ὅτι με ἀγαπᾷ ὁ δεῖνα· οὐ τοῦτο λέγων, ὅτι τὸν ἔμπροσθεν ἠγνόει χρόνον, ἀλλὰ δη λῶσαι βουλόμενος, ὅτι πάντων μεῖζον τὸ δοθὲν νῦν.",
+          "en": "<span class=\"sn\" data-s=\"219\">It was to exalt this achievement and show it superior to all the rest that He spoke as He did.</span> <span class=\"sn\" data-s=\"220\">When something exceeds and surpasses everything that went before, people commonly speak this way: if someone receives from another a gift greater than any previous one, he will often say, “Now I know that so-and-so loves me” — not meaning that he did not know it before, but meaning to declare that what has now been given is greater than all.</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ ὁ Θεὸς ἀνθρωπίνως διαλεγόμενος, Νῦν ἔγνων, φησὶν, οὐδὲν ἄλλο ἢ τὴν ὑπερβολὴν παραστῆσαι τοῦ ἄθλου βουλόμενος, οὐχὶ τότε μαθὼν, οὐ τὸν φόβον, ἢ τὸ μέγεθος τοῦ φόβου.",
+          "en": "<span class=\"sn\" data-s=\"221\">In the same way God, speaking after the manner of men, says *Now I know*, intending only to mark the surpassing greatness of the deed — not that He only then came to know either the patriarch's fear or its greatness.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ὅταν λέγῃ, ∆εῦτε, καταβάντες ἴδωμεν, οὐ καταβάσεως δεόμενος λέγει· καὶ γὰρ τὰ πάντα πληροῖ, καὶ πάντα οἶδε σαφῶς· ἀλλὰ παιδεύων ἡμᾶς, μὴ ἁπλῶς ἀποφαίνεσθαι. Καὶ ὅταν λέγῃ, Κύριος ἐξέκυψεν ἐκ τοῦ οὐρανοῦ, ἀπὸ μεταφορᾶς τῶν ἀνθρώπων τὴν ἀκριβῆ λέγει γνῶσιν. Οὕτω καὶ ἐνταῦθα, Νῦν ἔγνων, φησὶ, τοῦτο δεικνὺς μεῖζον ἁπάντων ὂν τῶν ἔμπροσθεν.",
+          "en": "<span class=\"sn\" data-s=\"222\">When He says, *“Come, let Us go down and see,”* [Genesis 11:7; 18:21] He does not say it as one who needs to go down — for He both fills all things and knows all things with certainty — but to teach us not to pass sentence lightly.</span> <span class=\"sn\" data-s=\"223\">And when He says, *“The Lord looked down from heaven,”* [Psalm 14:2] He is describing His perfect knowledge by a figure drawn from men.</span> <span class=\"sn\" data-s=\"224\">So too here He says *Now I know* to declare this act greater than all that preceded it.</span>"
+        },
+        {
+          "gr": "Τούτου καὶ ἀπόδειξιν αὐτοῦ παρέχεται ἐπάγων καὶ λέγων, ὅτι Οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι' ἐμέ. Οὐκ εἶπε, Τοῦ υἱοῦ, μόνον, ἀλλὰ καὶ, Τοῦ ἀγαπητοῦ.",
+          "en": "<span class=\"sn\" data-s=\"225\">And He Himself supplies the proof of this by adding: *“Because you spared not your son, your well-beloved, for My sake.”* He does not say *your son* only, but adds *your well-beloved*.</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ φύσεως μόνον, ἀλλὰ καὶ φιλοστοργίας, ἧς καὶ διὰ τὸν οἰκεῖον τρόπον, καὶ τὴν ἀρετὴν τοῦ παιδὸς πολλὴν οὖσαν ἐν αὐτῷ, κατετόλμησεν. Εἰ δὲ φαύλων παίδων οὐκ ἂν εὐκόλως καταφρονήσαιεν πατέρες, ἀλλὰ καὶ τούτους πενθοῦσιν· ὅταν καὶ υἱὸς ᾖ, καὶ γνήσιος, καὶ μονογενὴς, καὶ ἀγαπητὸς, καὶ Ἰσαὰκ, καὶ ὑπ' αὐτοῦ μέλλῃ σφάττεσθαι τοῦ πατρὸς, τίς ἂν εἴπῃ τὴν ὑπερβολὴν τῆς φιλοσοφίας;",
+          "en": "<span class=\"sn\" data-s=\"226\">For it was not nature alone that he dared to set at naught in that boy, but a father's tender love — a love he felt both by natural disposition and because of his child's own great goodness.</span> <span class=\"sn\" data-s=\"227\">If parents cannot easily be indifferent even about worthless children, but grieve even for them, then what shall we say when it is his son, his only-begotten, his well-beloved — Isaac himself — and the father is on the very point of sacrificing him?</span> <span class=\"sn\" data-s=\"228\">Who could describe the exceeding greatness of such philosophy?</span>"
+        },
+        {
+          "gr": "Οὗτος μυρίων διαδημάτων καὶ στεφάνων ἀπείρων ὁ ἆθλος φαιδρότερος. Τῷ μὲν γὰρ τὸν στέφανον ἐκεῖνον περικειμένῳ καὶ θάνατος ἐπελθὼν πολλάκις ἐπηρεάζει, καὶ πρὸ τοῦ θανάτου μυρίαι πραγμάτων ἐπιβουλαί· τοῦτο δὲ οὐδεὶς οὐδὲ μετὰ τελευτὴν τὸ διάδημα ἀφελέσθαι δυνήσεται τὸν περικείμενον, οὐ τῶν ἰδίων, οὐ τῶν ἀλλοτρίων.",
+          "en": "<span class=\"sn\" data-s=\"229\">This prize outshines thousands of diadems and crowns without number.</span> <span class=\"sn\" data-s=\"230\">The man who wears that other crown is often assailed and harassed by death, and before death by circumstances without number; but this diadem no one will have the strength to tear from its wearer — not even after death, whether from his own household or from strangers.</span>"
+        },
+        {
+          "gr": "Θέα δέ μοι καὶ τὸν τιμιώτατον λίθον τοῦ διαδήματος τούτου. Ὥσπερ γὰρ λίθος τίμιος, οὕτως αὐτὸ συνδεῖ πρὸς τῷ τέλει. Τί δὲ τοῦτό ἐστι, τὸ, ∆ι' ἐμέ; Οὐδὲ γὰρ τὸ θαυμαστὸν τοῦτό ἐστιν, ὅτι οὐκ ἐφείσατο, ἀλλ' ὅτι δι' αὐτόν.",
+          "en": "<span class=\"sn\" data-s=\"231\">And let me point out to you the most precious stone in this diadem: like a costly gem, it comes at the end and clasps the whole together.</span> <span class=\"sn\" data-s=\"232\">What is it?</span> <span class=\"sn\" data-s=\"233\">The words *for My sake*.</span> <span class=\"sn\" data-s=\"234\">The marvel is not that he did not spare his son — but that it was for His sake.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "The blessed right hand and the wondrous knife",
+      "heading_sentence_index": 235,
+      "pairs": [
+        {
+          "gr": "Ὢ δεξιᾶς μακαρίας, οἵας κατηξιώθη μαχαίρας! ὢ μαχαίρας θαυμαστῆς, ποίας κατηξιώθη δεξιᾶς! ὢ μαχαίρας θαυμαστῆς, εἰς ποίαν παρεσκευάσθη χρείαν, καὶ ποίαν ἤνυσε διακονίαν, καὶ ποίῳ ὑπηρέτησε τύπῳ! πῶς ᾑμάχθη, πῶς οὐχ ᾑμάχθη!",
+          "en": "<span class=\"sn\" data-s=\"236\">O blessed right hand — of what a knife was it counted worthy!</span> <span class=\"sn\" data-s=\"237\">O wondrous knife — of what a right hand was it counted worthy!</span> <span class=\"sn\" data-s=\"238\">O wondrous knife — for what a purpose was it prepared, what an office did it serve, what a type did it minister!</span> <span class=\"sn\" data-s=\"239\">How was it bloodied — and how was it not bloodied?</span>"
+        },
+        {
+          "gr": "Οὐδὲ γὰρ οἶδα τί εἴπω· οὕτω φρικτὸν τὸ μυστήριον ἦν. Οὐχ ἥψατο τῆς τοῦ παιδὸς δέῤῥης, οὐδὲ διῆλθε διὰ τοῦ λαιμοῦ τοῦ ἁγίου ἐκείνου, οὐδὲ ἐφοινίχθη αἵματι δικαίου· μᾶλλον δὲ καὶ ἥψατο καὶ διῆλθε καὶ ἐφοινίχθη καὶ ἐβαπτίσθη, καὶ οὐκ ἐβαπτίσθη.",
+          "en": "<span class=\"sn\" data-s=\"240\">I hardly know what to say, so awesome was that mystery.</span> <span class=\"sn\" data-s=\"241\">It did not touch the child's neck; it did not pass through the throat of that holy one; it was not crimsoned with the blood of the righteous.</span> <span class=\"sn\" data-s=\"242\">And yet it both touched, and passed through, and was crimsoned, and was bathed in it — and yet was not bathed.</span>"
+        },
+        {
+          "gr": "Τάχα ἐξεστηκέναι ὑμῖν δοκῶ οὕτως ἐναντιολογῶν. Καὶ γὰρ ἐξέστηκα, τὸ θαῦμα ἐννοῶν τοῦ δικαίου, ἀλλ' οὐκ ἐναντιολογῶ.",
+          "en": "<span class=\"sn\" data-s=\"243\">Perhaps I seem to you out of my wits, uttering such contradictions.</span> <span class=\"sn\" data-s=\"244\">And in truth I *am* out of myself, contemplating the wondrous deed of that righteous man — but I utter no contradiction.</span>"
+        },
+        {
+          "gr": "Ἡ μὲν γὰρ τοῦ δικαίου χεὶρ ἐνέπηξεν αὐτὴν τῷ φάρυγγι τοῦ παιδός· ἡ δὲ τοῦ Θεοῦ χεὶρ καὶ ἐμπαγεῖσαν οὐκ ἀφῆκεν αἵματι μολυνθῆναι τοῦ παιδός. Καὶ γὰρ οὐχ ὁ Ἀβραὰμ αὐτὴν κατεῖχε μόνον, ἀλλὰ καὶ ὁ Θεός· καὶ ὁ μὲν ὤθει διὰ τῆς γνώμης, ὁ δὲ Θεὸς ἀνέστελλε διὰ τῆς φωνῆς.",
+          "en": "<span class=\"sn\" data-s=\"245\">For the righteous man's hand did drive the knife into the lad's throat, but the hand of God did not permit it, so driven, to be stained with the lad's blood.</span> <span class=\"sn\" data-s=\"246\">It was not Abraham alone who held it back, but God also: Abraham gave the stroke by his resolve, and God restrained it by His voice.</span>"
+        },
+        {
+          "gr": "Ἡ γὰρ αὐτὴ φωνὴ καὶ ὥπλισε τὴν δεξιὰν, καὶ κατέστειλε· καὶ καθάπερ ὑπὸ στρατηγῷ ταττομένη τῷ Θεῷ, πάντα τῷ ἐκείνου νεύματι διεπράττετο, καὶ πάντα τῇ ἐκείνου φωνῇ διηκόνηται. Σκόπει δέ· Εἶπε, Σφάξον, καὶ εὐθέως ὡπλίζετο· εἶπε, Μὴ σφάξῃς, καὶ εὐθέως ἀφωπλίζετο· καὶ γὰρ ἦν πάντα ἀπηρτισμένα.",
+          "en": "<span class=\"sn\" data-s=\"247\">The same voice both armed and disarmed that right hand, which, marshalled under God as under a general, did all things at His word of command, and everything was ministered at His voice.</span> <span class=\"sn\" data-s=\"248\">Observe: He said, *Slay*, and at once it was armed;</span> <span class=\"sn\" data-s=\"249\">He said, *Do not slay*, and at once it was disarmed — for everything had already been made fully ready.</span>"
+        },
+        {
+          "gr": "Καὶ ἐδείκνυ λοιπὸν ὁ Θεὸς τὸν στρατιώτην καὶ στρατηγὸν τῇ οἰκουμένῃ, τὸν στεφανίτην τῷ θεάτρῳ τῶν ἀγγέλων, τὸν ἱερέα, τὸν βασιλέα, τὸν διαδήματος μᾶλλον τῇ μαχαίρᾳ στεφανούμενον, τὸν τροπαιοῦχον, τὸν ἀριστέα, τὸν χωρὶς συμβολῆς νικητήν.",
+          "en": "<span class=\"sn\" data-s=\"250\">And now God displayed to the whole world the soldier and the general; displayed to the theatre of the angels this crowned victor, this priest, this king — crowned by that knife more than by any diadem — this trophy-bearer, this champion, this conqueror without a battle.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ὥσπερ ἂν εἴ τις στρατηγὸς ἄριστον ἔχων στρατιώτην, ἀπὸ τῆς ὁπλοδεξιᾶς, ἀπὸ τῆς στάσεως, ἀπὸ τῆς ῥώμης καταπλήξειε τὸν ἀντίδικον· οὕτω καὶ ὁ Θεὸς, ἀπὸ τῆς γνώμης, ἀπὸ τοῦ σχήματος, ἀπὸ τῆς στάσεως μόνης τοῦ δικαίου τὸν κοινὸν ἁπάντων ἡμῶν ἐχθρὸν διάβολον κατέπληξε καὶ ἐφυγάδευσε. Καὶ γὰρ οἶμαι κἀκεῖνον τότε φρίξαντα ἀναχωρῆσαι.",
+          "en": "<span class=\"sn\" data-s=\"251\">Just as a general with a supremely valiant soldier might use the man's mastery of his weapons, his bearing, his ordered movements to strike dismay into the adversary, so God, by the resolve, the posture, the bearing alone of that righteous man, dismayed and routed the common enemy of us all, the devil.</span> <span class=\"sn\" data-s=\"252\">For I believe that even he shrank back in horror at that moment.</span>"
+        },
+        {
+          "gr": "Εἰ δὲ λέγοι τις· Καὶ τίνος ἕνεκεν οὐκ εἴασε βαπτισθῆναι τὴν δεξιὰν, εἶτα ἀθρόον ἀνέστησε τὸν σφαγιασθέντα; Ὅτι Θεῷ θέμις οὐκ ἦν αἵματα δέχεσθαι τοιαῦτα, ἀλλὰ ἀλαστόρων δαιμόνων ἡ τοιαύτη τράπεζα. Ἐνταῦθα δὲ ἀμφότερα ἐδείκνυτο, καὶ ἡ τοῦ ∆εσπότου φιλανθρωπία καὶ ἡ τοῦ δούλου εὐγνωμοσύνη.",
+          "en": "<span class=\"sn\" data-s=\"253\">But suppose someone says: why did God not let that right hand be bathed in blood, and then immediately raise the boy up after he was sacrificed?</span> <span class=\"sn\" data-s=\"254\">Because God could not accept bloody offerings of that kind; a table like that belongs to avenging demons.</span> <span class=\"sn\" data-s=\"255\">Here, instead, two things were displayed at once: the loving-kindness of the Master and the faithfulness of the servant.</span>"
+        },
+        {
+          "gr": "Καὶ πρότερον μὲν ἐξῆλθεν ἀπὸ τῆς γῆς· τότε δὲ ἀπὸ τῆς φύσεως αὐτῆς ἀνεχώρησε. ∆ιὸ καὶ ἔλαβε μετὰ τόκου τὸ κεφάλαιον· καὶ μάλα εἰκότως·",
+          "en": "<span class=\"sn\" data-s=\"256\">Once before, Abraham had gone out from his country; this time he withdrew even from nature itself.</span> <span class=\"sn\" data-s=\"257\">That is why he received his principal back with interest — and with good reason.</span>"
+        },
+        {
+          "gr": "εἵλετο γὰρ μὴ κληθῆναι πατὴρ, ὥστε δοῦλος εὐγνώμων φανῆναι. ∆ιὰ τοῦτο οὐχὶ πατὴρ μόνον, ἀλλὰ καὶ ἱερεὺς ἐγίνετο· καὶ ἐπειδὴ ἀπέστη τῶν ἑαυτοῦ διὰ τὸν Θεὸν, διὰ τοῦτο καὶ ὁ Θεὸς μετὰ τούτων ἐχαρίσατο αὐτῷ καὶ τὰ αὑτοῦ.",
+          "en": "<span class=\"sn\" data-s=\"258\">He chose to forfeit the name of father in order to show himself a faithful servant; and so he became not only a father but also a priest.</span> <span class=\"sn\" data-s=\"259\">And because for God's sake he gave up what was his own, God gave him, along with these, what was His own besides.</span>"
+        },
+        {
+          "gr": "Ὅταν μὲν οὖν πολέμιοι ἐπιβουλεύωσι, καὶ μέχρι τῆς πείρας πρόεισι θαυματουργῶν· οἷον ἐπὶ τῆς καμίνου, καὶ τῶν λεόντων· ὅταν δὲ αὐτὸς ἐπιτάττῃ, μέχρι προθυμίας ἵστησι τὸ ἐπίταγμα. ζʹ.",
+          "en": "<span class=\"sn\" data-s=\"260\">When enemies plot evil, God allows matters to come all the way to the test, and then works miracles — as with the furnace and the lions [Daniel 3;</span> <span class=\"sn\" data-s=\"261\">Daniel 6]; but when He Himself gives the command, once readiness has been shown, He stays His own command.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "Nothing was lacking — so do not only admire him, imitate him",
+      "heading_sentence_index": 262,
+      "pairs": [
+        {
+          "gr": "Τί γὰρ ἔλειπεν, εἰπέ μοι, τῇ ἀριστείᾳ ταύτῃ λοιπόν; μὴ γὰρ προῄδει τὸ μέλλον ὁ Ἀβραάμ; μὴ γὰρ ἐπραγματεύετο τοῦ Θεοῦ τὴν φιλανθρωπίαν; Εἰ γὰρ καὶ προφήτης ἦν, ἀλλ' οὐ πάντα ὁ προφήτης οἶδεν.",
+          "en": "<span class=\"sn\" data-s=\"263\">What, then, I ask you, was still lacking from this noble deed?</span> <span class=\"sn\" data-s=\"264\">Did Abraham foreknow what was going to happen?</span> <span class=\"sn\" data-s=\"265\">Was he counting on God's mercy as a bargain?</span> <span class=\"sn\" data-s=\"266\">Even though he was a prophet, a prophet does not know all things.</span>"
+        },
+        {
+          "gr": "Ὥστε περιττὴ λοιπὸν ἦν ἡ σφαγὴ, καὶ ἀναξία Θεοῦ. Εἰ δὲ ἔδει μαθεῖν, ὅτι ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ Θεὸς, ἀπὸ τῆς μήτρας πολλῷ θαυμαστότερον τοῦτο ἔμαθε· μᾶλλον δὲ, καὶ πρὸ τῆς ἀποδείξεως ἐκείνης· πιστὸς γὰρ ἦν.",
+          "en": "<span class=\"sn\" data-s=\"267\">So the actual carrying-out of the sacrifice would have been superfluous, and unworthy of God.</span> <span class=\"sn\" data-s=\"268\">And if it was fitting that he learn God is able to raise the dead, he had learned that from the womb of Sarah — and far more marvellously; or rather, he had learned it even before that proof, for he had faith.</span>"
+        },
+        {
+          "gr": "Σὺ δὲ μὴ θαύμαζε τὸν δίκαιον μόνον, ἀλλὰ καὶ ζήλου· καὶ ὁρῶν αὐτὸν ἐν τοσούτῳ θορύβῳ καὶ ζάλῃ κυμάτων, ὡς ἐν γαλήνῃ πλέοντα, ὁμοίως καὶ σὺ μεταχειρίζου τῆς ὑπακοῆς καὶ τῆς ἀνδρείας τὸ πηδάλιον.",
+          "en": "<span class=\"sn\" data-s=\"269\">So do not only admire this righteous man — imitate him.</span> <span class=\"sn\" data-s=\"270\">When you see him sailing as though in a calm amid such an uproar and such a surge of waves, take the helm of obedience and endurance in the same way yourself.</span>"
+        },
+        {
+          "gr": "Μὴ γάρ μοι τοῦτο εἴπῃς μόνον, ὅτι θυσιαστήριον ᾠκοδόμησε, καὶ τὰ ξύλα· ἀλλὰ ἀναμνήσθητι καὶ τῆς φωνῆς τοῦ παιδίου, καὶ λόγισαι πόσαι νιφάδες ἐπῆλθον αὐτῷ στρατοπέδων ἐκδειματοῦσαι, ὅτε ἤκουσε τοῦ παιδίου λέγοντος ὁ πατήρ· Τὸ πρόβατον ποῦ; ἐννόησον πόσοι τότε ἐκινήθησαν λογισμοὶ, οὐ σιδήρῳ, ἀλλὰ φλογίνοις δόρασιν ὡπλισμένοι, καὶ πάντοθεν κατακεντοῦντες αὐτὸν καὶ διατέμνοντες.",
+          "en": "<span class=\"sn\" data-s=\"271\">Do not look only at the fact that he built the altar and laid the wood; remember the voice of the lad as well, and reflect what hosts of thoughts, like snowstorms, swept down on him to dismay him when he heard the boy say, *“My father, where is the lamb?”* [Genesis 22:7] Think how many thoughts were stirred up then — armed not with iron but with darts of fire, piercing him and cutting him through on every side.</span>"
+        },
+        {
+          "gr": "Εἰ γὰρ καὶ νῦν κατακλῶνται πολλοὶ καὶ μὴ πατέρες ὄντες, καὶ ἐδάκρυσαν, εἰ μὴ τὸ τέλος ᾔδεισαν· πολλοὺς δὲ, καίτοι τοῦτο εἰδότας, δακρύοντας ὁρῶ· τί πάσχειν ἐκεῖνον εἰκὸς ἦν, τὸν αὐτὸν γεννήσαντα, τὸν θρέψαντα, τὸν ἐν γήρᾳ, τὸν μόνον ἔχοντα τοιοῦτον, τὸν ὁρῶντα, τὸν ἀκούοντα, τὸν εὐθέως μέλλοντα ἀναιρεῖν;",
+          "en": "<span class=\"sn\" data-s=\"272\">If even now many people — and not parents at that — break down at this story, and would weep if they did not know the ending (and many, I can see, do weep even though they know it), what must we suppose he felt — the one who begot the boy, who reared him, who received him in old age, had him as his only one, and such a one — who looks at him, who hears him, and is about to slaughter him?</span>"
+        },
+        {
+          "gr": "τίς ἡ σύνεσις τῶν ῥημάτων; τίς ἡ ἐπιείκεια τῆς πεύσεως;",
+          "en": "<span class=\"sn\" data-s=\"273\">What understanding in his words!</span> <span class=\"sn\" data-s=\"274\">What gentleness in his question!</span>"
+        },
+        {
+          "gr": "Τίς ἄρα ὁ ἐνεργῶν, ὁ διάβολος, ὥστε ἐμπρῆσαι τὴν φύσιν; Μὴ γένοιτο, ἀλλ' ὁ Θεὸς, ἵνα μᾶλλον βασανίσῃ τὴν χρυσῆν τοῦ δικαίου ψυχήν.",
+          "en": "<span class=\"sn\" data-s=\"275\">Who, then, is at work here?</span> <span class=\"sn\" data-s=\"276\">The devil, trying to set nature ablaze?</span> <span class=\"sn\" data-s=\"277\">God forbid.</span> <span class=\"sn\" data-s=\"278\">God is at work — to assay all the more the golden soul of the righteous man.</span>"
+        },
+        {
+          "gr": "Ὅταν μὲν γὰρ ἡ γυνὴ φθέγγηται τοῦ Ἰὼβ, διάβολος ἐνεργεῖ· τοιαύτη γὰρ ἡ συμβουλή· οὗτος δὲ οὐδὲν βλάσφημον φθέγγεται, ἀλλὰ καὶ σφόδρα εὐσεβὲς καὶ μεμεριμνημένον· καὶ πολλὴ ἡ χάρις ἐπήνθει τοῖς ῥήμασι, πολὺ τὸ μέλι τῶν λόγων ἀπέσταξεν ἀπὸ γαλήνης καὶ ἡμέρου ῥέον ψυχῆς· καὶ λιθίνην ἱκανὰ ταῦτα ἦν μαλάξαι διάνοιαν τὰ ῥήματα.",
+          "en": "<span class=\"sn\" data-s=\"279\">When Job's wife speaks, a devil is at work, for that is the character of her advice.</span> <span class=\"sn\" data-s=\"280\">But this boy utters nothing blasphemous; his words are entirely devout and thoughtful, and great was the grace that overspread them, much the honey that dropped from them, flowing from a calm and gentle soul.</span>"
+        },
+        {
+          "gr": "Ἀλλ' οὐ τὸν ἀδάμαντα ἐκεῖνον περιέτρεψεν, ἀλλ' οὐδὲ ἔσεισεν, οὐδὲ εἶπε· Τί πατέρα καλεῖς τὸν μικρὸν ὕστερον οὐκ ἐσόμενόν σου πατέρα, τὸν ἤδη ταύτην ἀπολέσαντα τὴν τιμήν;",
+          "en": "<span class=\"sn\" data-s=\"281\">Those words were enough to soften even a heart of stone — yet they did not deflect, they did not even shake, that man of adamant.</span> <span class=\"sn\" data-s=\"282\">Nor did Abraham say, “Why do you call me father — I who in a little while will not be your father, who have indeed already lost that title of honour?”</span>"
+        },
+        {
+          "gr": "Τίνος δὲ ἕνεκεν καὶ ὁ παῖς ἐρωτᾷ; Οὐ περιεργαζόμενος ἁπλῶς οὐδὲ πολυπραγμονῶν, ἀλλ' ἀγωνιῶν ὑπὲρ τῶν προκειμένων.",
+          "en": "<span class=\"sn\" data-s=\"283\">And why does the lad ask his question?</span> <span class=\"sn\" data-s=\"284\">Not out of mere forwardness, not out of curiosity, but in deep concern about what was under way.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ἐνενόει ὅτι, εἰ μὴ ἐβούλετο λαβεῖν κοινωνὸν τῶν γινομένων, οὐκ ἂν τοὺς μὲν παῖδας ἀφῆκε κάτω μένειν, αὐτὸν δὲ μόνον παρέλαβε. ∆ιὰ δὴ τοῦτο καὶ ὅτε μόνοι γεγόνασι, τότε αὐτὸν ἐρωτᾷ, ὅτε οὐδεὶς ἤκουε τῶν λεγομένων· τοσαύτη τοῦ παιδὸς ἡ σύνεσις ἦν.",
+          "en": "<span class=\"sn\" data-s=\"285\">He reasoned that if his father had not meant to make him a partner in what was being done, he would not have left the servants below and taken him alone with him.</span> <span class=\"sn\" data-s=\"286\">And that is surely why he asks only when they are by themselves, when no one could hear what was said.</span> <span class=\"sn\" data-s=\"287\">Such was the boy's good judgement.</span>"
+        },
+        {
+          "gr": "Ἆρα οὐ διεθερμάνθητε πάντες, καὶ ἄνδρες καὶ γυναῖκες; οὐχὶ ἕκαστος ὑμῶν περιπτύσσεται τῇ διανοίᾳ καὶ καταφιλεῖ τὸ παιδίον, καὶ θαυμάζει τὴν σύνεσιν, καὶ αἰδεῖται τὴν εὐλάβειαν, μεθ' ἧς καὶ συμποδιζόμενος καὶ ἐπὶ τοῖς ξύλοις ἐπιτιθέμενος, οὐκ ἐξεπλήττετο, οὐκ ἐσκίρτα, οὐ κατεγίνωσκε τοῦ πατρὸς ὡς μαινομένου, ἀλλὰ καὶ ἐδεσμεῖτο καὶ ἀνεβιβάζετο καὶ ἐπετίθετο, καὶ πάντα ἔφερε σιγῇ, καθάπερ τις ἀρνειὸς, μᾶλλον δὲ, καθάπερ ὁ κοινὸς πάντων ∆εσπότης;",
+          "en": "<span class=\"sn\" data-s=\"288\">Are you not all warmed toward him, men and women alike?</span> <span class=\"sn\" data-s=\"289\">Does not each of you fold the child in the arms of your mind and kiss him, marvelling at his judgement, and venerate the piety with which — bound and laid upon the wood — he was neither dismayed, nor struggled, nor accused his father of madness, but was bound and lifted up and laid upon the altar and endured everything in silence, like a lamb — or rather, like the common Lord of all.</span>"
+        },
+        {
+          "gr": "Καὶ γὰρ ἐκείνου ἐμιμεῖτο τὴν ἐπιείκειαν, καὶ τὸν τύπον ἐφύλαττεν· Ὡς πρόβατον γὰρ ἐπὶ σφαγὴν ἤχθη, καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείροντος αὐτὸν ἄφωνος. Καίτοι γε ἐφθέγξατο οὗτος· καὶ γὰρ καὶ ὁ ∆εσπότης αὐτοῦ ἐφθέγξατο· πῶς οὖν ἄφωνος; Τουτέστιν, οὐδὲν αὔθαδες εἶπεν, οὐδὲ τραχὺ, ἀλλὰ πάντα ἥμερα καὶ προσηνῆ, καὶ μᾶλλον τῆς σιγῆς τὰ ῥήματα τὴν ἐπιείκειαν ἐδήλου.",
+          "en": "<span class=\"sn\" data-s=\"290\">For it was His gentleness he was imitating, and His type that he was keeping: *He was led like a lamb to the slaughter, and as a sheep dumb before his shearer.* [Isaiah 53:7] And yet Isaac did speak — for his Lord spoke also.</span> <span class=\"sn\" data-s=\"291\">How then *dumb*?</span> <span class=\"sn\" data-s=\"292\">It means he said nothing wilful or harsh: all was sweet and mild, and his words, more than silence itself, displayed his gentleness.</span>"
+        },
+        {
+          "gr": "Ἐπεὶ καὶ ὁ Χριστὸς ἔλεγεν· Εἰ μὲν κακῶς ἐλάλησα, μαρτύρησον περὶ τοῦ κακοῦ· εἰ δὲ καλῶς, τί με δέρεις; καὶ τὴν ἐπιείκειαν μᾶλλον ἐδήλωσεν, ἢ εἰ ἐσίγησε. Καὶ ὥσπερ οὗτος τῷ πατρὶ ἀπὸ τοῦ θυσιαστηρίου, οὕτω καὶ ἐκεῖνος ἀπὸ τοῦ σταυροῦ διαλέγεται, Πάτερ, ἄφες αὐτοῖς, λέγων· οὐ γὰρ οἴδασι τί ποιοῦσι.",
+          "en": "<span class=\"sn\" data-s=\"293\">Christ too said, *“If I have spoken evil, bear witness of the evil; but if well, why do you smite Me?”* [John 18:23] — and showed His gentleness more than if He had held His peace.</span> <span class=\"sn\" data-s=\"294\">And as the boy spoke with his father from the altar, so Christ spoke from the Cross: *“Father, forgive them, for they know not what they do.”* [Luke 23:34]</span>"
+        },
+        {
+          "gr": "Τί οὖν ὁ πατριάρχης; Ὁ Θεὸς ὄψεται ἑαυτῷ πρόβατον εἰς ὁλοκάρπωσιν, τέκνον. Ἑκάτεροι τὰ ὀνόματα τῆς φύσεως καλοῦσιν· ἐκεῖνος Πατέρα, καὶ τέκνον οὗτος.",
+          "en": "<span class=\"sn\" data-s=\"295\">What, then, did the patriarch answer?</span> <span class=\"sn\" data-s=\"296\">*“God will provide Himself a lamb for a burnt-offering, my son.”* [Genesis 22:8] Each of them uses the names of nature: the one says *father*, the other says *son*.</span>"
+        },
+        {
+          "gr": "Καὶ χαλεπὸς ἑκατέρωθεν ὁ πόλεμος διεγείρεται, καὶ πολλὴ ἡ ζάλη, καὶ ναυάγιον οὐδαμοῦ· ἡ γὰρ φιλοσοφία πάντων κρατεῖ.",
+          "en": "<span class=\"sn\" data-s=\"297\">On both sides a hard war is stirred up, a great storm — and nowhere a shipwreck, for godliness triumphed over all.</span>"
+        },
+        {
+          "gr": "Εἶτα ἐπειδὴ ἤκουσε τὸν Θεὸν, οὐκέτι εἶπεν οὐδὲν, οὐδὲ περιειργάσατο· οὕτω συνετὸν ἦν τὸ παιδίον, καὶ ἐν αὐτῷ τῆς ἡλικίας τῷ ἄνθει.",
+          "en": "<span class=\"sn\" data-s=\"298\">And once the boy had heard the words *of God*, he said nothing more and asked no prying questions.</span> <span class=\"sn\" data-s=\"299\">Such was the child's judgement, even in the very bloom of youth.</span>"
+        }
+      ]
+    },
+    {
+      "heading": "King, priest, prophet — and what you became at the Laver",
+      "heading_sentence_index": 300,
+      "pairs": [
+        {
+          "gr": "Εἶδες τὸν βασιλέα πόσων ἐκράτησε στρατοπέδων, πόσων πολέμων ἐπιόντων; Οὐδὲ γὰρ οὕτως ἦσαν οἱ βάρβαροι τῇ πόλει τῶν Ἱεροσολύμων φοβεροὶ, ὅτε ἐπῆλθον αὐτῇ πολλάκις, ὡς οἱ λογισμοὶ τούτων πάντοθεν αὐτὸν περικαθήμενοι· ἀλλ' ὅμως ἁπάντων περιεγένετο.",
+          "en": "<span class=\"sn\" data-s=\"301\">Do you see the king — over how many armies, in how many battles that beset him, he has won the victory?</span> <span class=\"sn\" data-s=\"302\">The barbarians who so often attacked the city of Jerusalem were not as fearful to her as the thoughts besieging this man from every side were to him — and still he overcame them all.</span>"
+        },
+        {
+          "gr": "Βούλει καὶ τὸν ἱερέα ἰδεῖν; οὐ πόῤῥωθεν τὸ ὑπόδειγμα. Ὅταν γὰρ αὐτὸν ἴδῃς πῦρ ἔχοντα καὶ μάχαιραν καὶ θυσιαστηρίῳ ἐφεστῶτα, τί λοιπὸν ἀμφιβάλλεις ὑπὲρ τῆς ἱερωσύνης; Εἰ δὲ βούλει καὶ τὴν θυσίαν ἰδεῖν, ὅρα διπλῆν.",
+          "en": "<span class=\"sn\" data-s=\"303\">Would you like to see the priest as well?</span> <span class=\"sn\" data-s=\"304\">The instance is near at hand.</span> <span class=\"sn\" data-s=\"305\">When you see him with fire and a knife, standing over an altar, what doubt can remain about his priesthood?</span> <span class=\"sn\" data-s=\"306\">And if you want to see the sacrifice too, look: it is a double one.</span>"
+        },
+        {
+          "gr": "Προσήνεγκε γοῦν παῖδα, προσήνεγκε καὶ πρόβατον, μᾶλλον δὲ πρὸ πάντων, τὴν ἑαυτοῦ γνώμην· καὶ τῷ μὲν αἵματι τοῦ προβάτου τὴν δεξιὰν, τῇ δὲ σφαγῇ τοῦ παιδὸς τὴν ψυχὴν ἡγίασεν.",
+          "en": "<span class=\"sn\" data-s=\"307\">He offered a son, and he offered a ram — and more than all, and above all, his own will.</span> <span class=\"sn\" data-s=\"308\">With the blood of the lamb he consecrated his right hand; with the sacrifice of his son, his soul.</span>"
+        },
+        {
+          "gr": "Οὕτως ἐχειροτονήθη ἱερεὺς, αἵματι μονογενοῦς, θυσίᾳ ἀμνοῦ. Καὶ γὰρ καὶ οἱ ἱερεῖς αἵματι ἡγιάζοντο τῶν ἱερείων τῶν τῷ Θεῷ προσαγομένων.",
+          "en": "<span class=\"sn\" data-s=\"309\">So was he ordained a priest: by the blood of his only-begotten, by the sacrifice of a lamb — for the priests of old were also consecrated with the blood of the victims offered to God.</span>"
+        },
+        {
+          "gr": "Βούλει καὶ προφήτην ἰδεῖν; Ἀβραὰμ ὁ πατὴρ ὑμῶν ἠγαλλιάσατο, ἵνα ἴδῃ τὴν ἡμέραν τὴν ἐμήν· καὶ εἶδε, καὶ ἐχάρη, φησίν.",
+          "en": "<span class=\"sn\" data-s=\"310\">Would you like to see the prophet too?</span> <span class=\"sn\" data-s=\"311\">It is written: *“Your father Abraham rejoiced to see My day, and he saw it, and was glad.”* [John 8:56]</span>"
+        },
+        {
+          "gr": "Οὕτω καὶ σὺ γίνῃ βασιλεὺς, καὶ ἱερεὺς, καὶ προφήτης ἐν τῷ λουτρῷ· βασιλεὺς μὲν, πάσας χαμαὶ ῥίψας τὰς πονηρὰς πράξεις, καὶ τὰ ἁμαρτήματα κατασφάξας· ἱερεὺς δὲ, ἑαυτὸν προσενεγκὼν τῷ Θεῷ, καὶ καταθύσας τὸ σῶμα, καὶ σφαγεὶς καὶ αὐτός· Εἰ γὰρ συναπεθάνομεν αὐτῷ, φησὶ, καὶ συζήσομεν αὐτῷ· προφήτης δὲ, τὰ μέλλοντα μανθάνων, καὶ ἔνθους γινόμενος καὶ σφραγισάμενος. Καθάπερ γὰρ στρατιώταις σφραγὶς, οὕτω καὶ τοῖς πιστοῖς τὸ Πνεῦμα ἐπιτίθεται· κἂν λειποτακτήσῃς, κατάδηλος γίνῃ πᾶσιν.",
+          "en": "<span class=\"sn\" data-s=\"312\">In the same way, you too are made king and priest and prophet in the Laver: a king, having dashed to earth all the deeds of wickedness and slain your sins; a priest, in that you offer yourself to God, having sacrificed your body and being yourself slain as well — *for if we died with Him,* he says, *we shall also live with Him* [2 Timothy 2:11]; a prophet, knowing what is to come, inspired by God, and sealed.</span> <span class=\"sn\" data-s=\"313\">For as a seal is set upon soldiers, so the Spirit is set upon the faithful — and if you desert, it makes you visible to everyone.</span>"
+        },
+        {
+          "gr": "Ἰουδαῖοι μὲν γὰρ εἶχον σφραγῖδα τὴν περιτομὴν, ἡμεῖς δὲ τὸν ἀῤῥαβῶνα τοῦ Πνεύματος. Ταῦτα οὖν εἰδότες, καὶ τὸ ἀξίωμα τὸ ἑαυτῶν ἐννοήσαντες, ἄξιον τῆς χάριτος ἐπιδειξώμεθα βίον, ἵνα καὶ τῆς μελλούσης ἐπιτύχωμεν βασιλείας· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, μεθ' οὗ τῷ Πατρὶ ἅμα τῷ ἁγίῳ Πνεύματι δόξα, κράτος, τιμὴ, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.",
+          "en": "<span class=\"sn\" data-s=\"314\">The Jews had circumcision as their seal; we have the earnest of the Spirit.</span> <span class=\"sn\" data-s=\"315\">Knowing all this, then, and considering the high rank to which we have been raised, let us display a life worthy of the grace, so that we may also obtain the kingdom to come.</span> <span class=\"sn\" data-s=\"316\">May we all obtain it, through the grace and love toward men of our Lord Jesus Christ, with whom to the Father, together with the Holy Spirit, be glory, power, honour, now and for ever, and world without end.</span> <span class=\"sn\" data-s=\"317\">Amen.</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ref": "Mark 9:2-9",
+  "book": "Mark",
+  "from": [
+    9,
+    2
+  ],
+  "to": [
+    9,
+    9
+  ],
+  "slug": "mark-9-2-9",
+  "greek": [
+    {
+      "v": "9:2",
+      "text": "Καὶ μεθ' ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ τὸν Ἰάκωβον καὶ Ἰωάννην, καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ' ἰδίαν μόνους. Καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν,"
+    },
+    {
+      "v": "9:3",
+      "text": "καὶ τὰ ἱμάτια αὐτοῦ ἐγένοντο στίλβοντα, λευκὰ λίαν ὡς χιών, οἷα γναφεὺς ἐπὶ τῆς γῆς οὐ δύναται λευκᾶναι."
+    },
+    {
+      "v": "9:4",
+      "text": "Καὶ ὤφθη αὐτοῖς Ἠλίας σὺν Μωσῇ, καὶ ἦσαν συλλαλοῦντες τῷ Ἰησοῦ."
+    },
+    {
+      "v": "9:5",
+      "text": "Καὶ ἀποκριθεὶς ὁ Πέτρος λέγει τῷ Ἰησοῦ, Ῥαββί, καλόν ἐστιν ἡμᾶς ὧδε εἶναι· καὶ ποιήσωμεν σκηνὰς τρεῖς, σοὶ μίαν, καὶ Μωσῇ μίαν, καὶ Ἠλίᾳ μίαν."
+    },
+    {
+      "v": "9:6",
+      "text": "Οὐ γὰρ ᾔδει τί λαλήσει· ἦσαν γὰρ ἔκφοβοι."
+    },
+    {
+      "v": "9:7",
+      "text": "Καὶ ἐγένετο νεφέλη ἐπισκιάζουσα αὐτοῖς· καὶ ἦλθεν φωνὴ ἐκ τῆς νεφέλης, Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός· αὐτοῦ ἀκούετε."
+    },
+    {
+      "v": "9:8",
+      "text": "Καὶ ἐξάπινα περιβλεψάμενοι, οὐκέτι οὐδένα εἶδον, ἀλλὰ τὸν Ἰησοῦν μόνον μεθ' ἑαυτῶν."
+    },
+    {
+      "v": "9:9",
+      "text": "Καταβαινόντων δὲ αὐτῶν ἀπὸ τοῦ ὄρους, διεστείλατο αὐτοῖς ἵνα μηδενὶ διηγήσωνται ἃ εἶδον, εἰ μὴ ὅταν ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἀναστῇ."
+    }
+  ],
+  "english": [
+    {
+      "v": "9:2",
+      "text": "At that time, after six days, Jesus takes Peter and James and John, and brings them up onto a high mountain by themselves alone. And he was transfigured before them,"
+    },
+    {
+      "v": "9:3",
+      "text": "and his garments became glistening, exceedingly white as snow — such as no fuller on earth can whiten."
+    },
+    {
+      "v": "9:4",
+      "text": "And Elijah appeared to them, together with Moses, and they were talking with Jesus."
+    },
+    {
+      "v": "9:5",
+      "text": "And Peter answered and said to Jesus: \"Rabbi, it is good for us to be here; let us make three tents — one for you, one for Moses, and one for Elijah.\""
+    },
+    {
+      "v": "9:6",
+      "text": "For he did not know what to say — they were terrified."
+    },
+    {
+      "v": "9:7",
+      "text": "And a cloud came, overshadowing them; and a voice came out of the cloud: \"This is my beloved Son — listen to him.\""
+    },
+    {
+      "v": "9:8",
+      "text": "And suddenly, looking around, they no longer saw anyone, but Jesus alone with them."
+    },
+    {
+      "v": "9:9",
+      "text": "And as they were coming down from the mountain, he charged them to tell no one what they had seen, until the Son of Man should rise from the dead."
+    }
+  ],
+  "greek_source": "content/2026-08-07/readings.md",
+  "english_source": "content/2026-08-07/readings.md",
+  "status": "complete"
+}

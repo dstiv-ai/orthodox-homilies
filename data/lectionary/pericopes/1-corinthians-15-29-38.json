@@ -1,0 +1,100 @@
+{
+  "ref": "1 Corinthians 15:29-38",
+  "book": "1Cor",
+  "from": [
+    15,
+    29
+  ],
+  "to": [
+    15,
+    38
+  ],
+  "slug": "1-corinthians-15-29-38",
+  "greek": [
+    {
+      "v": "15:29",
+      "text": "Ἐπεὶ τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν; Εἰ ὅλως νεκροὶ οὐκ ἐγείρονται, τί καὶ βαπτίζονται ὑπὲρ τῶν νεκρῶν;"
+    },
+    {
+      "v": "15:30",
+      "text": "Τί καὶ ἡμεῖς κινδυνεύομεν πᾶσαν ὥραν;"
+    },
+    {
+      "v": "15:31",
+      "text": "Καθ' ἡμέραν ἀποθνῄσκω, νὴ τὴν ὑμετέραν καύχησιν, ἣν ἔχω ἐν χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν."
+    },
+    {
+      "v": "15:32",
+      "text": "Εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος, εἰ νεκροὶ οὐκ ἐγείρονται; Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν."
+    },
+    {
+      "v": "15:33",
+      "text": "Μὴ πλανᾶσθε· Φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί."
+    },
+    {
+      "v": "15:34",
+      "text": "Ἐκνήψατε δικαίως καὶ μὴ ἁμαρτάνετε· ἀγνωσίαν γὰρ θεοῦ τινὲς ἔχουσιν· πρὸς ἐντροπὴν ὑμῖν λέγω."
+    },
+    {
+      "v": "15:35",
+      "text": "Ἀλλ' ἐρεῖ τις, Πῶς ἐγείρονται οἱ νεκροί; Ποίῳ δὲ σώματι ἔρχονται;"
+    },
+    {
+      "v": "15:36",
+      "text": "Ἄφρον, σὺ ὃ σπείρεις, οὐ ζῳοποιεῖται ἐὰν μὴ ἀποθάνῃ·"
+    },
+    {
+      "v": "15:37",
+      "text": "καὶ ὃ σπείρεις, οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις, ἀλλὰ γυμνὸν κόκκον, εἰ τύχοι, σίτου ἤ τινος τῶν λοιπῶν·"
+    },
+    {
+      "v": "15:38",
+      "text": "ὁ δὲ θεὸς αὐτῷ δίδωσιν σῶμα καθὼς ἠθέλησεν, καὶ ἑκάστῳ τῶν σπερμάτων τὸ ἴδιον σῶμα."
+    }
+  ],
+  "english": [
+    {
+      "v": "15:29",
+      "text": "Brothers and sisters: otherwise, what will people do who are baptised on behalf of the dead? If the dead are not raised at all, why are they baptised on behalf of the dead?"
+    },
+    {
+      "v": "15:30",
+      "text": "And why do we ourselves run risks every hour?"
+    },
+    {
+      "v": "15:31",
+      "text": "I die every day — I swear it by the pride I take in you, which I have in Christ Jesus our Lord."
+    },
+    {
+      "v": "15:32",
+      "text": "If, merely on human terms, I fought wild beasts at Ephesus, what good did it do me, if the dead are not raised? \"Let us eat and drink, for tomorrow we die.\""
+    },
+    {
+      "v": "15:33",
+      "text": "Do not be led astray: \"Bad company ruins good character.\""
+    },
+    {
+      "v": "15:34",
+      "text": "Sober up, as you should, and stop sinning. Some of you have no knowledge of God — I say this to shame you."
+    },
+    {
+      "v": "15:35",
+      "text": "But someone will ask: \"How are the dead raised? And with what kind of body do they come?\""
+    },
+    {
+      "v": "15:36",
+      "text": "Fool — what you sow is not brought to life unless it dies."
+    },
+    {
+      "v": "15:37",
+      "text": "And what you sow is not the body that is going to be; you sow a bare seed — of wheat, perhaps, or of some other plant."
+    },
+    {
+      "v": "15:38",
+      "text": "But God gives it a body as he has willed, and to each of the seeds its own body."
+    }
+  ],
+  "greek_source": "content/2026-08-04/readings.md",
+  "english_source": "content/2026-08-04/readings.md",
+  "status": "complete"
+}

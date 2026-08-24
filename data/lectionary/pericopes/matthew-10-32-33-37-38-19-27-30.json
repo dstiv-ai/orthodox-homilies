@@ -1,0 +1,98 @@
+{
+  "ref": "Matthew 10:32-33, 37-38, 19:27-30",
+  "book": "Matt",
+  "from": [
+    10,
+    32
+  ],
+  "to": [
+    19,
+    30
+  ],
+  "slug": "matthew-10-32-33-37-38-19-27-30",
+  "greek": [
+    {
+      "v": "10:32",
+      "text": "Πᾶς οὖν ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, ὁμολογήσω κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν οὐρανοῖς."
+    },
+    {
+      "v": "10:33",
+      "text": "Ὅστις δ’ ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων, ἀρνήσομαι αὐτὸν κἀγὼ ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν οὐρανοῖς."
+    },
+    {
+      "v": "10:37",
+      "text": "Ὁ φιλῶν πατέρα ἢ μητέρα ὑπὲρ ἐμέ, οὐκ ἔστιν μου ἄξιος· καὶ ὁ φιλῶν υἱὸν ἢ θυγατέρα ὑπὲρ ἐμέ, οὐκ ἔστιν μου ἄξιος·"
+    },
+    {
+      "v": "10:38",
+      "text": "καὶ ὃς οὐ λαμβάνει τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθεῖ ὀπίσω μου, οὐκ ἔστιν μου ἄξιος."
+    },
+    {
+      "v": "19:27",
+      "text": "Τότε ἀποκριθεὶς ὁ Πέτρος εἶπεν αὐτῷ, Ἰδού, ἡμεῖς ἀφήκαμεν πάντα καὶ ἠκολουθήσαμέν σοι· τί ἄρα ἔσται ἡμῖν;"
+    },
+    {
+      "v": "19:28",
+      "text": "Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς, Ἀμὴν λέγω ὑμῖν ὅτι ὑμεῖς οἱ ἀκολουθήσαντές μοι, ἐν τῇ παλιγγενεσίᾳ ὅταν καθίσῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ θρόνου δόξης αὐτοῦ, καθίσεσθε καὶ ὑμεῖς ἐπὶ δώδεκα θρόνους, κρίνοντες τὰς δώδεκα φυλὰς τοῦ Ἰσραήλ."
+    },
+    {
+      "v": "19:29",
+      "text": "Καὶ πᾶς ὃς ἀφῆκεν οἰκίας, ἢ ἀδελφούς, ἢ ἀδελφάς, ἢ πατέρα, ἢ μητέρα, ἢ γυναῖκα, ἢ τέκνα, ἢ ἀγρούς, ἕνεκεν τοῦ ὀνόματός μου, ἑκατονταπλασίονα λήψεται, καὶ ζωὴν αἰώνιον κληρονομήσει."
+    },
+    {
+      "v": "19:30",
+      "text": "Πολλοὶ δὲ ἔσονται πρῶτοι ἔσχατοι, καὶ ἔσχατοι πρῶτοι."
+    }
+  ],
+  "english": [
+    {
+      "v": "10:32",
+      "text": "At that time the Lord said: \"So everyone who acknowledges me before others, I too will acknowledge before my Father in the heavens."
+    },
+    {
+      "v": "10:33",
+      "text": "But whoever denies me before others, I too will deny before my Father in the heavens."
+    },
+    {
+      "v": "10:37",
+      "text": "Anyone who loves father or mother more than me is not worthy of me. And anyone who loves son or daughter more than me is not worthy of me."
+    },
+    {
+      "v": "10:38",
+      "text": "And whoever does not take up his cross and follow after me is not worthy of me.\""
+    },
+    {
+      "v": "19:27",
+      "text": "Then Peter answered him: \"Look, we have left everything and followed you. What then will there be for us?\""
+    },
+    {
+      "v": "19:28",
+      "text": "Jesus said to them: \"I tell you the truth: you who have followed me, in the renewal of all things, when the Son of Man sits on his throne of glory, you too will sit on twelve thrones, judging the twelve tribes of Israel."
+    },
+    {
+      "v": "19:29",
+      "text": "And everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or fields, for the sake of my name, will receive a hundred times as much, and will inherit eternal life."
+    },
+    {
+      "v": "19:30",
+      "text": "But many who are first will be last, and the last first.\""
+    }
+  ],
+  "greek_source": "work/byztxt/MAT.txt",
+  "english_source": "pool code lane, task week1-matthew, translated from work/byztxt Greek",
+  "status": "complete",
+  "uncertain": [
+    {
+      "v": "10:32",
+      "note": "ὁμολογήσει ἐν ἐμοί uses a Semitic 'confess in me' rather than a straight object. Rendered as 'acknowledges me'; 'confesses me' would also serve, but 'confess' in English now often means admit a sin."
+    },
+    {
+      "v": "19:28",
+      "note": "παλιγγενεσίᾳ is 'rebirth / regeneration'. In this sentence it is the renewal of the world, not individual new birth. Rendered as 'the renewal of all things'."
+    },
+    {
+      "v": "19:29",
+      "note": "Byzantine includes ἢ γυναῖκα, 'or wife', in the list of what is left. Some modern editions omit it."
+    }
+  ]
+}
