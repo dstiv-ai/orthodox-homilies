@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T03:22:39.314554Z",
+  "generated": "2026-08-24T08:36:41.535194Z",
   "items": [
     {
       "id": "chrysostom-56",
@@ -4062,6 +4062,84 @@
         "lives",
         "kosmas-aitolos",
         "1"
+      ]
+    },
+    {
+      "id": "chrysostom-libello-repudii-marriage",
+      "slug": "chrysostom-libello-repudii-marriage",
+      "title": "On the Bill of Divorce",
+      "father": "St John Chrysostom",
+      "collection": null,
+      "source_ref": "PG 51.217",
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "chrysostom",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": true,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 4693,
+      "reading_minutes": 23,
+      "attribution_note": "Translated for this edition from the Greek of St John Chrysostom (public domain), the sermon De libello repudii, PG 51.217, on 1 Corinthians 7:39. Greek source: the Migne Patrologia Graeca scan at khazarzar.skeptik.net. The middle of three sermons on marriage he preached at Antioch.",
+      "path": [
+        "spiritual",
+        "marriage",
+        "st-john-chrysostom"
+      ]
+    },
+    {
+      "id": "aimilianos-gamos-marriage",
+      "slug": "aimilianos-gamos-marriage",
+      "title": "Marriage, the Great Mystery",
+      "father": "Elder Aimilianos of Simonopetra",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "aimilianos",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": true,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 5847,
+      "reading_minutes": 29,
+      "attribution_note": "Elder Aimilianos of Simonopetra (1934-2019). This discourse, Ὁ Γάμος, τὸ Μέγα Μυστήριον, was given at the Church of St Nicholas, Trikala, on 17 January 1971, and published in Περὶ Θεοῦ: Λόγος Αἰσθήσεως (© 2004, Holy Convent of the Annunciation, Ormylia; Indiktos, Athens). Translated here fresh from the Greek with credit and a link to the source, not offered as public domain. Greek text: https://www.myriobiblos.gr/texts/greek/aimilianos_peritheou_6.html",
+      "path": [
+        "spiritual",
+        "marriage",
+        "elder-aimilianos-of-simonopetra"
+      ]
+    },
+    {
+      "id": "kronstadt-zhenihu-neveste-marriage",
+      "slug": "kronstadt-zhenihu-neveste-marriage",
+      "title": "A Word to the Bridegroom and Bride",
+      "father": "St John of Kronstadt",
+      "collection": null,
+      "source_ref": null,
+      "category": "spiritual-topics",
+      "feast": null,
+      "saint_key": null,
+      "cover_key": "kronstadt",
+      "scripture": [],
+      "chapter": null,
+      "has_greek": false,
+      "has_audio": false,
+      "audio": null,
+      "align": null,
+      "word_count": 923,
+      "reading_minutes": 5,
+      "attribution_note": "Translated for this edition from the Russian of St John of Kronstadt (1829-1908, public domain), his Слово жениху и невесте, a sermon addressed to a couple at their wedding. Russian text: https://www.sobor.de/ (Cathedral of the Holy New Martyrs and Confessors of Russia, Munich).",
+      "path": [
+        "spiritual",
+        "marriage",
+        "st-john-of-kronstadt"
       ]
     }
   ]

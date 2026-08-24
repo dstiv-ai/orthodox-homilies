@@ -105,18 +105,18 @@
       "description": "What the Fathers preached on marriage \u2014 the crowning of two lives, the raising of children, and the wounds of separation.",
       "children": [
         "st-john-chrysostom",
-        "st-gregory-the-theologian",
-        "st-asterius-of-amasea"
+        "elder-aimilianos-of-simonopetra",
+        "st-john-of-kronstadt"
       ]
     },
     "spiritual/marriage/st-john-chrysostom": {
       "label": "St John Chrysostom"
     },
-    "spiritual/marriage/st-gregory-the-theologian": {
-      "label": "St Gregory the Theologian"
+    "spiritual/marriage/elder-aimilianos-of-simonopetra": {
+      "label": "Elder Aimilianos of Simonopetra"
     },
-    "spiritual/marriage/st-asterius-of-amasea": {
-      "label": "St Asterius of Amasea"
+    "spiritual/marriage/st-john-of-kronstadt": {
+      "label": "St John of Kronstadt"
     },
     "spiritual/prayer": {
       "label": "Prayer",
