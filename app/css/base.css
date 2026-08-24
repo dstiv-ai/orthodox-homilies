@@ -1,0 +1,269 @@
+/* ---------------------------------------------------------------------
+   base.css — shared design-system primitives.
+   Reused by every screen in this app (home, reading page, search, …).
+   Copied from design/chosen/APPROVED-home-library.html :root + resets.
+   Screen-specific layout (hero, shelves, cards, footer, …) lives in the
+   per-screen stylesheet (e.g. home.css), not here.
+--------------------------------------------------------------------- */
+
+:root{
+  /* ---- core surface + ink (dark = default) ----
+     THREE SURFACES, DELIBERATELY SEPARATED. The earlier values (bg #121110,
+     bg-soft #1a1815, bg-card #1e1c18) sat within four points of perceived
+     lightness of each other, so the sidebar, the player bar and the reading
+     page all read as one flat smudge rather than as planes. The ladder below
+     is measured in L* (CIE perceived lightness, 0-100), which is the right
+     scale here — the WCAG contrast RATIO collapses near black and reports two
+     clearly distinguishable dark surfaces as barely different:
+       page  --bg       L*  3.2   the ground everything sits on
+       chrome --bg-soft L* 10.6   sidebar + player bar, one clear step up
+       card  --bg-card  L* 13.1   cards and the Greek column, above the chrome
+     The accent is also lighter and more saturated than the light theme's, not
+     the same hex: a mid-red on a near-black ground desaturates towards brown,
+     which is what made the note box and the read-along band look like dried
+     blood. Chosen by Dimitri from design/proposed/theme-colour-options.html
+     ("Separated planes") on 2026-08-05. ---- */
+  --bg:#0d0c0b;
+  --bg-soft:#201d18;
+  --bg-card:#26221b;
+  --ink:#f2ece1;
+  --ink-rgb:242,236,225;
+  --ink-dim:#b0a695;
+  --ink-faint:#7d7365;
+  --hair:rgba(242,236,225,0.13);
+  --hair-strong:rgba(242,236,225,0.24);
+  --accent:#d94a5c;
+  --accent-ink:#fff2f2;
+  --accent-rgb:217,74,92;
+  --paper:#efe4cf;
+  --bg-soft-rgb:32,29,24;
+
+  /* ---- "on a photo" ink scale: nav/hero/cover-caption text that sits on
+     an image's own dark scrim, not on the page ground. In the dark theme
+     the page ground IS dark, so these simply alias the normal ink tokens;
+     the light theme (added below) gives them their own light values so
+     photo-overlaid text never goes dark-on-dark. Never used for body text
+     on the plain page background — that always uses --ink / --ink-dim. ---- */
+  --ink-image:var(--ink);
+  --ink-image-dim:var(--ink-dim);
+  --hair-image-strong:var(--hair-strong);
+  --ink-image-rgb:242,236,225;
+
+  /* ---- heading authority: shelf/section titles. Aliases --ink in dark
+     (already reads as full-weight white-on-black); light theme below
+     gives headings their own deeper, more neutral near-black so they
+     don't lose visual authority on a plaster ground. ---- */
+  --ink-heading:var(--ink);
+
+  /* ---- photographic overlay tones: near-black scrims/tints/shadows used
+     on hero + cover images. These do NOT change between themes (a photo's
+     own dark scrim stays dark regardless of site theme), so they are
+     declared once here and never overridden below. ---- */
+  --scrim-rgb:18,17,16;
+  --hero-scrim-h-rgb:9,8,7;
+  --hero-scrim-v-rgb:10,9,8;
+  --cover-scrim-end-rgb:12,11,10;
+  --cover-scrim-mid-rgb:14,13,11;
+  --spine-tint-rgb:15,14,12;
+  --shadow-rgb:0,0,0;
+  --highlight-rgb:255,255,255;
+  --fallback-vignette-1:#17140f;
+  --fallback-vignette-2:#100e0b;
+
+  /* the colour the hero band's last 30px dissolves into: the page ground.
+     In dark that is indistinguishable from the scrim's own foot, so the
+     fade is invisible; the light + sepia themes below give it their paper
+     value so the band melts into the page instead of cutting against it. */
+  --hero-foot-rgb:13,12,11;
+
+  /* ---- page background glow behind the body (radial highlight + fixed
+     attachment). Wrapped whole because position AND colour both change
+     between themes. ---- */
+  --body-bg-glow:radial-gradient(1400px 900px at 50% -8%, #191612 0%, var(--bg) 55%) fixed;
+
+  /* ---- light-theme-only card "object on a wall" shadows. "none" in dark
+     because the dark cover-card/feature-card/booklet-panel/hero currently
+     have no box-shadow at all — only the light theme (below) adds one. ---- */
+  --card-shadow:none;
+  --feature-card-shadow:none;
+  --booklet-panel-shadow:none;
+  --hero-shadow:none;
+
+  --sans:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue",Arial,sans-serif;
+  --serif:"Iowan Old Style","Palatino","Georgia",serif;
+}
+
+:root[data-theme="light"]{
+  /* The same three-surface ladder as dark, inverted: the reading page is the
+     brightest thing on screen and the chrome sits below it, so the menu and
+     player read as a frame around the paper rather than more paper. Previously
+     the page and the chrome were 3.9 L* apart, which is invisible.
+       chrome --bg-soft L* 84.0
+       card  --bg-card  L* 90.5   cards read as objects laid on the page
+       page  --bg       L* 95.2
+     The accent is a touch lighter than before to stay in step with the deeper
+     chrome behind it. ---- */
+  --bg:#f6f1e6;
+  --bg-soft:#ddd0b7;
+  --bg-card:#ece3d1;
+  --ink:#2b241d;
+  --ink-rgb:43,36,29;
+  --ink-dim:#6d6252;
+  --ink-faint:#96897a;
+  --hair:rgba(43,36,29,0.16);
+  --hair-strong:rgba(43,36,29,0.28);
+  --accent:#9b2430;
+  --accent-ink:#fbf3e8;
+  --accent-rgb:155,36,48;
+  --bg-soft-rgb:221,208,183;
+
+  --ink-image:#f6f0e4;
+  --ink-image-dim:#cabfab;
+  --hair-image-strong:rgba(246,240,228,0.32);
+  --ink-image-rgb:246,240,228;
+
+  --ink-heading:#17140f;
+
+  --body-bg-glow:radial-gradient(1400px 900px at 50% -6%, #fbf7ee 0%, var(--bg) 55%) fixed;
+
+  --card-shadow:0 1px 2px rgba(35,26,18,.07), 0 14px 22px -14px rgba(35,26,18,.30);
+  --feature-card-shadow:0 1px 2px rgba(35,26,18,.07), 0 18px 30px -16px rgba(35,26,18,.30);
+  --booklet-panel-shadow:0 1px 2px rgba(35,26,18,.05), 0 18px 32px -22px rgba(35,26,18,.25);
+  /* No shadow: the band's foot fades INTO the paper (--hero-foot-rgb +
+     the .hero/.day-hero/.coll-hero ::after rule below), so there is no
+     edge left for a shadow to sit under. Both earlier attempts — a wide
+     three-layer bridge and a tight contact shadow — kept the hard cut and
+     only argued about how to dress it. */
+  --hero-shadow:none;
+  --hero-foot-rgb:246,241,230;
+}
+
+:root[data-theme="sepia"]{
+  /* Same three-surface ladder shape as light (page brightest, chrome below
+     it), but warmer and a touch deeper — the "old paper" reading theme,
+     in the spirit of the sepia settings-swatch preview (#d8c39e). ---- */
+  --bg:#ecdfc0;
+  --bg-soft:#d9c69a;
+  --bg-card:#e3d3ab;
+  --ink:#3a2f20;
+  --ink-rgb:58,47,32;
+  --ink-dim:#6d5c42;
+  --ink-faint:#93805f;
+  --hair:rgba(58,47,32,0.18);
+  --hair-strong:rgba(58,47,32,0.30);
+  --accent:#8a3226;
+  --accent-ink:#fbf1df;
+  --accent-rgb:138,50,38;
+  --bg-soft-rgb:217,198,154;
+
+  --ink-image:#f2e6c9;
+  --ink-image-dim:#cbb98e;
+  --hair-image-strong:rgba(242,230,201,0.32);
+  --ink-image-rgb:242,230,201;
+
+  --ink-heading:#241b0f;
+
+  --body-bg-glow:radial-gradient(1400px 900px at 50% -6%, #f6ecd4 0%, var(--bg) 55%) fixed;
+
+  --card-shadow:0 1px 2px rgba(35,26,18,.07), 0 14px 22px -14px rgba(35,26,18,.30);
+  --feature-card-shadow:0 1px 2px rgba(35,26,18,.07), 0 18px 30px -16px rgba(35,26,18,.30);
+  --booklet-panel-shadow:0 1px 2px rgba(35,26,18,.05), 0 18px 32px -22px rgba(35,26,18,.25);
+  --hero-shadow:none;
+  --hero-foot-rgb:236,223,192;
+}
+
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--body-bg-glow), var(--bg);
+  color:var(--ink);
+  font-family:var(--sans);
+  overflow-x:hidden;
+  min-width:320px;
+}
+img{display:block;max-width:none;}
+a{color:inherit;text-decoration:none;}
+button{font-family:inherit;border:none;cursor:pointer;background:none;color:inherit;}
+ul{list-style:none;margin:0;padding:0;}
+h1,h2,h3,p{margin:0;}
+
+/* ---------- shared type primitives ---------- */
+.eyebrow{
+  font-size:12.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--accent);font-weight:600;
+}
+.link-arrow{
+  display:inline-flex;align-items:center;gap:7px;
+  font-size:14px;color:var(--ink);font-weight:500;
+  padding-bottom:2px;border-bottom:1px solid var(--hair-strong);
+}
+.link-arrow svg{flex:none;}
+.btn-primary{
+  display:inline-flex;align-items:center;gap:10px;
+  background:var(--accent);color:var(--accent-ink);
+  padding:15px 26px;border-radius:8px;font-size:14.5px;font-weight:650;letter-spacing:.01em;
+}
+.btn-primary svg{flex:none;}
+.btn-primary[aria-disabled="true"],
+.btn-primary:disabled{
+  opacity:.45;cursor:not-allowed;
+}
+
+/* ---------- shared site chrome: top nav ---------- */
+.nav{
+  position:absolute;top:0;left:0;right:0;z-index:5;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:28px 64px 0;
+}
+.wordmark{display:flex;align-items:center;gap:10px;}
+.wordmark .cross{color:var(--paper);}
+.wordmark span{
+  /* sits on the hero photo, not the page ground — ink-image family */
+  font-size:14px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:var(--ink-image);
+}
+.nav-right{display:flex;align-items:center;gap:36px;}
+.nav-links{display:flex;align-items:center;gap:32px;}
+.nav-links a{font-size:13.5px;color:var(--ink-image);opacity:.88;font-weight:500;}
+.nav-icon-btn{
+  width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+  color:var(--ink-image);opacity:.88;
+}
+.booklet-pill{
+  display:flex;align-items:center;gap:8px;
+  background:rgba(var(--scrim-rgb),.5);border:1px solid var(--hair-image-strong);
+  padding:8px 14px 8px 12px;border-radius:20px;color:var(--ink-image);font-size:13px;font-weight:600;
+}
+.booklet-pill .count{
+  background:var(--accent);color:var(--accent-ink);
+  width:18px;height:18px;border-radius:50%;font-size:11px;
+  display:flex;align-items:center;justify-content:center;font-weight:700;
+}
+
+@media (max-width:600px){
+  .nav{padding:18px 20px 0;}
+  .wordmark span{font-size:12px;}
+  .nav-right{gap:12px;}
+  .nav-links{display:none;}
+  .booklet-pill{padding:9px;gap:5px;border-radius:50%;}
+  .booklet-pill-label{display:none;}
+}
+
+/* ---------- hero foot fade ----------
+   Shared by all three hero bands (home .hero, day .day-hero, collection
+   .coll-hero) so the treatment can never drift between pages. The band's
+   own vertical scrim still goes dark at the bottom to protect the
+   white-on-photo text; this last 30px dissolves that foot into the page
+   ground. 30px is the clearance available on the tightest band (the
+   collection hero's content sits 34px off the bottom, the day hero's fast
+   chip 38px), so the fade never touches type. z-index 1 keeps it above the
+   photo and its scrim but below every content layer (day 2, home/coll 4). */
+.hero::after,
+.day-hero::after,
+.coll-hero::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:30px;z-index:1;
+  pointer-events:none;
+  background:linear-gradient(180deg,
+    rgba(var(--hero-foot-rgb),0) 0%,
+    rgba(var(--hero-foot-rgb),.72) 55%,
+    rgba(var(--hero-foot-rgb),1) 100%);
+}

@@ -1,0 +1,185 @@
+/* ---------------------------------------------------------------------
+   shelves.css — shared chrome for the catalogue/index pages built by
+   js/shelves.js (shelf / father / feast / scripture detail pages and the
+   three generic By-Father / By-Feast / By-Scripture index pages). The
+   dense-list rules these pages reuse live in browse.css; the cover-card
+   look itself lives in home.css (same classes, visually identical) — only
+   the grid that lays those cards out is new here. Tokens in base.css.
+--------------------------------------------------------------------- */
+
+/* ---------- shared catalogue page head ---------- */
+.cat-page-head{padding:48px 64px 30px;}
+.cat-page-title{
+  font-size:52px;font-weight:750;letter-spacing:-.01em;line-height:1.04;margin-top:10px;
+  color:var(--ink-heading);
+}
+.cat-page-desc{font-size:15.5px;color:var(--ink-dim);line-height:1.55;max-width:640px;margin-top:14px;}
+.cat-page-back{
+  display:inline-flex;align-items:center;gap:7px;
+  font-size:13px;color:var(--ink-dim);font-weight:500;margin-bottom:18px;
+}
+.cat-page-back:hover{color:var(--ink);}
+
+/* light theme: same apparent-weight bump home.css gives its headings */
+:root[data-theme="light"] .cat-page-title{font-weight:800;}
+
+/* ---------- shelf cover grid (home.css .cover-card, gridded) ---------- */
+.shelf-grid-section{padding:4px 64px 56px;}
+.shelf-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:20px;}
+/* home.css sizes .cover-card for the horizontal shelf-row (flex:none, fixed
+   236px) — inside the grid the track owns the width instead. */
+.shelf-grid .cover-card{width:auto;height:310px;flex:none;}
+
+/* ---------- index pages: one card per father / feast / book ---------- */
+.index-grid-section{padding:4px 64px 56px;}
+.index-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;}
+.index-card{
+  display:block;background:var(--bg-soft);border:1px solid var(--hair);border-radius:10px;
+  padding:20px 20px 16px;
+}
+.index-card:hover{border-color:var(--hair-strong);background:var(--bg-card);}
+.index-card-name{
+  font-family:var(--serif);font-size:19px;line-height:1.25;color:var(--ink);
+}
+.index-card-count{
+  font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-faint);
+  margin-top:10px;font-weight:600;
+}
+
+/* ---------- collection page hero (js/collections.js renderCollection) ----
+   A shorter cousin of home.css's .hero: same photo-with-scrim treatment and
+   the same ink-image type family (so it stays legible in both themes), at
+   roughly half the height because this is a sub-page, not the front door. */
+.coll-hero{
+  position:relative;width:100%;height:330px;overflow:hidden;
+  box-shadow:var(--hero-shadow);
+}
+.coll-hero-img{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  object-position:50% 30%;
+}
+.coll-hero-scrim{
+  position:absolute;inset:0;
+  background:
+    linear-gradient(90deg, rgba(var(--hero-scrim-h-rgb),.66) 0%, rgba(var(--hero-scrim-h-rgb),.38) 34%, rgba(var(--hero-scrim-h-rgb),0) 66%),
+    linear-gradient(180deg, rgba(var(--hero-scrim-v-rgb),.5) 0%, rgba(var(--hero-scrim-v-rgb),.05) 30%, rgba(var(--hero-scrim-v-rgb),.55) 72%, rgba(var(--cover-scrim-end-rgb),.94) 100%);
+}
+.coll-hero-content{
+  position:absolute;left:0;right:0;bottom:0;z-index:4;padding:0 64px 34px;
+}
+
+/* ---- face covers: blurred backdrop + the icon shown whole on a plate ----
+   A tight portrait icon in this 4-to-1 band would render as an abstract
+   slice of one eye, so the backdrop is blurred out of legibility on purpose
+   and the icon itself is shown contained, at cover-card proportions, with
+   the title set beside it. */
+.coll-hero--face .coll-hero-img{
+  filter:blur(26px) saturate(.75);transform:scale(1.15);
+  object-position:50% 40%;
+}
+.coll-hero--face .coll-hero-scrim{
+  background:linear-gradient(180deg, rgba(var(--hero-scrim-v-rgb),.72) 0%, rgba(var(--hero-scrim-v-rgb),.6) 55%, rgba(var(--cover-scrim-end-rgb),.94) 100%);
+}
+.coll-hero-plate{
+  position:absolute;left:64px;bottom:30px;z-index:5;
+  width:198px;height:270px;border-radius:10px;overflow:hidden;
+  border:1px solid var(--hair-image-strong);background:var(--bg-card);
+  box-shadow:var(--card-shadow);
+}
+.coll-hero-plate img{width:100%;height:100%;object-fit:cover;}
+/* the text steps aside to clear the plate */
+.coll-hero--face .coll-hero-content{padding-left:294px;}
+.coll-hero-content .eyebrow{color:var(--paper);}
+.coll-hero-title{
+  font-family:var(--sans);font-weight:750;font-size:44px;line-height:1.06;
+  letter-spacing:-.01em;color:var(--ink-image);margin-top:12px;max-width:760px;
+  text-shadow:0 2px 24px rgba(var(--shadow-rgb),.35);
+}
+.coll-hero-sub{
+  font-size:15.5px;line-height:1.5;color:var(--ink-image-dim);
+  max-width:620px;margin-top:14px;
+}
+/* the back link sits on the photo, so it takes the ink-image family like the
+   rest of the hero type rather than the page-ground .cat-page-back colours */
+.coll-hero-back{
+  display:inline-flex;align-items:center;gap:7px;
+  font-size:13px;font-weight:500;margin-bottom:14px;
+  color:var(--ink-image-dim);
+}
+.coll-hero-back:hover{color:var(--ink-image);}
+
+/* ---- no cover art at all (js/collections.js, js/books.js) ----
+   No photo means no scrim either, so the type sits directly on the page's
+   own parchment — the ink-image family above is tuned for a dark photo and
+   goes pale-on-pale here. Same tokens the plain .cat-page-head uses. */
+.coll-hero--plain{background:var(--bg);box-shadow:none;}
+.coll-hero--plain .coll-hero-content .eyebrow{color:var(--accent);}
+.coll-hero--plain .coll-hero-title{color:var(--ink-heading);text-shadow:none;}
+.coll-hero--plain .coll-hero-sub{color:var(--ink-dim);}
+.coll-hero--plain .coll-hero-back{color:var(--ink-dim);}
+.coll-hero--plain .coll-hero-back:hover{color:var(--ink);}
+
+/* ---------- image credits page (#/credits, js/credits.js) ----------
+   A generated attribution list, not a homily catalogue, so it doesn't reuse
+   browse.css's homily-specific .list-row grid (father/tag/minutes/add
+   columns) — this is its own simple thumb+text row, built from the shared
+   .cat-page-head chrome above and the .list-section horizontal padding. */
+.credit-section{padding:4px 64px 64px;}
+.credit-group-title{
+  font-family:var(--serif);font-size:20px;font-weight:500;color:var(--ink-heading);
+  margin:34px 12px 4px;
+}
+.credit-group-title:first-child{margin-top:0;}
+.credit-list{border-top:1px solid var(--hair);margin-top:10px;}
+.credit-row{
+  display:flex;gap:16px;align-items:flex-start;
+  padding:16px 12px;border-top:1px solid var(--hair);
+}
+.credit-list .credit-row:first-child{border-top:none;}
+.credit-thumb{
+  width:56px;height:56px;border-radius:8px;overflow:hidden;flex:none;
+  border:1px solid var(--hair);background:var(--bg-card);
+}
+.credit-thumb img{width:100%;height:100%;object-fit:cover;}
+.credit-body{min-width:0;}
+.credit-title{font-family:var(--serif);font-size:16.5px;line-height:1.3;color:var(--ink);}
+.credit-meta{font-size:12.5px;color:var(--ink-dim);margin-top:4px;}
+.credit-bottom{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:8px;}
+.credit-licence{
+  font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;
+  color:var(--ink-faint);border:1px solid var(--hair-strong);border-radius:4px;padding:3px 8px;
+  /* A badge, so it must not wrap — but it must never grow wider than its
+     column either, or the whole page scrolls sideways on a phone. */
+  white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis;
+}
+/* the four CC BY-SA entries take the accent colour so they read as
+   distinct from the public-domain majority at a glance, per the task's
+   "cannot be missed" requirement. */
+.credit-licence--cc{color:var(--accent);border-color:var(--accent);}
+.credit-link{
+  font-size:12.5px;color:var(--ink-dim);text-decoration:underline;text-underline-offset:3px;
+}
+.credit-link:hover{color:var(--accent);}
+
+/* =======================================================================
+   PHONE (<768px) — same 20px gutters and shrunken type as the rest of the
+   app's phone breakpoint; grids reflow via auto-fill on their own.
+======================================================================= */
+@media (max-width:768px){
+  .cat-page-head{padding:32px 20px 22px;}
+  .cat-page-title{font-size:30px;}
+  .cat-page-desc{font-size:13.5px;max-width:100%;}
+  .shelf-grid-section,.index-grid-section{padding:4px 20px 40px;}
+  .shelf-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;}
+  .shelf-grid .cover-card{height:230px;}
+  .coll-hero{height:240px;}
+  .coll-hero-content{padding:0 20px 24px;}
+  .coll-hero-title{font-size:28px;}
+  .coll-hero-sub{font-size:13.5px;max-width:100%;margin-top:10px;}
+  .coll-hero-plate{left:20px;bottom:20px;width:118px;height:160px;}
+  .coll-hero--face .coll-hero-content{padding-left:154px;}
+  .credit-section{padding:4px 20px 40px;}
+  .credit-row{gap:12px;padding:14px 6px;}
+  .credit-thumb{width:46px;height:46px;}
+  .credit-group-title{margin:26px 6px 4px;}
+}

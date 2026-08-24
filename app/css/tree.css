@@ -1,0 +1,102 @@
+/* ---------------------------------------------------------------------
+   tree.css — the category-tree pages (js/tree.js, SPEC-TREE.md): the
+   breadcrumb, the Synaxarion month strip, the month/day grids shared by
+   saints/synaxarion/<month> and #/calendar, and the tree pages' own small
+   links. Everything else on those pages reuses existing classes — the
+   section look is home.css's .shelf/.shelf-header/.shelf-title, the cover
+   cards are home.css's .cover-card gridded by shelves.css's .shelf-grid,
+   the page head is base.css's .cat-page-*. Nothing here introduces a
+   colour: only the existing tokens, so both themes keep working.
+--------------------------------------------------------------------- */
+
+/* ---------- breadcrumb ---------- */
+.tree-breadcrumb{
+  display:flex;flex-wrap:wrap;align-items:center;gap:6px;
+  margin-bottom:14px;
+  font-size:13px;
+}
+.tree-crumb{color:var(--ink-dim);text-decoration:none;}
+a.tree-crumb:hover{color:var(--accent);}
+.tree-crumb-current{color:var(--ink);font-weight:600;}
+.tree-crumb-sep{color:var(--ink-faint);}
+
+/* ---------- small links on the tree pages ---------- */
+.tree-all-link{
+  display:inline-block;margin-top:14px;
+  font-size:14px;color:var(--ink-dim);text-decoration:none;
+}
+.tree-all-link:hover{color:var(--accent);}
+.tree-shelf-link{text-decoration:none;color:inherit;display:inline-block;margin-top:4px;}
+.tree-shelf-link:hover{color:var(--accent);}
+.tree-enter-link{
+  flex:none;align-self:center;
+  font-size:13.5px;font-weight:600;color:var(--ink-dim);text-decoration:none;
+  white-space:nowrap;
+}
+.tree-enter-link:hover{color:var(--accent);}
+
+/* The peek rows reuse home.css's .shelf-row; the tree pages only trim the
+   section spacing home.css gives its own landing-page shelves. */
+#view-tree .shelf{padding:20px 64px 8px;}
+#view-tree .tree-peek{margin-top:18px;}
+
+/* ---------- generic layer body ---------- */
+.tree-layer{padding:8px 64px 56px;}
+
+/* ---------- Synaxarion month strip ---------- */
+.month-strip{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+  gap:12px;margin-top:8px;
+}
+.month-chip{
+  display:flex;flex-direction:column;gap:3px;
+  padding:14px 16px;border-radius:10px;
+  background:var(--bg-card);border:1px solid var(--hair);
+  box-shadow:var(--card-shadow);
+  text-decoration:none;
+}
+.month-chip:hover{border-color:var(--hair-strong);}
+.month-chip-name{font-size:15px;font-weight:600;color:var(--ink);}
+.month-chip-count{font-size:12px;color:var(--ink-faint);font-variant-numeric:tabular-nums;}
+
+/* ---------- month / day grids (Synaxarion month + #/calendar) ---------- */
+.calendar-year{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+  gap:36px 28px;
+}
+.month-name{
+  font-family:var(--serif);font-size:19px;font-weight:600;color:var(--ink-heading);
+  margin-bottom:12px;
+}
+.day-grid{
+  display:grid;grid-template-columns:repeat(7,1fr);gap:2px;
+}
+.day-grid-dow{
+  font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--ink-faint);text-align:center;padding:4px 0;
+}
+.day-cell{
+  position:relative;
+  display:flex;align-items:center;justify-content:center;
+  aspect-ratio:1;border-radius:8px;
+  font-size:13px;color:var(--ink-dim);text-decoration:none;
+  font-variant-numeric:tabular-nums;
+}
+a.day-cell:hover{background:var(--bg-card);color:var(--ink);}
+.day-cell-empty{color:var(--ink-faint);opacity:.45;}
+.day-cell-blank{visibility:hidden;}
+.day-dot{
+  position:absolute;bottom:4px;left:50%;transform:translateX(-50%);
+  width:4px;height:4px;border-radius:50%;
+  background:var(--accent);
+}
+
+/* =======================================================================
+   PHONE (<768px) — same horizontal trim as the other catalogue pages
+   (shelves.css uses 20px at this width).
+======================================================================= */
+@media (max-width:768px){
+  #view-tree .shelf{padding:14px 20px 4px;}
+  .tree-layer{padding:4px 20px 40px;}
+  .calendar-year{grid-template-columns:1fr;gap:28px;}
+}

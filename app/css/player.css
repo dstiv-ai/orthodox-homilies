@@ -1,0 +1,95 @@
+/* ---------------------------------------------------------------------
+   player.css — the read-along audio player (js/player.js), mounted onto
+   narrated reading pages (item.has_audio:true). Reuses the base.css
+   tokens (--bg-card, --accent, --hair, --ink…) rather than inventing a
+   new palette. Two responsibilities live here: the fixed control bar,
+   and the .sn / .sn-t / .sn-live states it paints onto the sentence
+   spans reader.js already emits inside the pair/heading markup.
+--------------------------------------------------------------------- */
+
+/* ---------- read-along sentence states ---------- */
+.sn{border-radius:3px;transition:background-color .15s ease;}
+.sn-t{cursor:pointer;}
+.sn-t:hover{background:rgba(var(--accent-rgb),.14);}
+.sn-live{background:rgba(var(--accent-rgb),.28);}
+
+/* ---------- control bar ---------- */
+body.has-audio-player{padding-bottom:88px;}
+
+/* Starts where .page starts, not at left:0. The sidebar (sidebar.css) is
+   position:fixed over the whole left rail at z-index 50; this bar is at
+   z-index 40. Spanning the full width therefore ran the bar *underneath*
+   the rail, and the play button — the first control, at x:24-64 — fell
+   entirely inside the 64px collapsed rail and became unclickable:
+   elementFromPoint at its centre returned the sidebar's .sb-spacer, so the
+   click never reached the button and the narration appeared not to play.
+   Every other control sits past 64px, which is why only play was affected.
+   Reuses sidebar.css's own width constants so the two cannot drift. */
+.player-bar{
+  position:fixed;left:var(--sb-w-collapsed);right:0;bottom:0;z-index:40;
+  display:flex;align-items:center;gap:14px;
+  padding:12px 24px calc(12px + env(safe-area-inset-bottom));
+  background:rgba(var(--bg-soft-rgb),.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border-top:1px solid var(--hair-strong);
+}
+html.sidebar-expanded .player-bar{left:var(--sb-w-expanded);}
+
+/* Below 768px sidebar.css hides the sidebar entirely and puts the tab bar
+   in its place, so there is nothing on the left to clear and the bar goes
+   full width again. The <html> sidebar-expanded/collapsed class survives
+   down here (only the sidebar's own display changes), so the expanded rule
+   above has to be undone explicitly. The tab bar's height is handled by
+   sidebar.css's matching mobile block. */
+@media (max-width:768px){
+  .player-bar,
+  html.sidebar-expanded .player-bar{left:0;}
+}
+
+.player-play{
+  flex:none;width:40px;height:40px;border-radius:50%;
+  background:var(--accent);color:var(--accent-ink);
+  display:flex;align-items:center;justify-content:center;
+}
+.player-play svg{width:16px;height:16px;}
+
+.player-skip{
+  flex:none;width:32px;height:32px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  color:var(--ink-dim);font-size:10.5px;font-weight:700;
+  border:1px solid var(--hair-strong);
+}
+.player-skip:hover{color:var(--ink);}
+
+.player-scrub-wrap{flex:1 1 auto;display:flex;align-items:center;gap:14px;min-width:0;}
+.player-scrub{position:relative;flex:1 1 auto;height:16px;display:flex;align-items:center;cursor:pointer;}
+.player-scrub::before{
+  content:'';position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);
+  height:3px;border-radius:2px;background:var(--hair-strong);
+}
+.player-scrub-fill{
+  position:absolute;left:0;top:50%;transform:translateY(-50%);
+  height:3px;border-radius:2px;background:var(--accent);width:0%;pointer-events:none;
+}
+.player-scrub-thumb{
+  position:absolute;top:50%;left:0%;width:11px;height:11px;border-radius:50%;
+  background:var(--accent-ink);border:2px solid var(--accent);
+  transform:translate(-50%,-50%);pointer-events:none;
+}
+
+.player-time{
+  flex:none;font-size:12px;color:var(--ink-dim);font-variant-numeric:tabular-nums;white-space:nowrap;
+}
+
+.player-speed{
+  flex:none;font-size:12.5px;font-weight:700;color:var(--ink-dim);
+  border:1px solid var(--hair-strong);border-radius:16px;padding:6px 10px;
+}
+.player-speed:hover{color:var(--ink);}
+
+@media (max-width:600px){
+  body.has-audio-player{padding-bottom:76px;}
+  .player-bar{padding:10px 14px calc(10px + env(safe-area-inset-bottom));gap:8px;}
+  .player-time{font-size:10.5px;}
+  .player-skip{width:28px;height:28px;font-size:9px;}
+  .player-speed{font-size:11px;padding:5px 8px;}
+}

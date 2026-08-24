@@ -1,0 +1,82 @@
+/* print.css — the #/booklet/print document. On screen it renders as a
+   preview (paper-toned "pages" on the app background, using the base.css
+   tokens); everything page-metric lives inside @media print so the rest of
+   the app is untouched. There is no generated PDF — window.print() and the
+   reader's own "Save as PDF" are the whole feature. */
+
+/* ---------- screen preview ---------- */
+.print-toolbar{
+  display:flex;align-items:center;justify-content:space-between;gap:16px;
+  padding:20px 64px;
+}
+.print-doc{
+  max-width:720px;margin:8px auto 72px;padding:0 20px;
+  color:var(--ink);
+}
+.print-loading{padding:28px 0;font-size:14px;color:var(--ink-faint);}
+.print-cover,.print-contents,.print-text{
+  background:var(--bg-card);border:1px solid var(--hair);border-radius:10px;
+  padding:56px 60px;margin-bottom:28px;
+}
+.print-cover{text-align:center;padding-top:96px;padding-bottom:96px;}
+.print-cover-site{
+  font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-faint);
+}
+.print-cover h1{
+  font-family:var(--serif);font-size:40px;font-weight:750;color:var(--ink-heading);margin-top:18px;
+}
+.print-cover-date{font-size:14px;color:var(--ink-dim);margin-top:12px;}
+.print-cover-titles{
+  margin:44px auto 0;max-width:420px;text-align:left;
+  font-family:var(--serif);font-size:16.5px;line-height:1.9;color:var(--ink);
+  padding-left:24px;
+}
+.print-contents h1,.print-text h1{
+  font-family:var(--serif);font-size:28px;font-weight:750;color:var(--ink-heading);
+}
+.print-contents ol{margin-top:24px;padding-left:24px;}
+.print-contents li{margin-bottom:14px;line-height:1.45;}
+.print-toc-title{font-family:var(--serif);font-size:17px;display:block;}
+.print-toc-father{font-size:13px;color:var(--ink-dim);display:block;margin-top:2px;}
+.print-text-meta{font-size:14px;color:var(--ink-dim);margin-top:10px;}
+.print-text h2{
+  font-family:var(--serif);font-size:20px;font-weight:700;color:var(--ink-heading);
+  margin-top:34px;
+}
+.print-text p{
+  font-family:var(--serif);font-size:16px;line-height:1.72;color:var(--ink);
+  margin-top:16px;
+}
+@media (max-width:767px){
+  .print-toolbar{padding:14px 20px;}
+  .print-cover,.print-contents,.print-text{padding:34px 24px;}
+  .print-cover h1{font-size:30px;}
+}
+
+/* ---------- print ---------- */
+@media print{
+  @page{ margin:18mm 16mm; }
+
+  /* Black on white, whatever theme the app is in. */
+  html,body{ background:#fff !important; }
+  .print-doc,.print-cover,.print-contents,.print-text,
+  .print-doc h1,.print-doc h2,.print-doc p,.print-doc li,
+  .print-doc ol,.print-doc span{ background:#fff !important;color:#000 !important; }
+
+  /* Nothing app-like on paper: sidebar, tab bar, nav, player, toolbar,
+     and every button. */
+  #sidebar,.tabbar,.nav,.print-toolbar,.player-bar,#player,button{ display:none !important; }
+  .page{margin:0 !important;padding:0 !important;}
+
+  .print-doc{max-width:none;margin:0;padding:0;}
+  .print-cover,.print-contents,.print-text{
+    border:none;border-radius:0;padding:0;margin:0;
+  }
+
+  /* Cover first, then each part starts on a fresh page. */
+  .print-contents,.print-text{ break-before:page; }
+  .print-cover{ min-height:70vh; }
+
+  /* No orphaned headings at the bottom of a page. */
+  .print-doc h1,.print-doc h2{ break-after:avoid; }
+}

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+// Pre-paint theme detection — synchronous, so the very first paint already
+// has the right theme (no flash of the wrong one while CSS/JS loads). Same
+// precedence as js/theme.js's getTheme(): a remembered choice wins, else
+// the reader's system preference. Kept deliberately tiny and duplicated
+// (not imported) because it must run before any module script.
+(function () {
+  try {
+    var t = localStorage.getItem('oh-theme');
+    if (t !== 'light' && t !== 'sepia' && t !== 'dark') {
+      t = (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
+    }
+    if (t === 'light' || t === 'sepia') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+})();
+</script>
+<script>
+// Sidebar collapse/expand pre-paint — synchronous, so the very first paint
+// already has the right rail/panel width (no flash of the wrong width,
+// which would also shove .page sideways). Same precedence as js/sidebar.js
+// (a stored 'oh-sidebar' choice always wins; with nothing stored, default
+// to expanded on catalogue/index routes, collapsed on home/reader) — kept
+// deliberately tiny and duplicated (not imported), same reasoning as the
+// theme script above: it must run before any module script.
+(function () {
+  try {
+    var s = localStorage.getItem('oh-sidebar');
+    if (s !== 'expanded' && s !== 'collapsed') {
+      s = /^#\/(browse|calendar|library|father|feast|scripture|collection|books|book\/|author)/.test(location.hash) ? 'expanded' : 'collapsed';
+    }
+    document.documentElement.classList.add(s === 'expanded' ? 'sidebar-expanded' : 'sidebar-collapsed');
+  } catch (e) {
+    document.documentElement.classList.add('sidebar-collapsed');
+  }
+})();
+</script>
+<meta charset="UTF-8">
+<link rel="icon" href="data:,">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orthodox Homilies — The Library</title>
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/sidebar.css">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/reader.css">
+<link rel="stylesheet" href="css/browse.css">
+<link rel="stylesheet" href="css/shelves.css">
+<link rel="stylesheet" href="css/player.css">
+<link rel="stylesheet" href="css/player-dock.css">
+<link rel="stylesheet" href="css/search.css">
+<link rel="stylesheet" href="css/print.css">
+<link rel="stylesheet" href="css/day.css">
+<link rel="stylesheet" href="css/tree.css">
+<link rel="stylesheet" href="css/books.css">
+</head>
+<body>
+
+<aside id="sidebar"></aside>
+
+<div class="page">
+
+<div id="view-home">
+
+<!-- ================= HERO — TODAY ================= -->
+<header class="hero">
+  <img class="hero-img" id="hero-img" src="../assets/christ-mosaic-web.jpg" alt="Christ Pantokrator, Hagia Sophia">
+  <div class="hero-scrim"></div>
+
+  <nav class="nav">
+    <div class="wordmark">
+      <svg class="cross" width="14" height="18" viewBox="0 0 14 18" fill="none"><path d="M7 0V18M2.5 5H11.5M0 8.5H14M4.5 15.5H9.5" stroke="currentColor" stroke-width="1.4"/></svg>
+      <span>Orthodox Homilies</span>
+    </div>
+    <div class="nav-right">
+      <div class="nav-links">
+        <a href="#/father">By Father</a>
+        <a href="#/scripture">By Scripture</a>
+      </div>
+      <button class="nav-icon-btn" aria-label="Search" type="button">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><line x1="15.5" y1="15.5" x2="20.5" y2="20.5"/></svg>
+      </button>
+      <span id="nav-theme-slot"></span>
+      <a class="booklet-pill" href="#/booklet">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5C4 4.7 4.7 4 5.5 4H11v16H5.5C4.7 20 4 19.3 4 18.5v-13z"/><path d="M20 5.5c0-.8-.7-1.5-1.5-1.5H13v16h5.5c.8 0 1.5-.7 1.5-1.5v-13z"/></svg>
+        <span class="booklet-pill-label">My Booklet</span>
+        <span class="count">0</span>
+      </a>
+    </div>
+  </nav>
+
+  <div class="hero-content">
+    <p class="hero-rubric" id="hero-rubric"></p>
+    <h1 class="hero-title" id="hero-title"></h1>
+    <p class="hero-dek" id="hero-dek"></p>
+    <div class="hero-status" id="hero-status" hidden>
+      <span class="dot"></span>
+      <span class="hero-status-text"></span>
+    </div>
+    <div class="hero-actions">
+      <a class="listen-pill" id="hero-listen-btn" href="#/day/today" hidden>
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4L20 12L6 20V4Z"/></svg>
+        <span id="hero-listen-label"></span>
+      </a>
+      <a class="link-arrow" id="hero-day-link" href="#/day/today">
+        Read today&rsquo;s Gospel &amp; Epistle
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M5 12H19M13 6L19 12L13 18" stroke="currentColor" stroke-width="1.8"/></svg>
+      </a>
+    </div>
+  </div>
+</header>
+
+<!-- ================= LITURGICAL STRIP ================= -->
+<section class="liturgical-strip" aria-label="Today in the Church">
+  <a class="strip-item strip-item--link" href="#/day/today">
+    <span class="strip-live-dot"></span>
+    <span class="strip-label">Today</span>
+    <span class="strip-text" id="strip-today-text">Feasts and readings, kept in season.</span>
+  </a>
+  <div class="strip-item" id="strip-readings-item" hidden>
+    <span class="strip-text" id="strip-readings"></span>
+  </div>
+  <div class="strip-ahead" id="strip-ahead" hidden></div>
+</section>
+
+<main>
+
+  <!-- ================= TODAY'S HOMILY ================= -->
+  <section class="home-section" id="todays-homily" hidden>
+    <p class="home-eyebrow">Today&rsquo;s Reading, Today&rsquo;s Homily</p>
+    <h2 class="home-section-title" id="feature-section-title"></h2>
+    <p class="home-section-desc" id="feature-section-desc"></p>
+    <div class="feature-block">
+      <div class="feature-media" id="feature-media"></div>
+      <div class="feature-body">
+        <div class="feature-chips" id="feature-chips"></div>
+        <h3 class="feature-title" id="feature-title"></h3>
+        <div class="feature-byline" id="feature-byline"></div>
+        <div class="feature-scripture" id="feature-scripture" hidden></div>
+        <a class="listen-pill" id="feature-listen" href="#">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4L20 12L6 20V4Z"/></svg>
+          <span id="feature-listen-label">Listen</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= LETTERS SENT SPOTLIGHT ================= -->
+  <section class="home-section" id="letters-spotlight">
+    <p class="home-eyebrow">From the Library</p>
+    <h2 class="home-section-title">The Letters Sent</h2>
+    <p class="home-section-desc">A book still being made, one letter at a time.</p>
+    <div class="spotlight-row">
+      <a class="spotlight-card" id="spotlight-card" href="#/book/st-tikhon-of-zadonsk/the-letters-sent">
+        <img id="spotlight-img" src="../assets/tikhon-letters-cover-web.jpg" alt="The Letters Sent — St Tikhon of Zadonsk">
+        <div class="spotlight-scrim"></div>
+        <div class="spotlight-cap">
+          <span class="spotlight-tag">The Letters Sent</span>
+          <h3>St Tikhon of Zadonsk</h3>
+          <p id="spotlight-cap-meta"></p>
+        </div>
+      </a>
+      <div class="spotlight-text">
+        <p class="home-eyebrow">First English Translation</p>
+        <h2 id="spotlight-headline"></h2>
+        <p>St Tikhon&rsquo;s letters to the household of a Russian nobleman, rendered into English for the first time &mdash; counsel on prayer, patience, and the examined life, one letter at a sitting.</p>
+        <a class="link-arrow" id="spotlight-continue" href="#/book/st-tikhon-of-zadonsk/the-letters-sent">
+          Continue reading
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M5 12H19M13 6L19 12L13 18" stroke="currentColor" stroke-width="1.8"/></svg>
+        </a>
+      </div>
+      <a class="secondary-card" id="spotlight-secondary" href="#" hidden></a>
+    </div>
+  </section>
+
+  <!-- ================= THE CHURCH YEAR ================= -->
+  <section class="shelf home-section" id="church-year">
+    <p class="home-eyebrow">Browse the Shelves</p>
+    <h2 class="home-section-title">The Church Year</h2>
+    <p class="home-section-desc">Homilies for the feasts, kept in their season &mdash; the Afterfeast of the Transfiguration this week, the Dormition ahead.</p>
+    <div class="shelf-row" id="church-year-row"></div>
+  </section>
+
+  <!-- ================= SPIRITUAL TOPICS ================= -->
+  <section class="shelf home-section" id="spiritual-topics">
+    <p class="home-eyebrow">Browse the Shelves</p>
+    <h2 class="home-section-title">Spiritual Topics</h2>
+    <p class="home-section-desc">Beyond the calendar &mdash; on prayer, on trial, on the wisdom of God, theme by theme.</p>
+    <div class="topic-row" id="spiritual-topics-row"></div>
+  </section>
+
+  <!-- ================= LIVES OF THE SAINTS ================= -->
+  <section class="shelf home-section" id="lives-of-saints">
+    <p class="home-eyebrow">Browse the Shelves</p>
+    <h2 class="home-section-title">Lives of the Saints</h2>
+    <p class="home-section-desc">Long lives, read a chapter at a time. Now serialising: St Andrew the Fool.</p>
+    <div class="shelf-row" id="lives-of-saints-row"></div>
+  </section>
+
+  <!-- ================= MY BOOKLET ================= -->
+  <section class="booklet-section" id="booklet">
+    <div class="booklet-panel">
+      <div class="booklet-cover">
+        <img src="../assets/christ-medallion.jpg" alt="">
+      </div>
+      <div class="booklet-text">
+        <span class="home-eyebrow">My Booklet</span>
+        <h2>0 homilies, ready to print</h2>
+        <p class="body">Collect the homilies you return to, and print them as a booklet &mdash; a cover, a contents page, and the texts you&rsquo;ve chosen, ready to hold.</p>
+      </div>
+      <button class="btn-print" disabled aria-disabled="true">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><path d="M6 9V3H18V9M6 18H4C3 18 2 17 2 16V11C2 10 3 9 4 9H20C21 9 22 10 22 11V16C22 17 21 18 20 18H18M6 14H18V21H6V14Z" stroke="currentColor" stroke-width="1.6"/></svg>
+        Print Booklet
+      </button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-word">
+    <svg class="cross" width="12" height="15" viewBox="0 0 14 18" fill="none"><path d="M7 0V18M2.5 5H11.5M0 8.5H14M4.5 15.5H9.5" stroke="currentColor" stroke-width="1.4"/></svg>
+    <span>Orthodox Homilies</span>
+  </div>
+  <div class="footer-tag">The Greek Fathers, in a clear English voice.</div>
+</footer>
+
+</div>
+
+<div id="view-reader" hidden></div>
+<div id="view-tree" hidden></div>
+<div id="view-browse" hidden></div>
+<div id="view-shelf" hidden></div>
+<div id="view-collection" hidden></div>
+<div id="view-books" hidden></div>
+<div id="view-father" hidden></div>
+<div id="view-feast-scripture" hidden></div>
+<div id="view-booklet" hidden></div>
+<div id="view-credits" hidden></div>
+<div id="view-day" hidden></div>
+
+</div><!-- /.page -->
+
+<script type="module" src="js/router.js"></script>
+</body>
+</html>

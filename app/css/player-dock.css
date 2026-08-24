@@ -1,0 +1,167 @@
+/* ---------------------------------------------------------------------
+   player-dock.css — the persistent mini bar + full-screen player
+   (js/player-dock.js) backed by the engine (js/player-core.js). Phone-first:
+   below 768px the mini bar sits flush ABOVE the mobile tab bar (sidebar.css's
+   --tabbar-h, same 768px breakpoint); on desktop it is a compact floating
+   card bottom-right, clear of the sidebar rail. Reuses base.css/player.css
+   tokens (--bg-soft-rgb, --accent, --hair-strong, --ink-dim…) and the
+   player-bar look — no new palette.
+--------------------------------------------------------------------- */
+
+:root{ --pdk-mini-h:56px; }
+
+/* ---------- room so content never hides behind the mini bar ---------- */
+body.has-player-dock{padding-bottom:calc(var(--pdk-mini-h) + 16px);}
+
+/* ---------- mini bar ---------- */
+.pdk-mini{
+  position:fixed;right:20px;bottom:20px;z-index:45;
+  width:320px;max-width:calc(100vw - 40px);
+  display:flex;align-items:center;gap:12px;
+  padding:10px 12px;
+  background:rgba(var(--bg-soft-rgb),.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border:1px solid var(--hair-strong);border-radius:14px;
+  box-shadow:0 6px 24px rgba(0,0,0,.28);
+  cursor:pointer;
+}
+/* display:flex above would override the hidden attribute's display:none —
+   without these guards the hidden bars still intercept clicks. */
+.pdk-mini[hidden],.pdk-full[hidden]{display:none;}
+
+/* While a reading page's own in-page bar is also up (a DIFFERENT item
+   playing in the engine), float the card above that bar instead of
+   overlapping it. */
+body.has-audio-player .pdk-mini{bottom:96px;}
+
+/* Hairline progress along the top edge. */
+.pdk-mini-progress{
+  position:absolute;left:10px;right:10px;top:0;height:2px;border-radius:1px;
+  background:var(--hair-strong);overflow:hidden;
+}
+.pdk-mini-progress-fill{height:100%;width:0%;background:var(--accent);}
+
+.pdk-mini-cover{
+  flex:none;width:38px;height:38px;border-radius:8px;overflow:hidden;
+  background:var(--bg-card);border:1px solid var(--hair);
+}
+.pdk-mini-cover img{width:100%;height:100%;object-fit:cover;display:block;}
+
+.pdk-mini-text{flex:1 1 auto;min-width:0;}
+.pdk-mini-title{
+  font-size:13.5px;font-weight:600;color:var(--ink);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.pdk-mini-father{
+  font-size:11.5px;color:var(--ink-dim);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+
+.pdk-mini-play{
+  flex:none;width:36px;height:36px;border-radius:50%;
+  background:var(--accent);color:var(--accent-ink);
+  display:flex;align-items:center;justify-content:center;
+}
+.pdk-mini-play svg{width:15px;height:15px;}
+
+/* ---------- phone: flush full-width bar above the tab bar ---------- */
+@media (max-width:768px){
+  /* .page already reserves the tab bar's height on mobile; the dock needs
+     its own slice on top of that. */
+  body.has-player-dock{padding-bottom:calc(var(--tabbar-h) + var(--pdk-mini-h));}
+  /* In-page player bar (a different item) + dock: the dock stacks above
+     the in-page bar, which itself sits above the tab bar. */
+  body.has-player-dock.has-audio-player{padding-bottom:calc(var(--tabbar-h) + var(--pdk-mini-h) + 76px);}
+  .pdk-mini{
+    left:0;right:0;bottom:var(--tabbar-h);
+    width:auto;max-width:none;border-radius:0;
+    border-left:none;border-right:none;border-bottom:none;
+    box-shadow:none;
+    padding:8px 14px calc(8px + env(safe-area-inset-bottom) * 0);
+  }
+  body.has-audio-player .pdk-mini{bottom:calc(var(--tabbar-h) + 64px);}
+}
+
+/* ---------- full-screen overlay ---------- */
+.pdk-full{
+  position:fixed;inset:0;z-index:80;
+  background:rgba(var(--bg-soft-rgb),.97);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  display:flex;align-items:center;justify-content:center;
+  padding:20px;
+}
+.pdk-full-panel{
+  position:relative;width:100%;max-width:420px;
+  display:flex;flex-direction:column;align-items:stretch;gap:14px;
+  padding:28px 24px calc(24px + env(safe-area-inset-bottom));
+}
+
+.pdk-full-close{
+  position:absolute;top:4px;right:4px;width:40px;height:40px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;color:var(--ink-dim);
+}
+.pdk-full-close:hover{color:var(--ink);background:var(--bg-card);}
+.pdk-full-close svg{width:20px;height:20px;}
+
+.pdk-full-cover{
+  width:min(62vw,240px);aspect-ratio:1;align-self:center;
+  border-radius:16px;overflow:hidden;
+  background:var(--bg-card);border:1px solid var(--hair);
+  box-shadow:0 10px 34px rgba(0,0,0,.32);
+}
+.pdk-full-cover img{width:100%;height:100%;object-fit:cover;display:block;}
+
+.pdk-full-title{
+  font-size:19px;font-weight:700;color:var(--ink-heading);text-align:center;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.pdk-full-father{font-size:14px;color:var(--ink-dim);text-align:center;}
+
+.pdk-full-scrub-wrap{display:flex;flex-direction:column;gap:4px;margin-top:4px;}
+.pdk-scrub{position:relative;height:24px;display:flex;align-items:center;cursor:pointer;}
+.pdk-scrub::before{
+  content:'';position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);
+  height:4px;border-radius:2px;background:var(--hair-strong);
+}
+.pdk-scrub-fill{
+  position:absolute;left:0;top:50%;transform:translateY(-50%);
+  height:4px;border-radius:2px;background:var(--accent);width:0%;pointer-events:none;
+}
+.pdk-scrub-thumb{
+  position:absolute;top:50%;left:0%;width:13px;height:13px;border-radius:50%;
+  background:var(--accent-ink);border:2px solid var(--accent);
+  transform:translate(-50%,-50%);pointer-events:none;
+}
+.pdk-full-times{
+  display:flex;justify-content:space-between;
+  font-size:11.5px;color:var(--ink-dim);font-variant-numeric:tabular-nums;
+}
+
+.pdk-full-controls{
+  display:flex;align-items:center;justify-content:center;gap:28px;margin-top:6px;
+}
+.pdk-skip{
+  width:44px;height:44px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  color:var(--ink-dim);font-size:12px;font-weight:700;
+  border:1px solid var(--hair-strong);
+}
+.pdk-skip:hover{color:var(--ink);}
+.pdk-full-play{
+  width:64px;height:64px;border-radius:50%;
+  background:var(--accent);color:var(--accent-ink);
+  display:flex;align-items:center;justify-content:center;
+}
+.pdk-full-play svg{width:26px;height:26px;}
+
+.pdk-full-extras{
+  display:flex;align-items:center;justify-content:center;gap:12px;margin-top:8px;
+}
+.pdk-speed{
+  font-size:13px;font-weight:700;color:var(--ink-dim);
+  border:1px solid var(--hair-strong);border-radius:16px;padding:7px 12px;
+}
+.pdk-speed:hover{color:var(--ink);}
+.pdk-readalong{
+  font-size:13px;font-weight:600;color:var(--accent);
+  border:1px solid var(--accent);border-radius:16px;padding:7px 14px;
+}
+.pdk-readalong:hover{background:rgba(var(--accent-rgb),.12);}

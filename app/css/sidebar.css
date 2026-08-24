@@ -1,0 +1,203 @@
+/* ---------------------------------------------------------------------
+   sidebar.css — the one persistent-nav component (js/sidebar.js) and the
+   .page shell it pushes content inside of. Ported from design/proposed/
+   sidebar-home.html (collapsed, 64px) and sidebar-browse.html (expanded,
+   272px) — same DOM in both states, <html> carries a sidebar-collapsed or
+   sidebar-expanded class (set before first paint by index.html's pre-paint
+   script, kept in sync by js/sidebar.js afterwards) and CSS alone decides
+   what shows. Below 768px the sidebar is replaced entirely by the fixed
+   bottom .tabbar — see the design decision in SPEC-REBUILD.md / the
+   coder's report for why a tab bar and not a hamburger or a persistent
+   rail. Tokens/resets live in base.css; nothing here is a new colour, only
+   the two layout constants (rail/panel width) a shared nav component
+   inherently needs and base.css has no reason to carry.
+--------------------------------------------------------------------- */
+
+:root{
+  --sb-w-collapsed:64px;
+  /* 296px, not the original 272px: at 272px the longest BROWSE category
+     label ("Scripture Commentaries") truncated to "Scripture Commen…"
+     (confirmed via scrollWidth > clientWidth in a headless check). 24px
+     more clears it with a small buffer; every shorter label is unaffected. */
+  --sb-w-expanded:296px;
+  --tabbar-h:60px;
+}
+
+/* ---------- PAGE SHELL — everything sits right of the sidebar ---------- */
+.page{margin-left:var(--sb-w-collapsed);transition:margin-left .15s ease;}
+html.sidebar-expanded .page{margin-left:var(--sb-w-expanded);}
+
+/* ---------- SIDEBAR ---------- */
+.sidebar{
+  position:fixed;top:0;left:0;bottom:0;z-index:50;
+  width:var(--sb-w-collapsed);
+  background:var(--bg-soft);border-right:1px solid var(--hair);
+  display:flex;flex-direction:column;align-items:stretch;
+  overflow-x:hidden;overflow-y:auto;
+  transition:width .15s ease;
+}
+html.sidebar-expanded .sidebar{width:var(--sb-w-expanded);}
+
+.sb-top{height:64px;display:flex;align-items:center;flex:none;}
+html.sidebar-collapsed .sb-top{flex-direction:column;justify-content:center;padding:0;gap:0;}
+html.sidebar-expanded .sb-top{flex-direction:row;padding:0 14px 0 22px;gap:10px;}
+
+.sb-mark{display:flex;align-items:center;justify-content:center;color:var(--paper);flex:none;}
+html.sidebar-collapsed .sb-mark{width:64px;height:64px;}
+
+.sb-wordmark{
+  display:none;
+  /* 11.5px/.09em: "ORTHODOX HOMILIES" must fit whole inside the 272px
+     expanded panel next to the cross + toggle — at 13px/.14em it truncated
+     to "ORTHODOX HOMILI…" (confirmed by screenshot). Collapsed rail and
+     tab bar never render this element, so this affects the panel only. */
+  font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;font-weight:600;color:var(--ink);
+  flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  text-decoration:none;
+}
+html.sidebar-expanded .sb-wordmark{display:block;}
+
+.sb-toggle{
+  flex:none;width:30px;height:30px;border-radius:8px;
+  display:flex;align-items:center;justify-content:center;color:var(--ink-dim);
+}
+.sb-toggle:hover{background:var(--bg-card);color:var(--ink);}
+html.sidebar-collapsed .sb-toggle{margin:2px auto 6px;}
+
+.sb-toggle .sb-toggle-icon-collapse{display:none;}
+html.sidebar-expanded .sb-toggle .sb-toggle-icon-expand{display:none;}
+html.sidebar-expanded .sb-toggle .sb-toggle-icon-collapse{display:block;}
+
+.sb-divider{height:1px;background:var(--hair);margin:8px 12px;flex:none;}
+html.sidebar-expanded .sb-divider{margin:8px 14px;}
+
+.sb-nav{display:flex;flex-direction:column;flex:none;}
+.sb-item{
+  position:relative;height:44px;display:flex;align-items:center;color:var(--ink-dim);
+}
+html.sidebar-collapsed .sb-item{justify-content:center;padding:0;gap:0;}
+html.sidebar-expanded .sb-item{justify-content:flex-start;padding:0 14px 0 22px;gap:13px;}
+.sb-item:hover{background:var(--bg-card);color:var(--ink);}
+.sb-item svg{flex:none;}
+
+.sb-label,.sb-count{display:none;white-space:nowrap;}
+html.sidebar-expanded .sb-label{display:block;font-size:15px;font-weight:500;color:var(--ink);flex:1;overflow:hidden;text-overflow:ellipsis;}
+html.sidebar-expanded .sb-count{display:block;font-size:13px;color:var(--ink-faint);font-variant-numeric:tabular-nums;}
+
+.sb-item.active{background:var(--bg-card);color:var(--accent);}
+.sb-item.active::before{
+  content:"";position:absolute;left:0;top:8px;bottom:8px;width:3px;
+  border-radius:0 2px 2px 0;background:var(--accent);
+}
+.sb-item.active .sb-label{color:var(--ink);font-weight:650;}
+
+.sb-spacer{flex:1;}
+
+/* ---------- section labels + expandable BROWSE groups (SPEC-TREE.md) ----------
+   The tree nav groups (THIS DAY / BROWSE / FIND BY) and the per-category
+   disclosure carets are meaningful only in the expanded panel — the
+   collapsed rail keeps the plain icon rows, same as before. */
+.sb-section{
+  display:none;
+  font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-faint);padding:10px 22px 6px;
+}
+html.sidebar-expanded .sb-section{display:block;}
+
+.sb-cat-row{position:relative;display:flex;align-items:center;}
+.sb-cat-row .sb-item{flex:1;min-width:0;}
+.sb-caret{
+  display:none;
+  position:absolute;right:8px;top:50%;transform:translateY(-50%);
+  width:28px;height:28px;border-radius:7px;
+  align-items:center;justify-content:center;color:var(--ink-faint);
+}
+.sb-caret:hover{background:var(--bg-card);color:var(--ink);}
+.sb-caret svg{transition:transform .15s ease;}
+.sb-cat.open .sb-caret svg{transform:rotate(90deg);}
+html.sidebar-expanded .sb-caret{display:flex;}
+/* Keep the row's count clear of the caret. */
+html.sidebar-expanded .sb-cat-row .sb-item{padding-right:40px;}
+
+.sb-sub-list{display:none;flex-direction:column;}
+html.sidebar-expanded .sb-cat.open .sb-sub-list{display:flex;}
+.sb-sub{
+  position:relative;
+  display:flex;align-items:center;gap:8px;
+  padding:7px 40px 7px 55px;
+  font-size:13.5px;color:var(--ink-dim);text-decoration:none;
+}
+.sb-sub:hover{background:var(--bg-card);color:var(--ink);}
+.sb-sub-label{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.sb-sub-count{font-size:12px;color:var(--ink-faint);font-variant-numeric:tabular-nums;}
+.sb-sub.active{color:var(--ink);font-weight:600;}
+.sb-sub.active::before{
+  content:"";position:absolute;left:0;top:6px;bottom:6px;width:3px;
+  border-radius:0 2px 2px 0;background:var(--accent);
+}
+
+/* ---------- WORDMARK-DUPLICATE FIX ----------
+   When the sidebar is expanded (desktop only — below 768px the sidebar is
+   replaced by the tab bar, so the header nav's wordmark is the only place
+   carrying it and must stay), the sidebar's own .sb-wordmark already says
+   "Orthodox Homilies" — hide the duplicate text in the page header nav's
+   .wordmark (base.css), keeping its cross icon and every other nav
+   control untouched. */
+@media (min-width:769px){
+  html.sidebar-expanded .wordmark span{display:none;}
+}
+
+/* ---------- TAB BAR (phone, <768px) — hidden by default ---------- */
+.tabbar{
+  display:none;
+  position:fixed;left:0;right:0;bottom:0;z-index:55;
+  height:var(--tabbar-h);
+  align-items:stretch;justify-content:space-around;
+  background:rgba(var(--bg-soft-rgb),.96);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border-top:1px solid var(--hair-strong);
+  padding-bottom:env(safe-area-inset-bottom);
+}
+.tab-item{
+  position:relative;flex:1;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+  color:var(--ink-dim);
+}
+.tab-item svg{flex:none;}
+.tab-label{font-size:10.5px;font-weight:600;letter-spacing:.01em;}
+.tab-item.active{color:var(--accent);}
+.tab-badge{
+  position:absolute;top:2px;left:calc(50% + 6px);
+  background:var(--accent);color:var(--accent-ink);
+  min-width:15px;height:15px;padding:0 3px;border-radius:50%;
+  font-size:9.5px;font-weight:700;display:flex;align-items:center;justify-content:center;
+}
+
+/* ---------- placeholder page shell — js/browse.js + js/shelves.js stubs,
+   Stage 2 replaces these bodies with real catalogue/shelf/father/feast/
+   scripture pages; this is only enough padding/type to read as a page,
+   not a design. ---------- */
+.stub-page{padding:48px 64px 64px;}
+.stub-title{font-size:44px;font-weight:750;letter-spacing:-.01em;margin-top:8px;color:var(--ink-heading);}
+.stub-desc{font-size:15px;color:var(--ink-dim);margin-top:12px;max-width:640px;line-height:1.5;}
+.stub-list{margin-top:28px;border-top:1px solid var(--hair);max-width:720px;}
+.stub-list li{padding:12px 4px;border-bottom:1px solid var(--hair);font-size:15px;}
+.stub-list a{color:var(--ink);font-weight:500;}
+.stub-list a:hover{color:var(--accent);}
+.stub-list-meta{color:var(--ink-faint);font-size:13px;}
+
+/* =======================================================================
+   PHONE (<768px) — sidebar off, tab bar on, .page flush to the viewport
+   edge, and room reserved at the bottom for the tab bar (and, if an audio
+   player is also mounted on a narrated reading page, for that too — see
+   player.css's body.has-audio-player; the two fixed bars stack rather than
+   overlap).
+======================================================================= */
+@media (max-width:768px){
+  .sidebar{display:none;}
+  .tabbar{display:flex;}
+  html.sidebar-collapsed .page,
+  html.sidebar-expanded .page{margin-left:0;padding-bottom:var(--tabbar-h);}
+  body.has-audio-player .player-bar{bottom:var(--tabbar-h);}
+  .stub-page{padding:32px 20px 48px;}
+  .stub-title{font-size:30px;}
+}

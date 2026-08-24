@@ -1,0 +1,181 @@
+/* ---------------------------------------------------------------------
+   browse.css — the #/browse dense sortable catalogue list (js/browse.js).
+   Ported from the approved mockup design/proposed/sidebar-browse.html —
+   its local :root token block was dropped (base.css already provides the
+   same tokens, both themes) and only the filter-bar / list rules kept.
+   Shared catalogue-page chrome (.cat-page head, cover grid, index cards)
+   lives in shelves.css; tokens/resets in base.css.
+--------------------------------------------------------------------- */
+
+/* ---------- FILTER + SORT BAR ---------- */
+.filter-bar-wrap{padding:0 64px 26px;}
+.filter-bar{
+  display:flex;flex-wrap:wrap;align-items:flex-end;gap:22px 26px;
+  background:var(--bg-soft);border:1px solid var(--hair);border-radius:14px;
+  padding:20px 24px;
+}
+.filter-group{display:flex;flex-direction:column;gap:9px;}
+.filter-label{
+  font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);font-weight:700;
+}
+.filter-pills{display:flex;flex-wrap:wrap;gap:8px;}
+.filter-pill{
+  font-size:13px;font-weight:500;color:var(--ink-dim);
+  padding:8px 15px;border-radius:20px;border:1px solid var(--hair-strong);
+  background:transparent;white-space:nowrap;
+}
+.filter-pill.active{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:650;}
+
+.filter-select{
+  appearance:none;-webkit-appearance:none;-moz-appearance:none;
+  font-size:13px;color:var(--ink);
+  background:var(--bg-card) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a89f8f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6,9 12,15 18,9'/%3E%3C/svg%3E") no-repeat right 12px center / 11px;
+  border:1px solid var(--hair-strong);border-radius:8px;
+  padding:10px 34px 10px 14px;min-width:200px;
+}
+:root[data-theme="light"] .filter-select{
+  background:var(--bg-card) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236d6252' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6,9 12,15 18,9'/%3E%3C/svg%3E") no-repeat right 12px center / 11px;
+}
+.filter-toggle{
+  display:flex;align-items:center;gap:9px;font-size:13px;color:var(--ink-dim);
+  padding:9.5px 14px;border:1px solid var(--hair-strong);border-radius:8px;background:transparent;
+  cursor:pointer;
+}
+.filter-toggle input{accent-color:var(--accent);width:15px;height:15px;}
+.filter-group.sort-group{margin-left:auto;}
+
+/* ---------- CATALOGUE LIST ---------- */
+/* Opaque: a photo hero's box-shadow paints OUTSIDE its own border box (its
+   own overflow:hidden can't clip that), so without a solid fill here it
+   bleeds a soft wash over the first rows below a .coll-hero (js/collections.js,
+   js/books.js). Same colour as the page itself, so every other page that
+   opens straight on this list (browse/father/feast/scripture, no hero above)
+   looks exactly as before. */
+.list-section{padding:4px 64px 56px;background:var(--bg);}
+.list{border-top:1px solid var(--hair);}
+.list-head,.list-row{
+  display:grid;
+  grid-template-columns:40px minmax(0,1.9fr) minmax(0,1.1fr) 150px 76px 44px;
+  gap:18px;align-items:center;
+}
+.list-head{padding:10px 12px 12px;}
+.col-label{
+  display:inline-flex;align-items:center;gap:5px;padding:0;text-align:left;
+  font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-faint);font-weight:700;
+}
+button.col-label{cursor:pointer;}
+button.col-label:hover{color:var(--ink-dim);}
+.col-label .caret{color:var(--accent);}
+.col-label.sorted{color:var(--ink-dim);}
+.list-row{
+  padding:10px 12px;border-top:1px solid var(--hair);border-radius:6px;
+  cursor:pointer;
+}
+.list-row:hover{background:var(--bg-card);}
+.thumb{
+  width:40px;height:40px;border-radius:6px;overflow:hidden;flex:none;
+  border:1px solid var(--hair);background:var(--bg-card);
+  display:flex;align-items:center;justify-content:center;color:var(--ink-faint);
+}
+.thumb img{width:100%;height:100%;object-fit:cover;}
+.cell-title{min-width:0;}
+.row-title{
+  font-family:var(--serif);font-size:16.5px;line-height:1.25;color:var(--ink);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.row-sub{
+  font-size:12px;color:var(--ink-faint);margin-top:3px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.cell-father{font-size:13px;color:var(--ink-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.cell-father .dash{color:var(--ink-faint);}
+.tag{
+  display:inline-block;font-size:10.5px;letter-spacing:.08em;font-weight:700;
+  text-transform:uppercase;color:var(--ink-dim);
+  border:1px solid var(--hair-strong);border-radius:4px;padding:4px 8px;
+  white-space:nowrap;
+}
+.tag.feast{color:var(--paper);border-color:rgba(var(--ink-rgb),.25);background:rgba(var(--scrim-rgb),.4);}
+:root[data-theme="light"] .tag.feast{color:var(--ink);border-color:var(--hair-strong);background:rgba(var(--ink-rgb),.06);}
+.cell-len{font-size:13px;color:var(--ink-dim);font-variant-numeric:tabular-nums;white-space:nowrap;}
+.row-add{
+  width:28px;height:28px;border-radius:50%;justify-self:end;
+  background:rgba(var(--scrim-rgb),.5);border:1px solid rgba(var(--ink-rgb),.3);
+  display:flex;align-items:center;justify-content:center;color:var(--ink);
+}
+:root[data-theme="light"] .row-add{background:rgba(var(--ink-rgb),.05);}
+.row-add:hover{border-color:var(--ink);}
+.list-empty{padding:28px 12px;font-size:14px;color:var(--ink-faint);}
+
+/* =======================================================================
+   PHONE (<768px) — the six-column grid can't fit; drop the thumbnail and
+   the dedicated Father/Feast columns (that info stays visible in the
+   row's own subtitle/tag context), keep title + length + add. Filter bar
+   stacks full-width, page gutters match home.css's 20px phone padding.
+======================================================================= */
+@media (max-width:768px){
+  .filter-bar-wrap{padding:0 20px 18px;}
+  .filter-bar{padding:16px;gap:16px 18px;}
+  .filter-group{width:100%;}
+  .filter-group.sort-group{margin-left:0;}
+  .filter-select{min-width:0;width:100%;}
+
+  .list-section{padding:4px 20px 40px;}
+  .list-head,.list-row{
+    grid-template-columns:minmax(0,1fr) 84px 36px;
+    gap:12px;
+  }
+  .list-row{padding:12px 6px;}
+  .list-head{padding:10px 6px 10px;}
+  .list-head > :nth-child(1),
+  .list-head > :nth-child(3),
+  .list-head > :nth-child(4),
+  .list-row .thumb,
+  .list-row .cell-father,
+  .list-row .cell-tag{display:none;}
+  .row-title{font-size:15px;}
+  .cell-len{font-size:12px;}
+}
+
+/* ---------- MY BOOKLET page (#/booklet) ---------- */
+/* Reuses the .list/.list-row look above; the row here is a <div> (its
+   title is the link) with move/remove controls instead of an add button. */
+.row-add.added{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);}
+.booklet-row{
+  grid-template-columns:40px minmax(0,1.9fr) minmax(0,1.1fr) 76px 108px;
+  cursor:default;
+}
+.row-title-link{
+  font-family:var(--serif);font-size:16.5px;line-height:1.25;color:var(--ink);
+  display:block;
+}
+.row-title-link:hover{color:var(--accent);}
+.booklet-row-controls{display:flex;gap:6px;justify-self:end;}
+.booklet-ctl{
+  width:28px;height:28px;border-radius:50%;
+  background:rgba(var(--scrim-rgb),.5);border:1px solid rgba(var(--ink-rgb),.3);
+  display:flex;align-items:center;justify-content:center;color:var(--ink);
+}
+:root[data-theme="light"] .booklet-ctl{background:rgba(var(--ink-rgb),.05);}
+.booklet-ctl:hover{border-color:var(--ink);}
+.booklet-ctl:disabled{opacity:.35;cursor:default;}
+.booklet-ctl:disabled:hover{border-color:rgba(var(--ink-rgb),.3);}
+.booklet-ctl-remove:hover{border-color:var(--accent);color:var(--accent);}
+.booklet-total{padding:18px 12px 0;font-size:14px;color:var(--ink-dim);}
+.booklet-body .list{margin-top:10px;}
+.booklet-body{padding:4px 64px 56px;}
+.booklet-page-actions{display:flex;align-items:center;gap:24px;margin-top:26px;padding:0 12px;}
+.booklet-clear{
+  font-size:14px;color:var(--ink-dim);text-decoration:underline;
+  text-underline-offset:3px;
+}
+.booklet-clear:hover{color:var(--accent);}
+
+@media (max-width:767px){
+  .booklet-body{padding:4px 20px 40px;}
+  .booklet-row{grid-template-columns:minmax(0,1fr) 76px 108px;}
+  .booklet-row .thumb,
+  .booklet-row .cell-father{display:none;}
+  .row-title-link{font-size:15px;}
+}

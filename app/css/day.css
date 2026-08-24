@@ -1,0 +1,212 @@
+/* ---------------------------------------------------------------------
+   day.css — the Daily Readings page (#/day/YYYY-MM-DD, js/day.js).
+   The page opens with a full-width hero band (the day's own mosaic cover
+   under the shared hero scrims, or the fallback vignette when the day has
+   no cover), carrying the prev/next nav, the date heading, the feast
+   titles and the fast chip — the same world as the home hero (home.css).
+   Below it, the body is one typographic flow — no cards: a quiet
+   "Commemorated:" line and an inline "Read the Lives" link, then the
+   primary readings under "At the Liturgy" (large serif references with
+   their Chrysostom homily notes), and only on major feasts a quieter
+   "Also Appointed" list of the Vespers/Matins lections. Groups are
+   separated by hair rules only. Tokens in base.css; on-band text uses
+   the ink-image family, never --ink, so the light theme needs no extra
+   work.
+--------------------------------------------------------------------- */
+
+/* ---------- HERO BAND ---------- */
+.day-hero{position:relative;height:320px;overflow:hidden;box-shadow:var(--hero-shadow);}
+.day-hero-img{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  object-position:50% 30%;
+}
+.day-hero-scrim{
+  position:absolute;inset:0;
+  background:
+    linear-gradient(90deg, rgba(var(--hero-scrim-h-rgb),.66) 0%, rgba(var(--hero-scrim-h-rgb),.38) 34%, rgba(var(--hero-scrim-h-rgb),.08) 58%, rgba(var(--hero-scrim-h-rgb),0) 70%),
+    linear-gradient(180deg, rgba(var(--hero-scrim-v-rgb),.42) 0%, rgba(var(--hero-scrim-v-rgb),.06) 30%, rgba(var(--hero-scrim-v-rgb),.02) 48%, rgba(var(--hero-scrim-v-rgb),.62) 78%, rgba(var(--cover-scrim-end-rgb),.95) 100%);
+}
+/* no cover: the same band as a quiet vignette, still dark enough that the
+   ink-image text family reads in both themes (the light theme keeps its
+   own dark-scrimmed strip here, like the home hero's fallback cards). */
+.day-hero--fallback{
+  background:linear-gradient(160deg, var(--fallback-vignette-1) 0%, var(--fallback-vignette-2) 100%);
+}
+.day-hero-inner{
+  position:relative;z-index:2;height:100%;
+  display:flex;flex-direction:column;
+  padding:26px 64px 38px;
+}
+
+.day-nav{display:flex;align-items:center;gap:14px;margin-bottom:auto;}
+.day-nav-arrow{
+  width:32px;height:32px;border-radius:50%;flex:none;
+  border:1px solid var(--hair-image-strong);color:var(--ink-image-dim);
+  display:flex;align-items:center;justify-content:center;
+  background:rgba(var(--scrim-rgb),.28);
+}
+.day-nav-arrow:hover{color:var(--ink-image);border-color:var(--ink-image);}
+.day-nav .eyebrow{color:var(--paper);}
+.day-today-link{
+  font-size:13px;font-weight:500;color:var(--ink-image-dim);
+  text-decoration:underline;text-underline-offset:3px;margin-left:4px;
+}
+.day-today-link:hover{color:var(--ink-image);}
+
+/* the small saint chip to the left of the date/title cluster — the day's own
+   medallion when its cover has one, else the abstract ICON_SAINT line icon
+   (never an AI face, never a guess). Same on-image chip treatment as
+   .day-nav-arrow: border + scrim background, so it reads as that row's
+   sibling rather than a floating image. */
+.day-hero-row{display:flex;align-items:flex-start;gap:16px;}
+.day-hero-saint{
+  width:48px;height:48px;border-radius:50%;flex:none;overflow:hidden;margin-top:2px;
+  border:1px solid var(--hair-image-strong);background:rgba(var(--scrim-rgb),.28);
+  display:flex;align-items:center;justify-content:center;
+}
+.day-hero-saint-img{width:100%;height:100%;object-fit:cover;}
+.day-hero-saint--icon{color:var(--ink-image-dim);}
+.day-hero-saint--icon svg{width:22px;height:22px;}
+
+.day-title{
+  font-weight:750;font-size:48px;line-height:1.06;letter-spacing:-.01em;
+  color:var(--ink-image);text-shadow:0 2px 24px rgba(var(--shadow-rgb),.35);
+}
+.day-feast-title{
+  font-family:var(--serif);font-size:23px;line-height:1.3;color:var(--ink-image);
+  margin-top:12px;max-width:680px;
+}
+.day-fast{
+  display:inline-flex;align-items:center;gap:8px;margin-top:16px;
+  font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;
+  color:var(--ink-image-dim);
+  border:1px solid var(--hair-image-strong);border-radius:20px;padding:6px 13px;
+  background:rgba(var(--scrim-rgb),.28);
+}
+.day-fast svg{width:14px;height:14px;flex:none;}
+
+/* ---------- BODY ---------- */
+/* The body is one flow: groups separated by hair rules only, no cards. */
+.day-body{padding:8px 64px 56px;}
+.day-group{max-width:680px;padding:26px 0 38px;border-top:1px solid var(--hair);}
+.day-group:first-child{border-top:none;padding-top:22px;}
+
+/* who the day commemorates — a quiet serif-italic line under the hero;
+   when the day has a cover, its round medallion stands at the line's left */
+.day-commem{display:flex;align-items:center;gap:16px;}
+.day-commem-img{
+  width:56px;height:56px;border-radius:50%;flex:none;object-fit:cover;
+  border:1px solid var(--hair-strong);
+}
+.day-saints{
+  font-family:var(--serif);font-style:italic;font-size:16px;
+  color:var(--ink-dim);line-height:1.55;
+}
+
+/* the inline "Read the Lives" link — the shared .link-arrow (base.css),
+   here just spaced from the commemorated line above it */
+.day-lives-link{margin-top:14px;}
+
+/* "At the Liturgy": the eyebrow is the shared base.css class (the body's
+   one use of --accent); each primary reading is a typographic block —
+   run-in label, large serif reference as the anchor, homily note below */
+.day-liturgy{margin-top:18px;}
+.day-liturgy-item{padding:22px 0;border-top:1px solid var(--hair);}
+.day-liturgy-item:first-child{border-top:none;padding-top:0;}
+.day-liturgy-item:last-child{padding-bottom:0;}
+/* a reading whose icon resolves gets the arched plate at its left and its
+   text in its own column; text-only readings keep the plain block above */
+.day-liturgy-item--with-icon{display:flex;gap:26px;align-items:flex-start;}
+.day-liturgy-icon{
+  width:118px;height:158px;flex:none;object-fit:cover;object-position:50% 12%;
+  border-radius:59px 59px 5px 5px;              /* the arch */
+  border:1px solid var(--hair-strong);
+  box-shadow:0 10px 28px rgba(var(--shadow-rgb),.45);
+  filter:saturate(.92);
+}
+.day-liturgy-text{padding-top:8px;}
+.day-liturgy-label{
+  display:block;
+  font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+  color:var(--ink-faint);
+}
+.day-liturgy-ref{
+  display:block;margin-top:6px;
+  font-family:var(--serif);font-size:22.5px;line-height:1.3;color:var(--ink);
+}
+
+/* "Also Appointed": the secondary Vespers/Matins lections — deliberately
+   quieter than the primary heading (plain faint label, no accent). One
+   compact flex row per reading: a small arched thumb when an icon
+   resolves, the fixed-width kind, then the serif ref. */
+.day-also-label{
+  font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+  color:var(--ink-faint);
+}
+.day-also{margin-top:16px;display:flex;flex-direction:column;gap:14px;}
+.day-also-item{display:flex;align-items:center;gap:16px;}
+.day-also-icon{
+  width:44px;height:58px;flex:none;object-fit:cover;object-position:50% 10%;
+  border-radius:22px 22px 3px 3px;
+  border:1px solid var(--hair);
+  filter:saturate(.85);
+}
+.day-also-kind{width:110px;flex:none;font-size:12.5px;color:var(--ink-dim);}
+.day-also-ref{font-family:var(--serif);font-size:16px;color:var(--ink);}
+
+/* the Chrysostom homily note under a reading — logic in js/day.js's
+   buildHomilyNote; here only the styling. */
+.day-homily{margin-top:9px;font-size:13.5px;line-height:1.5;}
+.day-homily-link{color:var(--ink);font-weight:500;border-bottom:1px solid var(--hair-strong);padding-bottom:1px;}
+.day-homily-link:hover{color:var(--accent);border-color:var(--accent);}
+.day-homily-external svg{display:inline-block;vertical-align:baseline;margin-left:2px;}
+.day-homily-src{color:var(--ink-faint);}
+.day-homily-none{color:var(--ink-faint);}
+
+/* the collapsed "Read the passage" disclosure under a reading — native
+   <details>/<summary>, styled with the same hair-rule separation as the
+   .day-liturgy-item entries around it; no card. */
+.day-passage{margin-top:14px;padding-top:14px;border-top:1px solid var(--hair);}
+.day-passage-summary{
+  display:flex;align-items:center;gap:8px;cursor:pointer;
+  font-size:13px;font-weight:600;color:var(--ink-dim);
+}
+.day-passage-summary svg{width:15px;height:15px;flex:none;color:var(--ink-faint);}
+.day-passage-summary:hover,
+.day-passage[open] .day-passage-summary{color:var(--ink);}
+.day-passage-body{margin-top:12px;display:flex;flex-direction:column;gap:10px;}
+.day-passage-verse{font-family:var(--serif);font-size:15px;line-height:1.6;color:var(--ink-dim);}
+
+/* graceful empty states: icon + faint text in a quiet bordered note */
+.day-empty-note{
+  display:flex;align-items:center;gap:10px;
+  font-size:14px;color:var(--ink-faint);
+  border:1px solid var(--hair);border-radius:10px;padding:16px 18px;
+}
+.day-empty-note svg{width:17px;height:17px;flex:none;}
+
+/* =======================================================================
+   PHONE (<768px) — same 20px gutters as the other pages; the band shrinks,
+   the date steps down, and the body's serif reference and group rhythm
+   tighten to match.
+======================================================================= */
+@media (max-width:768px){
+  .day-hero{height:250px;}
+  .day-hero-inner{padding:18px 20px 26px;}
+  .day-hero-row{gap:12px;}
+  .day-hero-saint{width:38px;height:38px;}
+  .day-hero-saint--icon svg{width:18px;height:18px;}
+  .day-title{font-size:32px;line-height:1.12;}
+  .day-feast-title{font-size:18px;margin-top:9px;}
+  .day-fast{margin-top:12px;}
+
+  .day-body{padding:4px 20px 40px;}
+  .day-group{padding:20px 0 30px;}
+  .day-saints{font-size:15px;}
+  .day-liturgy-item{padding:18px 0;}
+  .day-liturgy-item--with-icon{gap:16px;}
+  .day-liturgy-icon{width:96px;height:128px;border-radius:48px 48px 5px 5px;}
+  .day-liturgy-ref{font-size:19px;}
+  .day-homily{padding-left:0;}
+  .day-passage-verse{font-size:14.5px;}
+}
